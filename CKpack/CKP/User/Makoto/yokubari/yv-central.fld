@@ -1,0 +1,65 @@
+FIELD
+GND 34 52 72
+SKY 68 104 145
+RGN
+ARE -200000.000000 -200000.000000 200000.000000 200000.000000
+POS 0.00 0.00 0.00 0.00 0.00 0.00
+ID 0
+TAG "yokubari"
+END
+
+FLD
+FIL ground/ground.fld
+POS 0 0 0 0 0 0
+END
+
+FLD
+FIL central/central-airport.fld
+POS 22845.00 0.00 -37665.00 -0.00 0.00 -0.00
+END
+
+FLD
+FIL central/central.fld
+POS 31093.91 0.00 -27037.37 0.00 0.00 0.00
+END
+
+FLD
+FIL central/hill1.fld
+POS 19606.49 0.00 19373.68 0.00 0.00 0.00
+END
+
+FLD
+FIL central/hill2.fld
+POS 63684.56 -0.00 13917.33 3640.89 0.00 -0.00
+END
+
+FLD
+FIL central/mountain1.fld
+POS 41675.62 0.00 -55191.97 -15837.87 -0.00 0.00
+END
+
+FLD
+FIL central/mountain2.fld
+POS 131925.95 0.00 -91485.14 -9357.08 0.00 0.00
+END
+
+FLD
+FIL central/mountain3.fld
+POS 152000.00 0.00 -56000.00 0.00 0.00 0.00
+END
+
+FLD
+FIL central/mountain4.fld
+POS 159482.54 0.00 -65396.59 0.00 0.00 0.00
+END
+
+FLD
+FIL central/ness.fld
+POS -19148.05 0.00 40837.71 -7500.23 -0.00 0.00
+END
+
+FLD
+FIL canyon/mountain.fld
+POS -40612.50 0.00 -72937.50 5716.20 0.00 -0.00
+END
+

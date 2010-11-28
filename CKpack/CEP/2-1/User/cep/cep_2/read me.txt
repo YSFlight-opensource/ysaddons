@@ -1,0 +1,15 @@
+AH-1Z"リニューアルバージョン（可動機銃対応）"です。
+
+UserファイルをYSFlightディレクトリへ入れて下さい。
+次ぎに、airCEP2.lstに
+
+（前席用）
+User/cep/cep_2/ah-1z_f.dat User/cep/cep_2/ah-1z.dnm User/cep/cep_2/ah-1z_coll.srf User/cep/cep_2/ah-1z_cock.srf User/cep/cep_2/ah-1z_coarse.dnm
+（後席用）
+User/cep/cep_2/ah-1z_r.dat User/cep/cep_2/ah-1z.dnm User/cep/cep_2/ah-1z_coll.srf User/cep/cep_2/ah-1z_cock.srf User/cep/cep_2/ah-1z_coarse.dnm
+
+を加えて下さい。
+
+
+
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Takoyaki

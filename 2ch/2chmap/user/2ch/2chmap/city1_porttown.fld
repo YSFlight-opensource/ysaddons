@@ -1,0 +1,494 @@
+FIELD
+SKY 128 128 255
+GND 0 0 128
+PC2
+FIL city1_saitama.pc2
+POS 0.00 0.00 0.00 0 0 0
+END
+SRF
+FIL saitama.srf
+ID 0
+TAG ""
+POS 586.89 -0.05 134.08 16180 0 0
+END
+SRF
+FIL bill_basic1.srf
+ID 0
+TAG ""
+POS 753.59 0.00 256.73 0 0 0
+END
+SRF
+FIL bill_basic2.srf
+ID 0
+TAG ""
+POS 442.02 0.00 385.99 17202 0 0
+END
+SRF
+FIL bill_crane.srf
+ID 0
+TAG ""
+POS 296.18 0.00 321.91 0 0 0
+END
+SRF
+FIL bill_crane.srf
+ID 0
+TAG ""
+POS 671.71 0.00 267.75 -15768 0 0
+END
+SRF
+FIL bill_basic2.srf
+ID 0
+TAG ""
+POS 768.93 0.00 298.69 -2662 0 0
+END
+SRF
+FIL bill_basic2.srf
+ID 0
+TAG ""
+POS 544.77 0.00 377.16 3890 0 0
+END
+SRF
+FIL bill_basic2.srf
+ID 0
+TAG ""
+POS 478.48 0.00 306.44 17202 0 0
+END
+SRF
+FIL bill_basic2.srf
+ID 0
+TAG ""
+POS 657.46 0.00 337.38 -25806 0 0
+END
+SRF
+FIL bill_basic2.srf
+ID 0
+TAG ""
+POS 877.33 0.00 240.15 -7168 0 0
+END
+SRF
+FIL bill_basic2.srf
+ID 0
+TAG ""
+POS 834.24 0.00 145.14 17202 0 0
+END
+SRF
+FIL bill_basic1.srf
+ID 0
+TAG ""
+POS 782.31 0.00 170.55 0 0 0
+END
+SRF
+FIL bill_basic1.srf
+ID 0
+TAG ""
+POS 542.56 0.00 506.42 0 0 0
+END
+SRF
+FIL bill_basic1.srf
+ID 0
+TAG ""
+POS 588.96 0.00 388.20 0 0 0
+END
+SRF
+FIL bill_basic1.srf
+ID 0
+TAG ""
+POS 879.54 0.00 383.78 0 0 0
+END
+SRF
+FIL bill_basic1.srf
+ID 0
+TAG ""
+POS 819.88 0.00 256.73 0 0 0
+END
+SRF
+FIL bill_basic1.srf
+ID 0
+TAG ""
+POS 809.93 0.00 390.41 -6962 0 0
+END
+SRF
+FIL bill_basic1.srf
+ID 0
+TAG ""
+POS 660.78 0.00 61.17 -4710 0 0
+END
+SRF
+FIL bill_basic1.srf
+ID 0
+TAG ""
+POS 659.67 0.00 205.90 -7168 0 0
+END
+SRF
+FIL bill_basic1.srf
+ID 0
+TAG ""
+POS 659.67 0.00 383.78 -8600 0 0
+END
+SRF
+FIL bill_crane.srf
+ID 0
+TAG ""
+POS 834.90 0.00 196.74 -14336 0 0
+END
+SRF
+FIL bill_crane.srf
+ID 0
+TAG ""
+POS 740.77 0.00 388.99 0 0 0
+END
+SRF
+FIL bill_crane.srf
+ID 0
+TAG ""
+POS 883.96 0.00 286.90 0 0 0
+END
+SRF
+FIL bill_crane.srf
+ID 0
+TAG ""
+POS 219.72 0.00 382.36 -18432 0 0
+END
+SRF
+FIL bill_crane.srf
+ID 0
+TAG ""
+POS 666.52 0.00 133.10 -16998 0 0
+END
+TER
+FIL bill_light.ter
+ID 0
+TAG ""
+POS 337.72 0.00 308.11 0 0 0
+END
+TER
+FIL bill_light.ter
+ID 0
+TAG ""
+POS 820.32 0.00 359.82 0 0 0
+END
+TER
+FIL bill_light.ter
+ID 0
+TAG ""
+POS 695.69 0.00 373.08 0 0 0
+END
+TER
+FIL bill_light.ter
+ID 0
+TAG ""
+POS 690.39 0.00 342.59 0 0 0
+END
+TER
+FIL bill_light.ter
+ID 0
+TAG ""
+POS 652.92 0.00 284.32 0 0 0
+END
+TER
+FIL bill_light.ter
+ID 0
+TAG ""
+POS 801.76 0.00 337.28 0 0 0
+END
+TER
+FIL bill_light.ter
+ID 0
+TAG ""
+POS 807.06 0.00 285.57 0 0 0
+END
+TER
+FIL bill_light.ter
+ID 0
+TAG ""
+POS 777.89 0.00 255.08 0 0 0
+END
+TER
+FIL bill_light.ter
+ID 0
+TAG ""
+POS 714.25 0.00 256.41 0 0 0
+END
+RGN
+ID 1
+TAG "porttown"
+ARE -376.25 -403.62 376.25 403.62
+POS -1559.74 0.00 -34.20 -4300 0 0
+END
+RGN
+ID 1
+TAG "porttown"
+ARE -403.62 -752.51 403.62 752.51
+POS -595.16 0.00 335.21 0 0 0
+END
+RGN
+ID 1
+TAG "porttown"
+ARE -879.06 -376.25 879.06 376.25
+POS 639.63 0.00 362.57 0 0 0
+END
+RGN
+ID 1
+TAG "porttown"
+ARE -116.30 -280.48 116.30 280.48
+POS -301.00 0.00 -663.57 0 0 0
+END
+RGN
+ID 1
+TAG "porttown"
+ARE -201.81 -259.96 201.81 259.96
+POS -205.23 0.00 -882.49 4710 0 0
+END
+RGN
+ID 1
+TAG "porttown"
+ARE -51.31 -424.14 51.31 424.14
+POS -851.70 0.00 -786.71 0 0 0
+END
+RGN
+ID 1
+TAG "porttown"
+ARE -434.40 -253.12 434.40 253.12
+POS 554.12 0.00 -560.96 3480 0 0
+END
+RGN
+ID 1
+TAG "porttown"
+ARE -731.98 -136.82 731.98 136.82
+POS 465.19 0.00 800.39 0 0 0
+END
+RGN
+ID 1
+TAG "porttown"
+ARE -184.71 -95.77 184.71 95.77
+POS -110.82 0.00 934.89 -4504 0 0
+END
+RGN
+ID 1
+TAG "porttown"
+ARE -331.79 -205.23 331.79 205.23
+POS -1223.27 0.00 270.43 2866 0 0
+END
+RGN
+ID 1
+TAG "porttown"
+ARE -174.44 -277.06 174.44 277.06
+POS -958.02 0.00 -10.66 -7780 0 0
+END
+RGN
+ID 1
+TAG "porttown"
+ARE -157.34 -239.43 157.34 239.43
+POS -930.31 0.00 669.65 -2866 0 0
+END
+RGN
+ID 1
+TAG "porttown"
+ARE -41.05 -136.82 41.05 136.82
+POS 868.80 0.00 -109.46 0 0 0
+END
+RGN
+ID 1
+TAG "porttown"
+ARE -110.85 -219.72 110.85 219.72
+POS -170.20 0.00 -104.32 -6962 0 0
+END
+SRF
+FIL bill_light2.srf
+ID 0
+TAG ""
+POS 770.04 -0.02 392.61 0 0 0
+END
+SRF
+FIL bill_light2.srf
+ID 0
+TAG ""
+POS 398.80 -0.02 392.61 0 0 0
+END
+SRF
+FIL bill_light2.srf
+ID 0
+TAG ""
+POS 499.34 -0.02 389.29 -1432 0 0
+END
+SRF
+FIL bill_light2.srf
+ID 0
+TAG ""
+POS 402.11 -0.02 309.74 -8192 0 0
+END
+SRF
+FIL bill_light2.srf
+ID 0
+TAG ""
+POS 589.95 -0.02 308.63 0 0 0
+END
+SRF
+FIL bill_light2.srf
+ID 0
+TAG ""
+POS 698.23 -0.02 260.02 -5324 0 0
+END
+SRF
+FIL bill_light2.srf
+ID 0
+TAG ""
+POS 656.24 -0.02 317.47 -2252 0 0
+END
+SRF
+FIL bill_light2.srf
+ID 0
+TAG ""
+POS 658.45 -0.02 362.77 -4096 0 0
+END
+SRF
+FIL bill_light2.srf
+ID 0
+TAG ""
+POS 830.81 -0.02 324.10 -5120 0 0
+END
+SRF
+FIL bill_light2.srf
+ID 0
+TAG ""
+POS 437.47 -0.02 311.95 0 0 0
+END
+SRF
+FIL bill_light2.srf
+ID 0
+TAG ""
+POS 593.26 -0.02 350.62 -3276 0 0
+END
+SRF
+FIL bill_light2.srf
+ID 0
+TAG ""
+POS 570.06 -0.02 384.87 -2456 0 0
+END
+SRF
+FIL bill_light2.srf
+ID 0
+TAG ""
+POS 420.90 -0.02 356.14 -4710 0 0
+END
+SRF
+FIL bill_light2.srf
+ID 0
+TAG ""
+POS 657.35 -0.02 174.94 0 0 0
+END
+SRF
+FIL bill_light2.srf
+ID 0
+TAG ""
+POS 299.36 -0.02 391.50 -3686 0 0
+END
+SRF
+FIL bill_light2.srf
+ID 0
+TAG ""
+POS 380.02 -0.02 355.04 -5528 0 0
+END
+SRF
+FIL bill_light2.srf
+ID 0
+TAG ""
+POS 540.23 -0.02 307.53 -4914 0 0
+END
+SRF
+FIL bill_light2.srf
+ID 0
+TAG ""
+POS 767.83 -0.02 356.14 0 0 0
+END
+SRF
+FIL bill_light2.srf
+ID 0
+TAG ""
+POS 715.90 -0.02 296.48 0 0 0
+END
+SRF
+FIL bill_light2.srf
+ID 0
+TAG ""
+POS 678.34 -0.02 326.31 0 0 0
+END
+TER
+FIL bill_light.ter
+ID 0
+TAG ""
+POS 685.59 0.00 168.32 0 0 0
+END
+TER
+FIL bill_light.ter
+ID 0
+TAG ""
+POS 728.68 0.00 317.47 0 0 0
+END
+TER
+FIL bill_light.ter
+ID 0
+TAG ""
+POS 297.79 0.00 347.30 0 0 0
+END
+TER
+FIL bill_light.ter
+ID 0
+TAG ""
+POS 499.98 0.00 342.88 0 0 0
+END
+TER
+FIL bill_light.ter
+ID 0
+TAG ""
+POS 244.76 0.00 363.87 0 0 0
+END
+TER
+FIL bill_light.ter
+ID 0
+TAG ""
+POS 168.52 0.00 308.63 0 0 0
+END
+TER
+FIL bill_light.ter
+ID 0
+TAG ""
+POS 346.88 0.00 376.03 0 0 0
+END
+TER
+FIL bill_light.ter
+ID 0
+TAG ""
+POS 463.99 0.00 374.92 0 0 0
+END
+TER
+FIL bill_light.ter
+ID 0
+TAG ""
+POS 441.90 0.00 351.72 0 0 0
+END
+TER
+FIL bill_light.ter
+ID 0
+TAG ""
+POS 501.56 0.00 302.00 0 0 0
+END
+SRF
+FIL bill_basic2.srf
+ID 0
+TAG ""
+POS 255.80 0.00 314.16 -2868 0 0
+END
+SRF
+FIL bill_light2.srf
+ID 0
+TAG ""
+POS 187.29 -0.02 353.94 -3276 0 0
+END
+SRF
+FIL bill_basic1.srf
+ID 0
+TAG ""
+POS 217.13 0.00 315.26 0 0 0
+END
+ENDF

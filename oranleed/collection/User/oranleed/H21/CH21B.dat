@@ -1,0 +1,106 @@
+IDENTIFY "CH21B Workhorses"
+CATEGORY UTILITY
+AIRCLASS HELICOPTER
+
+AFTBURNR FALSE                #HAVE AFTERBURNER?
+PROPELLR 1425HP
+PROPEFCY 0.75                 #Propeller efficiency
+PROPVMIN 20m/s                #Minimum speed that T=P/V becomes valid
+WEIGHCLN  4.06t                #WEIGHT CLEAN
+WEIGFUEL  1.8t                #WEIGHT OF FUEL
+WEIGLOAD  1.0t                #WEIGHT OF PAYLOAD
+FUELABRN 0.0kg                #FUEL CONSUMPTION WHEN USING AFTERBURNER
+FUELMILI 0.30kg               #FUEL CONSUMPTION AT MILITARY POWER
+
+COCKPITP -0.39m -1.30m  6.69m  #COCKPIT POSITION
+EXCAMERA "LANDING VIEW" -0.39m -2.35m  8.36m  0deg -60deg 0deg INSIDE
+EXCAMERA "COPILOT" 0.39m -1.30m  6.69m  0deg 0deg 0deg INSIDE
+LEFTGEAR -2.07m -4.68m -1.26m  #LEFT LANDING GEAR POSITION
+RIGHGEAR  2.07m -4.68m -1.26m  #RIGHT LANDING GEAR POSITION
+WHELGEAR  0.0m -4.63m  6.27m  #WHEEL POSITION
+ARRESTER  0.0m -4.66m -1.26m
+MACHNGUN 0m 0m  0m  #MACHINE GUN POSITION
+SMOKEGEN -0.0m  -3.81m 1.18m  #SMOKE GENERATOR POSITION
+VAPORPO0  1.98m -0.57m -6.73m  #VAPOR POSITION (Wings Swept Back or no-VGW)
+VAPORPO1  1.98m -0.57m -6.73m
+HTRADIUS 10.0m                #OUTSIDE SPHERE RADIUS
+
+STRENGTH 7
+
+CRITAOAP  20deg               #CRITICAL AOA POSITIVE
+CRITAOAM -15deg               #CRITICAL AOA NEGATIVE
+
+CRITSPED 204km/h              #CRITICAL SPEED
+MAXSPEED 204km/h              #MAXIMUM SPEED
+
+HASSPOIL FALSE                #HAS SPOILER?
+RETRGEAR FALSE                #HAS RETRACTABLE LANDING GEAR?
+VARGEOMW FALSE                #HAS VARIABLE GEOMETRY WING?
+
+CLVARGEO 0.0                  #EFFECT OF VARIABLE GEOMETRY WING FOR Cl
+CDVARGEO 0.0                  #EFFECT OF VARIABLE GEOMETRY WING FOR Cd
+CLBYFLAP 0.0                  #EFFECT OF FLAP FOR Cl
+CDBYFLAP 0.0                  #EFFECT OF FLAP FOR Cd
+CDBYGEAR 0.0                  #EFFECT OF GEAR FOR Cd
+CDSPOILR 0.0                  #EFFECT OF SPOILER FOR Cd
+
+WINGAREA 1m^2                 #WING AREA  1m^2 for a helicopter
+
+MXIPTAOA 0.0deg               #MAX INPUT AOA
+MXIPTSSA 0.0deg               #MAX INPUT SSA
+MXIPTROL 0.0deg               #MAX INPUT ROLL
+
+REM CPITMANE corresponds to Spring Constant K
+REM CPITSTAB corresponds to Damper Constant B
+REM To be critically damped, B=2*sqrt(K)
+REM 2% Settling Time=??
+
+MANESPD1 50kt                 #MINIMUM MANEUVABLE SPEED
+MANESPD2 100kt                #FULLY MANEUVABLE SPEED
+CPITMANE 5.0                  #PITCH MANEUVERBILITY CONSTANT
+CPITSTAB 3.0                  #PITCH STABILITY CONSTANT
+CYAWMANE 5.0                  #YAW MANEUVABILITY CONSTANT
+CYAWSTAB 3.0                  #YAW STABILITY CONSTANT
+CROLLMAN 5.0                  #ROLL MANEUVABILITY CONSTANT
+
+
+TRSTVCTR TRUE                 #HAS THRUST VECTORING CAPABILITY?
+TRSTDIR0 0.0m 7.0m 0.3m       #Thrust vector 0
+TRSTDIR1 0.0m 7.0m 0.3m       #Thrust vector 1
+PSTMPTCH 40deg                #Post-Stall Maneuver VPitch
+PSTMYAW_ 30deg                #Post-Stall Maneuver VYaw
+PSTMROLL 50deg                #Post-Stall Maneuver VRoll
+
+
+CTLLDGEA TRUE                 #CONTROL LANDINGGEAR
+CTLBRAKE FALSE                #CONTROL BRAKE
+CTLSPOIL 0.0                  #CONTROL SPOILER
+CTLABRNR FALSE                #CONTROL AFTERBURNER
+CTLTHROT 0.0                  #CONTROL THRUST
+CTLIFLAP 0.0                  #CONTROL FLAP
+CTLINVGW 0.0                  #CONTROL VARIABLE GEOMETRY WING
+CTLATVGW FALSE                #CONTROL AUTO VARIABLE GEOMETRY WING
+
+POSITION 0m 3ft 0m           #POSITION
+ATTITUDE 45deg 0deg 0deg      #ATTITUDE
+INITFUEL 75%                  #INITIAL FUEL
+INITLOAD 0.0t                 #INITIAL PAYLOAD
+INITSPED 0.0MACH              #INITIAL SPEED
+
+REM Slots must come before Inits.
+
+INITIGUN 0000                 #INITIAL GUN
+INITIAAM 0                    #INITIAL AAM
+INITIAGM 0                    #INITIAL AGM
+
+REFVCRUS 190km/h              #CRUISING SPEED
+REFACRUS 3000ft               #CRUISING ALTITUDE
+REFTCRUS 0.8                  #CRUISING THROTTLE SETTING
+
+REM ClSlope,CdConst is fixed by Landing condition
+REFVLAND 0kt                 #LANDING SPEED
+REFAOALD 0deg                #LANDING AOA
+REFLNRWY 100m                #RUNWAY REQUIRED TO STOP
+REFTHRLD 0                   #LANDING THROTTLE SETTING
+
+AUTOCALC

@@ -1,0 +1,1 @@
+non-GL専用でご使用になる方はMirage2000(S.C)_cockpit.srfをこちらに差し替えの上、page down キーを押してご使用ください。

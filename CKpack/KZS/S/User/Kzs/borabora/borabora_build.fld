@@ -1,0 +1,170 @@
+FIELD
+SKY 37 123 209
+GND 2 34 185
+
+SRF
+FIL _st_build_50x10x12.srf
+ID 0
+TAG "BB_AIRPORT"
+POS -1154.69 0.00 3590.62 0 0 0
+END
+SRF
+FIL _st_build_10x05x06.srf
+ID 0
+TAG "BB_AIRPORT"
+POS -1111.42 0.00 3646.78 2866 0 0
+END
+SRF
+FIL _st_build_10x10x06.srf
+ID 0
+TAG "BB_AIRPORT"
+POS -1042.37 0.00 3637.57 0 0 0
+END
+SRF
+FIL _st_build_10x10x06.srf
+ID 0
+TAG "BB_AIRPORT"
+POS -1095.77 0.00 3659.67 -4710 0 0
+END
+
+SRF
+FIL _st_build_25x10x24.srf
+ID 0
+TAG "PearlBeachResort"
+POS -3520.72 0.00 531.52 7576 0 0
+END
+SRF
+FIL _st_build_10x05x06.srf
+ID 0
+TAG "PearlBeachResort"
+POS -3621.17 0.00 394.96 18022 0 0
+END
+
+SRF
+FIL _st_build_10x05x06.srf
+ID 0
+TAG "LagoonResort"
+POS -2644.60 0.00 -1161.18 0 0 0
+END
+SRF
+FIL _st_build_10x10x06.srf
+ID 0
+TAG "LagoonResort"
+POS -2657.48 0.00 -1148.30 -7986 0 0
+END
+
+SRF
+FIL _st_build_25x10x24.srf
+ID 0
+TAG "HotelMatira"
+POS 50.03 0.00 -3776.37 -7576 0 0
+END
+SRF
+FIL _st_build_10x10x06.srf
+ID 0
+TAG "HotelMatira"
+POS 31.25 0.00 -3762.00 0 0 0
+END
+
+SRF
+FIL _st_build_10x10x06.srf
+ID 0
+TAG "vaitape"
+POS -1022.09 0.00 -1206.40 6758 0 0
+END
+SRF
+FIL _st_build_10x10x18.srf
+ID 0
+TAG "vaitape"
+POS -935.11 0.00 -1205.33 0 0 0
+END
+SRF
+FIL _st_build_10x10x06.srf
+ID 0
+TAG "vaitape"
+POS -884.47 0.00 -1269.21 0 0 0
+END
+SRF
+FIL _st_build_10x10x06.srf
+ID 0
+TAG "vaitape"
+POS -910.84 0.00 -1146.55 0 0 0
+END
+SRF
+FIL _st_build_10x05x06.srf
+ID 0
+TAG "vaitape"
+POS -965.31 0.00 -1129.67 0 0 0
+END
+SRF
+FIL _st_build_10x05x06.srf
+ID 0
+TAG "vaitape"
+POS -981.15 0.00 -1251.94 -13696 0 0
+END
+
+SRF
+FIL _st_build_10x05x06.srf
+ID 0
+TAG "boat_house"
+POS -690.57 0.00 114.88 0 0 0
+END
+
+SRF
+FIL _st_build_25x10x24.srf
+ID 0
+TAG "HotelBorabora"
+POS -614.42 0.00 -3521.30 -9420 0 0
+END
+SRF
+FIL _st_build_10x05x06.srf
+ID 0
+TAG "BoraDivingCenter"
+POS -608.90 0.00 -3567.70 0 0 0
+END
+
+SRF
+FIL _st_build_10x10x18.srf
+ID 0
+TAG "Matira"
+POS 148.84 0.00 -3741.95 0 0 0
+END
+SRF
+FIL _st_build_10x10x06.srf
+ID 0
+TAG "Matira"
+POS 122.32 0.00 -3804.83 2866 0 0
+END
+SRF
+FIL _st_build_10x10x06.srf
+ID 0
+TAG "Matira"
+POS 166.52 0.00 -3726.38 0 0 0
+END
+
+SRF
+FIL _st_build_10x05x06.srf
+ID 0
+TAG "ClubMed"
+POS 621.13 0.00 -2750.05 11058 0 0
+END
+SRF
+FIL _st_build_10x10x06.srf
+ID 0
+TAG "SofitelMarara"
+POS 312.54 0.00 -3062.48 0 0 0
+END
+SRF
+FIL _st_build_10x05x06.srf
+ID 0
+TAG "BoraboraBeachClub"
+POS 240.95 0.00 -3203.02 -4914 0 0
+END
+SRF
+FIL _st_build_10x10x06.srf
+ID 0
+TAG "RevatuaClub"
+POS 1144.63 0.00 457.48 -5324 0 0
+END
+
+ENDF

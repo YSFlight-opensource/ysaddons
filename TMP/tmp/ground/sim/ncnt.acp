@@ -1,0 +1,7 @@
+tmp/ground/sim/ncnt_deck.srf
+tmp/ground/sim/ncnt_wire.srf
+tmp/ground/sim/ncnt_catapult.srf
+tmp/ground/sim/ncnt_bridge.srf
+ILS 0.0m 0.0m -325.00m 180deg 1deg 0deg 3000m
+
+REM ACP File Aircraft Carrier Property

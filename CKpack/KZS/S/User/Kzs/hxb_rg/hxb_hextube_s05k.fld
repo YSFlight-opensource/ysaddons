@@ -1,0 +1,44 @@
+FIELD
+SKY 216 216 216
+GND 216 216 216
+PLT
+FIL hxb_tubehex06.pc2
+POS 0.00 0.01 500.00 0 0 0
+END
+PLT
+FIL hxb_tubehex12.pc2
+POS 0.00 0.01 1000.00 0 0 0
+END
+PLT
+FIL hxb_tubehex06.pc2
+POS 0.00 0.01 1500.00 0 0 0
+END
+PLT
+FIL hxb_tubehex12.pc2
+POS 0.00 0.01 2000.00 0 0 0
+END
+PLT
+FIL hxb_tubehex06.pc2
+POS 0.00 0.01 2500.00 0 0 0
+END
+PLT
+FIL hxb_tubehex12.pc2
+POS 0.00 0.01 3000.00 0 0 0
+END
+PLT
+FIL hxb_tubehex06.pc2
+POS 0.00 0.01 3500.00 0 0 0
+END
+PLT
+FIL hxb_tubehex12.pc2
+POS 0.00 0.01 4000.00 0 0 0
+END
+PLT
+FIL hxb_tubehex06.pc2
+POS 0.00 0.01 4500.00 0 0 0
+END
+PLT
+FIL hxb_tubehex12.pc2
+POS 0.00 0.01 5000.00 0 0 0
+END
+ENDF

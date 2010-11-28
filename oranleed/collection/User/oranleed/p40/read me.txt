@@ -1,0 +1,12 @@
+カーチス　P-40ウォーホーク戦闘機
+全長: 10.16m
+全幅: 11.38m
+全高:  3.76m
+自重: 2,810kg
+最高速度:552km/h
+武装:12.7mm機銃6
+生産機数16,802機
+
+
+aircraftフォルダの中のaircraft.lstに次の一行を追加して、上書き保存してください。
+user/oranleed/p40/p40.dat user/oranleed/p40/p40.dnm user/oranleed/p40/p40coll.srf user/oranleed/p40/p40cockpit.srf user/oranleed/p40/p40coarse.dnm

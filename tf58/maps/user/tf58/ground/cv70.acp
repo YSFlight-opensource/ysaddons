@@ -1,0 +1,10 @@
+user/tf58/ground/cv70deck.srf
+user/tf58/ground/cv70arwr.srf
+user/tf58/ground/cv70catp.srf
+user/tf58/ground/blank.srf
+VIEWPOINT TRUE
+BRIDGEPOS 22.5m 35.6m -41m
+REM BRIDGEPOS -20.8m 22.6m -124.2m
+ARRESTINGWIRE -16.89m 21.05m -86.63m 10.69m 21.05m -81.77m
+ILS -1.94m 21.0m -90.25m 190deg 3.5deg 0deg 10000m
+REM ACP File Aircraft Carrier Property

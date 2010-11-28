@@ -1,0 +1,329 @@
+user/major/korea/DPRK_MiG-15.dat user/major/korea/DPRK_MiG-15.dnm user/major/korea/mig15coll.srf user/major/korea/mig15nkcockpit.srf
+user/major/korea/DPRK_Yak-9.dat user/major/korea/DPRK_Yak-9.dnm user/major/korea/Yak-9UCL.srf user/major/korea/Yak-9UCPT.srf 
+user/major/korea/DPRK_Po-2.dat user/major/korea/DPRK_Po-2.dnm user/major/korea/po2coll.srf user/major/korea/null.srf 
+user/major/korea/DPRK_yak-18.dat user/major/korea/DPRK_yak-18.dnm user/major/korea/yak18cl.srf user/major/korea/null.srf 
+user/major/korea/DPRK_yak-17.dat user/major/korea/DPRK_yak-17.dnm user/major/korea/yak17cl.srf user/major/korea/yak17cpt.srf 
+user/major/korea/DPRK_Il-10.dat user/major/korea/DPRK_Il-10.dnm user/major/korea/il10coll.srf user/major/korea/il10cpt.srf 
+user/major/korea/ROK_F-51.dat user/major/korea/ROK_F-51.dnm user/major/korea/p51dcoll.srf  user/major/korea/p51dcockpit.srf
+user/major/korea/USAF_F-51.dat user/major/korea/USAF_F-51.dnm user/major/korea/p51dcoll.srf  user/major/korea/p51dcockpit.srf
+user/major/korea/SAAF_F-51.dat user/major/korea/SAAF_F-51.dnm user/major/korea/p51dcoll.srf  user/major/korea/p51dcockpit.srf
+user/major/korea/USAF_B-29.dat user/major/korea/USAF_B-29.dnm user/major/korea/b29coll.srf user/major/korea/b29cockpit.srf 
+user/major/korea/USAF_TA-6_FAC.dat user/major/korea/USAF_TA-6_FAC.dnm user/major/korea/texancoll.srf user/major/korea/null.srf 
+user/major/korea/ROK_TA-6_FAC.dat user/major/korea/ROK_TA-6_FAC.dnm user/major/korea/texancoll.srf user/major/korea/null.srf 
+user/major/korea/USN_Corsair.dat user/major/korea/USN_Corsair.dnm user/major/korea/f4ucoll2.srf user/major/korea/f4ucockpit2.srf 
+user/major/korea/USN_A-1.dat user/major/korea/USN_A-1.dnm user/major/korea/a1cl.srf user/major/korea/a1cpt.srf 
+user/major/korea/USN_S-51.dat user/major/korea/USN_S-51.dnm user/major/korea/s51cl.srf user/major/korea/s51cpt.srf 
+user/major/korea/RN_Seafury.dat user/major/korea/RN_Seafury.dnm user/major/korea/seafurycoll.srf user/major/korea/null.srf 
+user/major/korea/USAF_F-82.dat user/major/korea/USAF_F-82.dnm user/major/korea/f82cl.srf user/major/korea/null.srf 
+user/major/korea/RAAF_meteor.dat user/major/korea/RAAF_meteor.dnm user/major/korea/meteorcoll.srf user/major/korea/null.srf 
+user/major/korea/USAF_F-84_1.dat user/major/korea/USAF_F-84_1.dnm user/major/korea/f-84g_coll.srf user/major/korea/f-84_cockpit.srf 
+user/major/korea/USAF_F-84_2.dat user/major/korea/USAF_F-84_2.dnm user/major/korea/f-84g_coll.srf user/major/korea/f-84_cockpit.srf 
+user/major/korea/USAF_F-80C_1.dat user/major/korea/USAF_F-80C_1.dnm user/major/korea/f80coll.srf user/major/korea/f80cpt.srf 
+user/major/korea/USAF_F-80C_2.dat user/major/korea/USAF_F-80C_2.dnm user/major/korea/f80coll.srf user/major/korea/f80cpt.srf 
+user/major/korea/SAAF_F-86.dat user/major/korea/SAAF_F-86.dnm user/major/korea/f86cl.srf  user/major/korea/f86cpt.srf
+user/major/korea/USAF_F-94B.dat user/major/korea/USAF_F-94B.dnm user/major/korea/f80coll.srf user/major/korea/f80cpt.srf 
+user/major/korea/USAF_tigercat.dat user/major/korea/USAF_tigercat.dnm user/major/korea/f7f_coll.srf user/major/korea/f7f_cpt.srf 
+user/major/korea/USAF_C-47.dat user/major/korea/USAF_C-47.dnm user/major/korea/c47cl.srf user/major/korea/null.srf 
+
+user/major/airliners/A330_Canada.dat user/major/airliners/A330_Canada.dnm user/major/airliners/colla330.srf user/major/airliners/none.srf user/major/airliners/a330canadacrs.dnm
+user/major/airliners/A330_Korea.dat user/major/airliners/A330_Korea.dnm user/major/airliners/colla330.srf user/major/airliners/none.srf user/major/airliners/a330koreacrs.dnm
+user/major/airliners/A330_Saudi.dat user/major/airliners/A330_Saudi.dnm user/major/airliners/colla330.srf user/major/airliners/none.srf user/major/airliners/a330saudicrs.dnm
+user/major/airliners/A330_Swiss.dat user/major/airliners/A330_Swiss.dnm user/major/airliners/colla330.srf user/major/airliners/none.srf user/major/airliners/a330swisscrs.dnm
+user/major/airliners/A330_Vietnam.dat user/major/airliners/A330_Vietnam.dnm user/major/airliners/colla330.srf user/major/airliners/none.srf user/major/airliners/a330vietnamcrs.dnm
+user/major/airliners/A330MRTT.dat user/major/airliners/A330MRTT.dnm user/major/airliners/colla330.srf user/major/airliners/none.srf user/major/airliners/a330mrttcrs.dnm
+user/major/airliners/A330_CA.dat user/major/airliners/A330_CA.dnm user/major/airliners/colla330.srf user/major/airliners/none.srf user/major/airliners/A330_CAcrs.dnm
+user/major/airliners/A330_FM.dat user/major/airliners/A330_FM.dnm user/major/airliners/colla330.srf user/major/airliners/none.srf user/major/airliners/A330_FMcrs.dnm
+user/major/airliners/A340_Cathay.dat user/major/airliners/A340_Cathay.dnm user/major/airliners/colla330.srf user/major/airliners/none.srf user/major/airliners/a340cathaycrs.dnm
+user/major/airliners/A340_France.dat user/major/airliners/A340_France.dnm user/major/airliners/colla330.srf user/major/airliners/none.srf user/major/airliners/a340francecrs.dnm
+user/major/airliners/A340_RSA.dat user/major/airliners/A340_RSA.dnm user/major/airliners/colla330.srf user/major/airliners/none.srf user/major/airliners/a340rsacrs.dnm
+user/major/airliners/B737_CA.dat user/major/airliners/B737_CA.dnm user/major/airliners/b737coll.srf user/major/airliners/none.srf user/major/airliners/B737_CAcrs.dnm
+user/major/airliners/B737_CZ.dat user/major/airliners/B737_CZ.dnm user/major/airliners/b737coll.srf user/major/airliners/none.srf user/major/airliners/B737_CZcrs.dnm
+user/major/airliners/B737_FM.dat user/major/airliners/B737_FM.dnm user/major/airliners/b737coll.srf user/major/airliners/none.srf user/major/airliners/B737_FMcrs.dnm
+user/major/airliners/B737_MU.dat user/major/airliners/B737_MU.dnm user/major/airliners/b737coll.srf user/major/airliners/none.srf user/major/airliners/B737_MUcrs.dnm
+user/major/airliners/B737_XM.dat user/major/airliners/B737_XM.dnm user/major/airliners/b737coll.srf user/major/airliners/none.srf user/major/airliners/B737_XMcrs.dnm
+
+user/major/klu/RNAF_tigermoth.dat user/major/klu/RNAF_tigermoth.dnm user/major/klu/DH82coll.srf user/major/klu/null.srf
+user/major/klu/FokkerD21_klu.dat user/major/klu/FokkerD21_klu.dnm user/major/klu/fokkerdxxicl.srf user/major/klu/fokkerdxx1cpt.srf user/major/klu/fokkerdxx1crs.srf
+user/major/klu/FokkerG1_klu.dat user/major/klu/FokkerG1_klu.dnm	user/major/klu/fokkerg1coll.srf user/major/klu/fokkerg1cpt.srf user/major/klu/g1coarseklu.srf
+user/major/klu/RNAF_P-40.dat user/major/klu/RNAF_P-40.dnm user/major/klu/p40coll.srf user/major/klu/p40cockpit.srf
+user/major/klu/RNAF_spit1.dat user/major/klu/RNAF_spit.dnm user/major/klu/spitcoll.srf user/major/klu/spitcockpit.srf
+user/major/klu/RNAF_spit2.dat user/major/klu/RNAF_spit2.dnm user/major/klu/spitcoll.srf user/major/klu/spitcockpit.srf
+user/major/klu/RNAF_P-51D.dat user/major/klu/RNAF_p-51d.dnm user/major/klu/p51dcoll.srf user/major/klu/p51dcockpit.srf
+user/major/klu/RNAF_B-25.dat user/major/klu/RNAF_B-25.dnm user/major/klu/b25coll.srf user/major/klu/null.srf user/major/klu/b25klucrs.dnm
+user/major/klu/RNN_TBF-1a.dat user/major/klu/RNN_TBF-1A.dnm user/major/klu/tbfcoll.srf user/major/klu/null.srf
+user/major/klu/RNN_TBF-3W.dat user/major/klu/RNN_TBF-3W.dnm user/major/klu/tbfcoll.srf user/major/klu/null.srf
+user/major/klu/RNAF_Meteor.dat user/major/klu/RNAF_Meteor.dnm user/major/klu/meteor_coll.srf user/major/klu/null.srf
+user/major/klu/RNAF_Hunter.dat user/major/klu/RNAF_Hunter.dnm user/major/klu/hunter_coll.srf user/major/klu/null.srf
+user/major/klu/RNAF_Harvard.dat user/major/klu/RNAF_Harvard.dnm	user/major/klu/texancoll.srf user/major/klu/null.srf
+user/major/klu/RNN_P-2V7.dat user/major/klu/RNN_P-2V7.dnm user/major/klu/p2coll.srf user/major/klu/p2cpt.srf
+user/major/klu/RNN_S-58.dat user/major/klu/RNN_S-58.dnm	user/major/klu/ch34_cl.srf user/major/klu/s58_ck.srf
+user/major/klu/RNN_UH-1.dat user/major/klu/RNN_UH-1.dnm user/major/klu/uh1coll.srf user/major/klu/uh1cpt.srf
+user/major/klu/RNN_Seafury.dat user/major/klu/RNN_Seafury.dnm user/major/klu/seafurycoll.srf user/major/klu/null.srf
+user/major/klu/RNN_Seahawk.dat user/major/klu/RNN_Seahawk.dnm user/major/klu/seahawkcoll.srf user/major/klu/null.srf user/major/klu/rnn_seahawkcrs.dnm
+user/major/klu/RNAF_F-84F.dat user/major/klu/RNAF_F-84F.dnm user/major/klu/f-84F_coll.srf user/major/klu/f-84F_cockpit.srf
+user/major/klu/RNAF_F-86K.dat user/major/klu/RNAF_F-86K.dnm user/major/klu/f86coll.srf user/major/klu/null.srf
+user/major/klu/RNAF_Allouette3.dat user/major/klu/RNAF_Allouette3.dnm user/major/klu/allouette3coll.srf user/major/klu/null.srf user/major/klu/RNAF_Allouette3crs.dnm
+user/major/klu/RNAF_F-104G.dat user/major/klu/RNAF_F-104G.dnm user/major/klu/f104g_coll.srf user/major/klu/null.srf
+user/major/klu/RNAF_NF-5.dat user/major/klu/RNAF_NF-5.dnm user/major/klu/f-5e_coll.srf user/major/klu/f-5e_cockpit.srf
+user/major/klu/RNAF_Bo-105.dat user/major/klu/RNAF_Bo-105.dnm user/major/klu/bo105coll.srf user/major/klu/null.srf
+user/major/klu/RNN_lynx.dat user/major/klu/RNN_lynx.dnm user/major/klu/slnxcoll.srf user/major/klu/slnxcock.srf
+user/major/klu/RNN_P3C.dat user/major/klu/RNN_P3C.dnm user/major/klu/p3ccoll.srf user/major/klu/p3ccockpit.srf
+user/major/klu/RNAF_AS-532.dat user/major/klu/RNAF_AS-532.dnm user/major/klu/as532coll.srf user/major/klu/null.srf
+user/major/klu/RNAF_AH64D.dat user/major/klu/RNAF_AH64D.dnm user/major/klu/ah64_coll_h.srf user/major/klu/ah64_cock_h.srf
+user/major/klu/RNAF_Chinook.dat user/major/klu/RNAF_Chinook.dnm user/major/klu/ch47coll.srf user/major/klu/null.srf
+user/major/klu/RNAF_F-16.dat user/major/klu/RNAF_F-16.dnm user/major/klu/f16coll.srf user/major/klu/null.srf
+user/major/klu/RNAF_F-16B.dat user/major/klu/RNAF_F-16B.dnm user/major/klu/f16coll.srf user/major/klu/null.srf
+user/major/klu/RNAF_C-130.dat user/major/klu/RNAF_C-130.dnm user/major/klu/c130coll.srf user/major/klu/null.srf
+user/major/klu/RNAF_F-60.dat user/major/klu/RNAF_F-60.dnm user/major/klu/f60coll.srf user/major/klu/null.srf
+user/major/klu/RNAF_KDC10.dat user/major/klu/RNAF_KDC10.dnm user/major/klu/md11_coll.srf user/major/klu/md11_cockpit.srf
+user/major/klu/RNAF_PC-7.dat user/major/klu/RNAF_PC-7.dnm user/major/klu/pc7coll.srf user/major/klu/null.srf
+user/major/klu/RNAF_AB-412.dat user/major/klu/RNAF_AB-412.dnm user/major/klu/uh1coll.srf user/major/klu/uh1cpt.srf user/major/klu/rnaf_ab-412crs.dnm
+user/major/klu/RNN_NH-90.dat user/major/klu/RNN_NH-90.dnm user/major/klu/nh90coll.srf user/major/klu/null.srf user/major/klu/rnn_nh90crs.dnm
+user/major/klu/RNAF_Gulfstream.dat user/major/klu/RNAF_Gulfstream.dnm user/major/klu/g550_coll.srf user/major/klu/g550_cockpit.srf
+user/major/klu/RNAF_F-35C.dat user/major/klu/RNAF_F-35C.dnm user/major/klu/f35c_coll.srf user/major/klu/null.srf
+user/major/klu/RNA_airmobile.dat user/major/klu/RNA_airmobile.dnm user/major/klu/paratroopercoll.srf user/major/klu/null.srf user/major/klu/paracrs.srf
+user/major/klu/RNA_para.dat user/major/klu/RNA_para.dnm user/major/klu/infcoll.srf user/major/klu/null.srf
+
+User/major/a10/A-10_1.dat User/major/a10/A-10_1.dnm User/major/a10/a10cll.srf User/major/a10/null.srf User/major/a10/A-10_1crs.dnm
+User/major/a10/A-10_2.dat User/major/a10/A-10_2.dnm User/major/a10/a10cll.srf User/major/a10/null.srf User/major/a10/A-10_2crs.dnm
+user/major/bullshark/F32_NAVY.dat user/major/bullshark/F32_NAVY.dnm user/major/bullshark/f32coll.srf user/major/bullshark/null.srf user/major/bullshark/NAVYCRS.dnm 
+user/major/bullshark/F32_NAVY2.dat user/major/bullshark/F32_NAVY2.dnm user/major/bullshark/f32coll.srf user/major/bullshark/null.srf user/major/bullshark/NAVYCRS.dnm 
+user/major/bullshark/F32_USAF.dat user/major/bullshark/F32_USAF.dnm user/major/bullshark/f32coll.srf user/major/bullshark/null.srf user/major/bullshark/USAFCRS.dnm 
+user/major/bullshark/F32_USAF2.dat user/major/bullshark/F32_USAF2.dnm user/major/bullshark/f32coll.srf user/major/bullshark/null.srf user/major/bullshark/USAFCRS.dnm 
+user/major/speedhawk/speedhawk.dat user/major/speedhawk/speedhawk.dnm user/major/speedhawk/speedhawkcoll.srf user/major/speedhawk/speedhawkcpt.srf user/major/speedhawk/speedhawkcrs.dnm 
+user/major/mi24/hind_a.dat user/major/mi24/hind_a.dnm user/major/mi24/mi24coll.srf user/major/mi24/null.srf user/major/mi24/mi24coarse.dnm
+user/major/mi24/hind_a2.dat user/major/mi24/hind_a2.dnm user/major/mi24/mi24coll.srf user/major/mi24/null.srf user/major/mi24/mi24coarse.dnm
+user/major/mi24/hind_d.dat user/major/mi24/hind_d.dnm user/major/mi24/mi24coll.srf user/major/mi24/null.srf user/major/mi24/mi24coarse.dnm
+user/major/mi24/mi-24_2.dat user/major/mi24/mi-24_2.dnm user/major/mi24/mi24coll.srf user/major/mi24/null.srf user/major/mi24/mi24coarse.dnm
+user/major/mi24/hind_p.dat user/major/mi24/hind_p.dnm user/major/mi24/mi24coll.srf user/major/mi24/null.srf user/major/mi24/mi24coarse.dnm
+user/major/mi24/hind_super.dat user/major/mi24/hind_super.dnm user/major/mi24/mi24coll.srf user/major/mi24/null.srf user/major/mi24/mi24scoarse.dnm
+user/major/frogfoot/su25_2.dat user/major/frogfoot/su25_2.dnm user/major/frogfoot/coll.srf user/major/frogfoot/null.srf
+user/major/frogfoot/su25_1.dat user/major/frogfoot/su25_1.dnm user/major/frogfoot/coll.srf user/major/frogfoot/null.srf
+user/major/frogfoot/su25_3.dat user/major/frogfoot/su25_3.dnm user/major/frogfoot/coll.srf user/major/frogfoot/null.srf
+user/major/pc7/IRAQ_PC-7.dat user/major/pc7/IRAQ_PC-7.dnm user/major/pc7/pc7coll.srf user/major/pc7/null.srf
+user/major/pc7/URUGUAY_PC-7.dat user/major/pc7/URUGUAY_PC-7.dnm user/major/pc7/pc7coll.srf user/major/pc7/null.srf
+user/major/pc7/Falcon_PC-7.dat user/major/pc7/Falcon_PC-7.dnm user/major/pc7/pc7coll.srf user/major/pc7/null.srf
+user/major/AC208/AC208.dat user/major/AC208/AC208.dnm user/major/AC208/caravan_coll.srf user/major/AC208/null.srf
+user/major/F14/F14_VF2.dat user/major/F14/F14_VF2.dnm user/major/F14/f14coll.srf user/major/F14/null.srf
+user/major/sundown/F-8_VF111.dat user/major/sundown/F-8_VF111.dnm user/major/sundown/f8cl.srf user/major/sundown/null.srf
+user/major/sundown/F-4_VF111.dat user/major/sundown/F-4_VF111.dnm user/major/sundown/f4cl.srf user/major/sundown/null.srf
+user/major/sundown/F-14_VF111.dat user/major/sundown/F-14_VF111.dnm user/major/sundown/f14cl.srf user/major/sundown/null.srf
+user/major/birdfarm/SU-35S_KNAAPO1.dat user/major/birdfarm/SU-35S_KNAAPO1.dnm user/major/birdfarm/su27cl.srf user/major/birdfarm/blank.srf user/major/birdfarm/su35scrs1.dnm
+user/major/birdfarm/SU-35S_KNAAPO2.dat user/major/birdfarm/SU-35S_KNAAPO2.dnm user/major/birdfarm/su27cl.srf user/major/birdfarm/blank.srf user/major/birdfarm/su35scrs2.dnm
+user/major/birdfarm/SU-35S_KNAAPO3.dat user/major/birdfarm/SU-35S_KNAAPO3.dnm user/major/birdfarm/su27cl.srf user/major/birdfarm/blank.srf user/major/birdfarm/su35scrs3.dnm
+user/major/birdfarm/SU-32S_KNAAPO4.dat user/major/birdfarm/SU-32S_KNAAPO4.dnm user/major/birdfarm/su32cl.srf user/major/birdfarm/blank.srf user/major/birdfarm/su32scrs4.dnm
+user/major/birdfarm/f-18C_tiger.dat user/major/birdfarm/f-18C_tigermeet.dnm user/major/birdfarm/f18cl.srf user/major/birdfarm/blank.srf
+user/major/birdfarm/MRG2000Tiger.dat user/major/birdfarm/mrg2000tigermeet.dnm user/major/birdfarm/mrg3cl.srf user/major/birdfarm/blank.srf
+user/major/birdfarm/rafale_tiger.dat user/major/birdfarm/rafale_tigermeet.dnm user/major/birdfarm/rafalecl.srf user/major/birdfarm/blank.srf
+user/major/birdfarm/MiG-29_SWIFT.dat user/major/birdfarm/MiG-29_SWIFT.dnm user/major/birdfarm/mig29cl.srf user/major/birdfarm/blank.srf
+user/major/birdfarm/SU-27_knight.dat user/major/birdfarm/SU-27_knight.dnm user/major/birdfarm/su27cl.srf user/major/birdfarm/blank.srf
+user/major/spec/spec_a-37.dat user/major/spec/spec_a-37.dnm user/major/spec/t37coll.srf user/major/spec/null.srf user/major/spec/speca37crs.dnm 
+user/major/spec/spec_AB-212.dat user/major/spec/spec_AB-212.dnm user/major/spec/uh1coll.srf user/major/spec/uh1cpt.srf user/major/spec/spec212crs.dnm 
+
+user/major/vietnam/ah-1_ver1.dat user/major/vietnam/ah-1_ver1.dnm user/major/vietnam/cobracoll.srf user/major/vietnam/cobracpt.srf user/major/vietnam/cobracoarse.dnm
+user/major/vietnam/ah-1_ver2.dat user/major/vietnam/ah-1_ver2.dnm user/major/vietnam/cobracoll.srf user/major/vietnam/cobracpt.srf user/major/vietnam/cobracoarse.dnm
+user/major/vietnam/ah-1_ver3.dat user/major/vietnam/ah-1_ver3.dnm user/major/vietnam/cobracoll.srf user/major/vietnam/cobracpt.srf user/major/vietnam/cobracoarse.dnm
+user/major/vietnam/ah-1_ver4.dat user/major/vietnam/ah-1_ver4.dnm user/major/vietnam/cobracoll.srf user/major/vietnam/cobracpt.srf user/major/vietnam/cobracoarse.dnm
+user/major/vietnam/ah-1_ver5.dat user/major/vietnam/ah-1_ver5.dnm user/major/vietnam/cobracoll.srf user/major/vietnam/cobracpt.srf user/major/vietnam/cobracoarse.dnm
+user/major/vietnam/slick.dat user/major/vietnam/slick.dnm user/major/vietnam/uh1coll.srf user/major/vietnam/uh1cpt.srf
+user/major/vietnam/medevac.dat user/major/vietnam/medevac.dnm user/major/vietnam/uh1coll.srf user/major/vietnam/uh1cpt.srf
+user/major/vietnam/hog.dat user/major/vietnam/hog.dnm user/major/vietnam/uh1coll.srf user/major/vietnam/uh1cpt.srf 
+user/major/vietnam/loach.dat user/major/vietnam/loach.dnm user/major/vietnam/oh6coll.srf user/major/vietnam/oh6cpt.srf    
+user/major/vietnam/shark.dat user/major/vietnam/shark.dnm user/major/vietnam/oh6coll.srf user/major/vietnam/oh6cpt.srf
+user/major/vietnam/sd_huey.dat user/major/vietnam/huey_sd.dnm user/major/vietnam/uh1sdcoll.srf user/major/vietnam/uh1sdcpt.srf 
+user/major/vietnam/sd_loach.dat user/major/vietnam/loach_sd.dnm user/major/vietnam/oh6sdcoll.srf user/major/vietnam/oh6cpt.srf 
+user/major/vietnam/F-8_crusader.dat user/major/vietnam/F-8_crusader.dnm user/major/vietnam/F8cl.srf user/major/vietnam/null.srf user/major/vietnam/F-8_coarse.dnm 
+user/major/vietnam/F-8_crusader2.dat user/major/vietnam/F-8_crusader2.dnm user/major/vietnam/F8cl.srf user/major/vietnam/null.srf user/major/vietnam/F-8_coarse.dnm 
+user/major/vietnam/F-8_crusader3.dat user/major/vietnam/F-8_crusader3.dnm user/major/vietnam/F8cl.srf user/major/vietnam/null.srf user/major/vietnam/F-83_coarse.dnm 
+user/major/vietnam/F-4C_1.dat user/major/vietnam/F-4C_1.dnm user/major/vietnam/F4ccoll.srf user/major/vietnam/null.srf user/major/vietnam/f4ccrs1.dnm 
+user/major/vietnam/F-4C_2.dat user/major/vietnam/F-4C_2.dnm user/major/vietnam/F4ccoll.srf user/major/vietnam/null.srf user/major/vietnam/F4ccrs2.dnm 
+user/major/vietnam/A4_1.dat user/major/vietnam/A4_1.dnm user/major/vietnam/A4coll.srf user/major/vietnam/a4cockpit.srf user/major/vietnam/a4crs1.dnm
+user/major/vietnam/A4_2.dat user/major/vietnam/A4_2.dnm user/major/vietnam/A4coll.srf user/major/vietnam/a4cockpit.srf user/major/vietnam/a4crs2.dnm
+user/major/vietnam/A4_3.dat user/major/vietnam/A4_3.dnm user/major/vietnam/A4coll.srf user/major/vietnam/a4cockpit.srf user/major/vietnam/a4crs3.dnm
+user/major/vietnam/A6_1.dat user/major/vietnam/A6_1.dnm user/major/vietnam/A6ecoll.srf user/major/vietnam/a6ecockpit.srf user/major/vietnam/a6crs1.dnm
+user/major/vietnam/A6_2.dat user/major/vietnam/A6_2.dnm user/major/vietnam/A6ecoll.srf user/major/vietnam/a6ecockpit.srf user/major/vietnam/a6crs2.dnm
+user/major/vietnam/A7.dat user/major/vietnam/A7.dnm user/major/vietnam/A7coll.srf user/major/vietnam/a7cockpit.srf user/major/vietnam/a7crs.dnm
+user/major/vietnam/mig-17_1.dat user/major/vietnam/VPAF_mig-17_1.dnm user/major/vietnam/mig17coll.srf user/major/vietnam/null.srf user/major/vietnam/mig17crs1.srf
+user/major/vietnam/mig-17_2.dat user/major/vietnam/VPAF_mig-17_2.dnm user/major/vietnam/mig17coll.srf user/major/vietnam/null.srf user/major/vietnam/mig17crs2.srf
+user/major/mohawk/ov1-gunpods.dat user/major/mohawk/ov1-gunpods.dnm user/major/mohawk/ov1coll.srf user/major/mohawk/null.srf user/major/mohawk/ov1coarse.dnm
+user/major/mohawk/ov1-prototype.dat user/major/mohawk/ov1-prototype.dnm user/major/mohawk/ov1coll.srf user/major/mohawk/null.srf user/major/mohawk/ov1coarse-prot.dnm
+user/major/mohawk/rv-1d-grey.dat user/major/mohawk/rv-1d-grey.dnm user/major/mohawk/ov1coll.srf user/major/mohawk/null.srf user/major/mohawk/ov1coarsegrey.dnm
+user/major/bronco/OV-10A.dat user/major/bronco/OV-10A.dnm user/major/bronco/ov10cl.srf user/major/bronco/ov10cp.srf
+user/major/bronco/OV-10TURRET.dat user/major/bronco/OV-10TURRET.dnm user/major/bronco/ov10cl.srf user/major/bronco/ov10cp.srf
+user/major/bronco/OV-10USAF.dat user/major/bronco/OV-10USAF.dnm user/major/bronco/ov10cl.srf user/major/bronco/ov10cp.srf
+user/major/bronco/OV-10TURRET2.dat user/major/bronco/OV-10TURRET2.dnm user/major/bronco/ov10cl.srf user/major/bronco/ov10cp.srf
+user/major/bronco/OV-10CAMO.dat user/major/bronco/OV-10CAMO.dnm user/major/bronco/ov10cl.srf user/major/bronco/ov10cp.srf
+user/major/skymaster/o2skymaster.dat user/major/skymaster/o2skymaster.dnm user/major/skymaster/o2coll.srf user/major/skymaster/null.srf user/major/skymaster/o2_GAC.dnm
+user/major/t6/snj.dat user/major/t6/snj.dnm user/major/t6/texancoll.srf user/major/t6/null.srf
+user/major/t6/CAP_Texan.dat user/major/t6/CAP_Texan.dnm user/major/t6/texancoll.srf user/major/t6/null.srf
+
+user/major/101st/101st_ground.dat user/major/101st/101st_ground.dnm user/major/101st/infcoll.srf user/major/101st/null.srf 
+user/major/101st/101st_airbourne.dat user/major/101st/101st_airbourne.dnm user/major/101st/paratroopercoll.srf user/major/101st/null.srf user/major/klu/paracrs.srf
+user/major/101st/rambo.dat user/major/101st/rambo.dnm user/major/101st/infcoll.srf user/major/101st/null.srf 
+user/major/101st/civvie.dat user/major/101st/civvie.dnm user/major/101st/paratroopercoll.srf user/major/101st/null.srf user/major/klu/paracrs.srf
+user/major/101st/Nazi.dat user/major/101st/nazi.dnm user/major/101st/infcoll.srf user/major/101st/null.srf 
+user/major/101st/VC.dat user/major/101st/VC.dnm user/major/101st/infcoll.srf user/major/101st/null.srf 
+user/major/101st/GI.dat user/major/101st/GI.dnm user/major/101st/infcoll.srf user/major/101st/null.srf 
+user/major/101st/DC3_101st.dat user/major/101st/DC3_101st.dnm user/major/101st/dc3cl.srf user/major/101st/null.srf user/major/101st/DC3crs.dnm
+user/major/101st/DC3_RAF.dat user/major/101st/DC3_RAF.dnm user/major/101st/dc3cl.srf user/major/101st/null.srf user/major/101st/DC3rafcrs.dnm
+user/major/101st/horsa.dat user/major/101st/horsa.dnm user/major/101st/horsacoll.srf user/major/101st/null.srf user/major/101st/horsacrs.dnm
+user/major/101st/horsa_tow.dat user/major/101st/horsa_tow.dnm user/major/101st/horsacoll.srf user/major/101st/null.srf user/major/101st/horsa_towcrs.dnm
+user/major/b26/B-26_Marauder.dat user/major/b26/B-26_Marauder.dnm user/major/b26/b26coll.srf user/major/b26/null.srf user/major/b26/b26crs.dnm
+user/major/b25/B-25B_Mitchell.dat user/major/b25/B-25B_Mitchell.dnm user/major/b25/b25coll.srf user/major/b25/null.srf user/major/b25/b25bcrs.dnm
+user/major/b25/B-25D_Mitchell.dat user/major/b25/B-25D_Mitchell.dnm user/major/b25/b25coll.srf user/major/b25/null.srf user/major/b25/b25dcrs.dnm
+user/major/b25/B-25G_Mitchell.dat user/major/b25/B-25G_Mitchell.dnm user/major/b25/b25coll.srf user/major/b25/null.srf user/major/b25/b25gcrs.dnm
+user/major/b25/B-25H_Mitchell.dat user/major/b25/B-25H_Mitchell.dnm user/major/b25/b25coll.srf user/major/b25/null.srf user/major/b25/b25hcrs.dnm
+user/major/b25/B-25J_Mitchell.dat user/major/b25/B-25J_Mitchell.dnm user/major/b25/b25coll.srf user/major/b25/null.srf user/major/b25/b25jcrs.dnm
+user/major/b25/B-25J_RAF.dat user/major/b25/B-25J_RAF.dnm user/major/b25/b25coll.srf user/major/b25/null.srf user/major/b25/b25rafcrs.dnm
+user/major/b25/B-25C_RAF.dat user/major/b25/B-25C_RAF.dnm user/major/b25/b25coll.srf user/major/b25/null.srf user/major/b25/b25ccrs.dnm
+user/major/b25/B-25_Damaged.dat user/major/b25/B-25_Damaged.dnm user/major/b25/b25coll2.srf user/major/b25/null.srf user/major/b25/b25dmgdcrs.dnm
+user/major/b17/old666.dat user/major/b17/old666.dnm user/major/b17/b17coll.srf user/major/b17/b17cpt.srf user/major/b17/old666crs.dnm
+user/major/b17/B17G.dat user/major/b17/B17G.dnm user/major/b17/b17coll.srf user/major/b17/b17cpt.srf user/major/b17/b17gcrs.dnm
+user/major/b24/b24sand.dat user/major/b24/b24sand.dnm user/major/b24/b24coll.srf user/major/b24/null.srf user/major/b24/b24crs1.srf
+user/major/b24/b24silver.dat user/major/b24/b24silver.dnm user/major/b24/b24coll.srf user/major/b24/null.srf user/major/b24/b24crs2.srf
+user/major/b24/b24green.dat user/major/b24/b24green.dnm user/major/b24/b24coll.srf user/major/b24/null.srf user/major/b24/b24crs3.srf
+user/major/p47/p-47_VER1.dat user/major/p47/p-47_VER1.dnm user/major/p47/p47_coll.srf user/major/p47/null.srf user/major/p47/p-47_1crs.dnm
+user/major/p47/p-47_VER2.dat user/major/p47/p-47_VER2.dnm user/major/p47/p47_coll.srf user/major/p47/null.srf user/major/p47/p-47_2crs.dnm
+user/major/p47/p-47_VER3.dat user/major/p47/p-47_VER3.dnm user/major/p47/p47_coll.srf user/major/p47/null.srf user/major/p47/p-47_3crs.dnm
+user/major/p47/p-47_VER4.dat user/major/p47/p-47_VER4.dnm user/major/p47/p47_coll.srf user/major/p47/null.srf user/major/p47/p-47_4crs.dnm
+user/major/mustang/usaf_p-51d_VER1.dat user/major/mustang/usaf_p-51d_VER1.dnm user/major/mustang/p51dcoll.srf user/major/mustang/p51dcockpit.srf
+user/major/mustang/usaf_p-51d_VER2.dat user/major/mustang/usaf_p-51d_VER2.dnm user/major/mustang/p51dcoll.srf user/major/mustang/p51dcockpit.srf
+user/major/mustang/usaf_p-51d_VER3.dat user/major/mustang/usaf_p-51d_VER3.dnm user/major/mustang/p51dcoll.srf user/major/mustang/p51dcockpit.srf
+user/major/mustang/usaf_p-51d_VER4.dat user/major/mustang/usaf_p-51d_VER4.dnm user/major/mustang/p51dcoll.srf user/major/mustang/p51dcockpit.srf
+user/major/ww2/b17.dat user/major/ww2/b17.dnm user/major/ww2/b17cl.srf user/major/ww2/b17cpt.srf
+user/major/ww2/b24.dat user/major/ww2/b24.dnm user/major/ww2/b24cl.srf user/major/ww2/b24cpt.srf
+user/major/ww2/b25.dat user/major/ww2/b25.dnm user/major/ww2/b25cl.srf user/major/ww2/b25cpt.srf
+user/major/ww2/c47.dat user/major/ww2/c47.dnm user/major/ww2/c47cl.srf user/major/ww2/c47cpt.srf
+user/major/ww2/me110.dat user/major/ww2/me110.dnm user/major/ww2/me110cl.srf user/major/ww2/me110cpt.srf
+user/major/ww2/ju87.dat user/major/ww2/ju87.dnm user/major/ww2/ju87cl.srf user/major/ww2/ju87cpt.srf
+user/major/ww2/ju52.dat user/major/ww2/ju52.dnm user/major/ww2/ju52cl.srf user/major/ww2/ju52cpt.srf
+user/major/ww2/he111.dat user/major/ww2/he111.dnm user/major/ww2/he111cl.srf user/major/ww2/he111cpt.srf
+user/major/ww2/il2.dat user/major/ww2/il2.dnm user/major/ww2/il2cl.srf user/major/ww2/il2cpt.srf
+
+user/major/spiff/spiff.dat user/major/spiff/spiff.dnm user/major/spiff/spiffcoll.srf user/major/spiff/null.srf
+user/major/pacman/pacman.dat user/major/pacman/pacman.dnm user/major/pacman/pacmancoarse.srf user/major/pacman/pacmancoll.srf user/major/pacman/null.srf
+user/major/eve/eve.dat user/major/eve/eve.dnm user/major/eve/evecoll.srf user/major/eve/null.srf
+user/major/thing/thing.dat user/major/thing/thing.dnm user/major/thing/thing_coll.srf user/major/thing/thing_cpt.srf user/major/thing/thing_crs.dnm
+user/major/bee/bee.dat user/major/bee/bee.dnm user/major/bee/beecoll.srf user/major/bee/beecpt.srf 
+user/major/sub/us_sub.dat user/major/sub/us_sub.dnm user/major/sub/subcoll.srf user/major/sub/null.srf user/major/sub/us_subcrs.dnm
+user/major/sub/jp_sub.dat user/major/sub/jp_sub.dnm user/major/sub/subcoll.srf user/major/sub/null.srf user/major/sub/jp_subcrs.dnm
+user/major/rc-heli/rc-heli.dat user/major/rc-heli/rc-heli.dnm user/major/rc-heli/rc-coll.srf user/major/rc-heli/null.srf
+User/major/movie/bombcar.dat User/major/movie/bombcar.dnm User/major/movie/bombcarcoll.srf User/major/movie/null.srf
+User/major/movie/bombcar2.dat User/major/movie/bombcar2.dnm User/major/movie/bombcar2coll.srf User/major/movie/null.srf
+user/major/parking/parking_officer.dat user/major/parking/parking_officer.dnm user/major/parking/parkingcoll.srf user/major/parking/null.srf
+user/major/insurgent/insur1.dat user/major/insurgent/insur1.dnm user/major/insurgent/sol_coll.srf user/major/insurgent/null.srf
+user/major/insurgent/insur2.dat user/major/insurgent/insur2.dnm user/major/insurgent/sol_coll.srf user/major/insurgent/null.srf
+user/major/insurgent/insur3.dat user/major/insurgent/insur3.dnm user/major/insurgent/sol_coll.srf user/major/insurgent/null.srf
+user/major/insurgent/insur4.dat user/major/insurgent/insur4.dnm user/major/insurgent/sol_coll.srf user/major/insurgent/null.srf
+user/major/insurgent/insur5.dat user/major/insurgent/insur5.dnm user/major/insurgent/sol_coll.srf user/major/insurgent/null.srf
+user/major/insurgent/insur6.dat user/major/insurgent/insur6.dnm user/major/insurgent/sol_coll.srf user/major/insurgent/null.srf
+user/major/insurgent/insur7.dat user/major/insurgent/insur7.dnm user/major/insurgent/sol_coll.srf user/major/insurgent/null.srf
+user/major/insurgent/insur8.dat user/major/insurgent/insur8.dnm user/major/insurgent/sol_coll.srf user/major/insurgent/null.srf
+user/major/insurgent/insur9.dat user/major/insurgent/insur9.dnm user/major/insurgent/sol_coll.srf user/major/insurgent/null.srf
+user/major/insurgent/insur0.dat user/major/insurgent/insur0.dnm user/major/insurgent/sol_coll.srf user/major/insurgent/null.srf
+user/major/insurgent/terrorist.dat user/major/insurgent/terrorist.dnm user/major/insurgent/sol_coll.srf user/major/insurgent/null.srf
+
+user/major/apache/ah64d_joanna.dat user/major/apache/ah64d_joanna.dnm user/major/apache/ah64_coll_h.srf user/major/apache/ah64_cock_h.srf
+user/major/jetranger/lapdchopper.dat user/major/jetranger/lapdchopper.dnm user/major/jetranger/choppercoll.srf user/major/jetranger/null.srf
+user/major/jetranger/actionchopper.dat user/major/jetranger/actionchopper.dnm user/major/jetranger/choppercoll.srf user/major/jetranger/null.srf
+user/major/jetranger/newschopper.dat user/major/jetranger/newschopper.dnm user/major/jetranger/choppercoll.srf user/major/jetranger/null.srf
+user/major/xhfa/r22_1.dat user/major/xhfa/r22_1.dnm user/major/xhfa/r22coll.srf user/major/xhfa/r22cpt.srf user/major/xhfa/r22_1crs.dnm
+user/major/xhfa/r22_2.dat user/major/xhfa/r22_2.dnm user/major/xhfa/r22coll.srf user/major/xhfa/r22cpt.srf user/major/xhfa/r22_2crs.dnm
+user/major/xhfa/r22_3.dat user/major/xhfa/r22_3.dnm user/major/xhfa/r22coll.srf user/major/xhfa/r22cpt.srf user/major/xhfa/r22_3crs.dnm
+user/major/xhfa/r22_4.dat user/major/xhfa/r22_4.dnm user/major/xhfa/r22coll.srf user/major/xhfa/r22cpt.srf user/major/xhfa/r22_4crs.dnm
+user/major/xhfa/r22_5.dat user/major/xhfa/r22_5.dnm user/major/xhfa/r22coll.srf user/major/xhfa/r22cpt.srf user/major/xhfa/r22_5crs.dnm
+user/major/xhfa/r22_6.dat user/major/xhfa/r22_6.dnm user/major/xhfa/r22coll.srf user/major/xhfa/r22cpt.srf user/major/xhfa/r22_6crs.dnm
+user/major/xhfa/r22_7.dat user/major/xhfa/r22_7.dnm user/major/xhfa/r22coll.srf user/major/xhfa/r22cpt.srf user/major/xhfa/r22_7crs.dnm
+user/major/craft/craft.dat user/major/craft/craft.dnm user/major/craft/craftcoll.srf user/major/craft/null.srf
+user/major/craft/craftspecops.dat user/major/craft/craftspecops.dnm user/major/craft/craftcoll.srf user/major/craft/null.srf
+user/major/craft/craftarmy.dat user/major/craft/craftarmy.dnm user/major/craft/craftcoll.srf user/major/craft/null.srf
+user/major/craft/craftgrey.dat user/major/craft/craftgrey.dnm user/major/craft/craftcoll.srf user/major/craft/null.srf
+user/major/orca/orca_blue.dat user/major/orca/orca_blue.dnm user/major/orca/orcacoll.srf user/major/orca/null.srf
+user/major/orca/orca_rus.dat user/major/orca/orca_rus.dnm user/major/orca/orcacoll.srf user/major/orca/null.srf
+user/major/orca/orca_maj.dat user/major/orca/orca_maj.dnm user/major/orca/orcacoll.srf user/major/orca/null.srf
+user/major/orca/orca_maj1.dat user/major/orca/orca_maj1.dnm user/major/orca/orcacoll.srf user/major/orca/null.srf
+user/major/akula/akula_grey.dat user/major/akula/akula_grey.dnm user/major/akula/akula_coll.srf user/major/akula/akula_cpt.srf
+user/major/akula/akula_desert.dat user/major/akula/akula_desert.dnm user/major/akula/akula_coll.srf user/major/akula/akula_cpt.srf
+user/major/akula/akula_jungle.dat user/major/akula/akula_jungle.dnm user/major/akula/akula_coll.srf user/major/akula/akula_cpt.srf
+user/major/akula/akula_snow.dat user/major/akula/akula_snow.dnm user/major/akula/akula_coll.srf user/major/akula/akula_cpt.srf
+user/major/nz/jetboat.dat user/major/nz/jetboat.dnm user/major/nz/null.srf user/major/nz/null.srf
+user/major/pirates/pirateship.dat user/major/pirates/pirateship.dnm user/major/pirates/shipcoll.srf user/major/pirates/null.srf
+user/major/pirates/englishship.dat user/major/pirates/englishship.dnm user/major/pirates/shipcoll.srf user/major/pirates/null.srf
+user/major/pirates/dutchship.dat user/major/pirates/dutchship.dnm user/major/pirates/shipcoll.srf user/major/pirates/null.srf
+user/major/autogiro/giro.dat user/major/autogiro/giro.dnm user/major/autogiro/girocoll.srf user/major/autogiro/null.srf
+user/major/autogiro/giro2.dat user/major/autogiro/giro2.dnm user/major/autogiro/girocoll.srf user/major/autogiro/null.srf
+user/major/weird/b71.dat user/major/weird/b71.dnm user/major/weird/b71coll.srf user/major/weird/b71cpt.srf
+user/major/pigs/J-10_pigkiller.dat user/major/pigs/J-10_pigkiller.dnm user/major/pigs/j10cl.srf user/major/pigs/j10cpt.srf
+user/major/pigs/PIG-29.dat user/major/pigs/PIG-29.dnm user/major/pigs/pigcl.srf user/major/pigs/null.srf
+user/major/pigs/SOW-95.dat user/major/pigs/SOW-95.dnm user/major/pigs/bigpigcl.srf user/major/pigs/null.srf
+user/major/pigs/Bosspig.dat user/major/pigs/Bosspig.dnm user/major/pigs/hugepigcl.srf user/major/pigs/null.srf
+
+user/battle/F-4_blueangels1.dat user/battle/F-4_blueangels1.dnm user/battle/f4cl.srf user/battle/f4cpt.srf
+user/battle/F-4_blueangels2.dat user/battle/F-4_blueangels2.dnm user/battle/f4cl.srf user/battle/f4cpt.srf
+user/battle/F-4_blueangels3.dat user/battle/F-4_blueangels3.dnm user/battle/f4cl.srf user/battle/f4cpt.srf
+user/battle/F-4_blueangels4.dat user/battle/F-4_blueangels4.dnm user/battle/f4cl.srf user/battle/f4cpt.srf
+user/battle/F-4_blueangels5.dat user/battle/F-4_blueangels5.dnm user/battle/f4cl.srf user/battle/f4cpt.srf
+user/battle/F-4_blueangels6.dat user/battle/F-4_blueangels6.dnm user/battle/f4cl.srf user/battle/f4cpt.srf
+user/battle/SD_F-4_blueangels1.dat user/battle/SD_F-4_blueangels1.dnm user/battle/sdf4cl.srf user/battle/sdf4cpt.srf
+user/battle/SD_F-4_blueangels2.dat user/battle/SD_F-4_blueangels2.dnm user/battle/sdf4cl.srf user/battle/sdf4cpt.srf
+user/battle/SD_F-4_blueangels3.dat user/battle/SD_F-4_blueangels3.dnm user/battle/sdf4cl.srf user/battle/sdf4cpt.srf
+user/battle/SD_F-4_blueangels4.dat user/battle/SD_F-4_blueangels4.dnm user/battle/sdf4cl.srf user/battle/sdf4cpt.srf
+user/battle/SD_F-4_blueangels5.dat user/battle/SD_F-4_blueangels5.dnm user/battle/sdf4cl.srf user/battle/sdf4cpt.srf
+user/battle/SD_F-4_blueangels6.dat user/battle/SD_F-4_blueangels6.dnm user/battle/sdf4cl.srf user/battle/sdf4cpt.srf
+user/battle/swift1_RUSSIA.dat user/battle/swift1_RUSSIA.dnm user/battle/mig29cl.srf user/battle/mig29cpt.srf
+user/battle/swiftub_RUSSIA.dat user/battle/swiftub_RUSSIA.dnm user/battle/mig29cl.srf user/battle/mig29ubcpt.srf
+user/battle/swift1_SD_RUSSIA.dat user/battle/swift1_SD_RUSSIA.dnm user/battle/mig29cl.srf user/battle/mig29sdcpt.srf
+user/battle/swiftub_SD_RUSSIA.dat user/battle/swiftub_SD_RUSSIA.dnm user/battle/mig29cl.srf user/battle/mig29ubsdcpt.srf
+user/battle/RNAF_F-35B.dat user/battle/RNAF_F-35B.dnm user/battle/f35cl.srf user/battle/f35acpt.srf
+user/battle/F-22_sc.dat user/battle/starscream2.dnm user/battle/f22cl.srf user/battle/null.srf
+user/battle/F-15_sc.dat user/battle/starscream.dnm user/battle/f15cl.srf user/battle/null.srf
+user/battle/yak-141_POLICE.dat user/battle/yak-141_POLICE.dnm user/battle/yak141cl.srf user/battle/yak141cpt.srf
+user/battle/767duck.dat user/battle/767duck.dnm user/battle/767cl.srf user/battle/767cpt.srf
+user/battle/al5.dat user/battle/al5.dnm user/battle/f5cl.srf user/battle/f5cpt.srf
+user/battle/al16.dat user/battle/al16.dnm user/battle/f16cl.srf user/battle/f16cpt.srf
+user/battle/al18.dat user/battle/al18.dnm user/battle/f18ecl.srf user/battle/f18ecpt.srf
+user/battle/al111.dat user/battle/al111.dnm user/battle/f111cl.srf user/battle/f111cpt.srf
+user/battle/al-2000.dat user/battle/al2000.dnm user/battle/typcl.srf user/battle/typcpt.srf
+user/battle/alt.dat user/battle/alt.dnm user/battle/tndcl.srf user/battle/tndcpt.srf
+user/battle/ax21.dat user/battle/ax21.dnm user/battle/mig21mfcl.srf user/battle/mig21mfcpt.srf
+user/battle/ax27.dat user/battle/ax27s.dnm user/battle/su27cl.srf user/battle/axsu27cpt.srf
+user/battle/ax27ub.dat user/battle/ax27ub.dnm user/battle/su27cl.srf user/battle/su30cpt.srf
+user/battle/ax31.dat user/battle/ax31.dnm user/battle/m31cl.srf user/battle/m31cpt.srf
+user/battle/ax32.dat user/battle/ax32.dnm user/battle/su32cl.srf user/battle/su32cpt.srf
+user/battle/axx.dat user/battle/axx.dnm user/battle/amxcl.srf user/battle/amxcpt.srf
+user/battle/xa27.dat user/battle/ax27.dnm user/battle/mig27cl.srf user/battle/mig27cpt.srf
+user/battle/c131.dat user/battle/c-131.dnm user/battle/c130cl.srf user/battle/c130cpt.srf
+user/battle/wig_76.dat user/battle/wig_76.dnm user/battle/a50cl.srf user/battle/a50cpt.srf
+user/battle/j-xx.dat user/battle/j-xx_china.dnm user/battle/jxxcl.srf user/battle/jxxcpt.srf
+user/battle/f-18_tigermeet.dat user/battle/f-18C_tigermeet.dnm user/battle/f18cl.srf user/battle/f18cpt.srf
+user/battle/mrg2000Tigermeet.dat user/battle/mrg2000tigermeet.dnm user/battle/mrg3cl.srf user/battle/mrg3cpt.srf
+user/battle/mrg2000Tigermeetsd.dat user/battle/mrg2000tigermeetsd.dnm user/battle/mrg3clsd.srf user/battle/mrg3sdcpt.srf
+user/battle/rafale_tigermeet.dat user/battle/rafale_tigermeet.dnm user/battle/rafalecl.srf user/battle/rafalecpt.srf
+user/battle/rafale_tigermeetsd.dat user/battle/rafale_tigermeetsd.dnm user/battle/rafalesdcl.srf user/battle/rafalesdcpt.srf
+user/battle/f-14sd.dat user/battle/f-14sd.dnm user/battle/f14sdcl.srf user/battle/f14sdcpt.srf
+user/battle/Navy_a-4_skyhawk.dat user/battle/a-4_skyhawk.dnm user/battle/a4cl.srf user/battle/a4ecpt.srf
+user/battle/Navy_f-8_crusader.dat user/battle/f-8_crusader.dnm user/battle/f8cl.srf user/battle/f8cpt.srf
+user/battle/Navy_a-6_intruder.dat user/battle/a-6_intruder.dnm user/battle/a6cl.srf user/battle/a6cpt.srf
+
+user/major/skymaster/o2_gAC.dat user/major/skymaster/o2_GAC.dnm user/major/skymaster/o2coll.srf user/major/skymaster/o2cpt.srf
+user/major/skymaster/c337_1_gAC.dat user/major/skymaster/c337_1_GAC.dnm user/major/skymaster/o2coll.srf user/major/skymaster/o2cpt.srf
+user/major/skymaster/c337_2_gAC.dat user/major/skymaster/c337_2_GAC.dnm user/major/skymaster/o2coll.srf user/major/skymaster/o2cpt.srf
+user/major/skymaster/c337_3_gAC.dat user/major/skymaster/c337_3_GAC.dnm user/major/skymaster/o2coll.srf user/major/skymaster/o2cpt.srf
+user/major/galaxy/c-5_USA.dat user/major/galaxy/c-5_USA.dnm user/major/galaxy/c5coll.srf user/major/galaxy/c5cpt.srf
+user/major/shafaq/shafaq.dat user/major/shafaq/shafaq.dnm user/major/shafaq/shafaqcoll.srf user/major/shafaq/null.srf
+user/major/shafaq/shafaq_Iran.dat user/major/shafaq/shafaq2.dnm user/major/shafaq/shafaqcoll.srf user/major/shafaq/shafaqcpt.srf
+user/major/pakfa/t-50_russia.dat user/major/pakfa/t-50_russia.dnm user/major/pakfa/t50coll.srf user/major/pakfa/t50cpt.srf
+user/major/pakfa/t-50_2_russia.dat user/major/pakfa/t-50_2_russia.dnm user/major/pakfa/t50coll2.srf user/major/pakfa/t50cpt.srf
+user/major/pakfa/mig_i-2000_russia.dat user/major/pakfa/migi2000_gac.dnm user/major/pakfa/i2000coll.srf user/major/pakfa/i2000cpt.srf
+user/major/pakfa/mig_i-2000.dat user/major/pakfa/migi2000.dnm user/major/pakfa/i2000coll.srf user/major/pakfa/null.srf
+user/major/formulays/ysmajor.dat user/major/formulays/ysmajor.dnm user/major/formulays/f1coll.srf user/major/formulays/null.srf user/major/formulays/ysmaj_coarse.dnm
+user/major/formulays/ysferrari.dat user/major/formulays/ysferrari.dnm user/major/formulays/f1coll.srf user/major/formulays/null.srf user/major/formulays/ysfer_coarse.dnm
+user/major/formulays/ysbenetton.dat user/major/formulays/ysbenetton.dnm user/major/formulays/f1coll.srf user/major/formulays/null.srf user/major/formulays/ysben_coarse.dnm
+user/major/formulays/ysjordan.dat user/major/formulays/ysjordan.dnm user/major/formulays/f1coll.srf user/major/formulays/null.srf user/major/formulays/ysjor_coarse.dnm
+user/major/formulays/ysmclaren.dat user/major/formulays/ysmclaren.dnm user/major/formulays/f1coll.srf user/major/formulays/null.srf user/major/formulays/ysmac_coarse.dnm 
+user/major/formulays/ysjoanna.dat user/major/formulays/ysjoanna.dnm user/major/formulays/f1coll.srf user/major/formulays/null.srf user/major/formulays/ysjo_coarse.dnm
+user/major/formulays/ysredbull.dat user/major/formulays/ysredbull.dnm user/major/formulays/f1coll.srf user/major/formulays/null.srf user/major/formulays/ysbull_coarse.dnm
+user/major/formulays/ysstar.dat user/major/formulays/ysstar.dnm user/major/formulays/f1coll.srf user/major/formulays/null.srf user/major/formulays/ysstar_coarse.dnm
+user/major/formulays/ysnavy.dat user/major/formulays/ysnavy.dnm user/major/formulays/f1coll.srf user/major/formulays/null.srf user/major/formulays/ysnav_coarse.dnm
+user/major/formulays/ysusaf.dat user/major/formulays/ysusaf.dnm user/major/formulays/f1coll.srf user/major/formulays/null.srf user/major/formulays/ysusaf_coarse.dnm
+user/major/a10/cheatplane.dat user/major/a10/cheatplane.dnm user/major/a10/a10coll.srf user/major/a10/a10cpt2.srf

@@ -1,0 +1,24 @@
+
+機体追加方法
+
+１．解凍してできた「F-20A」ファイルをYS FLIGHT SIMULATION SYSTEM 2000のUserファイル(なければ新規作成)に移してください。
+
+
+２．次の3行を、aircraftフォルダの中にあるaircraft.listファイルにコピー＆ペーストしてください。
+
+
+User/cep/cep_2/F-20A/F-20A_01.dat  User/cep/cep_2/F-20A/F-20A_01.dnm  User/cep/cep_2/F-20A/F-20Acool.srf User/cep/cep_2/F-20A/F-20Acockpit.srf  User/cep/cep_2/F-20A/F-20A_01coarse.srf
+User/cep/cep_2/F-20A/F-20A_02.dat  User/cep/cep_2/F-20A/F-20A_02.dnm  User/cep/cep_2/F-20A/F-20Acool.srf User/cep/cep_2/F-20A/F-20Acockpit.srf  User/cep/cep_2/F-20A/F-20A_02coarse.srf
+User/cep/cep_2/F-20A/F-20A_03.dat  User/cep/cep_2/F-20A/F-20A_03.dnm  User/cep/cep_2/F-20A/F-20Acool.srf User/cep/cep_2/F-20A/F-20Acockpit.srf  User/cep/cep_2/F-20A/F-20A_03coarse.srf
+
+
+
+
+備考：赤カラーにはパイロットを乗せておりません。(デモ塗装でさらに重くなりそうだったから)
+　　　またマーキング類は、容量節約のため多少省いている箇所があります。予めご了承ください。
+
+
+
+注：このデータは、ご自身の責任において使用してください。
+　　ＹＳＦＳ製作者・山川氏とは無関係です。
+　　何があっても問い合わせないようお願いします。

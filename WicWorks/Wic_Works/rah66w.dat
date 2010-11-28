@@ -1,0 +1,156 @@
+IDENTIFY "[241st]rah-66_comanche"
+CATEGORY ATTACKER
+AIRCLASS HELICOPTER
+AFTBURNR FALSE                 #HAVE AFTERBURNER?
+PROPELLR 2880HP                #PROPELLER ENGINE
+PROPEFCY 0.65                  #Propeller efficiency
+PROPVMIN 20m/s                 #Minimum speed that T=P/V becomes valid
+WEIGHCLN 3.53t                 #WEIGHT CLEAN
+WEIGFUEL 1.0t                 #WEIGHT OF FUEL
+WEIGLOAD 1.45t                 #WEIGHT OF PAYLOAD
+FUELMILI 0.14kg                #FUEL CONSUMPTION AT MILITARY POWER
+
+COCKPITP 0m  1.2m  2.5m  #COCKPIT POSITION
+EXCAMERA "GUNNER1" 0.0m  1.50m  1.15m 0deg 0deg 0deg INSIDE
+EXCAMERA "GUNNER2" -3.3m  0.72m  -2.45m -30deg -20deg 0deg OUTSIDE
+LEFTGEAR -1.23m -0.94m  1.25m  #LEFT LANDING GEAR POSITION
+RIGHGEAR 1.23m -0.94m  1.25m  #RIGHT LANDING GEAR POSITION
+WHELGEAR  0.0m -0.56m -5.93m  #WHEEL POSITION
+ARRESTER  0.0m -0.56m -5.93m
+MACHNGUN 0m 0m  0m  #MACHINE GUN POSITION
+SMOKEGEN -0.47m  0.53m -5.19m  #SMOKE GENERATOR POSITION
+VAPORPO0  1.53m  2.8m -8.31m  #VAPOR POSITION (Wings Swept Back or no-VGW)
+VAPORPO1  1.23m  2.8m -8.31m 
+HTRADIUS 9.0m                #OUTSIDE SPHERE RADIUS
+
+STRENGTH 10
+
+CRITAOAP  20deg               #CRITICAL AOA POSITIVE
+CRITAOAM -15deg               #CRITICAL AOA NEGATIVE
+
+CRITSPED 270km/h              #CRITICAL SPEED
+MAXSPEED 330km/h              #MAXIMUM SPEED
+HASSPOIL TRUE                #HAS SPOILER?
+RETRGEAR TRUE                #HAS RETRACTABLE LANDING GEAR?
+VARGEOMW FALSE                #HAS VARIABLE GEOMETRY WING?
+
+VGWSPED1 1kt
+VGWSPED2 2kt
+
+CLVARGEO 0.0                  #EFFECT OF VARIABLE GEOMETRY WING FOR Cl
+CDVARGEO 0.0                  #EFFECT OF VARIABLE GEOMETRY WING FOR Cd
+CLBYFLAP 0.0                  #EFFECT OF FLAP FOR Cl
+CDBYFLAP 0.0                  #EFFECT OF FLAP FOR Cd
+CDBYGEAR 0.5                  #EFFECT OF GEAR FOR Cd
+CDSPOILR 50.0                  #EFFECT OF SPOILER FOR Cd
+
+WINGAREA 1m^2                 #WING AREA  1m^2 for a helicopter
+
+MXIPTAOA 0.0deg               #MAX INPUT AOA
+MXIPTSSA 0.0deg               #MAX INPUT SSA
+MXIPTROL 0.0deg               #MAX INPUT ROLL
+
+REM CPITMANE corresponds to Spring Constant K
+REM CPITSTAB corresponds to Damper Constant B
+REM To be critically damped, B=2*sqrt(K)
+REM 2% Settling Time=??
+
+MANESPD1 60kt                 #MINIMUM MANEUVABLE SPEED
+MANESPD2 120kt                #FULLY MANEUVABLE SPEED
+CPITMANE 5.0                  #PITCH MANEUVERBILITY CONSTANT
+CPITSTAB 2.0                  #PITCH STABILITY CONSTANT
+CYAWMANE 5.0                  #YAW MANEUVABILITY CONSTANT
+CYAWSTAB 2.0                  #YAW STABILITY CONSTANT
+CROLLMAN 5.0                  #ROLL MANEUVABILITY CONSTANT
+
+
+TRSTVCTR TRUE                 #HAS THRUST VECTORING CAPABILITY?
+TRSTDIR0 0.0m 1.0m 0.09m       #Thrust vector 0
+TRSTDIR1 0.0m 1.0m 0.09m       #Thrust vector 1
+PSTMPTCH 60deg                #Post-Stall Maneuver VPitch
+PSTMYAW_ 60deg                #Post-Stall Maneuver VYaw
+PSTMROLL 100deg                #Post-Stall Maneuver VRoll
+
+CTLLDGEA TRUE                 #CONTROL LANDINGGEAR
+CTLBRAKE FALSE                #CONTROL BRAKE
+CTLSPOIL 0.0                  #CONTROL SPOILER
+CTLABRNR FALSE                #CONTROL AFTERBURNER
+CTLTHROT 0.0                  #CONTROL THRUST
+CTLIFLAP 0.0                  #CONTROL FLAP
+CTLINVGW 0.0                  #CONTROL VARIABLE GEOMETRY WING
+CTLATVGW FALSE                #CONTROL AUTO VARIABLE GEOMETRY WING
+
+POSITION 0m 3ft 0m           #POSITION
+ATTITUDE 45deg 0deg 0deg      #ATTITUDE
+INITFUEL 75%                  #INITIAL FUEL
+INITLOAD 0.0t                 #INITIAL PAYLOAD
+INITSPED 0.0MACH              #INITIAL SPEED
+
+
+
+AGMSLOT_  1.03m -0.06m -0.2m
+AGMSLOT_ -1.03m -0.06m -0.2m
+AGMSLOT_  1.24m 0.0m -0.2m
+AGMSLOT_ -1.24m 0.0m -0.2m
+HRDPOINT -1.4m -0.03m -0.2m AIM9
+HRDPOINT  1.4m -0.03m -0.2m AIM9
+HRDPOINT -1.4m -0.16m -0.2m AIM9
+HRDPOINT  1.4m -0.16m -0.2m AIM9
+
+AGMVISIB FALSE
+AAMVISIB FALSE
+LMTBYHDP TRUE
+MAXNMAGM 4
+LMTBYHDP TRUE                 #Limit Max Num Weapon by Hardpoint
+GUNPOWER 3
+INITIGUN 0                #INITIAL GUN
+LOADWEPN AGM65 4
+LOADWEPN AIM9 4
+
+NMTURRET 3
+TURRETPO 0 0.0m -0.6m  3.9m 0deg 0deg 0deg      # Number x y z h p b
+TURRETPT 0 -30deg 10deg 10deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 0 -52deg 52deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 0 1500                              # Ammo
+TURRETIV 0 0.04sec                           # Number ShootingInterval
+TURRETNM 0 TURRET1                               # DNM Node Name
+TURRETAR 0                                   # Anti Air Capable
+REM TURRETGD 0                                   # Anti Ground Capable
+TURRETCT 0 PILOT                             # Controlled by the pilot
+TURRETRG 0 2000m
+
+TURRETPO 1 -0.03m -1.6m  2.45m 0deg 0deg 0deg      # Number x y z h p b
+TURRETPT 1 0deg 0deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 1 -60deg 60deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 1 0                              # Ammo
+TURRETIV 1 0.01sec                           # Number ShootingInterval
+TURRETNM 1 flir                               # DNM Node Name
+TURRETAR 1                                   # Anti Air Capable
+REM TURRETGD 1                                   # Anti Ground Capable
+TURRETCT 1 PILOT                             # Controlled by the pilot
+TURRETRG 1 0m
+
+TURRETPO 2 -0.03m -1.6m  2.45m 0deg 0deg 0deg      # Number x y z h p b
+TURRETPT 2 0deg 0deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 2 -60deg 60deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 2 0                              # Ammo
+TURRETIV 2 0.01sec                           # Number ShootingInterval
+TURRETNM 2 P11                               # DNM Node Name
+TURRETAR 2                                   # Anti Air Capable
+REM TURRETGD 2                                   # Anti Ground Capable
+TURRETCT 2 PILOT                             # Controlled by the pilot
+TURRETRG 2 0m
+
+RADARCRS 0.1                  #RADAR CROSS SECTION
+
+REFVCRUS 310km/h              #CRUISING SPEED
+REFACRUS 3000ft               #CRUISING ALTITUDE
+REFTCRUS 0.9                  #CRUISING THROTTLE SETTING
+
+REM ClSlope,CdConst is fixed by Landing condition
+REFVLAND 0kt                 #LANDING SPEED
+REFAOALD 0deg                #LANDING AOA
+REFLNRWY 5m                #RUNWAY REQUIRED TO STOP
+REFTHRLD 0                   #LANDING THROTTLE SETTING
+
+AUTOCALC

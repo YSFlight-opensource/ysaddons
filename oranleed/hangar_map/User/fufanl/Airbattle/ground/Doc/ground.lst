@@ -1,0 +1,31 @@
+
+Ground:
+user/fufanl/airbattle/ground/airmim.dat user/fufanl/airbattle/ground/airmim.srf user/fufanl/airbattle/ground/airmim.srf
+user/fufanl/airbattle/ground/bf109.dat user/fufanl/airbattle/ground/bf109.srf user/fufanl/airbattle/ground/bf109_coll.srf
+user/fufanl/airbattle/ground/contr.dat user/fufanl/airbattle/ground/contr.srf user/fufanl/airbattle/ground/contr.srf
+user/fufanl/airbattle/ground/contr1.dat user/fufanl/airbattle/ground/contr1.srf user/fufanl/airbattle/ground/contr1.srf
+user/fufanl/airbattle/ground/flak88.dat user/fufanl/airbattle/ground/flak88.srf user/fufanl/airbattle/ground/flak88.srf
+user/fufanl/airbattle/ground/flak88_sh.dat user/fufanl/airbattle/ground/flak88_sh.srf user/fufanl/airbattle/ground/flak88_sh.srf
+user/fufanl/airbattle/ground/fw190.dat user/fufanl/airbattle/ground/fw190.srf user/fufanl/airbattle/ground/fw190_coll.srf
+user/fufanl/airbattle/ground/garage01.dat user/fufanl/airbattle/ground/garage01.srf user/fufanl/airbattle/ground/garage01.srf
+user/fufanl/airbattle/ground/hangar_c.dat user/fufanl/airbattle/ground/hangar_c.srf user/fufanl/airbattle/ground/hangar_c.srf
+user/fufanl/airbattle/ground/hangar_l.dat user/fufanl/airbattle/ground/hangar_l.srf user/fufanl/airbattle/ground/hangar_l.srf
+user/fufanl/airbattle/ground/hangar_la.dat user/fufanl/airbattle/ground/hangar_la.srf user/fufanl/airbattle/ground/hangar_la.srf
+user/fufanl/airbattle/ground/hangar_lab.dat user/fufanl/airbattle/ground/hangar_lab.srf user/fufanl/airbattle/ground/hangar_lab.srf
+user/fufanl/airbattle/ground/hangard.dat user/fufanl/airbattle/ground/hangard.srf user/fufanl/airbattle/ground/hangard.srf
+user/fufanl/airbattle/ground/hangard_1.dat user/fufanl/airbattle/ground/hangard_1.srf user/fufanl/airbattle/ground/hangard_1.srf
+user/fufanl/airbattle/ground/hangard_2.dat user/fufanl/airbattle/ground/hangard_2.srf user/fufanl/airbattle/ground/hangard_2.srf
+user/fufanl/airbattle/ground/hangard_3.dat user/fufanl/airbattle/ground/hangard_3.srf user/fufanl/airbattle/ground/hangard_3.srf
+user/fufanl/airbattle/ground/hangard_4.dat user/fufanl/airbattle/ground/hangard_4.srf user/fufanl/airbattle/ground/hangard_4.srf
+user/fufanl/airbattle/ground/hangarmim.dat user/fufanl/airbattle/ground/hangarmim.srf user/fufanl/airbattle/ground/hangarmim.srf
+user/fufanl/airbattle/ground/ju87.dat user/fufanl/airbattle/ground/ju87.srf user/fufanl/airbattle/ground/ju87_coll.srf
+user/fufanl/airbattle/ground/ju87_g.dat user/fufanl/airbattle/ground/ju87_g.srf user/fufanl/airbattle/ground/ju87_g.srf
+user/fufanl/airbattle/ground/ju88.dat user/fufanl/airbattle/ground/ju88.srf user/fufanl/airbattle/ground/ju88_coll.srf
+user/fufanl/airbattle/ground/ju88_g.dat user/fufanl/airbattle/ground/ju88_g.srf user/fufanl/airbattle/ground/ju88_g.srf
+user/fufanl/airbattle/ground/tower_al1.dat user/fufanl/airbattle/ground/tower_al1.srf user/fufanl/airbattle/ground/tower_al1.srf
+
+
+
+
+Scenery:
+GREAT_AIRBATTLE User/fufanl/airbattle/england.fld User/fufanl/airbattle/england.stp User/fufanl/airbattle/england.yfs

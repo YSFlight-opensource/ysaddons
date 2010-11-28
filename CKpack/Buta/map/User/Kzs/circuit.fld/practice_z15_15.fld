@@ -1,0 +1,23 @@
+FIELD
+SKY 37 123 209
+GND 102 153 51
+
+PC2
+FIL practice_z15.pc2
+POS 0.00 0.00 12.5 0 0 0
+END
+PC2
+FIL practice_z15.pc2
+POS 0.00 0.00 -12.50 0 0 0
+END
+
+PC2
+FIL practice_z15.pc2
+POS -12.50 0.00 0.00 16384 0 0
+END
+PC2
+FIL practice_z15.pc2
+POS 12.50 0.00 0.00 16384 0 0
+END
+
+ENDF

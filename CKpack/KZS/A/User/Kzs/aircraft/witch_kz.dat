@@ -1,0 +1,134 @@
+REM Witch ride on the Magic-Broom
+
+REM "witch_kz.dat/witch_kz.dnm/witch_kz_cockpit.srf/witch_kz_coll.srf/witch_kz_coarse.dnm"
+REM    were Created by Kzs.(kazu3613@dc.mbn.or.jp)
+REM Copyright 2002-2003 Kzs(kazu3613@dc.mbn.or.jp) all rights reserved.
+
+IDENTIFY "[Kzs]_WITCH"
+CATEGORY NORMAL
+
+AFTBURNR TRUE                 #HAVE AFTERBURNER?
+THRAFTBN 3.00t                #THRUST WITH AFTERBURNER
+THRMILIT 1.75t                #THRUST AT MILITARY POWER
+WEIGHCLN 0.05t                #WEIGHT CLEAN
+WEIGFUEL 0.10t                #WEIGHT OF FUEL
+WEIGLOAD 5.00t                #WEIGHT OF PAYLOAD [3.00t]
+FUELABRN 0.10kg               #FUEL CONSUMPTION WHEN USING AFTERBURNER
+FUELMILI 0.02kg               #FUEL CONSUMPTION AT MILITARY POWER
+
+COCKPITP -0.02m  0.60m  0.05m #COCKPIT POSITION
+LEFTGEAR -0.46m -1.00m -0.24m #LEFT LANDING GEAR POSITION
+RIGHGEAR  0.46m -1.00m -0.24m #RIGHT LANDING GEAR POSITION
+WHELGEAR  0.00m -1.00m  0.24m #WHEEL POSITION
+ARRESTER  0.00m -0.95m  0.00m #ARRESTING HOOK POSITION
+MACHNGUN  0.00m  0.00m  1.00m #MACHINE GUN POSITION
+SMOKEGEN  0.00m  0.00m -0.80m #SMOKE GENERATOR POSITION
+VAPORPO0  0.24m  0.00m -0.76m #VAPOR POSITION (Wings Swept back)
+VAPORPO1  0.00m  0.00m -0.80m #VAPOR POSITION (Wings Spread)
+HTRADIUS  1.75m               #OUTSIDE SPHERE RADIUS
+
+STRENGTH 1
+
+CRITAOAP  32.5deg             #CRITICAL AOA POSITIVE [20deg]
+CRITAOAM -18.0deg             #CRITICAL AOA NEGATIVE [-15deg]
+
+CRITSPED 240kt                #CRITICAL SPEED
+MAXSPEED 360kt                #MAXIMUM SPEED
+
+HASSPOIL TRUE                 #HAS SPOILER?
+RETRGEAR TRUE                 #HAS RETRACTABLE LANDING GEAR?
+VARGEOMW TRUE                 #HAS VARIABLE GEOMETRY WING?
+
+VGWSPED1 315kt                # [285kt]
+VGWSPED2 325kt                # [295kt]
+
+CLVARGEO 0.00                 #EFFECT OF VARIABLE GEOMETRY WING FOR Cl
+CDVARGEO 0.00                 #EFFECT OF VARIABLE GEOMETRY WING FOR Cd
+CLBYFLAP 0.40                 #EFFECT OF FLAP FOR Cl
+CDBYFLAP 0.05                 #EFFECT OF FLAP FOR Cd
+CDBYGEAR 0.10                 #EFFECT OF GEAR FOR Cd
+CDSPOILR 1.25                 #EFFECT OF SPOILER FOR Cd
+
+WINGAREA 6m^2                 #WING AREA [4m^2]
+
+MXIPTAOA  23.0deg             #MAX INPUT AOA
+MXIPTSSA   5.0deg             #MAX INPUT SSA
+MXIPTROL 360.0deg             #MAX INPUT ROLL
+
+REM CPITMANE corresponds to Spring Constant K
+REM CPITSTAB corresponds to Damper Constant B
+REM To be critically damped, B=2*sqrt(K)
+REM 2% Settling Time=??
+
+MANESPD1 20kt                 #MINIMUM MANEUVABLE SPEED [10kt]
+MANESPD2 30kt                 #FULLY MANEUVABLE SPEED   [25kt]
+CPITMANE 8.0                  #PITCH MANEUVERBILITY CONSTANT
+CPITSTAB 2.0                  #PITCH STABILITY CONSTANT
+CYAWMANE 5.0                  #YAW MANEUVABILITY CONSTANT
+CYAWSTAB 3.0                  #YAW STABILITY CONSTANT
+CROLLMAN 3.0                  #ROLL MANEUVABILITY CONSTANT
+
+CTLLDGEA TRUE                 #CONTROL LANDINGGEAR
+CTLBRAKE FALSE                #CONTROL BRAKE
+CTLSPOIL 0.0                  #CONTROL SPOILER
+CTLABRNR FALSE                #CONTROL AFTERBURNER
+CTLTHROT 0.0                  #CONTROL THRUST
+CTLIFLAP 0.0                  #CONTROL FLAP
+CTLINVGW 1.0                  #CONTROL VARIABLE GEOMETRY WING
+CTLATVGW TRUE                 #CONTROL AUTO VARIABLE GEOMETRY WING
+
+POSITION 0m 3ft 0m            #POSITION
+ATTITUDE 45deg 0deg 0deg      #ATTITUDE
+INITFUEL 100%                 #INITIAL FUEL
+INITLOAD 0.0t                 #INITIAL PAYLOAD
+INITSPED 0.0MACH              #INITIAL SPEED
+
+GUNPOWER 5
+
+INITIGUN 3000                 #INITIAL GUN
+INITIAAM 0                    #INITIAL AAM
+INITIAGM 0                    #INITIAL AGM
+INITBOMB 0                    #INITIAL BOMB
+INITRCKT 0                    #INITIAL ROCKET (10kg/each)
+
+REM SMOKEOIL 0.001kg
+
+MAXNMAAM 2
+MAXNMAGM 2
+MAXNBOMB 2
+MAXNMRKT 10
+
+AAMVISIB FALSE
+AAMSLOT_  0.00m -0.30m 0.00m
+REM AAMSLOT_ -0.00m -0.30m 0.00m
+
+AGMVISIB FALSE
+AGMSLOT_  0.00m -0.30m 0.00m
+REM AGMSLOT_ -0.00m -0.30m 0.00m
+
+BOMVISIB FALSE
+BOMBSLOT  0.00m -0.30m 0.00m
+REM BOMBSLOT -0.00m -0.30m 0.00m
+
+RKTVISIB FALSE
+RKTSLOT_  0.00m -0.30m 0.00m
+REM RKTSLOT_ -0.00m -0.30m 0.00m
+
+
+
+RADARCRS 0.05                 #RADAR CROSS SECTION
+
+
+
+REM ClZero,CdZero is fixed by Cruising condition
+REFVCRUS 280kt                #CRUISING SPEED
+REFACRUS 2500ft               #CRUISING ALTITUDE
+REFTCRUS 0.80                 #CRUISING THROTTLE SETTING
+
+REM ClSlope,CdConst is fixed by Landing condition
+REFVLAND 100kt                #LANDING SPEED [70kt]
+REFAOALD 20deg                #LANDING AOA                  [max:60.75deg, visual-max:44.48deg]
+REFLNRWY 100m                 #RUNWAY REQUIRED TO STOP [15m]
+REFTHRLD 0.3                  #LANDING THROTTLE SETTING
+
+AUTOCALC

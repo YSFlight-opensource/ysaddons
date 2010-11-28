@@ -1,0 +1,127 @@
+REM Original from Skipper
+REM repaint by YS Major
+
+IDENTIFY "RNAF_CHINOOK"
+CATEGORY NORMAL
+AIRCLASS HELICOPTER
+
+AFTBURNR FALSE                #HAVE AFTERBURNER?
+PROPELLR 8000HP               #PROPELLER ENGINE
+PROPEFCY 0.85                 #Propeller efficiency
+PROPVMIN 20m/s                #Minimum speed that T=P/V becomes valid
+WEIGHCLN 10.9t                #WEIGHT CLEAN
+WEIGFUEL 3.23t                #WEIGHT OF FUEL
+WEIGLOAD 11.8t                #WEIGHT OF PAYLOAD
+FUELMILI 0.13kg               #FUEL CONSUMPTION AT MILITARY POWER
+
+COCKPITP 0.53m  0.65m  6.32m  #COCKPIT POSITION
+INSTPANL user/major/klu/chinook.ist
+EXCAMERA "CO-PILOT" -0.53m  0.65m  6.32m 0deg 0deg 0deg INSIDE
+EXCAMERA "Overall" 0.0m  7.0m  -10m 0deg -20deg 0deg INSIDE
+EXCAMERA "gunner1" 0.0m  1.0m  -3.0m 180deg 0deg 0deg INSIDE
+EXCAMERA "loadmaster" 0.0m  0.5m  4.5m -90deg 0deg 0deg INSIDE
+EXCAMERA "outside1" 6.0m  0.0m  0.0m 45deg 0deg 0deg INSIDE
+EXCAMERA "under" 0.0m  -1.2m  0.0m 0deg 0deg 0deg INSIDE
+LEFTGEAR -1.46m -1.70m 1.78m  #LEFT LANDING GEAR POSITION
+RIGHGEAR  1.46m -1.70m 1.78m  #RIGHT LANDING GEAR POSITION
+WHELGEAR  1.47m -1.07m -4.90m  #WHEEL POSITION
+ARRESTER  0.00m -1.05m -4.96m
+VAPORPO0  0.00m  2.94m -10.99m #VAPOR POSITION (Wings Swept Back or no-VGW)
+VAPORPO0 -1.48m  2.39m -4.60m  #VAPOR POSITION (Wings Swept Back or no-VGW)
+HTRADIUS 7.5m                 #OUTSIDE SPHERE RADIUS
+
+TRIGGER1 GUN
+TRIGGER2 AAM
+TRIGGER3 AGM
+TRIGGER4 SMK
+
+STRENGTH 20
+
+CRITAOAP  22deg               #CRITICAL AOA POSITIVE
+CRITAOAM -15deg               #CRITICAL AOA NEGATIVE
+
+CRITSPED 159kt                #CRITICAL SPEED
+MAXSPEED 159kt                #MAXIMUM SPEED
+
+HASSPOIL TRUE                 #HAS SPOILER?
+RETRGEAR FALSE                 #HAS RETRACTABLE LANDING GEAR?
+VARGEOMW TRUE                #HAS VARIABLE GEOMETRY WING?
+
+TRSTVCTR TRUE                 #HAS THRUST VECTORING CAPABILITY?
+TRSTDIR0 0.0m 5.0m 0.4m       #Thrust vector 0
+TRSTDIR1 0.0m 5.0m 0.4m       #Thrust vector 1
+PSTMPTCH 40deg                #Post-Stall Maneuver VPitch
+PSTMYAW_ 30deg                #Post-Stall Maneuver VYaw
+PSTMROLL 80deg                #Post-Stall Maneuver VRoll
+
+CLVARGEO 0.0                  #EFFECT OF VARIABLE GEOMETRY WING FOR Cl
+CDVARGEO 0.0                  #EFFECT OF VARIABLE GEOMETRY WING FOR Cd
+CLBYFLAP 0.0                  #EFFECT OF FLAP FOR Cl
+CDBYFLAP 0.0                  #EFFECT OF FLAP FOR Cd
+CDBYGEAR 0.0                  #EFFECT OF GEAR FOR Cd
+CDSPOILR 50.0                 #EFFECT OF SPOILER FOR Cd
+
+WINGAREA 1m^2                #WING AREA
+
+MXIPTAOA 60.0deg              #MAX INPUT AOA
+MXIPTSSA 30.0deg              #MAX INPUT SSA
+MXIPTROL 60.0deg              #MAX INPUT ROLL
+
+REM CPITMANE corresponds to Spring Constant K
+REM CPITSTAB corresponds to Damper Constant B
+REM To be critically damped, B=2*sqrt(K)
+REM 2% Settling Time=??
+
+MANESPD1 30kt                 #MINIMUM MANEUVABLE SPEED
+MANESPD2 134kt                #FULLY MANEUVABLE SPEED
+CPITMANE 3.0                 #PITCH MANEUVERBILITY CONSTANT
+CPITSTAB 4.5                  #PITCH STABILITY CONSTANT
+CYAWMANE 1.5                 #YAW MANEUVABILITY CONSTANT
+CYAWSTAB 3.0                  #YAW STABILITY CONSTANT
+CROLLMAN 2.2                  #ROLL MANEUVABILITY CONSTANT
+
+CTLLDGEA TRUE                 #CONTROL LANDINGGEAR
+CTLBRAKE FALSE               #CONTROL BRAKE
+CTLSPOIL 0.0                  #CONTROL SPOILER
+CTLABRNR FALSE                #CONTROL AFTERBURNER
+CTLTHROT 0.0                  #CONTROL THRUST
+CTLIFLAP 0.0                  #CONTROL FLAP
+CTLINVGW 1.0                  #CONTROL VARIABLE GEOMETRY WING
+CTLATVGW FALSE               #CONTROL AUTO VARIABLE GEOMETRY WING
+
+POSITION 0m 3ft 0m            #POSITION
+ATTITUDE 45deg 0deg 0deg      #ATTITUDE
+INITFUEL 80%                  #INITIAL FUEL
+INITLOAD 3.0t                 #INITIAL PAYLOAD
+INITSPED 0.0MACH              #INITIAL SPEED
+
+INITIGUN 0                    #INITIAL GUN
+INITIAAM 0                    #INITIAL AAM
+INITIAGM 0                    #INITIAL AGM
+INITBOMB 0                    #INITIAL BOMB
+INITRCKT 0                    #INITIAL ROCKET (10kg/each)
+
+NMTURRET 1
+TURRETPO 0 -0.07m 0.23m 0.7m 180deg 0deg 90deg      # Number x y z h p b
+TURRETPT 0 -60deg 60deg 0deg                # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 0 0deg 180deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 0 500000                              # Ammo
+TURRETIV 0 0.005sec                            # Number ShootingInterval
+TURRETNM 0 minigun                         # DNM Node Name
+TURRETAR 0                                   # Anti Air Capable
+TURRETGD 0                                   # Anti Ground Capable
+TURRETCT 0 GUNNER                            # Controlled by PILOT or GUNNER
+TURRETRG 0 8000m
+
+REM ClZero,CdZero is fixed by Cruising condition
+REFVCRUS 134kt               #CRUISING SPEED
+REFACRUS 3000ft              #CRUISING ALTITUDE
+REFTCRUS 0.8                 #CRUISING THROTTLE SETTING
+
+REM ClSlope,CdConst is fixed by Landing condition
+REFVLAND 0kt                 #LANDING SPEED
+REFAOALD 0deg                #LANDING AOA
+REFLNRWY 20m                 #RUNWAY REQUIRED TO STOP
+REFTHRLD 0                   #LANDING THROTTLE SETTING
+
+AUTOCALC

@@ -1,0 +1,47 @@
+IDENTIFY S_us_carrier
+HTRADIUS 120m
+STRENGTH 23
+INITIGUN 0
+INITISAM 0
+MAXSPEED 20kt
+MAXROTAT 5deg
+MINAIMPI 20deg
+MAXAIMPI 85deg
+AIMROTAT 18deg
+AIMPITCH 18deg
+GUNRANGE 2800ft
+CARRIER user/major/scenery/ground/us_carr.acp
+MINIDAMG 5
+GRNDTYPE NAVYSHIP
+
+NMTURRET 4
+
+TURRETPO 1 14.70m 8.70m 88.55m 90deg 0deg 0deg   # Number x y z h p b
+TURRETPT 1 25deg 90deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 1 -60deg 60deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 1 10000                              # Ammo
+TURRETIV 1 0.250sec                              # Number ShootingInterval
+TURRETAR 1                                   # Anti Air Capable
+TURRETCT 1 GUNNER                            # Controlled by PILOT or GUNNER
+TURRETRG 1 800m
+TURRETPW 1 1
+
+TURRETPO 2 14.70m 8.70m -62.70m 90deg 0deg 0deg   # Number x y z h p b
+TURRETPT 2 25deg 90deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 2 -60deg 60deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 2 10000                              # Ammo
+TURRETIV 2 0.250sec                              # Number ShootingInterval
+TURRETAR 2                                   # Anti Air Capable
+TURRETCT 2 GUNNER                            # Controlled by PILOT or GUNNER
+TURRETRG 2 800m
+TURRETPW 2 1
+
+TURRETPO 3 -14.70m 8.70m 88.55m -90deg 0deg 0deg   # Number x y z h p b
+TURRETPT 3 25deg 90deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 3 -60deg 60deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 3 10000                              # Ammo
+TURRETIV 3 0.250sec                              # Number ShootingInterval
+TURRETAR 3                                   # Anti Air Capable
+TURRETCT 3 GUNNER                            # Controlled by PILOT or GUNNER
+TURRETRG 3 800m
+TURRETPW 3 1

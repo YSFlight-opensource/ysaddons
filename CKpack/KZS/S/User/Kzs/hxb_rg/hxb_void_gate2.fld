@@ -1,0 +1,16 @@
+FIELD
+SKY 25 25 25
+GND 38 38 38
+FLD
+FIL hxb_void_lay1.fld
+POS 0.00 0.00 2000.00 0 -16384 0
+END
+FLD
+FIL hxb_void_lay2.fld
+POS 0.00 0.00 -1500.00 0 -16384 0
+END
+FLD
+FIL hxb_blackbox.fld
+POS 0.00 0.00 2000.00 0 0 0
+END
+ENDF

@@ -1,0 +1,100 @@
+user/yuichi/ground/carrier.dat ground/carrier_visual.dnm ground/carrier_coll.srf
+user/yuichi/ground/shelter.dat user/yuichi/ground/shelter.srf user/yuichi/ground/shelter.srf
+user/yuichi/ground/office.dat user/yuichi/ground/office.srf user/yuichi/ground/office.srf
+user/yuichi/ground/export.dat user/yuichi/ground/export.srf user/yuichi/ground/export.srf
+user/yuichi/ground/hangarx.dat user/yuichi/ground/hangarx.srf user/yuichi/ground/hangarx.srf
+user/yuichi/ground/carrier-city.dat  ground/carrier_visual.dnm ground/carrier_coll.srf
+user/yuichi/ground/gard.dat user/yuichi/ground/gard.srf user/yuichi/ground/gard-coll.srf
+user/yuichi/ground/kc-10.dat user/yuichi/ground/kc-10.srf user/yuichi/ground/kc-10-coll.srf 
+user/yuichi/ground/tower-1.dat user/yuichi/ground/tower-1.srf ground/tower.srf
+user/yuichi/ground/tower-2.dat user/yuichi/ground/tower-2.srf user/yuichi/ground/tower-2-coll.srf
+user/yuichi/ground/tower-3.dat user/yuichi/ground/tower-3.srf user/yuichi/ground/tower-3-coll.srf
+user/yuichi/ground/antena.dat user/yuichi/ground/antena.srf user/yuichi/ground/antena.srf
+user/yuichi/ground/gunship.dat user/yuichi/ground/gunship.srf user/yuichi/ground/gunship.srf
+user/yuichi/ground/v2.dat user/yuichi/ground/v2.srf user/yuichi/ground/v2coll.srf
+user/yuichi/ground/tank_hanger.dat user/yuichi/ground/tank_hanger.srf user/yuichi/ground/tank_hanger_coll.srf
+user/yuichi/ground/aaa_war.dat ground/aaa.dnm ground/aaacoll.srf ground/aaa_coarse.dnm
+user/yuichi/ground/sam_war.dat ground/sam.dnm ground/sambase.srf ground/sam_coarse.dnm
+user/yuichi/ground/antena.dat user/yuichi/ground/antena.srf user/yuichi/ground/antena.srf
+user/yuichi/ground/antena_base.dat user/yuichi/ground/antena_base.srf user/yuichi/ground/antena_base.srf
+user/yuichi/ground/bridge1.dat user/yuichi/ground/bridge1.srf user/yuichi/ground/bridge1.srf
+user/yuichi/ground/bridge2.dat user/yuichi/ground/bridge2.srf user/yuichi/ground/bridge2.srf
+
+user/yuichi/ground/block1.dat user/yuichi/ground/block1.srf user/yuichi/ground/block1.srf
+user/yuichi/ground/block2.dat user/yuichi/ground/block2.srf user/yuichi/ground/block2.srf
+
+user/yuichi/ground/mst_uraga.dat user/yuichi/ground/mst_uraga.srf user/yuichi/ground/mst_uraga_coll.srf
+user/yuichi/ground/mst_uraga_door.dat user/yuichi/ground/mst_uraga_door.srf user/yuichi/ground/mst_uraga_door.srf
+user/yuichi/ground/tunnel.dat user/yuichi/ground/tunnel.srf user/yuichi/ground/tunnel.srf
+user/yuichi/ground/sam_long.dat user/yuichi/ground/sam.dnm user/yuichi/ground/sam-coll.srf
+user/yuichi/ground/gard_sam.dat user/yuichi/ground/gard_sam.srf user/yuichi/ground/gard_sam.srf
+
+user/yuichi/ground/vtol_base.dat user/yuichi/ground/vtol_base.srf user/yuichi/ground/vtol_base.srf
+user/yuichi/ground/tree.dat user/yuichi/ground/tree.srf user/yuichi/ground/tree.srf
+
+user/yuichi/ground/mirai.dat user/yuichi/ground/mirai.dnm user/yuichi/ground/mirai_coll.srf
+user/yuichi/ground/mirai_deck2.dat ground/null.srf user/yuichi/ground/mirai_deck2.srf
+user/yuichi/ground/mirai_127.dat user/yuichi/ground/mirai_127.dnm user/yuichi/ground/mirai_127.dnm
+user/yuichi/ground/mirai_ciws.dat user/yuichi/ground/mirai_ciws.dnm user/yuichi/ground/mirai_ciws.dnm
+user/yuichi/ground/mirai_vls.dat user/yuichi/ground/mirai_vls.srf user/yuichi/ground/mirai_vls.srf
+user/yuichi/ground/missile_ship.dat user/yuichi/ground/missile_ship.dnm user/yuichi/ground/missile_ship.dnm
+user/yuichi/ground/mds.dat user/yuichi/ground/mds.srf user/yuichi/ground/mds.srf
+
+user/yuichi/ground/sbd.dat user/yuichi/ground/sbd.srf user/yuichi/ground/sbd.srf
+user/yuichi/ground/patri.dat user/yuichi/ground/patri.dnm user/yuichi/ground/patri.dnm
+user/yuichi/ground/yamato.dat user/yuichi/ground/yamato.srf user/yuichi/ground/yamato.srf
+user/yuichi/ground/yamato2.dat user/yuichi/ground/yamato2.srf user/yuichi/ground/yamato2_coll.srf
+
+user/yuichi/ground/wasp.dat user/yuichi/ground/wasp_visual.srf user/yuichi/ground/wasp_coll.srf "" user/yuichi/ground/wasp_coll.srf
+
+
+user/yuichi/ground/yamato_ship.dat user/yuichi/ground/yamato_ship.srf user/yuichi/ground/yamato_ship_coll.srf
+user/yuichi/ground/yamato_ship2.dat user/yuichi/ground/yamato_ship2.dnm user/yuichi/ground/yamato_ship_coll.srf
+user/yuichi/ground/yamato_46cm.dat user/yuichi/ground/yamato_46cm.dnm ground/null.srf
+user/yuichi/ground/yamato_155mm.dat user/yuichi/ground/yamato_155mm.dnm ground/null.srf
+
+user/yuichi/scenery/yamato_map/ground/25mmgun.dat user/yuichi/scenery/yamato_map/ground/25mmgun.dnm user/yuichi/scenery/yamato_map/ground/25coll.srf
+user/yuichi/scenery/yamato_map/ground/25mmgunnon.dat user/yuichi/scenery/yamato_map/ground/25mmgunnon.dnm user/yuichi/scenery/yamato_map/ground/25coll.srf
+user/yuichi/scenery/yamato_map/ground/25mmgunnonw.dat user/yuichi/scenery/yamato_map/ground/25mmgunnonw.dnm user/yuichi/scenery/yamato_map/ground/25coll.srf
+user/yuichi/scenery/yamato_map/ground/127mmx2s.dat user/yuichi/scenery/yamato_map/ground/127mmx2s.dnm user/yuichi/scenery/yamato_map/ground/coll.srf
+user/yuichi/scenery/yamato_map/ground/127mmx2nons.dat user/yuichi/scenery/yamato_map/ground/127mmx2nons.dnm user/yuichi/scenery/yamato_map/ground/coll.srf
+user/yuichi/scenery/yamato_map/ground/46canonwithgun.dat user/yuichi/scenery/yamato_map/ground/46canonwithgun.dnm user/yuichi/scenery/yamato_map/ground/46coll.srf
+
+user/yuichi/ground/aim120.dat user/yuichi/ground/aim120.srf user/yuichi/ground/aim120_coll.srf
+user/yuichi/ground/yosai.dat user/yuichi/ground/yosai.srf user/yuichi/ground/yosai.srf
+user/yuichi/ground/type87.dat user/yuichi/ground/type87.dnm user/yuichi/ground/type87.srf
+
+user/yuichi/scenery/mission_alpha/ground/wakkanai_tower.dat user/yuichi/scenery/mission_alpha/ground/wakkanai_tower.srf user/yuichi/scenery/mission_alpha/ground/wakkanai_tower.srf
+user/yuichi/scenery/mission_alpha/ground/kusiro_bil1.dat user/yuichi/scenery/mission_alpha/ground/kusiro_bil1.srf user/yuichi/scenery/mission_alpha/ground/kusiro_bil1.srf
+user/yuichi/scenery/mission_alpha/ground/kusiro_bil2.dat user/yuichi/scenery/mission_alpha/ground/kusiro_bil2.srf user/yuichi/scenery/mission_alpha/ground/kusiro_bil2.srf
+user/yuichi/scenery/mission_alpha/ground/kusiro_bil3.dat user/yuichi/scenery/mission_alpha/ground/kusiro_bil3.srf user/yuichi/scenery/mission_alpha/ground/kusiro_bil3.srf
+user/yuichi/scenery/mission_alpha/ground/kusiro_bil4.dat user/yuichi/scenery/mission_alpha/ground/kusiro_bil4.srf user/yuichi/scenery/mission_alpha/ground/kusiro_bil4.srf
+user/yuichi/scenery/mission_alpha/ground/kusiro_bil5.dat user/yuichi/scenery/mission_alpha/ground/kusiro_bil5.srf user/yuichi/scenery/mission_alpha/ground/kusiro_bil5.srf
+user/yuichi/scenery/mission_alpha/ground/kusiro_tower.dat user/yuichi/scenery/mission_alpha/ground/kusiro_tower.srf user/yuichi/scenery/mission_alpha/ground/kusiro_tower.srf
+user/yuichi/scenery/mission_alpha/ground/tokachi_tower.dat user/yuichi/scenery/mission_alpha/ground/tokachi_tower.srf user/yuichi/scenery/mission_alpha/ground/tokachi_tower.srf
+user/yuichi/scenery/mission_alpha/ground/tokachi_terminal.dat user/yuichi/scenery/mission_alpha/ground/tokachi_terminal.srf user/yuichi/scenery/mission_alpha/ground/tokachi_terminal.srf
+user/yuichi/scenery/mission_alpha/ground/tokachi_bil1.dat user/yuichi/scenery/mission_alpha/ground/tokachi_bil1.srf user/yuichi/scenery/mission_alpha/ground/tokachi_bil1.srf
+user/yuichi/scenery/mission_alpha/ground/tokachi_bil2.dat user/yuichi/scenery/mission_alpha/ground/tokachi_bil2.srf user/yuichi/scenery/mission_alpha/ground/tokachi_bil2.srf
+user/yuichi/scenery/mission_alpha/ground/tokachi_bil3.dat user/yuichi/scenery/mission_alpha/ground/tokachi_bil3.srf user/yuichi/scenery/mission_alpha/ground/tokachi_bil3.srf
+user/yuichi/scenery/mission_alpha/ground/tokachi_kodai_hangar.dat user/yuichi/scenery/mission_alpha/ground/tokachi_kodai_hangar.srf user/yuichi/scenery/mission_alpha/ground/tokachi_kodai_hangar.srf
+user/yuichi/scenery/mission_alpha/ground/tokachi_kodai_tower.dat user/yuichi/scenery/mission_alpha/ground/tokachi_kodai_tower.srf user/yuichi/scenery/mission_alpha/ground/tokachi_kodai_tower.srf
+
+user/yuichi/scenery/narita/ground/ai_bri.dat user/yuichi/scenery/narita/ground/ai_bri.srf user/yuichi/scenery/narita/ground/ai_bri.srf
+
+user/yuichi/scenery/narita/ground/doly_car.dat user/yuichi/scenery/narita/ground/doly_car.srf user/yuichi/scenery/narita/ground/doly_car.srf
+user/yuichi/scenery/narita/ground/doly_box.dat user/yuichi/scenery/narita/ground/doly_box.srf user/yuichi/scenery/narita/ground/doly_box.srf
+user/yuichi/scenery/narita/ground/doly_non.dat user/yuichi/scenery/narita/ground/doly_non.srf user/yuichi/scenery/narita/ground/doly_non.srf
+user/yuichi/scenery/narita/ground/doly_windy.dat user/yuichi/scenery/narita/ground/doly_windy.srf user/yuichi/scenery/narita/ground/doly_windy.srf
+
+user/yuichi/scenery/narita/ground/tarminal.dat user/yuichi/scenery/narita/ground/tarminal.srf user/yuichi/scenery/narita/ground/tarminal_coll.srf
+
+user/yuichi/scenery/narita/ground/hangar1.dat user/yuichi/scenery/narita/ground/hangar1.srf user/yuichi/scenery/narita/ground/hangar1.srf
+user/yuichi/scenery/narita/ground/hangar2.dat user/yuichi/scenery/narita/ground/hangar2.srf user/yuichi/scenery/narita/ground/hangar2.srf
+user/yuichi/scenery/narita/ground/hangar3.dat user/yuichi/scenery/narita/ground/hangar3.srf user/yuichi/scenery/narita/ground/hangar3.srf
+user/yuichi/scenery/narita/ground/hangar4.dat user/yuichi/scenery/narita/ground/hangar4.srf user/yuichi/scenery/narita/ground/hangar4.srf
+user/yuichi/scenery/narita/ground/hangar5.dat user/yuichi/scenery/narita/ground/hangar5.srf user/yuichi/scenery/narita/ground/hangar5.srf
+user/yuichi/scenery/narita/ground/hangar6.dat user/yuichi/scenery/narita/ground/hangar6.srf user/yuichi/scenery/narita/ground/hangar6.srf
+user/yuichi/scenery/narita/ground/hangar7.dat user/yuichi/scenery/narita/ground/hangar7.srf user/yuichi/scenery/narita/ground/hangar7.srf
+user/yuichi/scenery/narita/ground/hangar8.dat user/yuichi/scenery/narita/ground/hangar8.srf user/yuichi/scenery/narita/ground/hangar8.srf
+user/yuichi/scenery/narita/ground/hangar9.dat user/yuichi/scenery/narita/ground/hangar9.srf user/yuichi/scenery/narita/ground/hangar9.srf
+user/yuichi/scenery/narita/ground/hangar10.dat user/yuichi/scenery/narita/ground/hangar10.srf user/yuichi/scenery/narita/ground/hangar10.srf

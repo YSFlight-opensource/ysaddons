@@ -1,0 +1,194 @@
+REM Original model by Iceman, Buck, and Skyline (c) 2007
+REM modded by YS Major. Got the pilot from Masa-AT's Fokker DXXI
+
+IDENTIFY "P-47D_ver1"
+CATEGORY ATTACKER
+AFTBURNR FALSE                 #HAVE AFTERBURNER?
+PROPELLR 2535HP              #PROPELLER ENGINE
+WEIGHCLN  4535kg                #WEIGHT CLEAN
+WEIGFUEL  2493kg                #WEIGHT OF FUEL
+WEIGLOAD  907kg                #WEIGHT OF PAYLOAD
+FUELMILI 0.15kg               #FUEL CONSUMPTION AT MILITARY POWER
+
+COCKPITP  0.0m  1.2745m  -1.2745m  #COCKPIT POSITION
+INSTPANL user/major/p47/p47.ist
+LEFTGEAR -2.50m -1.87m  0.23m  #LEFT LANDING GEAR POSITION
+RIGHGEAR  2.50m -1.87m  0.23m  #RIGHT LANDING GEAR POSITION
+WHELGEAR  0.00m -0.52m -5.53m  #WHEEL POSITION
+ARRESTER  0.0m -0.12m -5.91m #Arresting hook position
+SMOKEGEN  0.0m  0.43m -3.89m  #SMOKE GENERATOR POSITION
+VAPORPO0  -6.22m  0.17m  -0.68m  #VAPOR POSITION (Wings Swept Back or no-VGW)
+VAPORPO1  -6.22m  0.17m  -0.68m  #VAPOR POSITION (Wings Spread)
+HTRADIUS  10m                #OUTSIDE SPHERE RADIUS
+GUNSIGHT FALSE
+
+TRIGGER1 GUN
+TRIGGER2 GUN
+TRIGGER3 SMK
+TRIGGER4 SMK
+
+STRENGTH 12
+
+CRITAOAP  17deg               #CRITICAL AOA POSITIVE
+CRITAOAM -12deg               #CRITICAL AOA NEGATIVE
+
+CRITSPED 660km/h              #CRITICAL SPEED
+MAXSPEED 685km/h             #MAXIMUM SPEED
+
+HASSPOIL TRUE                 #HAS SPOILER?
+RETRGEAR TRUE                 #HAS RETRACTABLE LANDING GEAR?
+VARGEOMW FALSE                #HAS VARIABLE GEOMETRY WING?
+
+CLVARGEO 0.0                  #EFFECT OF VARIABLE GEOMETRY WING FOR Cl
+CDVARGEO 0.0                  #EFFECT OF VARIABLE GEOMETRY WING FOR Cd
+CLBYFLAP 0.2                  #EFFECT OF FLAP FOR Cl
+CDBYFLAP 0.2                  #EFFECT OF FLAP FOR Cd
+CDBYGEAR 0.5                  #EFFECT OF GEAR FOR Cd
+CDSPOILR 2.0                  #EFFECT OF SPOILER FOR Cd
+
+WINGAREA 27.87m^2                #WING AREA
+
+MXIPTAOA 19.0deg              #MAX INPUT AOA
+MXIPTSSA 5.0deg               #MAX INPUT SSA
+MXIPTROL 75.0deg             #MAX INPUT ROLL
+
+REM CPITMANE corresponds to Spring Constant K
+REM CPITSTAB corresponds to Damper Constant B
+REM To be critically damped, B=2*sqrt(K)
+REM 2% Settling Time=??
+
+MANESPD1 30kt                 #MINIMUM MANEUVABLE SPEED
+MANESPD2 60kt                 #FULLY MANEUVABLE SPEED
+CPITMANE 7.0                  #PITCH MANEUVERBILITY CONSTANT
+CPITSTAB 3.0                  #PITCH STABILITY CONSTANT
+CYAWMANE 5.0                  #YAW MANEUVABILITY CONSTANT
+CYAWSTAB 3.0                  #YAW STABILITY CONSTANT
+CROLLMAN 3.0                  #ROLL MANEUVABILITY CONSTANT
+
+CTLLDGEA TRUE                 #CONTROL LANDINGGEAR
+CTLBRAKE FALSE                #CONTROL BRAKE
+CTLSPOIL 0.0                  #CONTROL SPOILER
+CTLABRNR FALSE                #CONTROL AFTERBURNER
+CTLTHROT 0.0                  #CONTROL THRUST
+CTLIFLAP 0.0                  #CONTROL FLAP
+CTLINVGW 0.0                  #CONTROL VARIABLE GEOMETRY WING
+CTLATVGW FALSE                #CONTROL AUTO VARIABLE GEOMETRY WING
+
+POSITION 0m 3ft 0m           #POSITION
+ATTITUDE 45deg 0deg 0deg      #ATTITUDE
+INITFUEL 75%                 #INITIAL FUEL
+INITLOAD 0.0t                 #INITIAL PAYLOAD
+INITSPED 0.0MACH              #INITIAL SPEED
+WEAPONCH GUN
+GUNPOWER 1
+
+INITIGUN 0                #INITIAL GUN
+INITIAAM 0                    #INITIAL AAM
+INITIAGM 0                    #INITIAL AGM
+INITBOMB 0
+MAXNBOMB 2
+
+HRDPOINT 3.07m -0.70m -0.3m B250
+HRDPOINT -3.07m -0.70m -0.3m B250
+
+LMTBYHDP TRUE
+BOMVISIB TRUE
+
+RADARCRS 0.001
+
+NMTURRET 8
+TURRETPO 0 2.78m -0.04m 1m 0.5deg 0deg 0deg       # Number x y z h p b
+TURRETPT 0 0deg 0deg 0deg                     # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 0 0deg 0deg 0deg                 # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 0 350                                # Ammo
+TURRETIV 0 0.07sec                              # Number ShootingInterval
+TURRETNM 0 aaaa                                # DNM Node Name
+TURRETAR 0                                     # Anti Air Capable
+TURRETCT 0 PILOT                              # Controlled by PILOT or GUNNER
+TURRETRG 0 1800m
+
+TURRETPO 1 2.95m -0.02m 0.82m 0.5deg 0deg 0deg       # Number x y z h p b
+TURRETPT 1 0deg 0deg 0deg                     # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 1 0deg 0deg 0deg                 # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 1 350                                # Ammo
+TURRETIV 1 0.08sec                              # Number ShootingInterval
+TURRETNM 1 aaaa                                # DNM Node Name
+TURRETAR 1                                     # Anti Air Capable
+TURRETCT 1 PILOT                              # Controlled by PILOT or GUNNER
+TURRETRG 1 1800m
+
+TURRETPO 2 3.11m -0.02m 0.68m 0.5deg 0deg 0deg       # Number x y z h p b
+TURRETPT 2 0deg 0deg 0deg                     # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 2 0deg 0deg 0deg                 # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 2 350                                # Ammo
+TURRETIV 2 0.06sec                              # Number ShootingInterval
+TURRETNM 2 aaaa                                # DNM Node Name
+TURRETAR 2                                     # Anti Air Capable
+TURRETCT 2 PILOT                              # Controlled by PILOT or GUNNER
+TURRETRG 2 1800m
+
+TURRETPO 3 3.28m 0.00m 0.55m 0.5deg 0deg 0deg       # Number x y z h p b
+TURRETPT 3 0deg 0deg 0deg                     # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 3 0deg 0deg 0deg                 # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 3 350                                # Ammo
+TURRETIV 3 0.05sec                              # Number ShootingInterval
+TURRETNM 3 aaaa                                # DNM Node Name
+TURRETAR 3                                     # Anti Air Capable
+TURRETCT 3 PILOT                              # Controlled by PILOT or GUNNER
+TURRETRG 3 1800m
+
+TURRETPO 4 -2.78m -0.04m 1m -0.5deg 0deg 0deg       # Number x y z h p b
+TURRETPT 4 0deg 0deg 0deg                     # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 4 0deg 0deg 0deg                 # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 4 350                                # Ammo
+TURRETIV 4 0.08sec                              # Number ShootingInterval
+TURRETNM 4 aaaa                                # DNM Node Name
+TURRETAR 4                                     # Anti Air Capable
+TURRETCT 4 PILOT                              # Controlled by PILOT or GUNNER
+TURRETRG 4 1800m
+
+TURRETPO 5 -2.95m -0.02m 0.82m -0.5deg 0deg 0deg       # Number x y z h p b
+TURRETPT 5 0deg 0deg 0deg                     # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 5 0deg 0deg 0deg                 # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 5 350                                # Ammo
+TURRETIV 5 0.07sec                              # Number ShootingInterval
+TURRETNM 5 aaaa                                # DNM Node Name
+TURRETAR 5                                     # Anti Air Capable
+TURRETCT 5 PILOT                              # Controlled by PILOT or GUNNER
+TURRETRG 5 1800m
+
+TURRETPO 6 -3.11m -0.02m 0.68m -0.5deg 0deg 0deg       # Number x y z h p b
+TURRETPT 6 0deg 0deg 0deg                     # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 6 0deg 0deg 0deg                 # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 6 350                                # Ammo
+TURRETIV 6 0.06sec                              # Number ShootingInterval
+TURRETNM 6 aaaa                                # DNM Node Name
+TURRETAR 6                                     # Anti Air Capable
+TURRETCT 6 PILOT                              # Controlled by PILOT or GUNNER
+TURRETRG 6 1800m
+
+TURRETPO 7 -3.28m 0.00m 0.55m -0.5deg 0deg 0deg       # Number x y z h p b
+TURRETPT 7 0deg 0deg 0deg                     # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 7 0deg 0deg 0deg                 # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 7 350                                # Ammo
+TURRETIV 7 0.06sec                              # Number ShootingInterval
+TURRETNM 7 aaaa                                # DNM Node Name
+TURRETAR 7                                     # Anti Air Capable
+TURRETCT 7 PILOT                              # Controlled by PILOT or GUNNER
+TURRETRG 7 1800m
+
+REM ClZero,CdZero is fixed by Cruising condition
+REFVCRUS 370km/h              #CRUISING SPEED(*1.2
+REFACRUS 13000ft              #CRUISING ALTITUDE
+REFTCRUS 0.8                  #CRUISING THROTTLE SETTING
+
+REM ClSlope,CdConst is fixed by Landing condition
+REFVLAND 75kt                 #LANDING SPEED
+REFAOALD 8deg                #LANDING AOA
+REFLNRWY 600m                #RUNWAY REQUIRED TO STOP
+REFTHRLD 0.45                  #LANDING THROTTLE SETTING
+
+MACHNGUN -0.36m 0.745m 3.52m  #MACHINE GUN POSITION
+GUNINTVL 0.0
+
+AUTOCALC

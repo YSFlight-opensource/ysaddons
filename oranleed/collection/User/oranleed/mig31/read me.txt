@@ -1,0 +1,11 @@
+user/oranleed/mig31/mig31.dat user/oranleed/mig31/mig31.dnm user/oranleed/mig31/mig31coll.srf user/oranleed/mig31/mig31cockpit.srf user/oranleed/mig31/mig31coarse.dnm
+
+通常以外の動作：pg up=巡航状態　down=戦闘状態, 爆弾艙キー=空中給油装置
+
+R33ミサイルはCKPに収録されているralさんのR33を使用させていただきました（機体サイズの関係で多少大きさが違っています。）。
+ありがとうございました。
+
+AAMは１から６までは内側パイロンに重ねて表示されます。７，８は増加タンクの場所に表示されます。
+使用する場合はpg downキーにて増加タンクを非表示にしてお使いください。
+
+oranleed

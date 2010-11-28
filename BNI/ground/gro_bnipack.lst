@@ -1,0 +1,24 @@
+User/BNIPack/midohio/bni2.dat User/BNIPack/midohio/bni2.srf User/BNIPack/midohio/bni2_c.srf "" User/BNIPack/midohio/bni2_c.srf
+User/BNIPack/midohio/bridge.dat User/BNIPack/midohio/bridge.srf User/BNIPack/midohio/bridge_c.srf "" User/BNIPack/midohio/bridge_c.srf
+User/BNIPack/midohio/tires.dat User/BNIPack/midohio/tires.srf User/BNIPack/midohio/tires_c.srf "" User/BNIPack/midohio/tires_c.srf
+User/BNIPack/midohio/fence.dat User/BNIPack/midohio/fence.srf User/BNIPack/midohio/fence_c.srf "" User/BNIPack/midohio/fence_c.srf
+User/BNIPack/midohio/tower.dat User/BNIPack/midohio/tower.srf User/BNIPack/midohio/tower.srf
+User/BNIPack/midohio/cones.dat User/BNIPack/midohio/cones.srf User/BNIPack/midohio/cones.srf "" User/BNIPack/blank.srf
+User/BNIPack/midohio/pit.dat User/BNIPack/midohio/pit.srf User/BNIPack/midohio/pit.srf
+User/BNIPack/midohio/sign_bni.dat User/BNIPack/midohio/sign_bni.srf User/BNIPack/midohio/sign_bni_c.srf  "" User/BNIPack/midohio/sign_bni_c.srf 
+User/BNIPack/midohio/sign_ysp.dat User/BNIPack/midohio/sign_ysp.srf User/BNIPack/midohio/sign_ysp_c.srf "" User/BNIPack/midohio/sign_ysp_c.srf
+User/BNIPack/midohio/sign_bni2.dat User/BNIPack/midohio/sign_bni2.srf User/BNIPack/midohio/sign_bni2.srf
+User/BNIPack/midohio/sign_ysp2.dat User/BNIPack/midohio/sign_ysp2.srf User/BNIPack/midohio/sign_ysp2.srf
+User/BNIPack/midohio/smallsign.dat User/BNIPack/midohio/smallsign.srf User/BNIPack/midohio/smallsign_c.srf "" User/BNIPack/midohio/smallsign_c.srf
+User/BNIPack/midohio/speakers.dat User/BNIPack/midohio/speakers.srf User/BNIPack/midohio/speakers.srf
+User/BNIPack/midohio/stand.dat User/BNIPack/midohio/stand.srf User/BNIPack/midohio/stand_c.srf "" User/BNIPack/midohio/stand_c.srf
+User/BNIPack/midohio/ysp2.dat User/BNIPack/midohio/ysp2.srf User/BNIPack/midohio/ysp2_c.srf "" User/BNIPack/midohio/ysp2_c.srf 
+User/BNIPack/midohio/crowd.dat User/BNIPack/midohio/crowd.srf User/BNIPack/midohio/crowd.srf "" User/BNIPack/blank.srf
+
+User/BNIPack/silverstone/bridge.dat User/BNIPack/silverstone/bridge.srf User/BNIPack/silverstone/bridge_c.srf "" User/BNIPack/silverstone/bridge_c.srf
+
+User/BNIPack/hiryu/hiryu.dat User/BNIPack/hiryu/hiryu.dnm User/BNIPack/hiryu/hiryu_coll.srf "" User/BNIPack/hiryu/hiryu_coll.srf
+
+User/BNIPack/palau/f15k.dat User/BNIPack/palau/f15k.srf User/BNIPack/palau/f15cl.srf
+User/BNIPack/palau/mig23.dat User/BNIPack/palau/mig23.srf User/BNIPack/palau/mig23cl.srf
+User/BNIPack/palau/tu22.dat User/BNIPack/palau/tu22.srf User/BNIPack/palau/tu22cl.srf

@@ -1,0 +1,40 @@
+user/real/night/ana/b777nhn.dat user/real/night/ana/b777nhn.dnm aircraft/b777coll.srf aircraft/b777cockpit.srf
+user/real/night/jal/b747njl.dat user/real/night/jal/b747njl.dnm aircraft/b747coll.srf aircraft/b747cockpit.srf
+user/real/night/newjal/nnjlb4.dat user/real/night/newjal/nnjlb4.dnm user/real/night/newjal/njlb4coll.srf user/real/night/newjal/nnjlb4cockpit.srf
+
+user/real/normal/newjal/njlb4.dat user/real/normal/newjal/njlb4.dnm user/real/normal/newjal/njlb4coll.srf user/real/normal/newjal/njlb4cockpit.srf
+user/real/normal/jal/b747/b747jl.dat user/real/normal/jal/b747/b747jl.dnm aircraft/b747coll.srf aircraft/b747cockpit.srf aircraft/b747coarse.dnm
+user/real/normal/jal/md11/md11.dat user/real/normal/jal/md11/md11jal.dnm user/real/normal/jal/md11/md11coll.srf user/real/normal/jal/md11/md11cockpit.srf user/real/normal/jal/md11/md11coarse.dnm
+user/real/normal/jal/bae3217/js31.dat user/real/normal/jal/bae3217/js31.dnm user/real/normal/jal/bae3217/js31coll.srf user/real/normal/jal/bae3217/js31cockpit.srf
+user/real/normal/oldjal/oldjlb4.dat user/real/normal/oldjal/oldjlb4.dnm user/real/normal/newjal/njlb4coll.srf user/real/normal/newjal/njlb4cockpit.srf
+
+user/real/normal/ana/a320/a320.dat user/real/normal/ana/a320/a320.dnm aircraft/b777coll.srf aircraft/b777cockpit.srf
+user/real/normal/ana/b727/b727.dat user/real/normal/ana/b727/b727_ana.dnm user/real/normal/ana/b727/b727coll.srf user/real/normal/ana/b727/b727cockpit.srf
+user/real/normal/ana/b727/b727nh.dat user/real/normal/ana/b727/b727nh.dnm user/real/normal/ana/b727/b727coll.srf user/real/normal/ana/b727/b727cockpit.srf
+user/real/normal/ana/b767/b7673h_ana.dat user/real/normal/ana/b767/b7673h_ana.dnm user/real/normal/ana/b767/b7673hcoll.srf user/real/normal/ana/b767/b7673hcockpit.srf
+user/real/normal/ana/b777/b777nh.dat user/real/normal/ana/b777/b777nh.dnm aircraft/b777coll.srf aircraft/b777cockpit.srf
+user/real/normal/ana/b777/b777nh_new.dat user/real/normal/ana/b777/b777nh_new.dnm aircraft/b777coll.srf aircraft/b777cockpit.srf
+user/real/normal/anasp/b773_anasp.dat user/real/normal/anasp/b773_anasp.dnm user/real/normal/anasp/b773_anaspcoll.srf user/real/normal/anasp/b773_anaspcock.dnm
+user/real/normal/ank/ys11/ys_ank.dat  user/real/normal/ank/ys11/ys_ank.dnm  aircraft/ys11coll.srf user/real/normal/ank/ys11/ys11cockpit.srf  user/real/normal/ank/ys11/ys11_coarse.srf
+
+user/real/normal/jas/md80/md80.dat user/real/normal/jas/md80/md80.dnm user/real/normal/jas/md80/md80coll.srf user/real/normal/jas/md80/md80cockpit.srf
+user/real/normal/jas/md90/md90-1.dat user/real/normal/jas/md90/md90-1.dnm user/real/normal/jas/md80/md80coll.srf user/real/normal/jas/md80/md80cockpit.srf
+user/real/normal/jas/jas777/777jas.dat user/real/normal/jas/jas777/777jas.dnm user/real/normal/jas/jas777/777jascoll.srf user/real/normal/jas/jas777/777jascockpit.srf
+
+user/real/normal/airbus/beluga/beluga.dat user/real/normal/airbus/beluga/beluga.dnm user/real/normal/airbus/beluga/belugacoll.srf user/real/normal/airbus/beluga/belugacpt.srf
+user/real/normal/airbus/a380/a380.dat user/real/normal/airbus/a380/a380.dnm user/real/normal/airbus/a380/a380coll.srf user/real/normal/airbus/a380/a380cpt.srf user/real/normal/airbus/a380/a380corase.dnm
+
+user/real/normal/qantas/b747/b747qf.dat user/real/normal/qantas/b747/b747qf.dnm user/real/normal/qantas/b747/b747bcoll.srf user/real/normal/qantas/b747/b747bcockpit.srf
+user/real/normal/cathay/b747/b747cpa.dat user/real/normal/cathay/b747/b747cpa.dnm aircraft/b747coll.srf aircraft/b747cockpit.srf user/real/normal/cathay/b747/b747cpac.dnm
+user/real/normal/nothwest/b747/b747n.dat user/real/normal/nothwest/b747/b747n.dnm aircraft/b747coll.srf aircraft/b747cockpit.srf aircraft/b747coarse.dnm
+user/real/normal/fair/crj200/crj200.dat user/real/normal/fair/crj200/crj200.dnm user/real/normal/fair/crj200/crj200coll.srf user/real/normal/fair/crj200/crj200cpt.srf user/real/normal/fair/crj200/crj200c.dnm
+user/real/normal/british/b7673h.dat user/real/normal/british/b7673h.dnm user/real/normal/british/b7673hcoll.srf user/real/normal/british/b7673hcockpit.srf
+user/real/normal/nal/f50/fokker50nal.dat user/real/normal/nal/f50/fokker50nal.dnm user/real/normal/nal/f50/fokker50coll.srf user/real/normal/nal/f50/fokker50cockpit.srf
+user/real/normal/swiss/dc10/dc10.dat user/real/normal/swiss/dc10/dc10.dnm user/real/normal/swiss/dc10/dc10coll.srf user/real/normal/swiss/dc10/cockpit_dc.srf
+user/real/normal/sia/b777/b7772h_sia.dat user/real/normal/sia/b777/b7772h_sia.dnm aircraft/b777coll.srf user/real/normal/sia/b777/b7772hcockpit.srf
+
+user/real/normal/navy/sca/sca.dat user/real/normal/navy/sca/sca.dnm user/real/normal/navy/sca/scacoll.srf user/real/normal/navy/sca/scacockpit.srf
+user/real/normal/navy/c5/c5.dat user/real/normal/navy/c5/c5.dnm user/real/normal/navy/c5/c5coll.srf user/real/normal/navy/c5/c5cockpit.srf
+user/real/normal/navy/vc25/vc25a.dat user/real/normal/navy/vc25/vc25a.dnm aircraft/b747coll.srf user/real/normal/navy/vc25/vc25acockpit.srf
+user/real/normal/navy/ys11/ys11.dat user/real/normal/navy/ys11/ys11.dnm user/real/normal/navy/ys11/ys11coll.srf user/real/normal/navy/ys11/ys11cockpit.srf
+user/real/normal/navy/ys11jmsdf/ys11.dat user/real/normal/navy/ys11jmsdf/ys11.dnm aircraft/ys11coll.srf user/real/normal/navy/ys11jmsdf/ys11cockpit.srf

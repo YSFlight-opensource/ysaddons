@@ -1,0 +1,9 @@
+YSFS用機体「ＷＦ－０１オプション機」
+
+WF-01のオプション機として、WF-01B、WF-01C、WFX-01A、WF-01S(夜間迷彩)
+を用意しました。リストに下の４行を加えることで追加できます。
+
+User/ipc/WF01B.dat User/ipc/WF01B.dnm User/ipc/wf01s_coll.srf User/ipc/wf01_cockpit.srf User/ipc/WF01S_cs.dnm
+User/ipc/WF01C.dat User/ipc/WF01C.dnm User/ipc/wf01_coll.srf User/ipc/wt01_cockpit.srf User/ipc/WF01A_cs.dnm
+User/ipc/WFX01A.dat User/ipc/WFX01A.dnm User/ipc/wfx01_coll.srf User/ipc/wfx01_cockpit.srf User/ipc/WFX01A_cs.dnm
+User/ipc/WF01S_meisai.dat User/ipc/WF01S_meisai.dnm User/ipc/wf01s_coll.srf User/ipc/wf01_cockpit.srf User/ipc/WF01S_meisai_cs.dnm

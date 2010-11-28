@@ -1,0 +1,297 @@
+IDENTIFY "Jagdpanther"
+CATEGORY UTILITY
+AFTBURNR FALSE                #HAVE AFTERBURNER?
+PROPELLR 700HP               #PROPELLER ENGINE
+WEIGHCLN 45.5t                #WEIGHT CLEAN
+WEIGFUEL 1140lb                #WEIGHT OF FUEL
+WEIGLOAD  1500kg                #WEIGHT OF PAYLOAD
+FUELABRN 0.0kg                #FUEL CONSUMPTION WHEN USING AFTERBURNER
+FUELMILI 0.087lb               #FUEL CONSUMPTION AT MILITARY POWER
+GUNSIGHT FALSE
+THRSTREV 0.6                 #EFFICIENCY OF THRUST REVERSER
+
+GUNDIREC  0.0m -0.01m 1.0m     #MACHINE GUN DIRECTION
+PROPEFCY 2                 #Propeller efficiency
+PROPVMIN 20m/s                #Minimum speed that T=P/V becomes valid
+
+COCKPITP  -0.67m  0.06m  2.31m  #COCKPIT POSITION
+EXCAMERA "commander" 0.47m 1.31m 0.41m 0deg 0deg 0deg INSIDE
+INSTPANL user/tf58/m3_ht.ist
+LEFTGEAR -1.56m -1.85m -1.61m  #LEFT LANDING GEAR POSITION
+RIGHGEAR  1.56m -1.85m -1.61m  #RIGHT LANDING GEAR POSITION
+WHELGEAR  0.0m -1.85m  2.31m  #WHEEL POSITION
+ARRESTER  0.0m 0m 0m
+MACHNGUN  0.00m 0.00m  0.00m  #MACHINE GUN POSITION
+SMOKEGEN 0.00m 0.0m -3.1m  #SMOKE GENERATOR POSITION
+VAPORPO0  1.56m -1.85m -1.61m  #VAPOR POSITION (Wings Swept Back or no-VGW)
+VAPORPO1  1.56m -1.85m -1.61m  #VAPOR POSITION (Wings Spread)
+HTRADIUS  6.5m                #OUTSIDE SPHERE RADIUS
+
+RADARCRS 0.30                  #RADAR CROSS SECTION
+
+TRSTVCTR TRUE                 #HAS THRUST VECTORING CAPABILITY?
+TRSTDIR0 0.0m -0.5m 1.0m       #Thrust vector 0
+TRSTDIR1 0.0m -0.5m 1.0m       #Thrust vector 1
+PSTMPTCH 1deg                #Post-Stall Maneuver VPitch
+PSTMYAW_ 13deg                #Post-Stall Maneuver VYaw
+PSTMROLL 1deg                #Post-Stall Maneuver VRoll
+
+TRIGGER1 GUN
+TRIGGER2 SMK
+TRIGGER3 AGM
+TRIGGER4 AAM
+SMOKEOIL 1.0kg
+
+STRENGTH 25
+
+CRITAOAP  1deg               #CRITICAL AOA POSITIVE
+CRITAOAM -1deg               #CRITICAL AOA NEGATIVE
+
+CRITSPED 21km/h              #CRITICAL SPEED
+MAXSPEED 46km/h              #MAXIMUM SPEED
+
+HASSPOIL FALSE                 #HAS SPOILER?
+RETRGEAR FALSE                 #HAS RETRACTABLE LANDING GEAR?
+VARGEOMW FALSE                #HAS VARIABLE GEOMETRY WING?
+
+CLVARGEO 0.0                  #EFFECT OF VARIABLE GEOMETRY WING FOR Cl
+CDVARGEO 0.0                  #EFFECT OF VARIABLE GEOMETRY WING FOR Cd
+CLBYFLAP 0.1                  #EFFECT OF FLAP FOR Cl
+CDBYFLAP 0.2                  #EFFECT OF FLAP FOR Cd
+CDBYGEAR 0.5                  #EFFECT OF GEAR FOR Cd
+CDSPOILR 10.0                  #EFFECT OF SPOILER FOR Cd
+
+WINGAREA 1.0m^2                #WING AREA
+
+MXIPTAOA 0.0deg              #MAX INPUT AOA
+MXIPTSSA 5.0deg               #MAX INPUT SSA
+MXIPTROL 0.0deg             #MAX INPUT ROLL
+
+REM CPITMANE corresponds to Spring Constant K
+REM CPITSTAB corresponds to Damper Constant B
+REM To be critically damped, B=2*sqrt(K)
+REM 2% Settling Time=??
+
+MANESPD1 70km/h                 #MINIMUM MANEUVABLE SPEED
+MANESPD2 71km/h                #FULLY MANEUVABLE SPEED
+CPITMANE 0.0                  #PITCH MANEUVERBILITY CONSTANT
+CPITSTAB 2.0                  #PITCH STABILITY CONSTANT
+CYAWMANE 4.0                  #YAW MANEUVABILITY CONSTANT
+CYAWSTAB 2.0                  #YAW STABILITY CONSTANT
+CROLLMAN 3.0                  #ROLL MANEUVABILITY CONSTANT
+
+CTLLDGEA TRUE                 #CONTROL LANDINGGEAR
+CTLBRAKE FALSE                #CONTROL BRAKE
+CTLSPOIL 0.0                  #CONTROL SPOILER
+CTLABRNR FALSE                #CONTROL AFTERBURNER
+CTLTHROT 0.0                  #CONTROL THRUST
+CTLIFLAP 0.0                  #CONTROL FLAP
+CTLINVGW 0.0                  #CONTROL VARIABLE GEOMETRY WING
+CTLATVGW FALSE                #CONTROL AUTO VARIABLE GEOMETRY WING
+
+POSITION 0m 1ft 0m           #POSITION
+ATTITUDE 45deg 0deg 0deg      #ATTITUDE
+INITFUEL 75%                  #INITIAL FUEL
+INITLOAD 0.0t                 #INITIAL PAYLOAD
+INITSPED 0.0MACH              #INITIAL SPEED
+
+GUNPOWER 15
+
+NMTURRET 20
+TURRETPO 0 0.58m 0.74m 1.14m 0deg 0deg 0deg      # Number x y z h p b
+TURRETPT 0 -8deg 14deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 0 -11deg 11deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 0 0                                  # Ammo
+TURRETIV 0 9.0sec                           # Number ShootingInterval
+TURRETAR 0                                   # Anti Air Capable
+TURRETCT 0 PILOT                             # Controlled by the pilot
+TURRETRG 0 2000m
+
+TURRETPO 1 0.03m 0.06m 1.75m 0deg 0deg 0deg      # Number x y z h p b
+TURRETPT 1 -8deg 14deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 1 0deg 0deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 1 0                                  # Ammo
+TURRETIV 1 9.0sec                           # Number ShootingInterval
+TURRETNM 1 gun                               # DNM Node Name
+TURRETAR 1                                   # Anti Air Capable
+TURRETCT 1 PILOT                             # Controlled by the pilot
+
+TURRETPO 2 0.03m 0.06m 1.50m 0deg 0deg 0deg      # Number x y z h p b
+TURRETPT 2 0deg 0deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 2 -11deg 11deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 2 0                                  # Ammo
+TURRETIV 2 9.0sec                           # Number ShootingInterval
+TURRETNM 2 turret                               # DNM Node Name
+TURRETAR 2                                   # Anti Air Capable
+TURRETCT 2 PILOT                             # Controlled by the pilot
+
+TURRETPO 3 0.03m 0.06m 1.63m 0deg 0deg 0deg
+TURRETPT 3 -8deg 14deg 0deg   
+TURRETHD 3 -11deg 11deg 0deg   
+TURRETAM 3 57     
+TURRETIV 3 9.0sec     
+TURRETAR 3      
+TURRETCT 3 PILOT     
+TURRETRG 3 2000m     
+
+TURRETPO 4 0.03m 0.09m 1.63m 0deg 0deg 0deg
+TURRETPT 4 -8deg 14deg 0deg   
+TURRETHD 4 -11deg 11deg 0deg   
+TURRETAM 4 57     
+TURRETIV 4 9.0sec     
+TURRETAR 4      
+TURRETCT 4 PILOT     
+TURRETRG 4 2000m     
+
+TURRETPO 5 0.04m 0.09m 1.63m 0deg 0deg 0deg
+TURRETPT 5 -8deg 14deg 0deg   
+TURRETHD 5 -11deg 11deg 0deg   
+TURRETAM 5 57     
+TURRETIV 5 9.0sec     
+TURRETAR 5      
+TURRETCT 5 PILOT     
+TURRETRG 5 2000m     
+
+TURRETPO 6 0.05m 0.08m 1.63m 0deg 0deg 0deg
+TURRETPT 6 -8deg 14deg 0deg   
+TURRETHD 6 -11deg 11deg 0deg   
+TURRETAM 6 57     
+TURRETIV 6 9.0sec     
+TURRETAR 6      
+TURRETCT 6 PILOT     
+TURRETRG 6 2000m     
+
+TURRETPO 7 0.06m 0.07m 1.63m 0deg 0deg 0deg
+TURRETPT 7 -8deg 14deg 0deg   
+TURRETHD 7 -11deg 11deg 0deg   
+TURRETAM 7 57     
+TURRETIV 7 9.0sec     
+TURRETAR 7      
+TURRETCT 7 PILOT     
+TURRETRG 7 2000m     
+
+TURRETPO 8 0.06m 0.06m 1.63m 0deg 0deg 0deg
+TURRETPT 8 -8deg 14deg 0deg   
+TURRETHD 8 -11deg 11deg 0deg   
+TURRETAM 8 57     
+TURRETIV 8 9.0sec     
+TURRETAR 8      
+TURRETCT 8 PILOT     
+TURRETRG 8 2000m     
+
+TURRETPO 9 0.06m 0.05m 1.63m 0deg 0deg 0deg
+TURRETPT 9 -8deg 14deg 0deg   
+TURRETHD 9 -11deg 11deg 0deg   
+TURRETAM 9 57     
+TURRETIV 9 9.0sec     
+TURRETAR 9      
+TURRETCT 9 PILOT     
+TURRETRG 9 2000m     
+
+TURRETPO 10 0.05m 0.04m 1.63m 0deg 0deg 0deg
+TURRETPT 10 -8deg 14deg 0deg   
+TURRETHD 10 -11deg 11deg 0deg   
+TURRETAM 10 57     
+TURRETIV 10 9.0sec     
+TURRETAR 10      
+TURRETCT 10 PILOT     
+TURRETRG 10 2000m     
+
+TURRETPO 11 0.04m 0.03m 1.63m 0deg 0deg 0deg
+TURRETPT 11 -8deg 14deg 0deg   
+TURRETHD 11 -11deg 11deg 0deg   
+TURRETAM 11 57     
+TURRETIV 11 9.0sec     
+TURRETAR 11      
+TURRETCT 11 PILOT     
+TURRETRG 11 2000m     
+
+TURRETPO 12 0.02m 0.03m 1.63m 0deg 0deg 0deg
+TURRETPT 12 -8deg 14deg 0deg   
+TURRETHD 12 -11deg 11deg 0deg   
+TURRETAM 12 57     
+TURRETIV 12 9.0sec     
+TURRETAR 12      
+TURRETCT 12 PILOT     
+TURRETRG 12 2000m     
+
+TURRETPO 13 0.01m 0.04m 1.63m 0deg 0deg 0deg
+TURRETPT 13 -8deg 14deg 0deg   
+TURRETHD 13 -11deg 11deg 0deg   
+TURRETAM 13 57     
+TURRETIV 13 9.0sec     
+TURRETAR 13      
+TURRETCT 13 PILOT     
+TURRETRG 13 2000m     
+
+TURRETPO 14 0.00m 0.05m 1.63m 0deg 0deg 0deg
+TURRETPT 14 -8deg 14deg 0deg   
+TURRETHD 14 -11deg 11deg 0deg   
+TURRETAM 14 57     
+TURRETIV 14 9.0sec     
+TURRETAR 14      
+TURRETCT 14 PILOT     
+TURRETRG 14 2000m     
+
+TURRETPO 15 0.00m 0.06m 1.63m 0deg 0deg 0deg
+TURRETPT 15 -8deg 14deg 0deg   
+TURRETHD 15 -11deg 11deg 0deg   
+TURRETAM 15 57     
+TURRETIV 15 9.0sec     
+TURRETAR 15      
+TURRETCT 15 PILOT     
+TURRETRG 15 2000m     
+
+TURRETPO 16 0.00m 0.07m 1.63m 0deg 0deg 0deg
+TURRETPT 16 -8deg 14deg 0deg   
+TURRETHD 16 -11deg 11deg 0deg   
+TURRETAM 16 57     
+TURRETIV 16 9.0sec     
+TURRETAR 16      
+TURRETCT 16 PILOT     
+TURRETRG 16 2000m     
+
+TURRETPO 17 0.01m 0.08m 1.63m 0deg 0deg 0deg
+TURRETPT 17 -8deg 14deg 0deg   
+TURRETHD 17 -11deg 11deg 0deg   
+TURRETAM 17 57     
+TURRETIV 17 9.0sec     
+TURRETAR 17      
+TURRETCT 17 PILOT     
+TURRETRG 17 2000m     
+
+TURRETPO 18 0.02m 0.09m 1.63m 0deg 0deg 0deg
+TURRETPT 18 -8deg 14deg 0deg   
+TURRETHD 18 -11deg 11deg 0deg   
+TURRETAM 18 57     
+TURRETIV 18 9.0sec     
+TURRETAR 18      
+TURRETCT 18 PILOT     
+TURRETRG 18 2000m     
+
+TURRETPO 19 0.93m 0.03m 2.28m 0deg 0deg 0deg      # Number x y z h p b
+TURRETPT 19 -10deg 15deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 19 -5deg 5deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 19 500                                  # Ammo
+TURRETIV 19 0.2sec                           # Number ShootingInterval
+TURRETNM 19 hull_mg34                               # DNM Node Name
+TURRETAR 19                                  # Anti Air Capable
+TURRETCT 19 GUNNER                             # Controlled by the pilot
+TURRETRG 19 200m
+
+INITIGUN 0                 #INITIAL GUN
+INITIAAM 0                    #INITIAL AAM
+INITIAGM 0                    #INITIAL AGM
+
+REM ClZero,CdZero is fixed by Cruising condition
+REFVCRUS 38km/h              #CRUISING SPEED
+REFACRUS 100ft              #CRUISING ALTITUDE
+REFTCRUS 1.0                  #CRUISING THROTTLE SETTING
+
+REM ClSlope,CdConst is fixed by Landing condition
+REFVLAND 8km/h                #LANDING SPEED
+REFAOALD 10deg                #LANDING AOA
+REFLNRWY 10m                #RUNWAY REQUIRED TO STOP
+REFTHRLD 0.8                  #LANDING THROTTLE SETTING
+
+AUTOCALC

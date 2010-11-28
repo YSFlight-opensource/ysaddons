@@ -1,0 +1,5 @@
+IDENTIFY MST_URAGA
+HTRADIUS 120m
+STRENGTH 100
+MINIDAMG 300
+CARRIER user/yuichi/ground/mst_uraga.acp

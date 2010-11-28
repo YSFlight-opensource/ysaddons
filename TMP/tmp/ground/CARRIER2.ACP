@@ -1,0 +1,7 @@
+tmp/ground/carrier2deck.srf
+tmp/ground/carrier2wire.srf
+tmp/ground/carrier2catapult.srf
+tmp/ground/carrier2bridge.srf
+ILS 0.0m -36.00m -325.00m 180deg 1deg 0deg 3000m
+
+REM ACP File Aircraft Carrier Property

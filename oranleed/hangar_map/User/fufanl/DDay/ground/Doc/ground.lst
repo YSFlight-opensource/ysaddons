@@ -1,0 +1,26 @@
+Ground:
+user/fufanl/DDay/ground/ark.dat user/fufanl/DDay/ground/arkvisual.srf user/fufanl/DDay/ground/arkcoll.srf
+user/fufanl/DDay/ground/hangar4.dat user/fufanl/DDay/ground/hangar4.srf user/fufanl/DDay/ground/hangar4.srf
+user/fufanl/DDay/ground/hangar9.dat user/fufanl/DDay/ground/hangar9.srf user/fufanl/DDay/ground/hangar9.srf
+user/fufanl/DDay/ground/hangar3.dat user/fufanl/DDay/ground/hangar3.srf user/fufanl/DDay/ground/hangar3.srf
+user/fufanl/DDay/ground/bigfactory.dat user/fufanl/DDay/ground/bigfactory.srf user/fufanl/DDay/ground/bigfactory.srf
+user/fufanl/DDay/ground/factory.dat user/fufanl/DDay/ground/factory.srf user/fufanl/DDay/ground/factory.srf
+user/fufanl/DDay/ground/garage01.dat user/fufanl/DDay/ground/garage01.srf user/fufanl/DDay/ground/garage01.srf
+user/fufanl/DDay/ground/hangard.dat user/fufanl/DDay/ground/hangard.srf user/fufanl/DDay/ground/hangard.srf
+user/fufanl/DDay/ground/bf109.dat user/fufanl/DDay/ground/bf109.srf user/fufanl/DDay/ground/bf109.srf
+user/fufanl/DDay/ground/ju88.dat user/fufanl/DDay/ground/ju88.srf user/fufanl/DDay/ground/ju88.srf
+user/fufanl/DDay/ground/tigerlight.dat user/fufanl/DDay/ground/tigerlight.srf user/fufanl/DDay/ground/tigerlight.srf
+user/fufanl/DDay/ground/pz4.dat user/fufanl/DDay/ground/pz4.srf user/fufanl/DDay/ground/pz4.srf
+user/fufanl/DDay/ground/mobelwagen.dat user/fufanl/DDay/ground/mobelwagen.srf user/fufanl/DDay/ground/mobelwagen.srf
+user/fufanl/DDay/ground/mobelwagen1.dat user/fufanl/DDay/ground/mobelwagen1.srf user/fufanl/DDay/ground/mobelwagen1.srf
+user/fufanl/DDay/ground/v1.dat user/fufanl/DDay/ground/v1.srf user/fufanl/DDay/ground/v1.srf
+user/fufanl/DDay/ground/v2.dat user/fufanl/DDay/ground/v2.srf user/fufanl/DDay/ground/v2.srf
+user/fufanl/DDay/ground/bunker.dat user/fufanl/DDay/ground/bunker.srf user/fufanl/DDay/ground/bunker.srf
+user/fufanl/DDay/ground/bunker_c.dat user/fufanl/DDay/ground/bunker_c.srf user/fufanl/DDay/ground/bunker_c.srf
+user/fufanl/DDay/ground/london_tower.dat user/fufanl/DDay/ground/london_tower.srf user/fufanl/DDay/ground/london_tower.srf
+user/fufanl/DDay/ground/eiffel.dat user/fufanl/DDay/ground/eiffel.srf user/fufanl/DDay/ground/eiffel.srf
+user/fufanl/DDay/ground/german_gun.dat user/fufanl/DDay/ground/german_gun.srf user/fufanl/DDay/ground/german_gun.srf
+
+
+Scenery:
+D_DAY User/fufanl/DDay/england.fld User/fufanl/DDay/england.stp User/fufanl/DDay/england.yfs

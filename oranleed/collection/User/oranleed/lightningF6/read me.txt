@@ -1,0 +1,2 @@
+user/oranleed/lightningF6/lightningF6.dat user/oranleed/lightningF6/lightningF6.dnm user/oranleed/lightningF6/lightningF6coll.srf user/oranleed/lightningF6/lightningF6cockpit.srf user/oranleed/lightningF6/lightningF6coarse.dnm
+user/oranleed/lightningF6/lightningF6cmg.dat user/oranleed/lightningF6/lightningF6cmg.dnm user/oranleed/lightningF6/lightningF6coll.srf user/oranleed/lightningF6/lightningF6cockpit.srf user/oranleed/lightningF6/lightningF6cmgcoarse.dnm

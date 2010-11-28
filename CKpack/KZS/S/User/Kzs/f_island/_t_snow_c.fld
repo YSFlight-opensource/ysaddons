@@ -1,0 +1,104 @@
+FIELD
+SKY 153 153 255
+GND 102 51 204
+
+FLD
+FIL _t_snow_p.fld
+POS 1000.00 10.00 6000.00 0 0 0
+END
+FLD
+FIL _t_snow_p.fld
+POS -1000.00 16.00 6000.00 0 0 0
+END
+FLD
+FIL _t_snow_p.fld
+POS 3000.0 24.00 6000.00 0 0 0
+END
+
+
+
+FLD
+FIL _t_snow_p.fld
+POS -2000.00 16.00 4000.00 0 0 0
+END
+FLD
+FIL _t_snow_p.fld
+POS 0.00 24.00 4000.00 0 0 0
+END
+FLD
+FIL _t_snow_p.fld
+POS 2000.00 24.00 4000.00 0 0 0
+END
+FLD
+FIL _t_snow_p.fld
+POS 4000.00 0.00 4000.00 0 0 0
+END
+
+
+
+FLD
+FIL _t_snow_p.fld
+POS 1000.00 0.00 2000.00 0 0 0
+END
+FLD
+FIL _t_snow_p.fld
+POS -1000.00 28.00 2000.00 0 0 0
+END
+FLD
+FIL _t_snow_p.fld
+POS 3000.00 12.00 2000.00 0 0 0
+END
+
+
+
+FLD
+FIL _t_snow_p.fld
+POS 0.00 0.00 0.00 0 0 0
+END
+FLD
+FIL _t_snow_p.fld
+POS -2000.00 22.00 0.00 0 0 0
+END
+FLD
+FIL _t_snow_p.fld
+POS 2000.0 10.00 0.00 0 0 0
+END
+
+
+
+FLD
+FIL _t_snow_p.fld
+POS 1000.00 30.00 -2000.00 0 0 0
+END
+FLD
+FIL _t_snow_p.fld
+POS -1000.00 0.00 -2000.00 0 0 0
+END
+FLD
+FIL _t_snow_p.fld
+POS 3000.00 5.00 -2000.00 0 0 0
+END
+
+
+
+FLD
+FIL _t_snow_p.fld
+POS 1000.00 80.00 -4000.00 0 0 0
+END
+FLD
+FIL _t_snow_p.fld
+POS -1000.00 0.00 -4000.00 0 0 0
+END
+
+
+
+FLD
+FIL _t_snow_p.fld
+POS 0.00 0.00 -6000.00 0 0 0
+END
+FLD
+FIL _t_snow_p.fld
+POS -2000.00 12.00 -6000.00 0 0 0
+END
+
+ENDF

@@ -1,0 +1,66 @@
+FIELD
+SKY 25 25 25
+GND 38 38 38
+PLT
+FIL hxb_void_lay5.pc2
+POS 0.00 0.001 0.00 0 0 0
+END
+PLT
+FIL hxb_void_lay5.pc2
+POS 0.00 0.001 0.00 4096 0 0
+END
+PLT
+FIL hxb_void_lay5.pc2
+POS 0.00 0.001 0.00 8192 0 0
+END
+PLT
+FIL hxb_void_lay5.pc2
+POS 0.00 0.001 0.00 12288 0 0
+END
+PLT
+FIL hxb_void_lay5.pc2
+POS 0.00 0.001 0.00 16384 0 0
+END
+PLT
+FIL hxb_void_lay5.pc2
+POS 0.00 0.001 0.00 20480 0 0
+END
+PLT
+FIL hxb_void_lay5.pc2
+POS 0.00 0.001 0.00 24576 0 0
+END
+PLT
+FIL hxb_void_lay5.pc2
+POS 0.00 0.001 0.00 28672 0 0
+END
+
+PLT
+FIL hxb_void_lay4.pc2
+POS 0.00 1500.00 0.00 0 16384 0
+END
+PLT
+FIL hxb_void_lay4.pc2
+POS 0.00 1000.00 0.00 0 16384 0
+END
+PLT
+FIL hxb_void_lay4.pc2
+POS 0.00 500.00 0.00 0 16384 0
+END
+PLT
+FIL hxb_void_lay4.pc2
+POS 0.00 0.001 0.00 0 16384 0
+END
+PLT
+FIL hxb_void_lay4.pc2
+POS 0.00 -500.00 0.00 0 16384 0
+END
+PLT
+FIL hxb_void_lay4.pc2
+POS 0.00 -1000.00 0.00 0 16384 0
+END
+PLT
+FIL hxb_void_lay4.pc2
+POS 0.00 -1450.00 0.00 0 16384 0
+END
+
+ENDF

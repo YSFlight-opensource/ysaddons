@@ -1,0 +1,8 @@
+User/Kzs/star_fld/ground/stf_asteroid_1d_deck.srf
+User/Kzs/star_fld/ground/stf_asteroid_1d_wire.srf
+User/Kzs/star_fld/ground/stf_asteroid_1d_catapult.srf
+User/Kzs/star_fld/ground/_null.srf
+ILS 5.00m -80.00m -138.00m 180.00deg 2.00deg 0.00deg 6000m
+VIEWPOINT FALSE
+
+REM ACP File for AsteroidBase #1(DownDeckModule) Property

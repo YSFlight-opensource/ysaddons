@@ -1,0 +1,8 @@
+tmp/navy/hermes_deck.srf
+tmp/navy/hermes_null.srf
+tmp/navy/hermes_null.srf
+tmp/navy/hermes_bridge.srf
+ILS -12.75m 13.90m -99.06m 180deg 5deg 0deg 6000m
+VIEWPOINT TRUE
+
+REM ACP File Aircraft Carrier Property

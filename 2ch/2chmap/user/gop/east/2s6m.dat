@@ -1,0 +1,35 @@
+IDENTIFY [GOP]2S6M_TUNGUSKA
+HTRADIUS 5m
+STRENGTH 9
+INITIGUN 0
+INITISAM 99999999
+MAXSPEED 80km/h
+MAXROTAT 60deg
+AIMROTAT 60deg
+AIMPITCH 60deg
+GUNRANGE 1000m
+SAMRANGE 6000m
+MINIDAMG 0
+GRNDTYPE TANK
+
+ANTIGRND TRUE
+HUGROUND TRUE
+
+SAMRANGE 2000m
+SAMMINPI 10deg
+SAMMAXPI 80deg
+SAMMOUNT 0.0000m 4m 0m
+SAMRLOAD 1 8
+
+NMTURRET 1
+TURRETPO 0 0m 4m 0m 0deg 0deg 0deg   # Number x y z h p b
+TURRETPT 0 -6deg 80deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 0 -180deg 180deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 0 999999999999                              # Ammo
+TURRETIV 0 0.06sec                              # Number ShootingInterval
+TURRETAR 0
+TURRETCT 0 GUNNER                            # Controlled by PILOT or GUNNER
+TURRETRG 0 1600m
+TURRETPW 0 10
+
+USEAIMAT 0m 2m 0m

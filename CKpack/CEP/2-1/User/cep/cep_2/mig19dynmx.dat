@@ -1,0 +1,110 @@
+REM
+REM
+REM      \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+REM      \                     Mig-19                       \
+REM      \                                                     \
+REM      \          USSR Intercept Fighter           \
+REM      \                                                     \
+REM      \           Created_By_Masa_AT              \
+REM      \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+REM
+REM
+IDENTIFY "MIG-19_FARMAR"
+CATEGORY FIGHTER
+AFTBURNR TRUE                #HAVE AFTERBURNER?
+THRAFTBN  6.5t                #THRUST WITH AFTERBURNER
+THRMILIT  5.2t                #THRUST AT MILITARY POWER
+WEIGHCLN  5.76t                #WEIGHT CLEAN
+WEIGFUEL  1.73t                #WEIGHT OF FUEL
+WEIGLOAD  0.5t                #WEIGHT OF PAYLOAD
+FUELABRN 1.25kg                #FUEL CONSUMPTION WHEN USING AFTERBURNER
+FUELMILI 0.45kg               #FUEL CONSUMPTION AT MILITARY POWER
+
+COCKPITP  0.0m  0.8m   2.90m  #COCKPIT POSITION
+LEFTGEAR -2.0m -1.13m -0.45m  #LEFT LANDING GEAR POSITION
+RIGHGEAR  2.0m -1.13m -0.45m  #RIGHT LANDING GEAR POSITION
+WHELGEAR  0.0m -1.30m  3.95m  #WHEEL POSITION
+MACHNGUN -0.95m 0.2m  3.80m  #MACHINE GUN POSITION
+MACHNGN2 0.95m  0.2m  3.80m  #MACHINE GUN POSITION
+SMOKEGEN -0.00m  1.20m -6.40m  #SMOKE GENERATOR POSITION
+VAPORPO0 -4.40m  0.0m -3.6m  #VAPOR POSITION (Wings Swept Back or no-VGW)
+VAPORPO1 -4.40m  0.0m -3.6m  #VAPOR POSITION (Wings Spread)
+HTRADIUS  7.5m                #OUTSIDE SPHERE RADIUS
+
+TRIGGER1 GUN
+TRIGGER2 GUN
+TRIGGER3 NON
+TRIGGER4 AAM
+
+STRENGTH 5
+
+CRITAOAP  21.5deg               #CRITICAL AOA POSITIVE
+CRITAOAM -20deg               #CRITICAL AOA NEGATIVE
+
+CRITSPED 950km/h              #CRITICAL SPEED
+MAXSPEED 1452km/h             #MAXIMUM SPEED
+
+HASSPOIL TRUE                 #HAS SPOILER?
+RETRGEAR TRUE                 #HAS RETRACTABLE LANDING GEAR?
+VARGEOMW FALSE                 #HAS VARIABLE GEOMETRY WING?
+
+CLVARGEO 0.0                  #EFFECT OF VARIABLE GEOMETRY WING FOR Cl
+CDVARGEO 0.0                  #EFFECT OF VARIABLE GEOMETRY WING FOR Cd
+CLBYFLAP 0.6                  #EFFECT OF FLAP FOR Cl
+CDBYFLAP 0.6                  #EFFECT OF FLAP FOR Cd
+CDBYGEAR 0.5                  #EFFECT OF GEAR FOR Cd
+CDSPOILR 2.0                  #EFFECT OF SPOILER FOR Cd
+
+WINGAREA 25.0m^2                #WING AREA
+
+MXIPTAOA 27.8deg              #MAX INPUT AOA
+MXIPTSSA 10.8deg               #MAX INPUT SSA
+MXIPTROL 360.0deg             #MAX INPUT ROLL
+
+REM CPITMANE corresponds to Spring Constant K
+REM CPITSTAB corresponds to Damper Constant B
+REM To be critically damped, B=2*sqrt(K)
+REM 2% Settling Time=??
+
+MANESPD1 90kt                 #MINIMUM MANEUVABLE SPEED
+MANESPD2 100kt                #FULLY MANEUVABLE SPEED
+CPITMANE 8.0                  #PITCH MANEUVERBILITY CONSTANT
+CPITSTAB 1.0                  #PITCH STABILITY CONSTANT
+CYAWMANE 5.0                  #YAW MANEUVABILITY CONSTANT
+CYAWSTAB 3.0                  #YAW STABILITY CONSTANT
+CROLLMAN 3.0                  #ROLL MANEUVABILITY CONSTANT
+
+CTLLDGEA TRUE                 #CONTROL LANDINGGEAR
+CTLBRAKE FALSE                #CONTROL BRAKE
+CTLSPOIL 0.0                  #CONTROL SPOILER
+CTLABRNR FALSE                #CONTROL AFTERBURNER
+CTLTHROT 0.0                  #CONTROL THRUST
+CTLIFLAP 0.0                  #CONTROL FLAP
+CTLINVGW 0.0                  #CONTROL VARIABLE GEOMETRY WING
+CTLATVGW TRUE                 #CONTROL AUTO VARIABLE GEOMETRY WING
+
+POSITION 0m 3ft 0m            #POSITION
+ATTITUDE 45deg 0deg 0deg      #ATTITUDE
+INITFUEL 75%                  #INITIAL FUEL
+INITLOAD 0.0t                 #INITIAL PAYLOAD
+INITSPED 0.0MACH              #INITIAL SPEED
+
+INITIGUN 3000                 #INITIAL GUN
+INITIAAM 2                    #INITIAL AAM
+INITIAGM 0                    #INITIAL AGM
+
+AAMSLOT_ 2.4m -0.25m 0.6m
+AAMSLOT_ -2.4m -0.25m 0.6m
+
+REM ClZero,CdZero is fixed by Cruising condition
+REFVCRUS 1100km/h              #CRUISING SPEED
+REFACRUS 20000ft              #CRUISING ALTITUDE
+REFTCRUS 1.0                  #CRUISING THROTTLE SETTING
+
+REM ClSlope,CdConst is fixed by Landing condition
+REFVLAND 130kt                #LANDING SPEED
+REFAOALD 7deg                #LANDING AOA
+REFLNRWY 1400m                #RUNWAY REQUIRED TO STOP
+REFTHRLD 0.3                  #LANDING THROTTLE SETTING
+
+AUTOCALC

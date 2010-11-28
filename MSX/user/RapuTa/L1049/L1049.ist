@@ -1,0 +1,40 @@
+REM Instrument Panel Definitoin for L1049
+REM Circular indicators,
+REM   ???????? x y radius
+REM Rectangular indicators
+REM   ???????? x1 y1 x2 y2
+REM   (x1<x2, y1<y2)
+
+PNLRANGE -0.80 -1.0 0.80 -0.37
+REM FLAP____ 0.70 -0.99 0.82 -0.69
+REM SPOILER_ 0.50 -0.67 0.62 -0.37
+
+
+
+
+
+
+
+
+
+
+
+VERTICAL 0.57 -0.53 0.14
+AIRSPEED -0.33 -0.53 0.14
+FLAP____ 1.09 -0.94 1.20 -0.69
+TRNCOORD 0.57 -0.83 0.14
+GEAR____ -0.73 -0.92 -0.57 -0.72
+ILS_____ -0.03 -0.83 0.14
+ATTITUDE 0.27 -0.53 0.14
+FUEL____ 0.94 -0.94 1.05 -0.69
+HEADING_ -0.03 -0.53 0.14
+THROTTLE 1.06 -0.52 0.13
+VOR_____ 0.27 -0.83 0.14
+BRAKE___ -0.73 -0.69 -0.57 -0.57
+ALTITUDE -0.33 -0.83 0.14
+
+SPEEDRNG 380kt
+SPEEDARC 270deg
+SPEEDVNE 330kt
+SPEEDVFE 0kt
+SPEEDVNO 230kt

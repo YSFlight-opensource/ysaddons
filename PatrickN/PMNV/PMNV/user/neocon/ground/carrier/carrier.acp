@@ -1,0 +1,10 @@
+user/neocon/ground/carrier/carrier_deck.srf
+user/neocon/ground/carrier/carrier_wire.srf
+user/neocon/ground/carrier/carrier_catapult.srf
+ground/null.srf
+ILS -6.5m 30.3m -137m 190deg 5deg 0deg 6000m
+VIEWPOINT TRUE
+ARRESTINGWIRE -18.647m 30.5m -95.06m 0.752664m 30.5m -95.06m
+BRIDGEPOS 25.0m 52.0m -28.0m
+
+REM ACP File Aircraft Carrier Property

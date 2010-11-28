@@ -1,0 +1,181 @@
+REM Manufactured by Makoto 2004/10.2005/05.2006/11
+
+IDENTIFY "HAUNEB(Non-GL)" 
+CATEGORY ATTACKER
+
+AFTBURNR TRUE                 #HAVE AFTERBURNER?
+THRAFTBN 500.0t               #THRUST WITH AFTERBURNER
+THRMILIT 50.0t                #THRUST AT MILITARY POWER
+THRSTREV  2.0                 #EFFICIENCY OF THRUST REVERSER
+WEIGHCLN 20.0t                #WEIGHT CLEAN
+WEIGFUEL  1.5t                #WEIGHT OF FUEL
+WEIGLOAD 10.0t                #WEIGHT OF PAYLOAD
+FUELABRN  0.5kg               #FUEL CONSUMPTION WHEN USING AFTERBURNER
+FUELMILI  0.1kg               #FUEL CONSUMPTION AT MILITARY POWER
+
+COCKPITP  0.00m  2.02m  0.00m #COCKPIT POSITION
+LEFTGEAR -4.70m -3.80m  3.21m #LEFT LANDING GEAR POSITION
+RIGHGEAR  4.70m -3.80m  3.21m #RIGHT LANDING GEAR POSITION
+WHELGEAR  0.00m -3.80m -5.92m #WHEEL POSITION
+ARRESTER  0.00m -3.80m -5.92m
+MACHNGUN  0.00m -2.03m  4.00m #MACHINE GUN POSITION
+SMOKEGEN  0.00m  0.00m -7.08m #SMOKE GENERATOR POSITION
+VAPORPO0  7.08m  0.00m -1.41m #VAPOR POSITION (Wings Swept Back or no-VGW)
+VAPORPO1  7.08m  0.00m -1.41m #VAPOR POSITION (Wings Spread)
+HTRADIUS  10.0m               #OUTSIDE SPHERE RADIUS
+
+TRIGGER1 GUN
+TRIGGER2 AAM
+TRIGGER3 AGM
+TRIGGER4 SMK
+
+STRENGTH 10
+
+CRITAOAP  40deg               #CRITICAL AOA POSITIVE
+CRITAOAM -35deg               #CRITICAL AOA NEGATIVE
+
+CRITSPED 1.0MACH              #CRITICAL SPEED
+MAXSPEED 5.0MACH              #MAXIMUM SPEED
+
+HASSPOIL TRUE                 #HAS SPOILER?
+RETRGEAR TRUE                 #HAS RETRACTABLE LANDING GEAR?
+VARGEOMW TRUE                 #HAS VARIABLE GEOMETRY WING?
+
+TRSTVCTR TRUE                 #HAS THRUST VECTORING CAPABILITY?
+TRSTDIR0 0.0m 0.0m 1.0m       #Thrust vector 0
+TRSTDIR1 0.0m 1.0m 0.0m       #Thrust vector 1
+PSTMPTCH 90deg                #Post-Stall Maneuver VPitch
+PSTMYAW_ 90deg                #Post-Stall Maneuver VYaw
+PSTMROLL 90deg                #Post-Stall Maneuver VRoll
+
+CLVARGEO  0.0                 #EFFECT OF VARIABLE GEOMETRY WING FOR Cl
+CDVARGEO  0.0                 #EFFECT OF VARIABLE GEOMETRY WING FOR Cd
+CLBYFLAP  0.5                 #EFFECT OF FLAP FOR Cl
+CDBYFLAP  3.0                 #EFFECT OF FLAP FOR Cd
+CDBYGEAR  0.2                 #EFFECT OF GEAR FOR Cd
+CDSPOILR  8.0                 #EFFECT OF SPOILER FOR Cd
+
+WINGAREA 50m^2                #WING AREA
+
+MXIPTAOA  50.0deg             #MAX INPUT AOA
+MXIPTSSA  10.0deg             #MAX INPUT SSA
+MXIPTROL 270.0deg             #MAX INPUT ROLL
+
+REM CPITMANE corresponds to Spring Constant K
+REM CPITSTAB corresponds to Damper Constant B
+REM To be critically damped, B=2*sqrt(K)
+REM 2% Settling Time=??
+
+MANESPD1 80kt                 #MINIMUM MANEUVABLE SPEED
+MANESPD2 90kt                 #FULLY MANEUVABLE SPEED
+CPITMANE  5.0                 #PITCH MANEUVERBILITY CONSTANT
+CPITSTAB  4.0                 #PITCH STABILITY CONSTANT
+CYAWMANE  5.0                 #YAW MANEUVABILITY CONSTANT
+CYAWSTAB  4.0                 #YAW STABILITY CONSTANT
+CROLLMAN  5.0                 #ROLL MANEUVABILITY CONSTANT
+
+CTLLDGEA TRUE                 #CONTROL LANDINGGEAR
+CTLBRAKE FALSE                #CONTROL BRAKE
+CTLSPOIL 0.0                  #CONTROL SPOILER
+CTLABRNR FALSE                #CONTROL AFTERBURNER
+CTLTHROT 0.0                  #CONTROL THRUST
+CTLIFLAP 0.0                  #CONTROL FLAP
+CTLINVGW 1.0                  #CONTROL VARIABLE GEOMETRY WING
+CTLATVGW TRUE                 #CONTROL AUTO VARIABLE GEOMETRY WING
+VGWSPED1 0.01kt
+VGWSPED2 0.01kt
+
+POSITION 0m 3ft 0m            #POSITION
+ATTITUDE 45deg 0deg 0deg      #ATTITUDE
+INITFUEL 75%                  #INITIAL FUEL
+INITLOAD 0.0t                 #INITIAL PAYLOAD
+INITSPED 0.0MACH              #INITIAL SPEED
+
+INITIGUN 0                    #INITIAL GUN
+
+RADARCRS 0.001                #RADAR CROSS SECTION
+
+REM ClZero,CdZero is fixed by Cruising condition
+REFVCRUS 1.0MACH              #CRUISING SPEED
+REFACRUS 20000ft              #CRUISING ALTITUDE
+REFTCRUS 0.8                  #CRUISING THROTTLE SETTING
+
+REM ClSlope,CdConst is fixed by Landing condition
+REFVLAND 100kt                #LANDING SPEED
+REFAOALD 8deg                 #LANDING AOA
+REFLNRWY 100m                 #RUNWAY REQUIRED TO STOP
+REFTHRLD 0.30                 #LANDING THROTTLE SETTING
+
+NMTURRET 10
+
+TURRETPO 0 0m -2.03m  4m 0deg 0deg 0deg # Number x y z h p b
+TURRETPT 0 0deg 0deg 0deg               # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 0 0deg 0deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 0 20                           # Ammo
+TURRETIV 0 100sec                       # Number ShootingInterval
+TURRETCT 0 PILOT                        # Controlled by PILOT or GUNNER
+
+TURRETPO 1 0m -2.03m 14m 0deg 0deg 0deg # Number x y z h p b
+TURRETPT 1 0deg 0deg 0deg               # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 1 0deg 0deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 1 20                           # Ammo
+TURRETIV 1 100sec                       # Number ShootingInterval
+TURRETCT 1 PILOT                        # Controlled by PILOT or GUNNER
+
+TURRETPO 2 0m -2.03m 24m 0deg 0deg 0deg # Number x y z h p b
+TURRETPT 2 0deg 0deg 0deg               # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 2 0deg 0deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 2 20                           # Ammo
+TURRETIV 2 100sec                       # Number ShootingInterval
+TURRETCT 2 PILOT                        # Controlled by PILOT or GUNNER
+
+TURRETPO 3 0m -2.03m 34m 0deg 0deg 0deg # Number x y z h p b
+TURRETPT 3 0deg 0deg 0deg               # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 3 0deg 0deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 3 20                           # Ammo
+TURRETIV 3 100sec                       # Number ShootingInterval
+TURRETCT 3 PILOT                        # Controlled by PILOT or GUNNER
+
+TURRETPO 4 0m -2.03m 44m 0deg 0deg 0deg # Number x y z h p b
+TURRETPT 4 0deg 0deg 0deg               # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 4 0deg 0deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 4 20                           # Ammo
+TURRETIV 4 100sec                       # Number ShootingInterval
+TURRETCT 4 PILOT                        # Controlled by PILOT or GUNNER
+
+TURRETPO 5 0m -2.03m 54m 0deg 0deg 0deg # Number x y z h p b
+TURRETPT 5 0deg 0deg 0deg               # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 5 0deg 0deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 5 20                           # Ammo
+TURRETIV 5 100sec                       # Number ShootingInterval
+TURRETCT 5 PILOT                        # Controlled by PILOT or GUNNER
+
+TURRETPO 6 0m -2.03m 64m 0deg 0deg 0deg # Number x y z h p b
+TURRETPT 6 0deg 0deg 0deg               # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 6 0deg 0deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 6 20                           # Ammo
+TURRETIV 6 100sec                       # Number ShootingInterval
+TURRETCT 6 PILOT                        # Controlled by PILOT or GUNNER
+
+TURRETPO 7 0m -2.03m 74m 0deg 0deg 0deg # Number x y z h p b
+TURRETPT 7 0deg 0deg 0deg               # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 7 0deg 0deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 7 20                           # Ammo
+TURRETIV 7 100sec                       # Number ShootingInterval
+TURRETCT 7 PILOT                        # Controlled by PILOT or GUNNER
+
+TURRETPO 8 0m -2.03m 84m 0deg 0deg 0deg # Number x y z h p b
+TURRETPT 8 0deg 0deg 0deg               # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 8 0deg 0deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 8 20                           # Ammo
+TURRETIV 8 100sec                       # Number ShootingInterval
+TURRETCT 8 PILOT                        # Controlled by PILOT or GUNNER
+
+TURRETPO 9 0m -2.03m 94m 0deg 0deg 0deg # Number x y z h p b
+TURRETPT 9 0deg 0deg 0deg               # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 9 0deg 0deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 9 20                           # Ammo
+TURRETIV 9 100sec                       # Number ShootingInterval
+TURRETCT 9 PILOT                        # Controlled by PILOT or GUNNER
+
+AUTOCALC

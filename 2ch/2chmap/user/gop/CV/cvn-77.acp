@@ -1,0 +1,10 @@
+User/gop/CV/cvn-77_deck.srf
+User/gop/CV/cvn-77_wire.srf
+User/gop/CV/cvn-77_catapult.srf
+User/gop/CV/cvn-77_bridge.srf
+ILS -2.5m 20.3m -102m 188deg 5deg 0deg 6000m
+VIEWPOINT TRUE
+ARRESTINGWIRE 15m 20.5m -84.06m -22m 20.5m -89m
+BRIDGEPOS 20.0m 34.0m -38.0m
+
+REM ACP File Aircraft Carrier Property

@@ -1,0 +1,22 @@
+Ground:
+user/fufanl/battle/ground/ark.dat user/fufanl/battle/ground/arkvisual.srf user/fufanl/battle/ground/arkcoll.srf
+user/fufanl/battle/ground/subtunnel.dat user/fufanl/battle/ground/subtunnel.srf user/fufanl/battle/ground/subtunnel_coll.srf
+user/fufanl/battle/ground/u-boote_9c.dat user/fufanl/battle/ground/u-boote_9c.srf user/fufanl/battle/ground/u-boote_9c.srf
+user/fufanl/battle/ground/hangarmim.dat user/fufanl/battle/ground/hangarmim.srf user/fufanl/battle/ground/hangarmim.srf
+user/fufanl/battle/ground/spit.dat user/fufanl/battle/ground/spit.srf user/fufanl/battle/ground/spit.srf
+user/fufanl/battle/ground/hangar4.dat user/fufanl/battle/ground/hangar4.srf user/fufanl/battle/ground/hangar4.srf
+user/fufanl/battle/ground/hangar9.dat user/fufanl/battle/ground/hangar9.srf user/fufanl/battle/ground/hangar9.srf
+user/fufanl/battle/ground/hangar3.dat user/fufanl/battle/ground/hangar3.srf user/fufanl/battle/ground/hangar3.srf
+user/fufanl/battle/ground/bigfactory.dat user/fufanl/battle/ground/bigfactory.srf user/fufanl/battle/ground/bigfactory.srf
+user/fufanl/battle/ground/factory.dat user/fufanl/battle/ground/factory.srf user/fufanl/battle/ground/factory.srf
+user/fufanl/battle/ground/garage01.dat user/fufanl/battle/ground/garage01.srf user/fufanl/battle/ground/garage01.srf
+user/fufanl/battle/ground/hangard.dat user/fufanl/battle/ground/hangard.srf user/fufanl/battle/ground/hangard.srf
+user/fufanl/battle/ground/airmim.dat user/fufanl/battle/ground/airmim.srf user/fufanl/battle/ground/airmim.srf
+user/fufanl/battle/ground/bf109.dat user/fufanl/battle/ground/bf109.srf user/fufanl/battle/ground/bf109.srf
+user/fufanl/battle/ground/ju88.dat user/fufanl/battle/ground/ju88.srf user/fufanl/battle/ground/ju88.srf
+user/fufanl/battle/ground/tigerlight.dat user/fufanl/battle/ground/tigerlight.srf user/fufanl/battle/ground/tigerlight.srf
+user/fufanl/battle/ground/pz4.dat user/fufanl/battle/ground/pz4.srf user/fufanl/battle/ground/pz4.srf
+
+
+Scenery:
+BATTLE_OF_ENGLAND User/fufanl/Battle/england.fld User/fufanl/Battle/england.stp User/fufanl/Battle/england.yfs

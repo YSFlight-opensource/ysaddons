@@ -1,0 +1,1 @@
+user/oranleed/shyoki/shyoki.dat user/oranleed/shyoki/shyoki.dnm user/oranleed/shyoki/shyokicoll.srf user/oranleed/shyoki/shyokicockpit.srf user/oranleed/shyoki/shyokicoarse.dnm

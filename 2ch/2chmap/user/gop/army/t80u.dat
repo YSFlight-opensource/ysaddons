@@ -1,0 +1,48 @@
+IDENTIFY [GOP]T-80U
+HTRADIUS 7m
+STRENGTH 60
+INITIGUN 9999999999
+INITCANO 0
+INITISAM 0
+MAXSPEED 80km/h
+MAXROTAT 90deg
+ANTIGRND TRUE
+HUGROUND TRUE
+MINIDAMG 0
+GRNDTYPE TANK
+
+
+AIMROTAT 60deg
+AIMPITCH 60deg
+
+GUNRANGE 200m
+AAAMINPI -10deg
+AAAMAXPI 90deg
+AAAMOUNT 0.21m 2.8m -0.13m
+
+NMTURRET 2
+TURRETPO 0 0m 4m -0.37m 0deg 0deg 0deg   # Number x y z h p b
+TURRETPT 0 -0.5deg 0.05deg 0deg            # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 0 -180deg 180deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 0 999999999999                              # Ammo
+TURRETIV 0 2.5sec                              # Number ShootingInterval
+TURRETNH 0 TURRET
+TURRETAR 0
+TURRETGD 0
+TURRETCT 0 GUNNER                            # Controlled by PILOT or GUNNER
+TURRETRG 0 1800m
+TURRETPW 0 50
+
+TURRETPO 1 0m 4m 0m 0deg 0deg 0deg   # Number x y z h p b
+TURRETPT 1 -1deg 2deg 0deg           # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 1 -180deg 180deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 1 999999999999                              # Ammo
+TURRETIV 1 120sec                              # Number ShootingInterval
+TURRETAR 1
+TURRETGD 1
+TURRETCT 1 GUNNER                            # Controlled by PILOT or GUNNER
+TURRETRG 1 2000m
+TURRETWP 1 AGM65
+TURRETPW 1 9
+
+USEAIMAT 0m 2m 0m

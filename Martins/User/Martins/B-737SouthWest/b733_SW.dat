@@ -1,0 +1,139 @@
+REM Boeing 737-300 Created by Takaty-
+IDENTIFY "::MARTINS::B733-SouthWest_Shamu"
+CATEGORY NORMAL
+AFTBURNR FALSE              #HAVE AFTERBURNER?
+THRAFTBN 0.00t              #THRUST WITH AFTERBURNER
+FUELABRN 0.00kg             #FUEL CONSUMPTION WHEN USING AFTERBURNER
+THRMILIT 40000lb            #THRUST AT MILITARY POWER
+WEIGHCLN 49.67t      	    #WEIGHT CLEAN
+WEIGFUEL 16.20t             #WEIGHT OF FUEL
+FUELMILI 1.167kg            #FUEL CONSUMPTION AT MILITARY POWER
+WEIGLOAD 14.81t             #WEIGHT OF PAYLOAD
+THRSTREV 0.7		    #RATIO OF THURUST REVERSE(+AUTO SPOILER)
+
+COCKPITP -0.625m 1.93m  11.001m    #COCKPIT POSITION
+EXCAMERA "copilot" 0.625m  1.86m  11.001m 0deg 0deg 0deg INSIDE
+LEFTGEAR -2.599m -1.833m -2.993m  #LEFT LANDING GEAR POSITION
+RIGHGEAR 2.599m -1.833m -2.993m   #RIGHT LANDING GEAR POSITION
+WHELGEAR  0.00m -1.833m 9.431m    #WHEEL POSITION
+MACHNGUN  0.00m  0.00m  0.00m    #MACHINE GUN POSITION
+SMOKEGEN -4.914m -0.691m -12.5m  #SMOKE GENERATOR POSITION
+VAPORPO0 -14.25m 1.03m -7.14m    #VAPOR POSITION (Wings Swept back)
+VAPORPO1 -14.25m 1.03m -7.14m    #VAPOR POSITION (Wings Spread)
+HTRADIUS 20.0m                   #OUTSIDE SPHERE RADIUS
+
+TRIGGER1 NON
+TRIGGER2 NON
+TRIGGER3 NON
+TRIGGER4 NON
+
+STRENGTH 45
+
+CRITAOAP 15deg                #CRITICAL AOA POSITIVE
+CRITAOAM -7deg                #CRITICAL AOA NEGATIVE
+
+CRITSPED 0.75MACH             #CRITICAL SPEED
+MAXSPEED 0.81MACH             #MAXIMUM SPEED
+
+HASSPOIL TRUE                 #HAS SPOILER?
+RETRGEAR TRUE                 #HAS RETRACTABLE LANDING GEAR?
+VARGEOMW TRUE                 #HAS VARIABLE GEOMETRY WING?
+
+TRSTVCTR TRUE                 #HAS THRUST VECTORING CAPABILITY?
+TRSTDIR0 0.0m 0.0m 1.0m       #Thrust vector 0
+TRSTDIR1 0.0m 1.0m 0.0m       #Thrust vector 1
+PSTMPTCH 5deg                 #Post-Stall Maneuver VPitch
+PSTMYAW_ 0deg                 #Post-Stall Maneuver VYaw
+PSTMROLL 0deg                 #Post-Stall Maneuver VRoll
+
+CLVARGEO 0.00001              #EFFECT OF VARIABLE GEOMETRY WING FOR Cl
+CDVARGEO 0.00001              #EFFECT OF VARIABLE GEOMETRY WING FOR Cd
+CLBYFLAP 0.7                  #EFFECT OF FLAP FOR Cl
+CDBYFLAP 0.6                  #EFFECT OF FLAP FOR Cd
+CDBYGEAR 0.3                  #EFFECT OF GEAR FOR Cd
+CDSPOILR 0.8                  #EFFECT OF SPOILER FOR Cd
+
+WINGAREA 105.4m^2             #WING AREA
+
+MXIPTAOA 15.0deg              #MAX INPUT AOA
+MXIPTSSA  4.0deg              #MAX INPUT SSA
+MXIPTROL  20deg               #MAX INPUT ROLL
+
+REM CPITMANE corresponds to Spring Constant K
+REM CPITSTAB corresponds to Damper Constant B
+REM To be critically damped, B=2*sqrt(K)
+REM 2% Settling Time=??
+
+MANESPD1  80kt                #MINIMUM MANEUVABLE SPEED
+MANESPD2 120kt                #FULLY MANEUVABLE SPEED
+CPITMANE 3.5                  #PITCH MANEUVERBILITY CONSTANT
+CPITSTAB 5.0                  #PITCH STABILITY CONSTANT
+CYAWMANE 4.0                  #YAW MANEUVABILITY CONSTANT
+CYAWSTAB 3.0                  #YAW STABILITY CONSTANT
+CROLLMAN 3.0                  #ROLL MANEUVABILITY CONSTANT
+
+CTLLDGEA TRUE                 #CONTROL LANDINGGEAR
+CTLBRAKE FALSE                #CONTROL BRAKE
+CTLSPOIL 0.0                  #CONTROL SPOILER
+CTLABRNR FALSE                #CONTROL AFTERBURNER
+CTLTHROT 0.0                  #CONTROL THRUST
+CTLIFLAP 0.0                  #CONTROL FLAP
+CTLINVGW 0.0                  #CONTROL VARIABLE GEOMETRY WING
+CTLATVGW TRUE                 #CONTROL AUTO VARIABLE GEOMETRY WING
+
+VGWSPED1 25kt
+VGWSPED2 24kt
+
+
+POSITION 0m 3ft 0m            #POSITION
+ATTITUDE 45deg 0deg 0deg      #ATTITUDE
+INITFUEL 75%                  #INITIAL FUEL
+INITLOAD 0.0t                 #INITIAL PAYLOAD
+INITSPED 0.0MACH              #INITIAL SPEED
+
+WEAPONCH SMK
+SMOKEOIL 10t
+
+INITIGUN 0                    #INITIAL GUN
+INITIAAM 0                    #INITIAL AAM
+MAXNMAGM 0                    #MINIMUM AGM
+MAXNBOMB 0                    #MINIMUM BOM
+INITIAGM 0                    #INITIAL AGM
+INITBOMB 0                    #INITIAL BOMB
+
+RADARCRS 1.0                  #RADAR CROSS SECTION
+
+REM ClZero,CdZero is fixed by Cruising condition
+REFVCRUS 0.80MACH             #CRUISING SPEED
+REFACRUS 20000ft              #CRUISING ALTITUDE
+REFTCRUS 0.7                  #CRUISING THROTTLE SETTING
+
+REM ClSlope,CdConst is fixed by Landing condition
+REFVLAND 140kt                #LANDING SPEED
+REFAOALD 4.0deg               #LANDING AOA
+REFLNRWY 2000m                #RUNWAY REQUIRED TO STOP
+REFTHRLD 0.4                  #LANDING THROTTLE SETTING
+
+NMTURRET 2
+
+TURRETPO 0 0.00m 0.00m 0.00m 0deg 0deg 0deg  # Number x y z h p b
+TURRETPT 0 0deg 0deg 0deg                    # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 0 -55.0deg 55.0deg 0deg             # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 0 0                                 # Ammo
+TURRETIV 0 0.5sec                            # Number ShootingInterval
+TURRETNM 0 cop_head                          # DNM Node Name
+TURRETAR 0                                   # Anti Air Capable
+TURRETCT 0 PILOT                             # Controlled by PILOT or GUNNER
+TURRETRG 0 1000m
+
+TURRETPO 1 0.00m 0.00m 0.00m 0deg 0deg 0deg  # Number x y z h p b
+TURRETPT 1 -55.0deg 55.0deg 0deg             # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 1 0deg 0deg 0deg                    # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 1 0                                 # Ammo
+TURRETIV 1 0.5sec                            # Number ShootingInterval
+TURRETNM 1 cap_neck                          # DNM Node Name
+TURRETAR 1                                   # Anti Air Capable
+TURRETCT 1 PILOT                             # Controlled by PILOT or GUNNER
+TURRETRG 1 1000m
+
+AUTOCALC

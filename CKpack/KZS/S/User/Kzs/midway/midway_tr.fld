@@ -1,0 +1,141 @@
+FIELD
+SKY 37 123 209
+GND 2 34 185
+
+TER
+FIL m01_3x5_01.ter
+ID 0
+TAG ""
+POS -1543.41 0.00 -2499.88 3686 0 0
+END
+TER
+FIL m01_3x5_01.ter
+ID 0
+TAG ""
+POS 798.44 0.00 -2909.66 20068 0 0
+END
+TER
+FIL m01_3x5_02.ter
+ID 0
+TAG ""
+POS -1510.96 0.00 -2549.88 -13310 0 0
+END
+TER
+FIL m01_3x5_03.ter
+ID 0
+TAG ""
+POS -1969.83 0.00 -3392.06 -5120 0 0
+END
+TER
+FIL m01_3x5_04.ter
+ID 0
+TAG ""
+POS -2502.35 0.00 -3952.57 -7168 0 0
+END
+TER
+FIL m01_3x5_05.ter
+ID 0
+TAG ""
+POS -640.02 0.00 -2280.29 4096 0 0
+END
+TER
+FIL m01_3x5_05.ter
+ID 0
+TAG ""
+POS 37.02 0.00 -3030.69 0 0 0
+END
+TER
+FIL m01_3x5_06.ter
+ID 0
+TAG ""
+POS -426.20 0.00 -2335.66 -8396 0 0
+END
+
+SRF
+FIL _t_coconut_tree_s.srf
+ID 0
+TAG ""
+POS -771.22 0.00 -2003.17 0 0 0
+END
+SRF
+FIL _t_coconut_tree_s.srf
+ID 0
+TAG ""
+POS 1790.68 0.00 -3114.83 0 0 0
+END
+SRF
+FIL _t_coconut_tree_s.srf
+ID 0
+TAG ""
+POS -964.44 0.00 -2012.02 0 0 0
+END
+
+SRF
+FIL _t_tree3_s.srf
+ID 0
+TAG ""
+POS -516.30 0.00 -3622.46 0 0 0
+END
+SRF
+FIL _t_tree3_s.srf
+ID 0
+TAG ""
+POS -884.58 0.00 -2293.44 0 0 0
+END
+SRF
+FIL _t_tree3_s.srf
+ID 0
+TAG ""
+POS -637.01 0.00 -3182.12 0 0 0
+END
+SRF
+FIL _t_tree3_s.srf
+ID 0
+TAG ""
+POS 327.43 0.00 -2159.90 0 0 0
+END
+SRF
+FIL _t_tree3_s.srf
+ID 0
+TAG ""
+POS 3577.47 0.00 -3096.46 0 0 0
+END
+
+SRF
+FIL _t_tree4_s.srf
+ID 0
+TAG ""
+POS 3203.13 0.00 -3116.16 0 0 0
+END
+SRF
+FIL _t_tree4_s.srf
+ID 0
+TAG ""
+POS 3971.50 0.00 -3017.65 0 0 0
+END
+SRF
+FIL _t_tree4_s.srf
+ID 0
+TAG ""
+POS -1999.30 0.00 -4120.96 0 0 0
+END
+SRF
+FIL _t_tree4_s.srf
+ID 0
+TAG ""
+POS -471.29 0.00 -3795.88 0 0 0
+END
+SRF
+FIL _t_tree4_s.srf
+ID 0
+TAG ""
+POS 562.89 0.00 -2159.90 0 0 0
+END
+SRF
+FIL _t_tree4_s.srf
+ID 0
+TAG ""
+POS -22.59 0.00 -2166.26 0 0 0
+END
+
+ENDF

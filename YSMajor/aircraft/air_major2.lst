@@ -1,0 +1,29 @@
+user/major/p40/P-40B_Tiger.dat user/major/p40/P-40B_Tiger.dnm user/major/p40/p40coll.srf user/major/p40/p40cockpit.srf user/major/p40/tiger_coarse.dnm
+user/major/p40/P-40B_Wheeler.dat user/major/p40/P-40B_Wheeler.dnm user/major/p40/p40coll.srf user/major/p40/p40cockpit.srf user/major/p40/wheeler_coarse.dnm
+user/major/p40/P-40B_RAF.dat user/major/p40/P-40B_RAF.dnm user/major/p40/p40coll.srf user/major/p40/p40cockpit.srf user/major/p40/raf_coarse.dnm
+user/major/p40/P-39.dat user/major/p40/P-39.dnm user/major/p40/P39coll.srf user/major/p40/P39cockpit.srf user/major/p40/p39crs.dnm
+user/major/p40/P-38F.dat user/major/p40/P-38F.dnm user/major/p40/P38coll.srf user/major/p40/P38jcockpit.srf user/major/p40/p38fcrs.dnm
+
+user/major/china/I-16_CNAF.dat user/major/china/I-16_CNAF.dnm user/major/china/I-16_cl.srf user/major/china/I-16_cpt.srf user/major/china/i16crs.srf
+user/major/china/I-15_CNAF.dat user/major/china/I-15_CNAF.dnm user/major/china/i15coll.srf user/major/china/i15cockpit.srf user/major/china/i15crs.dnm
+user/major/china/Mosquito_CNAF.dat user/major/china/Mosquito_CNAF.dnm user/major/china/mosquito_coll.srf user/major/china/mosquito_cockpit.srf
+user/major/china/B-24_CNAF.dat user/major/china/B-24_CNAF.dnm user/major/china/b24coll.srf user/major/china/null.srf user/major/china/b24crs3.srf
+user/major/china/P-51_CNAF.dat user/major/china/P-51_CNAF.dnm user/major/china/p51dcoll.srf user/major/china/p51dcockpit.srf
+user/major/china/P-47_CNAF.dat user/major/china/P-47_CNAF.dnm user/major/china/p47_coll.srf user/major/china/null.srf
+user/major/china/F-84_ROCAF.dat user/major/china/F-84_ROCAF.dnm user/major/china/f-84g_coll.srf user/major/china/f-84_cockpit.srf
+user/major/china/F-86F_ROCAF.dat user/major/china/F-86F_ROCAF.dnm user/major/china/f86cl.srf user/major/china/f86cpt.srf user/major/china/f86crs.dnm
+
+user/major/china/Type99_PLAAF.dat user/major/china/Type99_PLAAF.dnm user/major/china/99coll.srf user/major/china/99cockpit.srf
+user/major/china/Po-2_PLAAF.dat user/major/china/Po-2_PLAAF.dnm user/major/china/po2coll.srf user/major/china/null.srf
+user/major/china/Yak-18_PLAAF.dat user/major/china/Yak-18_PLAAF.dnm user/major/china/yak18cl.srf user/major/china/null.srf
+user/major/china/P-51_PLAAF.dat user/major/china/P-51_PLAAF.dnm user/major/china/p51dcoll.srf user/major/china/p51dcockpit.srf
+user/major/china/B-24_PLAAF.dat user/major/china/B-24_PLAAF.dnm user/major/china/b24coll.srf user/major/china/null.srf user/major/china/b24crs2.srf
+user/major/china/La-11_PLAAF.dat user/major/china/La-11_PLAAF.dnm user/major/china/la11coll.srf user/major/china/null.srf user/major/china/la11crs.dnm
+user/major/china/Il-10_PLAAF.dat user/major/china/Il-10_PLAAF.dnm user/major/china/il10coll.srf user/major/china/il10cpt.srf
+user/major/china/Mig-15_PLAAF.dat user/major/china/Mig-15_PLAAF.dnm user/major/china/mig15coll.srf user/major/china/mig15nkcockpit.srf user/major/china/mig15crs.dnm
+user/major/china/Mig-17_PLAAF.dat user/major/china/Mig-17_PLAAF.dnm user/major/china/mig17coll.srf user/major/china/null.srf user/major/china/mig17crs2.srf
+
+user/major/Spain/I-16_Spain.dat user/major/Spain/I-16_Spain.dnm user/major/Spain/I-16_cl.srf user/major/Spain/I-16_cpt.srf user/major/Spain/i16crs.srf
+user/major/Spain/Me-109_Spain.dat user/major/Spain/Me-109_Spain.dnm user/major/Spain/109coll.srf user/major/Spain/null.srf user/major/Spain/109crs.dnm
+
+user/major/thing/loach_VTOL.dat user/major/thing/loach_VTOL.dnm user/major/thing/oh6coll.srf user/major/thing/oh6cpt.srf    

@@ -1,0 +1,32 @@
+REM Instrument Panel Definitoin for C130
+REM Circular indicators,
+REM   ???????? x y radius
+REM Rectangular indicators
+REM   ???????? x1 y1 x2 y2
+REM   (x1<x2, y1<y2)
+
+PNLRANGE -0.90 -1.0 0.90 -0.2
+
+
+VERTICAL 0.56 -0.85 0.13
+AIRSPEED -0.04 -0.58 0.13
+FLAP____ 1.25 -0.95 1.35 -0.75
+TRNCOORD -0.04 -0.85 0.13
+ILS_____ 0.83 -0.85 0.13
+GEAR____ 1.14 -0.44 1.24 -0.30
+CROSHAIR 0.00 0.00 0.05
+FUEL____ 1.25 -0.71 1.35 -0.45
+ATTITUDE 0.26 -0.50 0.16
+HEADING_ 0.26 -0.83 0.16
+THROTTLE 1.10 -0.58 0.13
+GLOADING 1.12 -0.95 1.22 -0.75
+VOR_____ 0.83 -0.58 0.13
+BRAKE___ 1.02 -0.44 1.12 -0.30
+ALTITUDE 0.56 -0.58 0.13
+
+SPEEDRNG 384kt
+SPEEDARC 330deg
+SPEEDVFE 200kt
+SPEEDVNE 365kt
+SPEEDMCH TRUE
+SPEEDVNO 348kt

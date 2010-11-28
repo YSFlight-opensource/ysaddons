@@ -1,0 +1,1 @@
+user/hangar/yak141(yume)/yak141(yume).dat user/hangar/yak141(yume)/yak141(yume).dnm user/hangar/yak141(yume)/yak141coll.srf user/hangar/yak141(yume)/yak141(yume)cockpit.srf user/hangar/yak141(yume)/yak141(yume)coarse.dnm

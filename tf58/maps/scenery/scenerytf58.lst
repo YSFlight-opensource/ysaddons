@@ -1,0 +1,5 @@
+EDWARDS_AIRFORCE_BASE user/tf58/scenery/edwards.fld user/tf58/scenery/edwards.stp
+COLDLAKE user/tf58/scenery/coldlake.fld user/tf58/scenery/coldlake.stp
+COLDLAKE_LITE user/tf58/scenery/coldlakelite.fld user/tf58/scenery/coldlake.stp
+TACA_ISLAND user/tf58/scenery/taca.fld user/tf58/scenery/taca.stp
+SOLOMONS user/tf58/scenery/solomons.fld user/tf58/scenery/solomons.stp

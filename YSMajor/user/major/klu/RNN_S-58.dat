@@ -1,0 +1,111 @@
+REM Original from Makoto
+REM Repaint by YS Major
+
+IDENTIFY "RNN_S-58"
+CATEGORY UTILITY
+AIRCLASS HELICOPTER
+
+AFTBURNR FALSE                 #HAVE AFTERBURNER?
+PROPELLR 1525HP                #PROPELLER ENGINE
+PROPEFCY 0.58                  #Propeller efficiency
+PROPVMIN 18m/s                 #Minimum speed that T=P/V becomes valid
+WEIGHCLN 3.46t                 #WEIGHT CLEAN
+WEIGFUEL 1.1t                  #WEIGHT OF FUEL
+WEIGLOAD 2.34t                  #WEIGHT OF PAYLOAD
+FUELMILI 0.08kg                #FUEL CONSUMPTION AT MILITARY POWER
+EXCAMERA "1" -0.59m  0.48m  1.98m -90deg 0deg 0deg INSIDE
+EXCAMERA "2" 0.38m  0.60m  2.35m 0deg 0deg 0deg INSIDE
+EXCAMERA "3" 0.57m  0.38m  3.77m -90deg -5deg 0deg INSIDE
+COCKPITP  0.52m  1.80m  4.57m  #COCKPIT POSITION 0.00 0.82 3.15
+LEFTGEAR -1.74m -1.31m  4.44m  #LEFT LANDING GEAR POSITION
+RIGHGEAR  1.74m -1.31m  4.44m  #RIGHT LANDING GEAR POSITION
+WHELGEAR  0.00m -1.28m -4.23m   #WHEEL POSITION
+MACHNGUN  0.00m  0.00m  0.00m  #MACHINE GUN POSITION
+VAPORPO0 -8.50m  3.10m  3.61m  #VAPOR POSITION (Wings Swept Back or no-VGW)
+VAPORPO1  8.50m  3.10m  3.61m   
+HTRADIUS 7.0m                 #OUTSIDE SPHERE RADIUS
+
+TRIGGER1 GUN
+TRIGGER2 AAM
+TRIGGER3 AGM
+TRIGGER4 SMK
+
+STRENGTH 9
+
+CRITAOAP  35deg               #CRITICAL AOA POSITIVE
+CRITAOAM -30deg               #CRITICAL AOA NEGATIVE
+
+CRITSPED 100km/h                #CRITICAL SPEED
+MAXSPEED 198km/h                #MAXIMUM SPEED
+
+HASSPOIL FALSE                 #HAS SPOILER?
+RETRGEAR FALSE                 #HAS RETRACTABLE LANDING GEAR?
+VARGEOMW TRUE                 #HAS VARIABLE GEOMETRY WING?
+
+TRSTVCTR TRUE                 #HAS THRUST VECTORING CAPABILITY?
+TRSTDIR0 0.0m 1.0m 0.1m       #Thrust vector 0
+TRSTDIR1 0.0m 1.0m 0.1m       #Thrust vector 1
+PSTMPTCH 25deg                #Post-Stall Maneuver VPitch
+PSTMYAW_ 35deg                #Post-Stall Maneuver VYaw
+PSTMROLL 55deg                #Post-Stall Maneuver VRoll
+
+CLVARGEO 0.0                  #EFFECT OF VARIABLE GEOMETRY WING FOR Cl
+CDVARGEO 0.0                  #EFFECT OF VARIABLE GEOMETRY WING FOR Cd
+CLBYFLAP 0.0                  #EFFECT OF FLAP FOR Cl
+CDBYFLAP 0.0                  #EFFECT OF FLAP FOR Cd
+CDBYGEAR 0.0                  #EFFECT OF GEAR FOR Cd
+CDSPOILR 0.0                  #EFFECT OF SPOILER FOR Cd
+
+WINGAREA 1m^2                 #WING AREA
+
+MXIPTAOA 0.00deg              #MAX INPUT AOA
+MXIPTSSA 0.00deg              #MAX INPUT SSA
+MXIPTROL 0.00deg              #MAX INPUT ROLL
+
+REM CPITMANE corresponds to Spring Constant K
+REM CPITSTAB corresponds to Damper Constant B
+REM To be critically damped, B=2*sqrt(K)
+REM 2% Settling Time=??
+
+MANESPD1 30kt                 #MINIMUM MANEUVABLE SPEED
+MANESPD2 50kt                #FULLY MANEUVABLE SPEED
+CPITMANE 5.0                  #PITCH MANEUVERBILITY CONSTANT
+CPITSTAB 2.5                  #PITCH STABILITY CONSTANT
+CYAWMANE 5.0                  #YAW MANEUVABILITY CONSTANT
+CYAWSTAB 3.5                  #YAW STABILITY CONSTANT
+CROLLMAN 5.0                  #ROLL MANEUVABILITY CONSTANT
+
+CTLLDGEA TRUE                 #CONTROL LANDINGGEAR
+CTLBRAKE FALSE                #CONTROL BRAKE
+CTLSPOIL 0.0                  #CONTROL SPOILER
+CTLABRNR FALSE                #CONTROL AFTERBURNER
+CTLTHROT 0.0                  #CONTROL THRUST
+CTLIFLAP 0.0                  #CONTROL FLAP
+CTLINVGW 1.0                  #CONTROL VARIABLE GEOMETRY WING
+CTLATVGW TRUE                #CONTROL AUTO VARIABLE GEOMETRY WING
+VGWSPED1 1kt
+VGWSPED2 20kt
+
+POSITION 0m 3ft 0m            #POSITION
+ATTITUDE 45deg 0deg 0deg      #ATTITUDE
+INITFUEL 75%                  #INITIAL FUEL
+INITLOAD 0.1t                 #INITIAL PAYLOAD
+INITSPED 0.0MACH              #INITIAL SPEED
+
+INITIGUN 0                    #INITIAL GUN
+INITIAAM 0                    #INITIAL AAM
+INITIAGM 0                    #INITIAL AGM
+INITBOMB 0                    #INITIAL BOMB
+
+REM ClZero,CdZero is fixed by Cruising condition
+REFVCRUS 158km/h               #CRUISING SPEED
+REFACRUS 6500ft                #CRUISING ALTITUDE
+REFTCRUS 0.9                  #CRUISING THROTTLE SETTING
+
+REM ClSlope,CdConst is fixed by Landing condition
+REFVLAND  1kt                  #LANDING SPEED
+REFAOALD  1deg                #LANDING AOA
+REFLNRWY  10m                   #RUNWAY REQUIRED TO STOP
+REFTHRLD  0.1                 #LANDING THROTTLE SETTING
+
+AUTOCALC

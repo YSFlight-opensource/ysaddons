@@ -1,0 +1,12 @@
+user/TGP/refueler_jasdf.dat user/TGP/refueler_jasdf.dnm user/TGP/refueler_jasdf_coll.srf user/TGP/refueler_jasdf_cockpit.srf user/TGP/refueler_jasdf_coarse.dnm
+user/TGP/refueler_idemitsu.dat user/TGP/refueler_idemitsu.dnm user/TGP/refueler_idemitsu_coll.srf user/TGP/refueler_idemitsu_cockpit.srf user/TGP/refueler_idemitsu_coarse.dnm
+user/TGP/refueler_jomo.dat user/TGP/refueler_jomo.dnm user/TGP/refueler_jomo_coll.srf user/TGP/refueler_jomo_cockpit.srf user/TGP/refueler_jomo_coarse.dnm
+user/TGP/refueler_tomoyo.dat user/TGP/refueler_tomoyo.dnm user/TGP/refueler_tomoyo_coll.srf user/TGP/refueler_tomoyo_cockpit.srf user/TGP/refueler_tomoyo_coarse.dnm
+
+user/TGP/b_loader.dat user/TGP/b_loader.dnm user/TGP/b_loader_coll.srf user/TGP/b_loader_cock.srf user/TGP/b_loader_coarse.dnm
+user/TGP/food.dat user/TGP/food.dnm user/TGP/food_coll.srf user/TGP/food_cockpit.srf  
+user/TGP/elftag.dat user/TGP/elftag.dnm user/TGP/elftag_coll.srf user/TGP/elftag_cockpit.srf 
+user/TGP/elftag_wingdoly.dat user/TGP/elftag_wingdoly.dnm user/TGP/elftag_wingdoly_coll.srf user/TGP/elftag_wingdoly_cockpit.srf
+user/TGP/h_loader.dat user/TGP/h_loader.dnm user/TGP/h_loader_coll.srf user/TGP/h_loader_cock.srf user/TGP/h_loader_coarse.dnm
+user/TGP/h_loader_ex.dat user/TGP/h_loader_ex.dnm user/TGP/h_loader_ex_coll.srf user/TGP/h_loader_ex_cock.srf user/TGP/h_loader_ex_coarse.dnm
+

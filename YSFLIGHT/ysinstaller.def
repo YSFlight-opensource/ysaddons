@@ -1,0 +1,46 @@
+APPNAME YS FLIGHT SIMULATOR
+
+REM FIXINSTDIR
+
+DEFINSTDIR *PROGRAM_FILES*\YSFLIGHT.COM\YSFLIGHT
+DEFGROUPDIR *COMMON_PROGRAMS*\YS FLIGHT SIMULATOR
+ALTGROUPDIR *PROGRAMS*\YS FLIGHT SIMULATOR
+
+ICONNAME YSFLIGHT (OpenGL)
+ICONEXEC fsmaino.exe
+
+ICONNAME YSFLIGHT (Direct3D)
+ICONEXEC fsmaindx.exe
+
+ICONNAME YSFLIGHT (CPU Rendered)
+ICONEXEC fsmain.exe
+
+ICONNAME Network Server Console
+ICONJPNS ネットワークサーバーコンソール
+ICONEXEC fsmainsvr.exe
+
+ICONNAME HELP(JAPANESE)
+ICONJPNS 日本語ヘルプ
+ICONEXEC document\japanese.html
+
+ICONNAME HELP(English)
+ICONJPNS 英語ヘルプ
+ICONEXEC document\english.html
+
+ICONNAME RESET SETTINGS
+ICONJPNS 設定のリセット
+ICONEXEC fsmaino.exe
+ICONPARM -setdefaultconfig -setdefaultnetconfig -setdefaultkeyassign -setdefaultoption -autoexit
+
+
+DTOPICON YSFLIGHT (OpenGL)
+ICONEXEC fsmaino.exe
+
+DTOPICON YSFLIGHT (Direct3D)
+ICONEXEC fsmaindx.exe
+
+DTOPICON YSFLIGHT (CPU Rendered)
+ICONEXEC fsmain.exe
+
+
+

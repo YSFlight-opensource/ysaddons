@@ -1,0 +1,30 @@
+FIELD
+SKY 37 123 209
+GND 2 34 185
+
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS -2774.87 0.00 -10802.18 0 0 0
+END
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS 46286.18 0.00 -25406.65 0 0 0
+END
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS 18527.44 0.00 -19217.58 0 0 0
+END
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS 9807.96 0.00 2672.41 0 0 0
+END
+
+ENDF

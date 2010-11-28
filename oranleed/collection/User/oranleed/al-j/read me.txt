@@ -1,0 +1,7 @@
+aircraftフォルダの中のaircraft.lstに次の二行を追加して、上書き保存してください。
+
+user/oranleed/al-j/al-ja.dat user/oranleed/al-j/al-ja.dnm user/oranleed/al-j/al-j_coll.srf user/oranleed/al-j/al-j_cockpit.srf user/oranleed/al-j/al-ja_coarse.dnm
+user/oranleed/al-j/al-je.dat user/oranleed/al-j/al-je.dnm user/oranleed/al-j/al-j_coll.srf user/oranleed/al-j/al-j_cockpit.srf user/oranleed/al-j/al-je_coarse.dnm
+
+ALPHAJET A： 軽攻撃機
+ALPHAJET E： 高等練習機

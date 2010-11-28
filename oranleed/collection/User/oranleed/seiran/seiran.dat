@@ -1,0 +1,114 @@
+REM SEIRAN
+IDENTIFY "seiran(M6A1)"
+CATEGORY WW2ATTACKER
+AFTBURNR FALSE                  #HAVE AFTERBURNER?
+PROPELLR 1340HP                 #PROPELLER ENGINE
+WEIGHCLN  3.3t                  #WEIGHT CLEAN
+WEIGFUEL  0.4t                  #WEIGHT OF FUEL
+WEIGLOAD  0.4.5t                #WEIGHT OF PAYLOAD
+FUELMILI  0.05kg                #FUEL CONSUMPTION AT MILITARY POWER
+
+COCKPITP  0.0m   0.96m -0.35m   #COCKPIT POSITION
+INSTPANL user/oranleed/seiran/seiran.ist
+LEFTGEAR -1.61m -2.36m 3.83m    #LEFT LANDING GEAR POSITION
+RIGHGEAR  1.61m -2.36m 3.83m    #RIGHT LANDING GEAR POSITION
+WHELGEAR  0.0m  -2.03m -2.54m   #WHEEL POSITION
+SMOKEGEN  0.0m   0.00m -4.89m   #SMOKE GENERATOR POSITION
+VAPORPO0  6.13m  0.09m -0.17m   #VAPOR POSITION (Wings Swept Back or no-VGW)
+VAPORPO1  6.13m  0.09m -0.17m   #VAPOR POSITION (Wings Spread)
+HTRADIUS  7.5m                  #OUTSIDE SPHERE RADIUS
+GUNSIGHT FALSE
+
+TRIGGER1 GUN
+TRIGGER2 AAM
+TRIGGER3 AGM
+TRIGGER4 SMK
+
+STRENGTH 8
+
+CRITAOAP  20deg               #CRITICAL AOA POSITIVE
+CRITAOAM -15deg               #CRITICAL AOA NEGATIVE
+
+CRITSPED 350km/h              #CRITICAL SPEED
+MAXSPEED 474km/h              #MAXIMUM SPEED
+
+HASSPOIL FALSE                #HAS SPOILER?
+RETRGEAR FALSE                #HAS RETRACTABLE LANDING GEAR?
+VARGEOMW FALSE                #HAS VARIABLE GEOMETRY WING?
+
+VGWSPED1 100kt
+VGWSPED2 170kt
+
+CLVARGEO 0.20                 #EFFECT OF VARIABLE GEOMETRY WING FOR Cl
+CDVARGEO 0.1                  #EFFECT OF VARIABLE GEOMETRY WING FOR Cd
+CLBYFLAP 0.1                  #EFFECT OF FLAP FOR Cl
+CDBYFLAP 0.2                  #EFFECT OF FLAP FOR Cd
+CDBYGEAR 0.5                  #EFFECT OF GEAR FOR Cd
+CDSPOILR 0.0                  #EFFECT OF SPOILER FOR Cd
+
+WINGAREA 23.5m^2              #WING AREA
+
+MXIPTAOA 27.0deg              #MAX INPUT AOA
+MXIPTSSA 5.0deg               #MAX INPUT SSA
+MXIPTROL 50.0deg              #MAX INPUT ROLL
+
+REM CPITMANE corresponds to Spring Constant K
+REM CPITSTAB corresponds to Damper Constant B
+REM To be critically damped, B=2*sqrt(K)
+REM 2% Settling Time=??
+
+MANESPD1 40kt                 #MINIMUM MANEUVABLE SPEED
+MANESPD2 60kt                 #FULLY MANEUVABLE SPEED
+CPITMANE 7.0                  #PITCH MANEUVERBILITY CONSTANT
+CPITSTAB 2.5                  #PITCH STABILITY CONSTANT
+CYAWMANE 5.0                  #YAW MANEUVABILITY CONSTANT
+CYAWSTAB 2.0                  #YAW STABILITY CONSTANT
+CROLLMAN 2.0                  #ROLL MANEUVABILITY CONSTANT
+
+CTLLDGEA FALSE                #CONTROL LANDINGGEAR
+CTLBRAKE FALSE                #CONTROL BRAKE
+CTLSPOIL 0.0                  #CONTROL SPOILER
+CTLABRNR FALSE                #CONTROL AFTERBURNER
+CTLTHROT 0.0                  #CONTROL THRUST
+CTLIFLAP 0.0                  #CONTROL FLAP
+CTLINVGW 1.0                  #CONTROL VARIABLE GEOMETRY WING
+CTLATVGW TRUE                 #CONTROL AUTO VARIABLE GEOMETRY WING
+
+POSITION 0m 3ft 0m            #POSITION
+ATTITUDE 45deg 0deg 0deg      #ATTITUDE
+INITFUEL 75%                  #INITIAL FUEL
+INITLOAD 0.0t                 #INITIAL PAYLOAD
+INITSPED 0.0MACH              #INITIAL SPEED
+WEAPONCH GUN
+
+HRDPOINT 0.13m -0.92m 0.28m  B250
+LMTBYHDP TRUE                 #Limit Max Num Weapon by Hardpoint
+
+INITIGUN 0                    #INITIAL GUN
+LOADWEPN B250 1
+
+NMTURRET 1
+TURRETPO 0 0m 0.96m -2.00m 180deg 9deg 0deg    # Number x y z h p b
+TURRETPT 0   0deg 60deg 0deg                   # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 0 -25deg 25deg 0deg                   # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 0 1000                                # Ammo
+TURRETIV 0 0.3sec                              # Number ShootingInterval
+TURRETNM 0 0032                                # DNM Node Name
+TURRETAR 0                                     # Anti Air Capable
+TURRETCT 0 GUNNER                              # Controlled by PILOT or GUNNER
+TURRETRG 0 1000m
+
+RADARCRS 0.001
+
+REM ClZero,CdZero is fixed by Cruising condition
+REFVCRUS 430km/h              #CRUISING SPEED
+REFACRUS 13000ft              #CRUISING ALTITUDE
+REFTCRUS 0.7                  #CRUISING THROTTLE SETTING
+
+REM ClSlope,CdConst is fixed by Landing condition
+REFVLAND 80kt                 #LANDING SPEED
+REFAOALD 8.0deg               #LANDING AOA
+REFLNRWY 400m                 #RUNWAY REQUIRED TO STOP
+REFTHRLD 0.27                 #LANDING THROTTLE SETTING
+
+AUTOCALC

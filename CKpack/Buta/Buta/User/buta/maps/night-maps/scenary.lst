@@ -1,0 +1,23 @@
+ATSUGI_AIRBASE scenary/atsugi.fld scenary/atsugi.stp scenary/atsugi.yfs
+ISLAND_GOURD scenary/gourd.fld scenary/gourd.stp scenary/gourd.yfs
+MATSUSHIMA_AIRBASE scenary/yamoto.fld scenary/yamoto.stp scenary/yamoto.yfs
+MATSUSHIMA_AIRBASE2 scenary/yamoto.fld scenary/yamoto2.stp scenary/yamoto2.yfs
+NAHA_AIRPORT scenary/naha.fld scenary/naha.stp scenary/naha.yfs
+NAHA2_AIRPORT scenary/naha2.fld scenary/naha2.stp scenary/naha2.yfs
+NEWTA_AIRBASE scenary/newta.fld scenary/newta.stp scenary/newta.yfs
+SMALL_MAP scenary/small.fld scenary/small.stp scenary/small.yfs
+SPECIAL_MAP scenary/specialmap.fld scenary/specialmap.stp
+BusouKuubo scenary/small.fld scenary/small.stp scenary/busoukuubo.yfs
+BATTLE_OF_BRITAIN scenary/britain.fld scenary/britain.stp scenary/britain.yfs
+TRUCK_ISLAND scenary/truck.fld scenary/truck.stp scenary/truck.yfs
+TRAINING_IN_NAHA scenary/naha3.fld scenary/naha3.stp scenary/naha3.yfs
+Cheesecakes_Corridor scenary/tank.fld scenary/tank.stp scenary/tank.yfs
+Flap_the_FLY scenary/tkhr.fld scenary/tkhr.stp scenary/tkhr.yfs
+
+Small_Night  ext/nightmaps/small/nightsmall.fld scenary/small.stp ext/nightmaps/small/nightsmall.yfs
+Naha_Night  ext/nightmaps/naha/night.fld ext/nightmaps/naha/night.stp ext/nightmaps/naha/night.yfs
+BByamato scenary/small.fld scenary/small.stp gap/ground/small2.yfs
+FANTASY_ISLAND_Low_Laputa gap/ground/fantasy.fld gap/ground/fantasy.stp gap/ground/fantasy2.yfs
+FANTASY_ISLAND gap/ground/fantasy.fld gap/ground/fantasy.stp gap/ground/fantasy.yfs
+PORCO_ROSSO gap/ground/porco.fld gap/ground/porco.stp gap/ground/porco.yfs
+ATSUGI_AIRBASE2 scenary/atsugi.fld gap/ground/atsugi2.stp gap/ground/atsugi.yfs

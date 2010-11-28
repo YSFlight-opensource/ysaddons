@@ -1,0 +1,208 @@
+FIELD
+SKY 37 123 209
+GND 2 34 185
+SRF
+FIL _t_tree_l.srf
+ID 0
+TAG ""
+POS -28720.60 0.00 -43840.19 0 0 0
+END
+SRF
+FIL _t_tree_l.srf
+ID 0
+TAG ""
+POS 5840.04 0.00 -21463.55 0 0 0
+END
+SRF
+FIL _t_tree_l.srf
+ID 0
+TAG ""
+POS -10797.73 0.00 -29410.38 0 0 0
+END
+SRF
+FIL _t_tree_l.srf
+ID 0
+TAG ""
+POS 5605.67 0.00 -45830.66 0 0 0
+END
+SRF
+FIL _t_tree_l.srf
+ID 0
+TAG ""
+POS 26378.01 0.00 -1434.57 0 0 0
+END
+SRF
+FIL _t_tree_l.srf
+ID 0
+TAG ""
+POS 27701.00 0.00 -3784.26 0 0 0
+END
+SRF
+FIL _t_tree_l.srf
+ID 0
+TAG ""
+POS 23973.06 0.00 -3631.06 0 0 0
+END
+SRF
+FIL _t_tree_m.srf
+ID 0
+TAG ""
+POS 24164.57 0.00 -1588.36 0 0 0
+END
+SRF
+FIL _t_tree_s.srf
+ID 0
+TAG ""
+POS 27586.09 0.00 -1945.83 0 0 0
+END
+SRF
+FIL _t_tree_l.srf
+ID 0
+TAG ""
+POS 20630.28 0.00 8549.33 0 0 0
+END
+SRF
+FIL _t_tree_l.srf
+ID 0
+TAG ""
+POS 13175.84 0.00 36331.98 0 0 0
+END
+SRF
+FIL _t_tree_m.srf
+ID 0
+TAG ""
+POS 20782.63 0.00 32132.45 0 0 0
+END
+SRF
+FIL _t_tree_s.srf
+ID 0
+TAG ""
+POS 30821.36 0.00 35912.86 0 0 0
+END
+SRF
+FIL _t_tree_s.srf
+ID 0
+TAG ""
+POS 32568.60 0.00 44236.10 0 0 0
+END
+SRF
+FIL _t_tree_l.srf
+ID 0
+TAG ""
+POS 26659.73 0.00 47825.90 0 0 0
+END
+SRF
+FIL _t_tree_m.srf
+ID 0
+TAG ""
+POS 12507.60 0.00 51748.66 0 0 0
+END
+SRF
+FIL _t_tree_m.srf
+ID 0
+TAG ""
+POS 34536.20 0.00 49689.79 0 0 0
+END
+SRF
+FIL _t_tree_m.srf
+ID 0
+TAG ""
+POS 9745.15 0.00 55386.69 0 0 0
+END
+SRF
+FIL _t_tree_m.srf
+ID 0
+TAG ""
+POS -4771.42 0.00 51064.00 0 0 0
+END
+SRF
+FIL _t_tree_m.srf
+ID 0
+TAG ""
+POS 5378.87 0.00 59906.17 0 0 0
+END
+SRF
+FIL _t_tree_l.srf
+ID 0
+TAG ""
+POS 33374.25 0.00 31354.75 0 0 0
+END
+SRF
+FIL _t_tree_m.srf
+ID 0
+TAG ""
+POS 6566.20 0.00 53216.31 0 0 0
+END
+SRF
+FIL _t_tree_s.srf
+ID 0
+TAG ""
+POS 2416.96 0.00 57799.63 0 0 0
+END
+SRF
+FIL _t_tree_l.srf
+ID 0
+TAG ""
+POS 2748.89 0.00 54505.77 0 0 0
+END
+SRF
+FIL _t_tree_m.srf
+ID 0
+TAG ""
+POS 36571.35 0.00 21499.58 0 0 0
+END
+SRF
+FIL _t_tree_s.srf
+ID 0
+TAG ""
+POS -45528.17 0.00 20491.64 0 0 0
+END
+SRF
+FIL _t_tree_s.srf
+ID 0
+TAG ""
+POS -52853.23 0.00 25684.26 0 0 0
+END
+SRF
+FIL _t_tree_s.srf
+ID 0
+TAG ""
+POS -46166.58 0.00 18474.55 0 0 0
+END
+SRF
+FIL _t_tree_s.srf
+ID 0
+TAG ""
+POS -49500.16 0.00 20088.14 0 0 0
+END
+SRF
+FIL _t_tree_s.srf
+ID 0
+TAG ""
+POS -43269.84 0.00 12818.17 0 0 0
+END
+SRF
+FIL _t_tree_l.srf
+ID 0
+TAG ""
+POS -44484.21 0.00 20160.29 0 0 0
+END
+SRF
+FIL _t_tree_l.srf
+ID 0
+TAG ""
+POS -44591.81 0.00 20610.73 0 0 0
+END
+SRF
+FIL _t_tree_m.srf
+ID 0
+TAG ""
+POS -45303.70 0.00 20231.54 0 0 0
+END
+SRF
+FIL _t_tree_m.srf
+ID 0
+TAG ""
+POS -45018.66 0.00 20480.96 0 0 0
+END
+ENDF

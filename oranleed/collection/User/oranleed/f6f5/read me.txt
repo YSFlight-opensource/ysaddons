@@ -1,0 +1,2 @@
+user/oranleed/f6f5/f6f5n.dat user/oranleed/f6f5/f6f5n.dnm user/oranleed/f6f5/f6fcoll.srf user/oranleed/f6f5/f6fcockpit.srf user/oranleed/f6f5/f6f5ncoarse.dnm
+user/oranleed/f6f5/f6f5(cmg).dat user/oranleed/f6f5/f6f5(cmg).dnm user/oranleed/f6f5/f6fcoll.srf user/oranleed/f6f5/f6fcockpit.srf user/oranleed/f6f5/f6f5(cmg)coarse.dnm

@@ -1,0 +1,9 @@
+user/major/naval/kzs/kuzndeck.srf
+user/major/naval/kzs/kuznarwr.srf
+user/major/naval/kzs/kuzncatp.srf
+user/major/naval/kzs/blank.srf
+VIEWPOINT TRUE
+BRIDGEPOS 13.0m 34.0m 0.0m
+ARRESTINGWIRE -15.0m 14.674m -145.0m 18.0m 14.674m -143.0m
+ILS -1.94m 21.0m -90.25m 190deg 3.5deg 0deg 10000m
+REM ACP File Aircraft Carrier Property

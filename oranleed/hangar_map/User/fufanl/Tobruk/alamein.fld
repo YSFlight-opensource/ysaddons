@@ -1,0 +1,1080 @@
+FIELD
+SKY 0 128 255
+GND 128 128 255
+PC2
+FIL tobruck.pc2
+POS 0.00 0.00 0.00 0 0 0
+END
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS 9938.21 0.00 21059.36 0 0 0
+END
+SRF
+FIL _t_coconut_tree_r.srf
+ID 0
+TAG ""
+POS -7667.16 0.00 15151.80 0 0 0
+END
+SRF
+FIL ponte.srf
+ID 0
+TAG ""
+POS 10422.10 0.00 22632.11 16724 0 0
+END
+SRF
+FIL crane.srf
+ID 0
+TAG ""
+POS -11326.45 0.00 26632.57 -46380 0 0
+END
+SRF
+FIL crane1.srf
+ID 0
+TAG ""
+POS -11525.17 0.00 26473.28 67376 0 0
+END
+SRF
+FIL cruisertank.srf
+ID 0
+TAG ""
+POS 5195.67 0.33 20369.08 15018 0 0
+END
+SRF
+FIL fence.srf
+ID 0
+TAG ""
+POS -12477.54 0.00 25326.70 1024 0 0
+END
+SRF
+FIL ponte1.srf
+ID 0
+TAG ""
+POS 10249.71 0.01 20882.78 0 0 0
+END
+TER
+FIL hills.ter
+ID 0
+TAG ""
+POS 10166.92 0.00 23873.68 0 0 0
+END
+TER
+FIL hills2.ter
+ID 0
+TAG ""
+POS 8617.73 0.00 13284.30 0 0 0
+END
+SRF
+FIL housen.srf
+ID 0
+TAG ""
+POS 9213.58 0.00 22897.62 0 0 0
+END
+SRF
+FIL casavill.srf
+ID 0
+TAG ""
+POS 12021.92 -0.16 16806.61 0 0 0
+END
+TER
+FIL m1.ter
+ID 0
+TAG ""
+POS 15412.09 0.00 4863.27 9900 0 0
+END
+TER
+FIL m3.ter
+ID 0
+TAG ""
+POS 9107.98 0.00 17116.73 6712 0 0
+END
+TER
+FIL m4.ter
+ID 0
+TAG ""
+POS 11019.82 0.00 19754.89 0 0 0
+END
+SRF
+FIL marine.srf
+ID 0
+TAG ""
+POS -10267.92 12.96 27237.16 0 0 0
+END
+PC2
+FIL oasi2.pc2
+POS -7502.78 0.00 15016.88 0 0 0
+END
+PC2
+FIL port01.pc2
+POS -10966.50 0.00 26821.51 2388 0 0
+END
+PC2
+FIL runway2.pc2
+POS 11474.18 0.00 22299.91 17408 0 0
+END
+PC2
+FIL runway2.pc2
+POS -9809.71 0.00 24865.08 18770 0 0
+END
+PC2
+FIL runwaymim.pc2
+POS -15401.75 0.00 19816.79 -1840 0 0
+END
+SRF
+FIL cruisertank.srf
+ID 0
+TAG ""
+POS 4842.33 1.31 18913.06 15926 0 0
+END
+RGN
+ID 1
+TAG "itrw"
+ARE -5000000000.00 -5000000000.00 5000000000.00 5000000000.00
+POS -9779.62 0.00 24845.71 0 0 0
+END
+SRF
+FIL fence.srf
+ID 0
+TAG ""
+POS -12482.70 0.00 25773.38 0 0 0
+END
+SRF
+FIL fence2.srf
+ID 0
+TAG ""
+POS -12485.75 0.00 26024.65 -32687 0 0
+END
+SRF
+FIL fence1.srf
+ID 0
+TAG ""
+POS -12097.38 0.00 26285.68 -12231 0 0
+END
+SRF
+FIL citta_or.srf
+ID 0
+TAG ""
+POS 9167.98 0.00 22495.00 0 0 0
+END
+SRF
+FIL crane1.srf
+ID 0
+TAG ""
+POS -11117.35 0.00 26121.78 2456 0 0
+END
+SRF
+FIL crane1.srf
+ID 0
+TAG ""
+POS -11581.37 0.00 26867.85 -21398 0 0
+END
+SRF
+FIL crane1.srf
+ID 0
+TAG ""
+POS -10994.57 0.00 26970.46 -14130 0 0
+END
+SRF
+FIL fence1.srf
+ID 0
+TAG ""
+POS -12375.07 0.00 26249.31 20592 0 0
+END
+SRF
+FIL fence1.srf
+ID 0
+TAG ""
+POS -12343.03 0.00 25141.42 46874 0 0
+END
+SRF
+FIL fence1.srf
+ID 0
+TAG ""
+POS -12052.58 0.00 25133.72 77922 0 0
+END
+SRF
+FIL fence1.srf
+ID 0
+TAG ""
+POS -11826.03 0.00 24969.18 45736 0 0
+END
+SRF
+FIL fence2.srf
+ID 0
+TAG ""
+POS -11604.01 0.00 25069.50 -6266 0 0
+END
+SRF
+FIL fence1.srf
+ID 0
+TAG ""
+POS -11151.03 0.00 25562.07 14402 0 0
+END
+SRF
+FIL fence.srf
+ID 0
+TAG ""
+POS -11362.86 0.00 25448.94 26716 0 0
+END
+SRF
+FIL fence1.srf
+ID 0
+TAG ""
+POS -10896.18 0.00 25446.51 -17638 0 0
+END
+SRF
+FIL fence1.srf
+ID 0
+TAG ""
+POS -11869.05 0.00 26466.75 20341 0 0
+END
+SRF
+FIL fence.srf
+ID 0
+TAG ""
+POS -10704.32 0.00 25580.82 28556 0 0
+END
+SRF
+FIL housen.srf
+ID 0
+TAG ""
+POS 9023.29 0.00 22909.24 0 0 0
+END
+SRF
+FIL housen.srf
+ID 0
+TAG ""
+POS 9766.68 0.00 22893.84 0 0 0
+END
+SRF
+FIL housen.srf
+ID 0
+TAG ""
+POS 9581.93 0.00 22893.84 0 0 0
+END
+SRF
+FIL housen.srf
+ID 0
+TAG ""
+POS 9401.58 0.00 22893.84 0 0 0
+END
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS 10584.29 0.00 12898.63 0 0 0
+END
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS 12479.92 0.00 18048.62 0 0 0
+END
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS 11009.17 0.00 13767.12 0 0 0
+END
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS 10862.10 0.00 19486.69 0 0 0
+END
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS 12300.16 0.00 15842.50 0 0 0
+END
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS 11368.69 0.00 14600.54 0 0 0
+END
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS 9661.44 0.00 23343.31 0 0 0
+END
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS 12146.73 0.00 16738.57 0 0 0
+END
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS 10387.74 0.00 23195.78 0 0 0
+END
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS 10478.62 0.00 21198.82 0 0 0
+END
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS 12021.94 0.00 19343.55 0 0 0
+END
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS 11917.96 0.00 18484.32 0 0 0
+END
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS 10777.19 0.00 19586.89 0 0 0
+END
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS 10181.40 0.00 20154.30 0 0 0
+END
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS 10116.83 0.00 21773.86 0 0 0
+END
+SRF
+FIL _t_coconut_tree_r.srf
+ID 0
+TAG ""
+POS -14821.71 0.00 20996.60 0 0 0
+END
+TER
+FIL collina.ter
+ID 0
+TAG ""
+POS -12978.16 0.00 17415.29 0 0 0
+END
+TER
+FIL collina1.ter
+ID 0
+TAG ""
+POS -6323.13 0.00 9466.10 0 0 0
+END
+TER
+FIL bigmnt.ter
+ID 0
+TAG ""
+POS 15972.29 0.00 3686.67 -23552 0 0
+END
+SRF
+FIL _t_coconut_tree_r.srf
+ID 0
+TAG ""
+POS -7799.35 0.00 14900.46 0 0 0
+END
+SRF
+FIL _t_coconut_tree_r.srf
+ID 0
+TAG ""
+POS -7379.47 0.00 15047.93 0 0 0
+END
+SRF
+FIL _t_coconut_tree_r.srf
+ID 0
+TAG ""
+POS -7684.07 0.00 15167.60 0 0 0
+END
+SRF
+FIL _t_coconut_tree_r.srf
+ID 0
+TAG ""
+POS -7519.89 0.00 14900.22 0 0 0
+END
+SRF
+FIL _t_coconut_tree_r.srf
+ID 0
+TAG ""
+POS -7567.40 0.00 14923.97 0 0 0
+END
+SRF
+FIL _t_coconut_tree_r.srf
+ID 0
+TAG ""
+POS -7703.91 0.00 15155.32 0 0 0
+END
+SRF
+FIL casavill.srf
+ID 0
+TAG ""
+POS -7890.50 -0.16 15137.79 0 0 0
+END
+SRF
+FIL _t_coconut_tree_r.srf
+ID 0
+TAG ""
+POS -7871.44 0.00 15117.35 0 0 0
+END
+SRF
+FIL _t_coconut_tree_r.srf
+ID 0
+TAG ""
+POS -7852.44 0.00 15185.26 0 0 0
+END
+SRF
+FIL _t_coconut_tree_r.srf
+ID 0
+TAG ""
+POS -7909.44 0.00 15104.50 0 0 0
+END
+PC2
+FIL oasi.pc2
+POS -14911.45 0.00 21070.50 0 0 0
+END
+SRF
+FIL casavill.srf
+ID 0
+TAG ""
+POS -14858.66 -0.16 20954.36 0 0 0
+END
+SRF
+FIL _t_coconut_tree_r.srf
+ID 0
+TAG ""
+POS -14842.83 0.00 21178.71 0 0 0
+END
+SRF
+FIL _t_coconut_tree_r.srf
+ID 0
+TAG ""
+POS -14668.63 0.00 20872.55 0 0 0
+END
+SRF
+FIL _t_coconut_tree_r.srf
+ID 0
+TAG ""
+POS -15014.38 0.00 20838.24 0 0 0
+END
+SRF
+FIL _t_coconut_tree_r.srf
+ID 0
+TAG ""
+POS -14980.07 0.00 20811.85 0 0 0
+END
+SRF
+FIL _t_coconut_tree_r.srf
+ID 0
+TAG ""
+POS -14993.26 0.00 21350.26 0 0 0
+END
+SRF
+FIL _t_coconut_tree_r.srf
+ID 0
+TAG ""
+POS -15009.10 0.00 21321.23 0 0 0
+END
+SRF
+FIL _t_coconut_tree_r.srf
+ID 0
+TAG ""
+POS -15064.52 0.00 21160.23 0 0 0
+END
+SRF
+FIL _t_coconut_tree_r.srf
+ID 0
+TAG ""
+POS -14856.02 0.00 20999.24 0 0 0
+END
+SRF
+FIL 2coconutree.srf
+ID 0
+TAG ""
+POS -7843.48 0.01 14923.21 7578 0 0
+END
+SRF
+FIL warspite.srf
+ID 0
+TAG ""
+POS 16241.22 0.00 26495.89 6964 0 0
+END
+SRF
+FIL devonshire.srf
+ID 0
+TAG ""
+POS 17361.92 0.00 25723.79 8088 0 0
+END
+SRF
+FIL ivanhoe.srf
+ID 0
+TAG ""
+POS 15182.23 0.00 27303.68 6756 0 0
+END
+SRF
+FIL javelin.srf
+ID 0
+TAG ""
+POS 17526.77 0.00 26417.09 9112 0 0
+END
+SRF
+FIL cruisertank.srf
+ID 0
+TAG ""
+POS 5033.89 0.33 18265.96 15018 0 0
+END
+SRF
+FIL cruisertank.srf
+ID 0
+TAG ""
+POS 4827.99 0.33 19633.72 15018 0 0
+END
+SRF
+FIL cruisertank.srf
+ID 0
+TAG ""
+POS 4038.53 0.33 18598.45 15018 0 0
+END
+SRF
+FIL cruisertank.srf
+ID 0
+TAG ""
+POS 3847.92 0.33 19403.23 15018 0 0
+END
+SRF
+FIL cruisertank.srf
+ID 0
+TAG ""
+POS 3953.82 0.33 20229.19 15018 0 0
+END
+SRF
+FIL grant.srf
+ID 0
+TAG ""
+POS 6093.14 -0.39 15544.97 16952 0 0
+END
+SRF
+FIL grant.srf
+ID 0
+TAG ""
+POS 6122.56 -0.39 16250.95 16952 0 0
+END
+SRF
+FIL grant.srf
+ID 0
+TAG ""
+POS 6138.02 -0.39 16733.67 16952 0 0
+END
+SRF
+FIL fiat2000_mon.srf
+ID 0
+TAG ""
+POS -12268.12 0.28 25563.57 18430 0 0
+END
+SRF
+FIL altruck.srf
+ID 0
+TAG ""
+POS 5387.00 0.00 21493.21 0 0 0
+END
+SRF
+FIL altruck.srf
+ID 0
+TAG ""
+POS 5460.53 0.00 22566.85 0 0 0
+END
+SRF
+FIL altruck.srf
+ID 0
+TAG ""
+POS 5534.07 0.00 22081.51 0 0 0
+END
+SRF
+FIL cinta-torre.srf
+ID 0
+TAG ""
+POS -11722.46 0.00 26475.51 6777 0 0
+END
+TER
+FIL collina2.ter
+ID 0
+TAG ""
+POS 23284.38 0.00 17402.01 0 0 0
+END
+PC2
+FIL runwaymim.pc2
+POS -6346.02 0.00 14331.37 -1432 0 0
+END
+SRF
+FIL alcannon.srf
+ID 0
+TAG ""
+POS 7654.71 0.01 20390.95 17100 0 0
+END
+SRF
+FIL alcannon.srf
+ID 0
+TAG ""
+POS 8920.03 0.01 15604.36 17100 0 0
+END
+SRF
+FIL alcannon.srf
+ID 0
+TAG ""
+POS 8333.55 0.01 18252.22 17100 0 0
+END
+SRF
+FIL alcannon.srf
+ID 0
+TAG ""
+POS 7694.81 0.01 21281.98 17100 0 0
+END
+RGN
+ID 2
+TAG "CRW"
+ARE -1081.00 -1198.66 1081.00 1198.66
+POS -16775.54 0.00 21252.08 0 0 0
+END
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS 10921.30 0.00 4273.04 0 0 0
+END
+SRF
+FIL house.srf
+ID 0
+TAG ""
+POS 11018.35 0.00 5200.90 0 0 0
+END
+SRF
+FIL casavill.srf
+ID 0
+TAG ""
+POS 12561.12 -0.16 4199.45 0 0 0
+END
+SRF
+FIL crane.srf
+ID 0
+TAG ""
+POS 10997.04 0.00 3768.28 -16592 0 0
+END
+SRF
+FIL house.srf
+ID 0
+TAG ""
+POS 11110.53 0.00 5054.90 0 0 0
+END
+SRF
+FIL house.srf
+ID 0
+TAG ""
+POS 10703.20 0.00 5146.95 0 0 0
+END
+SRF
+FIL house.srf
+ID 0
+TAG ""
+POS 10978.78 0.00 5084.60 0 0 0
+END
+SRF
+FIL house.srf
+ID 0
+TAG ""
+POS 10837.96 0.00 5110.41 0 0 0
+END
+SRF
+FIL house.srf
+ID 0
+TAG ""
+POS 10884.91 0.00 5235.98 0 0 0
+END
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS 12460.57 0.00 5090.12 0 0 0
+END
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS 10863.30 0.00 3742.82 0 0 0
+END
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS 11903.99 0.00 5358.94 0 0 0
+END
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS 10788.34 0.00 5311.67 0 0 0
+END
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS 12357.89 0.00 4249.19 0 0 0
+END
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS 12372.30 0.00 4290.33 0 0 0
+END
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS 12649.62 0.00 4310.09 0 0 0
+END
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS 12448.21 0.00 4131.19 0 0 0
+END
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS 11750.38 0.00 4703.95 0 0 0
+END
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS 11129.39 0.00 5172.09 0 0 0
+END
+TER
+FIL mount.ter
+ID 0
+TAG ""
+POS -11384.33 0.00 9739.44 17049 0 0
+END
+TER
+FIL mount1.ter
+ID 0
+TAG ""
+POS 1666.92 0.00 -106.34 -4957 0 0
+END
+TER
+FIL mount1.ter
+ID 0
+TAG ""
+POS 178.64 0.00 2227.14 -4921 0 0
+END
+TER
+FIL mount2.ter
+ID 0
+TAG ""
+POS -12924.79 0.00 9454.72 -18840 0 0
+END
+TER
+FIL collina.ter
+ID 0
+TAG ""
+POS -21943.10 0.00 23011.10 16378 0 0
+END
+TER
+FIL mount1.ter
+ID 0
+TAG ""
+POS -20863.49 0.00 27146.83 -4921 0 0
+END
+TER
+FIL collina1.ter
+ID 0
+TAG ""
+POS -4821.86 0.00 19187.01 0 0 0
+END
+SRF
+FIL crane.srf
+ID 0
+TAG ""
+POS -10922.46 0.00 26097.91 2250 0 0
+END
+SRF
+FIL matilda.srf
+ID 0
+TAG ""
+POS 1096.43 0.00 10395.51 30820 0 0
+END
+SRF
+FIL matilda.srf
+ID 0
+TAG ""
+POS 1938.08 0.00 10916.25 30820 0 0
+END
+SRF
+FIL matilda.srf
+ID 0
+TAG ""
+POS -397.94 0.00 9541.59 30820 0 0
+END
+SRF
+FIL matilda.srf
+ID 0
+TAG ""
+POS 394.99 0.00 9938.05 30820 0 0
+END
+SRF
+FIL mhamk2_g.srf
+ID 0
+TAG ""
+POS -4599.60 0.01 8317.08 14540 0 0
+END
+SRF
+FIL mhamk2_g.srf
+ID 0
+TAG ""
+POS -5514.56 0.01 8551.14 14540 0 0
+END
+SRF
+FIL mhamk2_g.srf
+ID 0
+TAG ""
+POS -6436.61 0.01 8664.62 14540 0 0
+END
+SRF
+FIL ponte1.srf
+ID 0
+TAG ""
+POS 11322.60 0.01 8425.56 0 0 0
+END
+SRF
+FIL ponte1.srf
+ID 0
+TAG ""
+POS 11163.76 0.01 13309.18 0 0 0
+END
+SRF
+FIL palme.srf
+ID 0
+TAG ""
+POS 11656.16 0.01 22317.80 0 0 0
+END
+SRF
+FIL palme.srf
+ID 0
+TAG ""
+POS 11677.84 0.01 22071.74 -4300 0 0
+END
+SRF
+FIL palme.srf
+ID 0
+TAG ""
+POS 11680.69 0.01 22798.59 -2662 0 0
+END
+SRF
+FIL palme.srf
+ID 0
+TAG ""
+POS 11643.63 0.01 22758.69 8496 0 0
+END
+SRF
+FIL palme.srf
+ID 0
+TAG ""
+POS 11626.53 0.01 22801.44 -4402 0 0
+END
+SRF
+FIL palme.srf
+ID 0
+TAG ""
+POS 10663.09 0.01 22071.74 0 0 0
+END
+SRF
+FIL silo.srf
+ID 0
+TAG ""
+POS 11710.72 0.00 21745.52 0 0 0
+END
+SRF
+FIL silo1.srf
+ID 0
+TAG ""
+POS 11716.05 0.01 21670.64 922 0 0
+END
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS -11621.09 0.00 25298.77 0 0 0
+END
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS -12074.31 0.00 25506.85 0 0 0
+END
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS -12407.80 0.00 25968.62 0 0 0
+END
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS -12390.70 0.00 25652.22 0 0 0
+END
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS -12362.20 0.00 25270.27 0 0 0
+END
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS -12270.98 0.00 25199.01 0 0 0
+END
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS -11775.01 0.00 25045.09 0 0 0
+END
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS -11820.62 0.00 25110.65 0 0 0
+END
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS -11598.29 0.00 25207.56 0 0 0
+END
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS -11435.82 0.00 25475.50 0 0 0
+END
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS -12313.74 0.00 26193.80 0 0 0
+END
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS -12025.85 0.00 26213.75 0 0 0
+END
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS -12088.56 0.00 26011.38 0 0 0
+END
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS -11649.60 0.00 25791.89 0 0 0
+END
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS -11837.72 0.00 25791.89 0 0 0
+END
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS -12159.82 0.00 25729.18 0 0 0
+END
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS -12255.70 0.00 25553.91 -6552 0 0
+END
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS -12255.24 0.00 25576.93 0 0 0
+END
+SRF
+FIL tree.srf
+ID 0
+TAG ""
+POS 11656.00 0.00 5037.28 0 0 0
+END
+SRF
+FIL tree.srf
+ID 0
+TAG ""
+POS 11589.94 0.00 5073.60 0 0 0
+END
+SRF
+FIL tree.srf
+ID 0
+TAG ""
+POS 11698.76 0.00 5107.96 0 0 0
+END
+SRF
+FIL tree.srf
+ID 0
+TAG ""
+POS 11837.37 0.00 4858.24 0 0 0
+END
+SRF
+FIL tree.srf
+ID 0
+TAG ""
+POS 11813.31 0.00 5020.90 0 0 0
+END
+SRF
+FIL tree.srf
+ID 0
+TAG ""
+POS 11893.50 0.00 4909.79 0 0 0
+END
+SRF
+FIL tree.srf
+ID 0
+TAG ""
+POS 11777.80 0.00 4953.32 0 0 0
+END
+SRF
+FIL tree.srf
+ID 0
+TAG ""
+POS 11743.44 0.00 5031.21 0 0 0
+END
+SRF
+FIL tree.srf
+ID 0
+TAG ""
+POS 11752.60 0.00 4863.97 0 0 0
+END
+SRF
+FIL tree.srf
+ID 0
+TAG ""
+POS 11699.91 0.00 4961.34 0 0 0
+END
+SRF
+FIL tree.srf
+ID 0
+TAG ""
+POS 11777.80 0.00 5091.93 0 0 0
+END
+ENDF

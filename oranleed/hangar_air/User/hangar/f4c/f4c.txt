@@ -1,0 +1,22 @@
+
+ダウンロードしていただきありがとうございます。
+空軍型のF－4Cを作ってみました。
+標準迷彩とまた違った雰囲気をお楽しみいただければ幸いです。
+※本来エンジンパワーはもっとあるのですが、デフォルト機と同じように落として設定してあります。
+
+インストール方法
+1.Userフォルダをysflightのインストールしてあるフォルダに移動します。
+2.すべて上書きします。
+3.次の文字列をaircraftフォルダの中のaircraft.lstをメモ帳などで開きコピー＆ペーストします。
+
+User/hangar/f4c/f4c.dat User/hangar/f4c/f4c.dnm User/hangar/f4c/f4coll.srf User/hangar/f4c/f4c_cockpit.srf User/hangar/f4c/f4c_coarse.dnm
+
+4.以上でインストールは終わりです。
+
+
+※ご自身の責任においてご利用ください。
+エラー等の不具合が出てもysflightの作者である山川氏に問い合わせなどはしないで下さい。
+
+このファイルに関するお問い合わせご意見ご感想などは
+Ctrl's HOMEPAGEのBBSまでお気軽にどうぞ。
+http://homepage3.nifty.com/zenith/

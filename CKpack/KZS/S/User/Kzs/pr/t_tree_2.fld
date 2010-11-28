@@ -1,0 +1,52 @@
+FIELD
+SKY 37 123 209
+GND 2 34 185
+PLT
+FIL t_coconut_l.pc2
+POS -16.00 0.00 0.00 0 0 0
+END
+PLT
+FIL t_coconut_l.pc2
+POS 16.00 0.00 0.00 -32768 0 0
+END
+PLT
+FIL t_coconut_l.pc2
+POS 0.00 0.00 16.00 -16384 0 0
+END
+PLT
+FIL t_coconut_l.pc2
+POS 0.00 0.00 -16.00 16384 0 0
+END
+PLT
+FIL t_coconut_m.pc2
+POS -12.00 0.00 12.00 -8192 0 0
+END
+PLT
+FIL t_coconut_m.pc2
+POS 12.00 0.00 12.00 -24576 0 0
+END
+PLT
+FIL t_coconut_m.pc2
+POS -12.00 0.00 -12.00 8192 0 0
+END
+PLT
+FIL t_coconut_m.pc2
+POS 12.00 0.00 -12.00 24576 0 0
+END
+PLT
+FIL t_grass.pc2
+POS 0.00 0.00 0.00 0 0 0
+END
+PLT
+FIL t_grass.pc2
+POS 0.00 0.00 0.00 16384 0 0
+END
+PLT
+FIL t_grass.pc2
+POS 0.00 0.00 0.00 -8192 0 0
+END
+PLT
+FIL t_grass.pc2
+POS 0.00 0.00 0.00 -24576 0 0
+END
+ENDF

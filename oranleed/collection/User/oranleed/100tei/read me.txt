@@ -1,0 +1,14 @@
+三菱キ46-Ⅲ　百式司令部偵察機三型甲:段無風防型
+　　　　　 　百式司令部偵察機三型乙:段付風防に再度戻し武装を施したタイプ　百式三型防空戦闘機の別称有り。
+全長:11.00m
+全幅:14.70m
+全高: 3.88m
+自重:3,263kg(全備重量:6228kg)
+最高速度:630km/h(甲　乙は不明)
+武装:20mm機関砲2(乙のみ)
+生産機数1742機
+
+aircraftフォルダの中のaircraft.lstに次の二行を追加して、上書き保存してください。
+
+user/oranleed/100tei/100tei3otu.dat user/oranleed/100tei/100tei3otu.dnm user/oranleed/100tei/100coll.srf user/oranleed/100tei/100cockpit.srf user/oranleed/100tei/100coarse.dnm
+user/oranleed/100tei/100tei3kou.dat user/oranleed/100tei/100tei3kou.dnm user/oranleed/100tei/100coll.srf user/oranleed/100tei/100cockpit.srf user/oranleed/100tei/100coarse.dnm

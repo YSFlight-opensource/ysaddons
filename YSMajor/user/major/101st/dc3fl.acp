@@ -1,0 +1,10 @@
+user/major/101st/dc3_deck.srf
+user/major/101st/dc3_wire.srf
+user/major/101st/dc3_catapult.srf
+user/major/101st/null.srf
+ILS 0.0m -1.45m -9.13m 180deg 0deg 0deg 0m
+VIEWPOINT TRUE
+ARRESTINGWIRE -1.5m -1.45m -9.13m 1.5m -1.45m -9.13m
+BRIDGEPOS 0.0m 0.0m 8.0m
+
+REM ACP File Aircraft Carrier Property

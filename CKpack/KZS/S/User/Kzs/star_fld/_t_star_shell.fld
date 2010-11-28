@@ -1,0 +1,42 @@
+FIELD
+SKY 25 25 25
+GND 0 0 51
+
+PC2
+FIL _t_star_shell_01.pc2
+POS 0.00 0.00 0.00 0 1820 0
+END
+PC2
+FIL _t_star_shell_03.pc2
+POS 0.00 0.00 0.00 0 5460 0
+END
+PC2
+FIL _t_star_shell_05.pc2
+POS 0.00 0.00 0.00 0 9100 0
+END
+PC2
+FIL _t_star_shell_07.pc2
+POS 0.00 0.00 0.00 0 12740 0
+END
+PC2
+FIL _t_star_shell_09.pc2
+POS 0.00 0.00 0.00 0 16380 0
+END
+PC2
+FIL _t_star_shell_11.pc2
+POS 0.00 0.00 0.00 0 20020 0
+END
+PC2
+FIL _t_star_shell_13.pc2
+POS 0.00 0.00 0.00 0 23660 0
+END
+PC2
+FIL _t_star_shell_15.pc2
+POS 0.00 0.00 0.00 0 27300 0
+END
+PC2
+FIL _t_star_shell_17.pc2
+POS 0.00 0.00 0.00 0 30940 0
+END
+
+ENDF

@@ -1,0 +1,24 @@
+Thank you for watching.
+	
+Last update 13/09/2008
+
+
+
+
+list
+
+test/Learjet45_HB-VML_CIV.dat test/Learjet45_HB-VML_CIV.DNM test/lear45cl.srf test/lear45cpt.srf
+
+
+navigation light and Lighting	:1 key
+
+landing light			:page up,down key
+
+
+Producer		：kubonocat
+Authorship		：Masa-AT
+Blog address		：http://oremig.blogspot.com/
+E-mail address		：kubono.genie@gmail.com
+
+
+

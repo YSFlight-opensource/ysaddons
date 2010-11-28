@@ -1,0 +1,236 @@
+User/impulse/tajima_airport/ground/tajima_tarminal.dat User/impulse/tajima_airport/ground/tajima_tarminal.dnm User/impulse/tajima_airport/ground/tajima_tarminal_coll.srf "" User/impulse/tajima_airport/ground/tajima_tarminal_coarse.srf
+User/impulse/tajima_airport/ground/tajima_hangar.dat User/impulse/tajima_airport/ground/tajima_hangar.srf User/impulse/tajima_airport/ground/tajima_hangar_coll.srf "" User/impulse/tajima_airport/ground/tajima_hangar_coarse.srf
+
+User/eee/ground/megafloat.dat User/eee/ground/megafloat.srf User/eee/ground/megafloat.srf
+User/eee/ground/megafloatn.dat User/eee/ground/megafloatn.srf User/eee/ground/megafloatn.srf
+User/eee/ground/shutter.dat User/eee/ground/shutter.srf User/eee/ground/shuttercoll.srf
+User/eee/ground/grid.dat User/eee/ground/grid.srf User/eee/ground/gridcoll.srf
+User/eee/ground/gridn.dat User/eee/ground/gridn.srf User/eee/ground/gridcoll.srf
+User/eee/ground/core.dat User/eee/ground/core.srf User/eee/ground/core.srf
+User/eee/ground/s_sam.dat User/eee/ground/s_sam.srf User/eee/ground/s_sam.srf
+User/eee/ground/s_aaa.dat User/eee/ground/s_aaa.srf User/eee/ground/s_aaa.srf
+User/eee/ground2/exbridge.dat User/eee/ground2/exbridge.srf User/eee/ground2/bridgecoll.srf
+User/eee/ground2/exbridgen.dat User/eee/ground2/exbridgen.srf User/eee/ground2/bridgecoll.srf
+User/eee/ground2/exslope.dat User/eee/ground2/exslope.srf User/eee/ground2/slopecoll.srf
+User/eee/ground2/exslopen.dat User/eee/ground2/exslopen.srf User/eee/ground2/slopecoll.srf
+User/eee/ground/airbuild.dat User/eee/ground/airbuild.srf User/eee/ground/airbcoll.srf
+User/eee/ground/airbuildn.dat User/eee/ground/airbuildn.srf User/eee/ground/airbcoll.srf
+User/eee/ground/cargo.dat User/eee/ground/cargo.srf User/eee/ground/cargocoll.srf
+User/eee/ground/cargon.dat User/eee/ground/cargon.srf User/eee/ground/cargocoll.srf
+User/eee/ground/hangerc.dat User/eee/ground/hangerc.srf User/eee/ground/hangerc.srf
+User/eee/ground/hangercn.dat User/eee/ground/hangercn.srf User/eee/ground/hangercn.srf
+User/eee/ground/hangerm.dat User/eee/ground/hangerm.srf User/eee/ground/hangerm.srf
+User/eee/ground/hangermn.dat User/eee/ground/hangermn.srf User/eee/ground/hangermn.srf
+User/eee/ground/oiltank.dat User/eee/ground/oiltank.srf User/eee/ground/oiltank.srf
+User/eee/ground/oiltankn.dat User/eee/ground/oiltankn.srf User/eee/ground/oiltankn.srf
+User/eee/ground/oiltanks.dat User/eee/ground/oiltanks.srf User/eee/ground/oiltanks.srf
+User/eee/ground/depart.dat User/eee/ground/depart.srf User/eee/ground/departcoll.srf
+User/eee/ground/departn.dat User/eee/ground/departn.srf User/eee/ground/departcoll.srf
+User/eee/ground/hotel.dat User/eee/ground/hotel.srf User/eee/ground/hotelcoll.srf
+User/eee/ground/hoteln.dat User/eee/ground/hoteln.srf User/eee/ground/hotelcoll.srf
+User/eee/ground/build.dat User/eee/ground/build.srf User/eee/ground/bcoll.srf
+User/eee/ground/buildn.dat User/eee/ground/buildn.srf User/eee/ground/bcoll.srf
+User/eee/ground/builds.dat User/eee/ground/builds.srf User/eee/ground/bcoll.srf
+User/eee/ground/2build.dat User/eee/ground/2build.srf User/eee/ground/2bcoll.srf
+User/eee/ground/2buildn.dat User/eee/ground/2buildn.srf User/eee/ground/2bcoll.srf
+User/eee/ground/2builds.dat User/eee/ground/2builds.srf User/eee/ground/2bcoll.srf
+User/eee/ground/3build.dat User/eee/ground/3build.srf User/eee/ground/3bcoll.srf
+User/eee/ground/3buildn.dat User/eee/ground/3buildn.srf User/eee/ground/3bcoll.srf
+User/eee/ground/3builds.dat User/eee/ground/3builds.srf User/eee/ground/3bcoll.srf
+User/eee/ground/stadium.dat User/eee/ground/stadium.srf User/eee/ground/stcoll.srf
+User/eee/ground/stadiumn.dat User/eee/ground/stadiumn.srf User/eee/ground/stcoll.srf
+User/eee/ground/house.dat User/eee/ground/house.srf User/eee/ground/housecoll.srf
+User/eee/ground/housen.dat User/eee/ground/housen.srf User/eee/ground/housecoll.srf
+User/eee/ground/apart.dat User/eee/ground/apart.srf User/eee/ground/apartcoll.srf
+User/eee/ground/apartn.dat User/eee/ground/apartn.srf User/eee/ground/apartcoll.srf
+User/eee/ground2/tunnel.dat User/eee/ground2/tunnel.srf User/eee/ground2/tuncoll.srf
+User/eee/ground2/tunneln.dat User/eee/ground2/tunneln.srf User/eee/ground2/tuncoll.srf
+User/eee/ground/aquabase.dat User/eee/ground/aquabase.srf User/eee/ground/aquabase.srf
+User/eee/ground/aquaobject.dat User/eee/ground/aquaobject.srf User/eee/ground/aquaobject.srf
+User/eee/ground/pyramid.dat User/eee/ground/pyramid.srf User/eee/ground/pyrcoll.srf
+User/eee/ground/pyramids.dat User/eee/ground/pyramids.srf User/eee/ground/pyrcoll.srf
+User/eee/ground2/starfish.dat User/eee/ground2/starfish.srf User/eee/ground2/starfish.srf
+User/eee/ground2/jellyfish.dat User/eee/ground2/jellyfish.srf User/eee/ground2/jellyfish.srf
+User/eee/ground2/anemone.dat User/eee/ground2/anemone.srf User/eee/ground2/anemone.srf
+User/eee/ground2/shark.dat User/eee/ground2/shark.srf User/eee/ground2/shark.srf
+User/eee/ground2/pgrotes.dat User/eee/ground2/pgrotes.dnm User/eee/ground2/pgrocoll.srf
+User/eee/ground2/vgrotes.dat User/eee/ground2/vgrotes.dnm User/eee/ground2/vgrocoll.srf
+User/eee/ground2/fountain.dat User/eee/ground2/fountain.srf User/eee/ground2/fountcoll.srf
+User/eee/ground/bighouse.dat User/eee/ground/bighouse.srf User/eee/ground/bigcoll.srf
+User/eee/ground/church.dat User/eee/ground/church.srf User/eee/ground/churcoll.srf
+User/eee/ground/temple.dat User/eee/ground/temple.srf User/eee/ground/temple.srf
+User/eee/ground2/floatrock.dat User/eee/ground2/floatrock.srf User/eee/ground2/floatrock.srf
+User/eee/ground/obelisk.dat User/eee/ground/obelisk.srf User/eee/ground/obelisk.srf
+User/eee/ground2/cristalb.dat User/eee/ground2/cristalb.srf User/eee/ground2/cristalb.srf
+User/eee/ground2/cristalg.dat User/eee/ground2/cristalg.srf User/eee/ground2/cristalg.srf
+User/eee/ground2/cristalr.dat User/eee/ground2/cristalr.srf User/eee/ground2/cristalr.srf
+User/eee/ground2/cristaly.dat User/eee/ground2/cristaly.srf User/eee/ground2/cristaly.srf
+User/eee/ground2/yggdrasill.dat User/eee/ground2/yggdrasill.srf User/eee/ground2/yggdrasill.srf
+
+
+User/rar/olp/base.dat User/rar/olp/base_visual.srf User/rar/olp/base_coll.srf
+User/rar/olp/lha.dat User/rar/olp/lha_visual.srf User/rar/olp/lha_coll.srf
+User/rar/olp/cg21.dat User/rar/olp/cg21.srf User/rar/olp/cg21.srf
+User/rar/olp/basesam.dat User/rar/olp/basesam.dnm User/rar/olp/basesam.srf
+User/rar/olp/thaad.dat User/rar/olp/thaad.srf User/rar/olp/thaad.srf
+User/rar/olp/tochka.dat User/rar/olp/tochka2.srf User/rar/olp/tochka2.srf
+User/rar/olp/tochka2.dat User/rar/olp/tochka1.srf User/rar/olp/tochka1.srf
+User/rar/olp/m107.dat User/rar/olp/m107.srf User/rar/olp/m107.srf
+User/rar/olp/m901.dat User/rar/olp/m901.srf User/rar/olp/m901.srf
+User/rar/olp/t-80.dat User/rar/olp/t-80.srf User/rar/olp/t-80c.srf
+User/rar/olp/lcac.dat User/rar/olp/lcac.srf User/rar/olp/lcaccoll.srf
+User/rar/olp/helico.dat User/rar/olp/helico.srf User/rar/olp/helico_coll.srf
+User/rar/olp/rar_hag2.dat User/rar/olp/rar_hag2.srf User/rar/olp/rar_hag2.srf
+User/rar/olp/subm.dat User/rar/olp/subm.srf User/rar/olp/subm_coll.srf
+
+User/rar/ob2/target.dat User/rar/ob2/target.srf User/rar/ob2/target_coll.srf
+User/rar/ob2/target2.dat User/rar/ob2/target.srf User/rar/ob2/target_coll.srf
+User/rar/ob2/target3.dat User/rar/ob2/target.srf User/rar/ob2/target_coll.srf
+User/rar/ob2/balloon.dat User/rar/ob2/balloon.srf User/rar/ob2/balloon_coll.srf
+User/rar/ob2/iceboat.dat User/rar/ob2/iceboat.srf User/rar/ob2/iceboat.srf
+User/rar/ob2/rar_hag_s.dat User/rar/ob2/rar_hag_s.srf User/rar/ob2/rar_hag_s.srf
+User/rar/ob2/rar_souko2_s.dat User/rar/ob2/rar_souko2_s.srf User/rar/ob2/rar_souko2_s.srf
+User/rar/ob2/subm.dat User/rar/ob2/subm.srf User/rar/ob2/subm.srf
+User/rar/ob2/tower_s.dat User/rar/ob2/tower_s.srf User/rar/ob2/tower_s.srf
+User/rar/ob2/glob.dat User/rar/ob2/glob.srf User/rar/ob2/glob_coll.srf
+User/rar/ob2/potl.dat User/rar/ob2/potl.srf User/rar/ob2/potl_coll.srf
+User/rar/ob2/ante.dat User/rar/ob2/ante.srf User/rar/ob2/ante.srf
+User/rar/ob2/oiltank2.dat User/rar/ob2/oiltank2.srf User/rar/ob2/oiltank2_coll.srf
+
+
+User/Waiesu/Harry_Potter/ground/quidditch.dat User/Waiesu/Harry_Potter/ground/quidditch.srf User/Waiesu/Harry_Potter/ground/quidditch.srf
+User/Waiesu/Harry_Potter/ground/harry_sky_ss.dat User/Waiesu/Harry_Potter/ground/harry_sky_ss.srf User/Waiesu/Harry_Potter/ground/harry_sky_ss.srf
+User/Waiesu/Harry_Potter/ground/hogworts.dat User/Waiesu/Harry_Potter/ground/hogworts.srf User/Waiesu/Harry_Potter/ground/hogworts.srf
+User/Waiesu/Harry_Potter/ground/hy_hrpt_qd.dat User/Waiesu/Harry_Potter/ground/hy_hrpt_qd.srf User/Waiesu/Harry_Potter/ground/hy_hrpt_qd.srf
+User/Waiesu/Harry_Potter/ground/magic.dat User/Waiesu/Harry_Potter/ground/magic.srf User/Waiesu/Harry_Potter/ground/magic.srf
+
+User/Makoto/resort/obj/cliff.dat    User/Makoto/resort/obj/cliff.srf             User/Makoto/resort/obj/null.srf
+User/Makoto/resort/obj/hilltop.dat  User/Makoto/resort/obj/null.srf              User/Makoto/resort/obj/null.srf
+User/Makoto/resort/obj/mttop.dat    User/Makoto/resort/obj/null.srf              User/Makoto/resort/obj/null.srf
+User/Makoto/resort/obj/catapult.dat User/Makoto/resort/obj/catapult_catapult.srf User/Makoto/resort/obj/null.srf
+
+User/Makoto/resort/obj/lake.dat    User/Makoto/resort/obj/lake.srf    User/Makoto/resort/obj/null.srf
+User/Makoto/resort/obj/water.dat   User/Makoto/resort/obj/water.srf   User/Makoto/resort/obj/null.srf
+User/Makoto/resort/obj/water-d.dat User/Makoto/resort/obj/water-d.srf User/Makoto/resort/obj/null.srf
+
+User/Makoto/resort/obj/cafe.dat        User/Makoto/resort/obj/cafe.srf        User/Makoto/resort/obj/null.srf
+User/Makoto/resort/obj/hotel-beach.dat User/Makoto/resort/obj/hotel-beach.srf User/Makoto/resort/obj/hotel-beach.srf
+User/Makoto/resort/obj/shop.dat        User/Makoto/resort/obj/shop.srf        User/Makoto/resort/obj/shop.srf
+User/Makoto/resort/obj/rw-station.dat  User/Makoto/resort/obj/rw-station.srf  User/Makoto/resort/obj/null.srf
+User/Makoto/resort/obj/author.dat      User/Makoto/resort/obj/author.srf      User/Makoto/resort/obj/null.srf
+
+User/Makoto/resort/obj/grove.dat    User/Makoto/resort/obj/grove.srf    User/Makoto/resort/obj/null.srf
+User/Makoto/resort/obj/forest.dat   User/Makoto/resort/obj/forest.srf   User/Makoto/resort/obj/null.srf
+User/Makoto/resort/obj/forest-L.dat User/Makoto/resort/obj/forest-L.srf User/Makoto/resort/obj/null.srf
+User/Makoto/resort/obj/nannnoki.dat User/Makoto/resort/obj/nannnoki.srf User/Makoto/resort/obj/null.srf
+
+User/Makoto/resort/obj/wave.dat    User/Makoto/resort/obj/wave.srf    User/Makoto/resort/obj/null.srf
+User/Makoto/resort/obj/fish.dat    User/Makoto/resort/obj/fish.srf    User/Makoto/resort/obj/null.srf
+User/Makoto/resort/obj/eagle.dat   User/Makoto/resort/obj/eagle.dnm   User/Makoto/resort/obj/null.srf "" User/Makoto/resort/obj/eagle-c.dnm
+User/Makoto/resort/obj/ropeway.dat User/Makoto/resort/obj/ropeway.srf User/Makoto/resort/obj/null.srf
+User/Makoto/resort/obj/jaws.dat    User/Makoto/resort/obj/jaws.srf    User/Makoto/resort/obj/null.srf
+
+User/Makoto/resort/obj/uma-head.dat User/Makoto/resort/obj/uma-head.srf User/Makoto/resort/obj/null.srf
+User/Makoto/resort/obj/uma-body.dat User/Makoto/resort/obj/uma-body.srf User/Makoto/resort/obj/null.srf
+User/Makoto/resort/obj/uma-tail.dat User/Makoto/resort/obj/uma-tail.srf User/Makoto/resort/obj/null.srf
+
+User/Makoto/whitenight/obj/snowhouse.dat User/Makoto/whitenight/obj/snowhouse.srf User/Makoto/whitenight/obj/snowhousecoll.srf
+User/Makoto/whitenight/obj/snowhouse2.dat User/Makoto/whitenight/obj/snowhouse2.srf User/Makoto/whitenight/obj/snowhouse2coll.srf "" User/Makoto/whitenight/obj/snowhouse2coll.srf
+User/Makoto/whitenight/obj/snowhouse3.dat User/Makoto/whitenight/obj/snowhouse3.srf User/Makoto/whitenight/obj/snowhouse3coll.srf "" User/Makoto/whitenight/obj/snowhouse3coll.srf
+User/Makoto/whitenight/obj/snowhouse4.dat User/Makoto/whitenight/obj/snowhouse4.srf User/Makoto/whitenight/obj/snowhouse4coll.srf "" User/Makoto/whitenight/obj/snowhouse4coll.srf
+
+User/Makoto/whitenight/obj/snowbuild1.dat User/Makoto/whitenight/obj/snowbuild1.srf User/Makoto/whitenight/obj/snowbuild1coll.srf "" User/Makoto/whitenight/obj/snowbuild1coll.srf
+User/Makoto/whitenight/obj/snowbuild2.dat User/Makoto/whitenight/obj/snowbuild2.srf User/Makoto/whitenight/obj/snowbuild2coll.srf "" User/Makoto/whitenight/obj/snowbuild2coll.srf
+User/Makoto/whitenight/obj/snowbuild3.dat User/Makoto/whitenight/obj/snowbuild3.srf User/Makoto/whitenight/obj/snowbuild3coll.srf "" User/Makoto/whitenight/obj/snowbuild3coll.srf
+User/Makoto/whitenight/obj/inside.dat User/Makoto/whitenight/obj/inside.srf User/Makoto/whitenight/obj/null.srf "" User/Makoto/whitenight/obj/null.srf
+
+User/Makoto/whitenight/obj/snowforest.dat User/Makoto/whitenight/obj/snowforest.srf User/Makoto/whitenight/obj/null.srf
+User/Makoto/whitenight/obj/lighttree.dat User/Makoto/whitenight/obj/lighttree.srf User/Makoto/whitenight/obj/null.srf
+User/Makoto/whitenight/obj/snowtree.dat User/Makoto/whitenight/obj/snowtree.srf User/Makoto/whitenight/obj/null.srf
+
+User/Makoto/whitenight/obj/sub.dat User/Makoto/whitenight/obj/sub.srf User/Makoto/whitenight/obj/null.srf
+User/Makoto/whitenight/obj/passage.dat User/Makoto/whitenight/obj/passage.srf User/Makoto/whitenight/obj/null.srf
+
+User/Makoto/whitenight/obj/yeti.dat User/Makoto/whitenight/obj/yeti.srf User/Makoto/whitenight/obj/null.srf
+User/Makoto/whitenight/obj/spider.dat User/Makoto/whitenight/obj/spider.srf User/Makoto/whitenight/obj/null.srf
+User/Makoto/whitenight/obj/penguin-a.dat User/Makoto/whitenight/obj/penguin-a.srf User/Makoto/whitenight/obj/null.srf
+
+User/Makoto/whitenight/obj/fountain.dat User/Makoto/whitenight/obj/fountain.srf User/Makoto/whitenight/obj/null.srf
+User/Makoto/whitenight/obj/fountain-w.dat User/Makoto/whitenight/obj/fountain-w.srf User/Makoto/whitenight/obj/null.srf
+User/Makoto/whitenight/obj/wheelbase.dat User/Makoto/whitenight/obj/wheelbase.srf User/Makoto/whitenight/obj/wheelcoll.srf
+User/Makoto/whitenight/obj/wheel.dat User/Makoto/whitenight/obj/wheel.srf User/Makoto/whitenight/obj/null.srf
+User/Makoto/whitenight/obj/clock.dat User/Makoto/whitenight/obj/clock.srf User/Makoto/whitenight/obj/null.srf
+User/Makoto/whitenight/obj/hour.dat User/Makoto/whitenight/obj/hour.srf User/Makoto/whitenight/obj/null.srf
+User/Makoto/whitenight/obj/minute.dat User/Makoto/whitenight/obj/minute.srf User/Makoto/whitenight/obj/null.srf
+User/Makoto/whitenight/obj/second.dat User/Makoto/whitenight/obj/second.srf User/Makoto/whitenight/obj/null.srf
+
+
+User/Makoto/yokubari/obj/block1.dat User/Makoto/yokubari/obj/block1.srf User/Makoto/yokubari/obj/block1-coll.srf "" User/Makoto/yokubari/obj/block1-coarse.srf
+User/Makoto/yokubari/obj/block2.dat User/Makoto/yokubari/obj/block2.srf User/Makoto/yokubari/obj/block2-coll.srf "" User/Makoto/yokubari/obj/block2-coarse.srf
+User/Makoto/yokubari/obj/block3.dat User/Makoto/yokubari/obj/block3.srf User/Makoto/yokubari/obj/block3-coll.srf "" User/Makoto/yokubari/obj/block3-coarse.srf
+User/Makoto/yokubari/obj/block4.dat User/Makoto/yokubari/obj/block4.srf User/Makoto/yokubari/obj/block4-coll.srf "" User/Makoto/yokubari/obj/block4-coarse.srf
+User/Makoto/yokubari/obj/block5.dat User/Makoto/yokubari/obj/block5.srf User/Makoto/yokubari/obj/block5-coll.srf "" User/Makoto/yokubari/obj/block5-coarse.srf
+User/Makoto/yokubari/obj/lv-hotel1.dat User/Makoto/yokubari/obj/lv-hotel1.srf User/Makoto/yokubari/obj/lv-hotel1-c.srf "" User/Makoto/yokubari/obj/lv-hotel1-c.srf
+User/Makoto/yokubari/obj/lv-hotel2.dat User/Makoto/yokubari/obj/lv-hotel2.srf User/Makoto/yokubari/obj/lv-hotel2-c.srf "" User/Makoto/yokubari/obj/lv-hotel2-c.srf
+User/Makoto/yokubari/obj/lv-hotel3.dat User/Makoto/yokubari/obj/lv-hotel3.srf User/Makoto/yokubari/obj/lv-hotel3-c.srf "" User/Makoto/yokubari/obj/lv-hotel3-c.srf
+User/Makoto/yokubari/obj/lv-hotel4.dat User/Makoto/yokubari/obj/lv-hotel4.srf User/Makoto/yokubari/obj/lv-hotel4-c.srf "" User/Makoto/yokubari/obj/lv-hotel4-c.srf
+User/Makoto/yokubari/obj/lv-hotel5.dat User/Makoto/yokubari/obj/lv-hotel5.srf User/Makoto/yokubari/obj/lv-hotel5-c.srf "" User/Makoto/yokubari/obj/lv-hotel5-c.srf
+User/Makoto/yokubari/obj/lv-hotel6.dat User/Makoto/yokubari/obj/lv-hotel6.srf User/Makoto/yokubari/obj/lv-hotel6-c.srf "" User/Makoto/yokubari/obj/lv-hotel6-c.srf
+User/Makoto/yokubari/obj/build1.dat User/Makoto/yokubari/obj/build1.srf User/Makoto/yokubari/obj/build1-c.srf "" User/Makoto/yokubari/obj/build1-c.srf
+User/Makoto/yokubari/obj/build2.dat User/Makoto/yokubari/obj/build2.srf User/Makoto/yokubari/obj/build2-c.srf "" User/Makoto/yokubari/obj/build2-c.srf
+User/Makoto/yokubari/obj/build3.dat User/Makoto/yokubari/obj/build3.srf User/Makoto/yokubari/obj/build3-c.srf "" User/Makoto/yokubari/obj/build3-c.srf
+User/Makoto/yokubari/obj/build1-d.dat User/Makoto/yokubari/obj/build1-d.srf User/Makoto/yokubari/obj/null.srf "" User/Makoto/yokubari/obj/build1-d-c.srf
+User/Makoto/yokubari/obj/build2-d.dat User/Makoto/yokubari/obj/build2-d.srf User/Makoto/yokubari/obj/null.srf "" User/Makoto/yokubari/obj/build2-d-c.srf
+User/Makoto/yokubari/obj/build3-d.dat User/Makoto/yokubari/obj/build3-d.srf User/Makoto/yokubari/obj/null.srf "" User/Makoto/yokubari/obj/build3-d-c.srf
+User/Makoto/yokubari/obj/house2.dat User/Makoto/yokubari/obj/house2.srf User/Makoto/yokubari/obj/house2coll.srf "" User/Makoto/yokubari/obj/house2coll.srf
+User/Makoto/yokubari/obj/house3.dat User/Makoto/yokubari/obj/house3.srf User/Makoto/yokubari/obj/house3coll.srf "" User/Makoto/yokubari/obj/house3coll.srf
+User/Makoto/yokubari/obj/house4.dat User/Makoto/yokubari/obj/house4.srf User/Makoto/yokubari/obj/house4coll.srf "" User/Makoto/yokubari/obj/house4coll.srf
+User/Makoto/yokubari/obj/sega.dat User/Makoto/yokubari/obj/sega.dnm ground/carrier_coll.srf
+User/Makoto/yokubari/obj/bn.dat User/Makoto/yokubari/obj/bn.srf User/Makoto/yokubari/obj/bn-c.srf "" User/Makoto/yokubari/obj/bn-c.srf
+User/Makoto/yokubari/obj/bridge1.dat User/Makoto/yokubari/obj/bridge1.srf User/Makoto/yokubari/obj/bridge1-coll.srf
+User/Makoto/yokubari/obj/bridge2.dat User/Makoto/yokubari/obj/bridge2.srf User/Makoto/yokubari/obj/bridge2-coll.srf
+User/Makoto/yokubari/obj/bridge3.dat User/Makoto/yokubari/obj/bridge3.srf User/Makoto/yokubari/obj/bridge3-coll.srf
+
+User/Makoto/yokubari/desert/obj/terminal1.dat User/Makoto/yokubari/desert/obj/terminal1.srf User/Makoto/yokubari/desert/obj/terminal1.srf
+User/Makoto/yokubari/desert/obj/terminal2.dat User/Makoto/yokubari/desert/obj/terminal2.srf User/Makoto/yokubari/desert/obj/terminal2.srf
+User/Makoto/yokubari/desert/obj/terminal3.dat User/Makoto/yokubari/desert/obj/terminal3.srf User/Makoto/yokubari/desert/obj/terminal3.srf
+User/Makoto/yokubari/desert/obj/lv-tower.dat User/Makoto/yokubari/desert/obj/lv-tower.srf User/Makoto/yokubari/desert/obj/lv-tower-c.srf "" User/Makoto/yokubari/desert/obj/lv-tower-c.srf
+User/Makoto/yokubari/desert/obj/lv-fountain1.dat User/Makoto/yokubari/desert/obj/lv-fountain1.srf User/Makoto/yokubari/obj/null.srf "" User/Makoto/yokubari/obj/null.srf
+User/Makoto/yokubari/desert/obj/lv-fountain2.dat User/Makoto/yokubari/desert/obj/lv-fountain2.srf User/Makoto/yokubari/obj/null.srf "" User/Makoto/yokubari/obj/null.srf
+User/Makoto/yokubari/desert/obj/lv-fountain3.dat User/Makoto/yokubari/desert/obj/lv-fountain3.srf User/Makoto/yokubari/obj/null.srf "" User/Makoto/yokubari/obj/null.srf
+User/Makoto/yokubari/desert/obj/lv-fountain4.dat User/Makoto/yokubari/desert/obj/lv-fountain4.srf User/Makoto/yokubari/obj/null.srf "" User/Makoto/yokubari/obj/null.srf
+User/Makoto/yokubari/desert/obj/lv-fountain5.dat User/Makoto/yokubari/desert/obj/lv-fountain5.srf User/Makoto/yokubari/obj/null.srf "" User/Makoto/yokubari/obj/null.srf
+User/Makoto/yokubari/desert/obj/knight.dat User/Makoto/yokubari/desert/obj/knight.dnm User/Makoto/yokubari/obj/null.srf
+User/Makoto/yokubari/desert/obj/kfc.dat User/Makoto/yokubari/desert/obj/kfc.srf User/Makoto/yokubari/desert/obj/kfc.srf
+User/Makoto/yokubari/desert/obj/sphinx.dat User/Makoto/yokubari/desert/obj/sphinx.srf User/Makoto/yokubari/desert/obj/sphinx.srf
+User/Makoto/yokubari/desert/obj/sf2.dat User/Makoto/yokubari/desert/obj/sf2.srf User/Makoto/yokubari/obj/null.srf
+User/Makoto/yokubari/desert/obj/casino.dat User/Makoto/yokubari/desert/obj/casino.srf User/Makoto/yokubari/desert/obj/casino-coll.srf
+User/Makoto/yokubari/desert/obj/casino-n1.dat User/Makoto/yokubari/desert/obj/casino-n1.srf User/Makoto/yokubari/desert/obj/casino-n1.srf
+User/Makoto/yokubari/desert/obj/casino-n2.dat User/Makoto/yokubari/desert/obj/casino-n2.srf User/Makoto/yokubari/desert/obj/casino-n2.srf
+
+User/Makoto/yokubari/central/obj/fall.dat User/Makoto/yokubari/central/obj/fall.srf User/Makoto/yokubari/obj/null.srf
+User/Makoto/yokubari/central/obj/splash.dat User/Makoto/yokubari/central/obj/splash.srf User/Makoto/yokubari/obj/null.srf
+User/Makoto/yokubari/central/obj/shower.dat User/Makoto/yokubari/central/obj/shower.srf User/Makoto/yokubari/obj/null.srf
+User/Makoto/yokubari/central/obj/fallbase.dat User/Makoto/yokubari/central/obj/fallbase.srf User/Makoto/yokubari/obj/null.srf "" User/Makoto/yokubari/obj/null.srf
+User/Makoto/yokubari/central/obj/niceboat.dat User/Makoto/yokubari/central/obj/niceboat.srf User/Makoto/yokubari/central/obj/nicecoll.srf "" User/Makoto/yokubari/central/obj/nicecoll.srf
+User/Makoto/yokubari/central/obj/ruin.dat User/Makoto/yokubari/central/obj/ruin.srf User/Makoto/yokubari/central/obj/ruin.srf
+User/Makoto/yokubari/central/obj/ruin2.dat User/Makoto/yokubari/central/obj/ruin2.srf User/Makoto/yokubari/central/obj/ruin2.srf
+
+User/Makoto/yokubari/canyon/obj/tornado.dat User/Makoto/yokubari/canyon/obj/tornado.dnm User/Makoto/yokubari/obj/null.srf
+User/Makoto/yokubari/canyon/obj/ring.dat User/Makoto/yokubari/canyon/obj/ring.srf User/Makoto/yokubari/canyon/obj/ring-coll.srf "" User/Makoto/yokubari/canyon/obj/ring-coarse.srf
+User/Makoto/yokubari/canyon/obj/stand.dat User/Makoto/yokubari/canyon/obj/stand.srf User/Makoto/yokubari/canyon/obj/stand.srf
+User/Makoto/yokubari/canyon/obj/monitor.dat User/Makoto/yokubari/canyon/obj/monitor.srf User/Makoto/yokubari/canyon/obj/monitor.srf
+User/Makoto/yokubari/canyon/obj/title.dat User/Makoto/yokubari/canyon/obj/title.srf User/Makoto/yokubari/obj/null.srf
+User/Makoto/yokubari/canyon/obj/course.dat User/Makoto/yokubari/canyon/obj/course.srf User/Makoto/yokubari/obj/null.srf
+User/Makoto/yokubari/canyon/obj/entry.dat User/Makoto/yokubari/canyon/obj/entry.srf User/Makoto/yokubari/obj/null.srf
+
+User/Makoto/yokubari/valley/obj/bandai.dat User/Makoto/yokubari/valley/obj/bandai.srf User/Makoto/yokubari/valley/obj/bandai.srf
+User/Makoto/yokubari/valley/obj/raideen.dat User/Makoto/yokubari/valley/obj/raideen.srf User/Makoto/yokubari/valley/obj/raideen-coll.srf "" User/Makoto/yokubari/valley/obj/raideen-coll.srf
+User/Makoto/yokubari/valley/obj/g7.dat User/Makoto/yokubari/valley/obj/g7.srf User/Makoto/yokubari/valley/obj/g7-c.srf "" User/Makoto/yokubari/valley/obj/g7-c.srf
+User/Makoto/yokubari/valley/obj/z.dat User/Makoto/yokubari/valley/obj/z.srf User/Makoto/yokubari/valley/obj/z-coll.srf "" User/Makoto/yokubari/valley/obj/z-coll.srf
+User/Makoto/yokubari/valley/obj/lightan.dat User/Makoto/yokubari/valley/obj/lightan.srf User/Makoto/yokubari/valley/obj/lightan.srf
+User/Makoto/yokubari/valley/obj/op.dat User/Makoto/yokubari/valley/obj/op.srf User/Makoto/yokubari/valley/obj/op-c.srf "" User/Makoto/yokubari/valley/obj/op-c.srf
+User/Makoto/yokubari/valley/obj/macross.dat User/Makoto/yokubari/valley/obj/macross.srf User/Makoto/yokubari/valley/obj/macross-c.srf "" User/Makoto/yokubari/valley/obj/macross-c.srf
+
+User/Makoto/yokubari/ys/obj/palace.dat User/Makoto/yokubari/ys/obj/palace.srf User/Makoto/yokubari/ys/obj/palace.srf
+User/Makoto/yokubari/ys/obj/tower.dat User/Makoto/yokubari/ys/obj/tower.srf User/Makoto/yokubari/ys/obj/tower-coll.srf

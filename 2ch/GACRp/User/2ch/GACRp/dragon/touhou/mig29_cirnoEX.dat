@@ -1,0 +1,810 @@
+IDENTIFY "MiG-29TH_Fulcrum_CIRNO_EX"
+
+CATEGORY FIGHTER
+AFTBURNR TRUE                 #HAVE AFTERBURNER?
+THRAFTBN 9.9t                #THRUST WITH AFTERBURNER
+THRMILIT  5.9t                #THRUST AT MILITARY POWER
+WEIGHCLN  9t                #WEIGHT CLEAN
+WEIGFUEL  0.9t                #WEIGHT OF FUEL
+WEIGLOAD  9.0t                #WEIGHT OF PAYLOAD
+FUELABRN 0.9kg                #FUEL CONSUMPTION WHEN USING AFTERBURNER
+FUELMILI 0.09kg               #FUEL CONSUMPTION AT MILITARY POWER
+GUNINTVL 9.0
+
+
+COCKPITP  0.0m  1.14m   3.735m  #COCKPIT POSITION
+EXCAMERA "STG" 0.0m 150.0m 70.0m 0deg -90.2deg 0deg OUTSIDE
+EXCAMERA "STG2" 0.0m 500.0m 150.0m 0deg -90.2deg 0deg OUTSIDE
+EXCAMERA "CIRNO" -4.0m 0.5m -5.0m -90deg 0deg 0deg OUTSIDE
+LEFTGEAR -1.715m -1.76m -1.765m  #LEFT LANDING GEAR POSITION
+RIGHGEAR  1.715m -1.76m -1.765m  #RIGHT LANDING GEAR POSITION
+WHELGEAR  0.0m -1.76m  1.865m  #WHEEL POSITION
+ARRESTER  0.0m -1.20m -5.30m
+MACHNGUN  -0.03m  0.04m  0.00m  #MACHINE GUN POSITION
+MACHNGUN  0.03m  0.04m  0.00m  #MACHINE GUN POSITION
+MACHNGN3  -0.02m  0.04m  20.00m  #MACHINE GUN POSITION
+MACHNGN4  0.02m  0.04m  20.00m  #MACHINE GUN POSITION
+MACHNGN5  0.0m  0.04m  0.00m  #MACHINE GUN POSITION
+MACHNGN6  0.01m  0.04m  300.00m  #MACHINE GUN POSITION
+MACHNGN7  -0.01m  0.04m  300.00m  #MACHINE GUN POSITION
+MACHNGN8  0.0m  0.04m  500.00m  #MACHINE GUN POSITION
+SMOKEGEN  1.6m -0.5m -6.50m  #SMOKE GENERATOR POSITION
+VAPORPO0  5.695m  0.00m -4.42m  #VAPOR POSITION (Wings Swept Back or no-VGW)
+VAPORPO1  5.695m  0.00m -4.42m  #VAPOR POSITION (Wings Spread)
+HTRADIUS  11.5m                #OUTSIDE SPHERE RADIUS
+
+TRIGGER1 GUN
+TRIGGER2 AAM
+TRIGGER3
+TRIGGER4 SMK
+
+STRENGTH 19
+
+CRITAOAP  99.9deg               #CRITICAL AOA POSITIVE
+CRITAOAM -99.9deg               #CRITICAL AOA NEGATIVE
+
+CRITSPED 0.9MACH              #CRITICAL SPEED
+MAXSPEED 9.9MACH              #MAXIMUM SPEED
+
+HASSPOIL TRUE                 #HAS SPOILER?
+RETRGEAR TRUE                 #HAS RETRACTABLE LANDING GEAR?
+VARGEOMW FALSE                #HAS VARIABLE GEOMETRY WING?
+
+CLVARGEO 0.0                  #EFFECT OF VARIABLE GEOMETRY WING FOR Cl
+CDVARGEO 0.0                  #EFFECT OF VARIABLE GEOMETRY WING FOR Cd
+CLBYFLAP 0.9                  #EFFECT OF FLAP FOR Cl
+CDBYFLAP 0.9                  #EFFECT OF FLAP FOR Cd
+CDBYGEAR 0.9                 #EFFECT OF GEAR FOR Cd
+CDSPOILR 0.9                  #EFFECT OF SPOILER FOR Cd
+
+WINGAREA 39m^2                #WING AREA
+
+MXIPTAOA 99.0deg              #MAX INPUT AOA
+MXIPTSSA 9.9deg               #MAX INPUT SSA
+MXIPTROL 299.9deg             #MAX INPUT ROLL
+
+REM CPITMANE corresponds to Spring Constant K
+REM CPITSTAB corresponds to Damper Constant B
+REM To be critically damped, B=2*sqrt(K)
+REM 2% Settling Time=??
+
+MANESPD1 9kt                 #MINIMUM MANEUVABLE SPEED
+MANESPD2 299kt                #FULLY MANEUVABLE SPEED
+CPITMANE 9.9                  #PITCH MANEUVERBILITY CONSTANT
+CPITSTAB 2.9                  #PITCH STABILITY CONSTANT
+CYAWMANE 9.9                  #YAW MANEUVABILITY CONSTANT
+CYAWSTAB 9.9                  #YAW STABILITY CONSTANT
+CROLLMAN 4.9                  #ROLL MANEUVABILITY CONSTANT
+
+CTLLDGEA TRUE                 #CONTROL LANDINGGEAR
+CTLBRAKE FALSE                #CONTROL BRAKE
+CTLSPOIL 0.0                  #CONTROL SPOILER
+CTLABRNR FALSE                #CONTROL AFTERBURNER
+CTLTHROT 0.0                  #CONTROL THRUST
+CTLIFLAP 0.0                  #CONTROL FLAP
+CTLINVGW 0.0                  #CONTROL VARIABLE GEOMETRY WING
+CTLATVGW FALSE                #CONTROL AUTO VARIABLE GEOMETRY WING
+
+POSITION 0m 3ft 0m           #POSITION
+ATTITUDE 45deg 0.2deg 0deg      #ATTITUDE
+INITFUEL 99%                  #INITIAL FUEL
+INITLOAD 0.0t                 #INITIAL PAYLOAD
+INITSPED 0.0MACH              #INITIAL SPEED
+
+HRDPOINT -2.50m -0.45m -1.55m  RKT
+HRDPOINT 2.50m -0.45m -1.55m  RKT
+HRDPOINT -3.20m -0.45m -2.10m AIM120 
+HRDPOINT 3.20m -0.45m -2.10m AIM120 
+HRDPOINT -3.90m -0.45m -2.35m AIM120 
+HRDPOINT 3.90m -0.45m -2.35m AIM120 
+HRDPOINT -3.20m -0.45m -2.10m AIM120 
+HRDPOINT 3.20m -0.45m -2.10m AIM120 
+HRDPOINT -3.90m -0.45m -2.35m AIM120 
+HRDPOINT 3.90m -0.45m -2.35m AIM120 
+
+
+HRDPOINT 0.0m -0.5m -2.1m AIM120 B500
+
+
+LMTBYHDP TRUE                 #Limit Max Num Weapon by Hardpoint
+
+GUNPOWER 999
+INITIGUN 999                 #INITIAL GUN
+LOADWEPN AIM9 9
+LOADWEPN RKT 9
+MAXNMRKT 9
+INITIAGM 0                    #INITIAL AGM
+MAXNMGUN 999
+
+
+RADARCRS 0.9
+BMBAYRCS 0.9
+
+REM ClZero,CdZero is fixed by Cruising condition
+REFVCRUS 9.0MACH              #CRUISING SPEED
+REFACRUS 90000ft              #CRUISING ALTITUDE
+REFTCRUS 0.9                 #CRUISING THROTTLE SETTING
+
+REM ClSlope,CdConst is fixed by Landing condition
+REFVLAND 90kt                #LANDING SPEED
+REFAOALD 9deg                #LANDING AOA
+REFLNRWY 999m                #RUNWAY REQUIRED TO STOP
+REFTHRLD 0.39                  #LANDING THROTTLE SETTING
+
+NMTURRET 66
+
+
+TURRETPO 0  0.00m -0.10m 10.05m 0deg 0deg 0deg
+TURRETPT 0 0deg 0deg 0deg               
+TURRETHD 0 -180deg 180deg 0deg              
+TURRETAM 0  1
+TURRETIV 0  1.0sec                     
+TURRETNM 0 "9999"                    
+TURRETAR 0                                  　　　　 
+TURRETCT 0  PILOT                         
+TURRETRG 0 1m   
+
+
+
+TURRETPO 1  100.00m -0.10m 20.00m -13.85deg 0.2deg 0deg
+TURRETPT 1 0deg 0deg 0deg               
+TURRETHD 1 -180deg 180deg 0deg              
+TURRETAM 1  200
+TURRETIV 1  0.5sec                     
+TURRETNM 1 "9999"                    
+TURRETAR 1                                  　　　　 
+TURRETCT 1  PILOT                         
+TURRETRG 1 3000m   
+
+TURRETPO 2  100.00m -0.10m 20.00m -41.55deg 0.2deg 0deg
+TURRETPT 2 0deg 0deg 0deg               
+TURRETHD 2 -180deg 180deg 0deg              
+TURRETAM 2  200
+TURRETIV 2  0.5sec                     
+TURRETNM 2 "9999"                    
+TURRETAR 2                                  　　　　 
+TURRETCT 2  PILOT                         
+TURRETRG 2 3000m   
+
+TURRETPO 3  100.00m -0.10m 20.00m -69.25deg 0.2deg 0deg
+TURRETPT 3 0deg 0deg 0deg               
+TURRETHD 3 -180deg 180deg 0deg              
+TURRETAM 3  200
+TURRETIV 3  0.5sec                     
+TURRETNM 3 "9999"                    
+TURRETAR 3                                  　　　　 
+TURRETCT 3  PILOT                         
+TURRETRG 3 3000m   
+
+TURRETPO 4  100.00m -0.10m 20.00m -96.95deg 0.2deg 0deg
+TURRETPT 4 0deg 0deg 0deg               
+TURRETHD 4 -180deg 180deg 0deg              
+TURRETAM 4  200
+TURRETIV 4  0.5sec                     
+TURRETNM 4 "9999"                    
+TURRETAR 4                                  　　　　 
+TURRETCT 4  PILOT                         
+TURRETRG 4 3000m   
+
+TURRETPO 5  100.00m -0.10m 20.00m -124.65deg 0.2deg 0deg
+TURRETPT 5 0deg 0deg 0deg               
+TURRETHD 5 -180deg 180deg 0deg              
+TURRETAM 5  200
+TURRETIV 5  0.5sec                     
+TURRETNM 5 "9999"                    
+TURRETAR 5                                  　　　　 
+TURRETCT 5  PILOT                         
+TURRETRG 5 3000m   
+
+TURRETPO 6  100.00m -0.10m 20.00m -152.35deg 0.2deg 0deg
+TURRETPT 6 0deg 0deg 0deg               
+TURRETHD 6 -180deg 180deg 0deg              
+TURRETAM 6  200
+TURRETIV 6  0.5sec                     
+TURRETNM 6 "9999"                    
+TURRETAR 6                                  　　　　 
+TURRETCT 6  PILOT                         
+TURRETRG 6 3000m    
+
+TURRETPO 7  100.00m -0.10m 20.00m -180.00deg 0deg 0deg
+TURRETPT 7 0deg 0deg 0deg               
+TURRETHD 7 -180deg 180deg 0deg              
+TURRETAM 7  200
+TURRETIV 7  0.5sec                     
+TURRETNM 7 "9999"                    
+TURRETAR 7                                  　　　　 
+TURRETCT 7  PILOT                         
+TURRETRG 7 3000m   
+
+TURRETPO 8  100.00m -0.10m 20.00m 152.35deg 0.2deg 0deg
+TURRETPT 8 0deg 0deg 0deg               
+TURRETHD 8 -180deg 180deg 0deg              
+TURRETAM 8  200
+TURRETIV 8  0.5sec                     
+TURRETNM 8 "9999"                    
+TURRETAR 8                                  　　　　 
+TURRETCT 8  PILOT                         
+TURRETRG 8 3000m   
+
+TURRETPO 9  100.00m -0.10m 20.00m 124.65deg 0.2deg 0deg
+TURRETPT 9 0deg 0deg 0deg               
+TURRETHD 9 -180deg 180deg 0deg              
+TURRETAM 9  200
+TURRETIV 9  0.5sec                     
+TURRETNM 9 "9999"                    
+TURRETAR 9                                  　　　　 
+TURRETCT 9  PILOT                         
+TURRETRG 9 3000m   
+
+TURRETPO 10  100.00m -0.10m 20.00m 96.95deg 0.2deg 0deg
+TURRETPT 10 0deg 0deg 0deg               
+TURRETHD 10 -180deg 180deg 0deg              
+TURRETAM 10  200
+TURRETIV 10  0.5sec                     
+TURRETNM 10 "9999"                    
+TURRETAR 10                                  　　　　 
+TURRETCT 10  PILOT                         
+TURRETRG 10 3000m   
+
+TURRETPO 11  100.00m -0.10m 20.00m 69.25deg 0.2deg 0deg
+TURRETPT 11 0deg 0deg 0deg               
+TURRETHD 11 -180deg 180deg 0deg              
+TURRETAM 11   200
+TURRETIV 11  0.5sec                     
+TURRETNM 11 "9999"                   
+TURRETAR 11                                  　　　　 
+TURRETCT 11  PILOT                         
+TURRETRG 11 3000m   
+
+TURRETPO 12  100.00m -0.10m 20.00m 41.55deg 0.2deg 0deg
+TURRETPT 12 0deg 0deg 0deg               
+TURRETHD 12 -180deg 180deg 0deg              
+TURRETAM 12   200
+TURRETIV 12  0.5sec                     
+TURRETNM 12 "9999"                    
+TURRETAR 12                                  　　　　 
+TURRETCT 12  PILOT                         
+TURRETRG 12 3000m   
+
+TURRETPO 13  100.00m -0.10m 20.00m 13.85deg 0.2deg 0deg
+TURRETPT 13 0deg 0deg 0deg               
+TURRETHD 13 -180deg 180deg 0deg              
+TURRETAM 13   200
+TURRETIV 13  0.5sec                     
+TURRETNM 13 "9999"                    
+TURRETAR 13                                  　　　　 
+TURRETCT 13  PILOT                         
+TURRETRG 13 3000m 
+
+
+
+
+TURRETPO 14  -100.00m -0.10m 20.00m -13.85deg 0.2deg 0deg
+TURRETPT 14 0deg 0deg 0deg               
+TURRETHD 14 -180deg 180deg 0deg              
+TURRETAM 14  200
+TURRETIV 14  0.5sec                     
+TURRETNM 14 "9999"                    
+TURRETAR 14                                  　　　　 
+TURRETCT 14  PILOT                         
+TURRETRG 14 3000m   
+
+TURRETPO 15  -100.00m -0.10m 20.00m -41.55deg 0.2deg 0deg
+TURRETPT 15 0deg 0deg 0deg               
+TURRETHD 15 -180deg 180deg 0deg              
+TURRETAM 15  200
+TURRETIV 15  0.5sec                     
+TURRETNM 15 "9999"                    
+TURRETAR 15                                  　　　　 
+TURRETCT 15  PILOT                         
+TURRETRG 15 3000m   
+
+TURRETPO 16  -100.00m -0.10m 20.00m -69.25deg 0.2deg 0deg
+TURRETPT 16 0deg 0deg 0deg               
+TURRETHD 16 -180deg 180deg 0deg              
+TURRETAM 16  200
+TURRETIV 16  0.5sec                     
+TURRETNM 16 "9999"                    
+TURRETAR 16                                  　　　　 
+TURRETCT 16  PILOT                         
+TURRETRG 16 3000m   
+
+TURRETPO 17  -100.00m -0.10m 20.00m -96.95deg 0.2deg 0deg
+TURRETPT 17 0deg 0deg 0deg               
+TURRETHD 17 -180deg 180deg 0deg              
+TURRETAM 17  200
+TURRETIV 17  0.5sec                     
+TURRETNM 17 "9999"                    
+TURRETAR 17                                  　　　　 
+TURRETCT 17  PILOT                         
+TURRETRG 17 3000m   
+
+TURRETPO 18  -100.00m -0.10m 20.00m -124.65deg 0.2deg 0deg
+TURRETPT 18 0deg 0deg 0deg               
+TURRETHD 18 -180deg 180deg 0deg              
+TURRETAM 18  200
+TURRETIV 18  0.5sec                     
+TURRETNM 18 "9999"                    
+TURRETAR 18                                  　　　　 
+TURRETCT 18  PILOT                         
+TURRETRG 18 3000m   
+
+TURRETPO 19  -100.00m -0.10m 20.00m -152.35deg 0.2deg 0deg
+TURRETPT 19 0deg 0deg 0deg               
+TURRETHD 19 -180deg 180deg 0deg              
+TURRETAM 19  200
+TURRETIV 19  0.5sec                     
+TURRETNM 19 "9999"                    
+TURRETAR 19                                  　　　　 
+TURRETCT 19  PILOT                         
+TURRETRG 19 3000m    
+
+TURRETPO 20  -100.00m -0.10m 20.00m -180.00deg 0deg 0deg
+TURRETPT 20 0deg 0deg 0deg               
+TURRETHD 20 -180deg 180deg 0deg              
+TURRETAM 20  200
+TURRETIV 20  0.5sec                     
+TURRETNM 20 "9999"                    
+TURRETAR 20                                  　　　　 
+TURRETCT 20  PILOT                         
+TURRETRG 20 3000m   
+
+TURRETPO 21  -100.00m -0.10m 20.00m 152.35deg 0.2deg 0deg
+TURRETPT 21 0deg 0deg 0deg               
+TURRETHD 21 -180deg 180deg 0deg              
+TURRETAM 21  200
+TURRETIV 21  0.5sec                     
+TURRETNM 21 "9999"                    
+TURRETAR 21                                  　　　　 
+TURRETCT 21  PILOT                         
+TURRETRG 21 3000m   
+
+TURRETPO 22  -100.00m -0.10m 20.00m 124.65deg 0.2deg 0deg
+TURRETPT 22 0deg 0deg 0deg               
+TURRETHD 22 -180deg 180deg 0deg              
+TURRETAM 22  200
+TURRETIV 22  0.5sec                     
+TURRETNM 22 "9999"                    
+TURRETAR 22                                  　　　　 
+TURRETCT 22  PILOT                         
+TURRETRG 22 3000m   
+
+TURRETPO 23  -100.00m -0.10m 20.00m 96.95deg 0.2deg 0deg
+TURRETPT 23 0deg 0deg 0deg               
+TURRETHD 23 -180deg 180deg 0deg              
+TURRETAM 23  200
+TURRETIV 23  0.5sec                     
+TURRETNM 23 "9999"                    
+TURRETAR 23                                  　　　　 
+TURRETCT 23  PILOT                         
+TURRETRG 23 3000m   
+
+TURRETPO 24  -100.00m -0.10m 20.00m 69.25deg 0.2deg 0deg
+TURRETPT 24 0deg 0deg 0deg               
+TURRETHD 24 -180deg 180deg 0deg              
+TURRETAM 24   200
+TURRETIV 24  0.5sec                     
+TURRETNM 24 "9999"                   
+TURRETAR 24                                  　　　　 
+TURRETCT 24  PILOT                         
+TURRETRG 24 3000m   
+
+TURRETPO 25  -100.00m -0.10m 20.00m 41.55deg 0.2deg 0deg
+TURRETPT 25 0deg 0deg 0deg               
+TURRETHD 25 -180deg 180deg 0deg              
+TURRETAM 25   200
+TURRETIV 25  0.5sec                     
+TURRETNM 25 "9999"                    
+TURRETAR 25                                  　　　　 
+TURRETCT 25  PILOT                         
+TURRETRG 25 3000m   
+
+TURRETPO 26  -100.00m -0.10m 20.00m 13.85deg 0.2deg 0deg
+TURRETPT 26 0deg 0deg 0deg               
+TURRETHD 26 -180deg 180deg 0deg              
+TURRETAM 26   200
+TURRETIV 26  0.5sec                     
+TURRETNM 26 "9999"                    
+TURRETAR 26                                  　　　　 
+TURRETCT 26  PILOT                         
+TURRETRG 26 3000m 
+
+
+
+
+TURRETPO 27  200.00m -0.10m 10.00m -13.85deg 0.2deg 0deg
+TURRETPT 27 0deg 0deg 0deg               
+TURRETHD 27 -180deg 180deg 0deg              
+TURRETAM 27  100
+TURRETIV 27  1.0sec                     
+TURRETNM 27 "9999"                    
+TURRETAR 27                                  　　　　 
+TURRETCT 27  PILOT                         
+TURRETRG 27 3000m   
+
+TURRETPO 28  200.00m -0.10m 10.00m -41.55deg 0.2deg 0deg
+TURRETPT 28 0deg 0deg 0deg               
+TURRETHD 28 -180deg 180deg 0deg              
+TURRETAM 28  100
+TURRETIV 28  1.0sec                     
+TURRETNM 28 "9999"                    
+TURRETAR 28                                  　　　　 
+TURRETCT 28  PILOT                         
+TURRETRG 28 3000m   
+
+TURRETPO 29  200.00m -0.10m 10.00m -69.25deg 0.2deg 0deg
+TURRETPT 29 0deg 0deg 0deg               
+TURRETHD 29 -180deg 180deg 0deg              
+TURRETAM 29  100
+TURRETIV 29  1.0sec                     
+TURRETNM 29 "9999"                    
+TURRETAR 29                                  　　　　 
+TURRETCT 29  PILOT                         
+TURRETRG 29 3000m   
+
+TURRETPO 30  200.00m -0.10m 10.00m -96.95deg 0.2deg 0deg
+TURRETPT 30 0deg 0deg 0deg               
+TURRETHD 30 -180deg 180deg 0deg              
+TURRETAM 30  100
+TURRETIV 30  1.0sec                     
+TURRETNM 30 "9999"                    
+TURRETAR 30                                  　　　　 
+TURRETCT 30  PILOT                         
+TURRETRG 30 3000m   
+
+TURRETPO 31  200.00m -0.10m 10.00m -124.65deg 0.2deg 0deg
+TURRETPT 31 0deg 0deg 0deg               
+TURRETHD 31 -180deg 180deg 0deg              
+TURRETAM 31  100
+TURRETIV 31  1.0sec                     
+TURRETNM 31 "9999"                    
+TURRETAR 31                                  　　　　 
+TURRETCT 31  PILOT                         
+TURRETRG 31 3000m   
+
+TURRETPO 32  200.00m -0.10m 10.00m -152.35deg 0.2deg 0deg
+TURRETPT 32 0deg 0deg 0deg               
+TURRETHD 32 -180deg 180deg 0deg              
+TURRETAM 32  100
+TURRETIV 32  1.0sec                     
+TURRETNM 32 "9999"                    
+TURRETAR 32                                  　　　　 
+TURRETCT 32  PILOT                         
+TURRETRG 32 3000m    
+
+TURRETPO 33  200.00m -0.10m 10.00m -180.00deg 0deg 0deg
+TURRETPT 33 0deg 0deg 0deg               
+TURRETHD 33 -180deg 180deg 0deg              
+TURRETAM 33  100
+TURRETIV 33  1.0sec                     
+TURRETNM 33 "9999"                    
+TURRETAR 33                                  　　　　 
+TURRETCT 33  PILOT                         
+TURRETRG 33 3000m   
+
+TURRETPO 34  200.00m -0.10m 10.00m 152.35deg 0.2deg 0deg
+TURRETPT 34 0deg 0deg 0deg               
+TURRETHD 34 -180deg 180deg 0deg              
+TURRETAM 34  100
+TURRETIV 34  1.0sec                     
+TURRETNM 34 "9999"                    
+TURRETAR 34                                  　　　　 
+TURRETCT 34  PILOT                         
+TURRETRG 34 3000m   
+
+TURRETPO 35  200.00m -0.10m 10.00m 124.65deg 0.2deg 0deg
+TURRETPT 35 0deg 0deg 0deg               
+TURRETHD 35 -180deg 180deg 0deg              
+TURRETAM 35  100
+TURRETIV 35  1.0sec                     
+TURRETNM 35 "9999"                    
+TURRETAR 35                                  　　　　 
+TURRETCT 35  PILOT                         
+TURRETRG 35 3000m   
+
+TURRETPO 36  200.00m -0.10m 10.00m 96.95deg 0.2deg 0deg
+TURRETPT 36 0deg 0deg 0deg               
+TURRETHD 36 -180deg 180deg 0deg              
+TURRETAM 36  100
+TURRETIV 36  1.0sec                     
+TURRETNM 36 "9999"                    
+TURRETAR 36                                  　　　　 
+TURRETCT 36  PILOT                         
+TURRETRG 36 3000m   
+
+TURRETPO 37  200.00m -0.10m 10.00m 69.25deg 0.2deg 0deg
+TURRETPT 37 0deg 0deg 0deg               
+TURRETHD 37 -180deg 180deg 0deg              
+TURRETAM 37   100
+TURRETIV 37  1.0sec                     
+TURRETNM 37 "9999"                   
+TURRETAR 37                                  　　　　 
+TURRETCT 37  PILOT                         
+TURRETRG 37 3000m   
+
+TURRETPO 38  200.00m -0.10m 10.00m 41.55deg 0.2deg 0deg
+TURRETPT 38 0deg 0deg 0deg               
+TURRETHD 38 -180deg 180deg 0deg              
+TURRETAM 38   100
+TURRETIV 38  1.0sec                     
+TURRETNM 38 "9999"                    
+TURRETAR 38                                  　　　　 
+TURRETCT 38  PILOT                         
+TURRETRG 38 3000m   
+
+TURRETPO 39  200.00m -0.10m 10.00m 13.85deg 0.2deg 0deg
+TURRETPT 39 0deg 0deg 0deg               
+TURRETHD 39 -180deg 180deg 0deg              
+TURRETAM 39   100
+TURRETIV 39  1.0sec                     
+TURRETNM 39 "9999"                    
+TURRETAR 39                                  　　　　 
+TURRETCT 39  PILOT                         
+TURRETRG 39 3000m 
+
+
+
+TURRETPO 40  2.49m -0.10m 10.5m -13.85deg 0.2deg 0deg
+TURRETPT 40 0deg 0deg 0deg               
+TURRETHD 40 -180deg 180deg 0deg              
+TURRETAM 40  500
+TURRETIV 40  0.2sec                     
+TURRETNM 40 "9999"                    
+TURRETAR 40                                  　　　　 
+TURRETCT 40  PILOT                         
+TURRETRG 40 3000m   
+
+TURRETPO 41  6.88m -0.10m 7.74m -41.55deg 0.2deg 0deg
+TURRETPT 41 0deg 0deg 0deg               
+TURRETHD 41 -180deg 180deg 0deg              
+TURRETAM 41  500
+TURRETIV 41  0.2sec                     
+TURRETNM 41 "9999"                    
+TURRETAR 41                                  　　　　 
+TURRETCT 41  PILOT                         
+TURRETRG 41 3000m   
+
+TURRETPO 42  9.69m -0.10m 3.66m -69.25deg 0.2deg 0deg
+TURRETPT 42 0deg 0deg 0deg               
+TURRETHD 42 -180deg 180deg 0deg              
+TURRETAM 42  500
+TURRETIV 42  0.2sec                     
+TURRETNM 42 "9999"                    
+TURRETAR 42                                  　　　　 
+TURRETCT 42  PILOT                         
+TURRETRG 42 3000m   
+
+TURRETPO 43  10.28m -0.10m -1.26m -96.95deg 0.2deg 0deg
+TURRETPT 43 0deg 0deg 0deg               
+TURRETHD 43 -180deg 180deg 0deg              
+TURRETAM 43  500
+TURRETIV 43  0.2sec                     
+TURRETNM 43 "9999"                    
+TURRETAR 43                                  　　　　 
+TURRETCT 43  PILOT                         
+TURRETRG 43 3000m   
+
+TURRETPO 44  8.52m -0.10m -5.89m -124.65deg 0.2deg 0deg
+TURRETPT 44 0deg 0deg 0deg               
+TURRETHD 44 -180deg 180deg 0deg              
+TURRETAM 44  500
+TURRETIV 44  0.2sec                     
+TURRETNM 44 "9999"                    
+TURRETAR 44                                  　　　　 
+TURRETCT 44  PILOT                         
+TURRETRG 44 3000m   
+
+TURRETPO 45  4.81m -0.10m -9.18m -152.35deg 0.2deg 0deg
+TURRETPT 45 0deg 0deg 0deg               
+TURRETHD 45 -180deg 180deg 0deg              
+TURRETAM 45  500
+TURRETIV 45  0.2sec                     
+TURRETNM 45 "9999"                    
+TURRETAR 45                                  　　　　 
+TURRETCT 45  PILOT                         
+TURRETRG 45 3000m    
+
+TURRETPO 46  0.00m -0.10m -10.36m -180.00deg 0deg 0deg
+TURRETPT 46 0deg 0deg 0deg               
+TURRETHD 46 -180deg 180deg 0deg              
+TURRETAM 46  500
+TURRETIV 46  0.2sec                     
+TURRETNM 46 "9999"                    
+TURRETAR 46                                  　　　　 
+TURRETCT 46  PILOT                         
+TURRETRG 46 3000m   
+
+TURRETPO 47  -4.81m -0.10m -9.18m 152.35deg 0.2deg 0deg
+TURRETPT 47 0deg 0deg 0deg               
+TURRETHD 47 -180deg 180deg 0deg              
+TURRETAM 47  500
+TURRETIV 47  0.2sec                     
+TURRETNM 47 "9999"                    
+TURRETAR 47                                  　　　　 
+TURRETCT 47  PILOT                         
+TURRETRG 47 3000m   
+
+TURRETPO 48  -8.52m -0.10m -5.89m 124.65deg 0.2deg 0deg
+TURRETPT 48 0deg 0deg 0deg               
+TURRETHD 48 -180deg 180deg 0deg              
+TURRETAM 48  500
+TURRETIV 48  0.2sec                     
+TURRETNM 48 "9999"                    
+TURRETAR 48                                  　　　　 
+TURRETCT 48  PILOT                         
+TURRETRG 48 3000m   
+
+TURRETPO 49  -10.28m -0.10m 1.28m 96.95deg 0.2deg 0deg
+TURRETPT 49 0deg 0deg 0deg               
+TURRETHD 49 -180deg 180deg 0deg              
+TURRETAM 49  500
+TURRETIV 49  0.2sec                     
+TURRETNM 49 "9999"                    
+TURRETAR 49                                  　　　　 
+TURRETCT 49  PILOT                         
+TURRETRG 49 3000m   
+
+TURRETPO 50  -9.68m -0.10m 3.68m 69.25deg 0.2deg 0deg
+TURRETPT 50 0deg 0deg 0deg               
+TURRETHD 50 -180deg 180deg 0deg              
+TURRETAM 50   500
+TURRETIV 50  0.2sec                     
+TURRETNM 50 "9999"                   
+TURRETAR 50                                  　　　　 
+TURRETCT 50  PILOT                         
+TURRETRG 50 3000m   
+
+TURRETPO 51  -6.86m -0.10m 7.75m 41.55deg 0.2deg 0deg
+TURRETPT 51 0deg 0deg 0deg               
+TURRETHD 51 -180deg 180deg 0deg              
+TURRETAM 51   500
+TURRETIV 51  0.2sec                     
+TURRETNM 51 "9999"                    
+TURRETAR 51                                  　　　　 
+TURRETCT 51  PILOT                         
+TURRETRG 51 3000m   
+
+TURRETPO 52  -2.47m -0.10m 10.05m 13.85deg 0.2deg 0deg
+TURRETPT 52 0deg 0deg 0deg               
+TURRETHD 52 -180deg 180deg 0deg              
+TURRETAM 52   500
+TURRETIV 52  0.2sec                     
+TURRETNM 52 "9999"                    
+TURRETAR 52                                  　　　　 
+TURRETCT 52  PILOT                         
+TURRETRG 52 3000m 
+
+
+
+TURRETPO 53  -200.00m -0.10m 10.00m -13.85deg 0.2deg 0deg
+TURRETPT 53 0deg 0deg 0deg               
+TURRETHD 53 -180deg 180deg 0deg              
+TURRETAM 53  100
+TURRETIV 53  1.0sec                     
+TURRETNM 53 "9999"                    
+TURRETAR 53                                  　　　　 
+TURRETCT 53  PILOT                         
+TURRETRG 53 3000m   
+
+
+TURRETPO 54  -200.00m -0.10m 10.00m -69.25deg 0.2deg 0deg
+TURRETPT 54 0deg 0deg 0deg               
+TURRETHD 54 -180deg 180deg 0deg              
+TURRETAM 54  100
+TURRETIV 54  1.0sec                     
+TURRETNM 54 "9999"                    
+TURRETAR 54                                  　　　　 
+TURRETCT 54  PILOT                         
+TURRETRG 54 3000m   
+
+TURRETPO 55  -200.00m -0.10m 10.00m -96.95deg 0.2deg 0deg
+TURRETPT 55 0deg 0deg 0deg               
+TURRETHD 55 -180deg 180deg 0deg              
+TURRETAM 55  100
+TURRETIV 55  1.0sec                     
+TURRETNM 55 "9999"                    
+TURRETAR 55                                  　　　　 
+TURRETCT 55  PILOT                         
+TURRETRG 55 3000m   
+
+TURRETPO 56  -200.00m -0.10m 10.00m -124.65deg 0.2deg 0deg
+TURRETPT 56 0deg 0deg 0deg               
+TURRETHD 56 -180deg 180deg 0deg              
+TURRETAM 56  100
+TURRETIV 56  1.0sec                     
+TURRETNM 56 "9999"                    
+TURRETAR 56                                  　　　　 
+TURRETCT 56  PILOT                         
+TURRETRG 56 3000m   
+
+TURRETPO 57  -200.00m -0.10m 10.00m -152.35deg 0.2deg 0deg
+TURRETPT 57 0deg 0deg 0deg               
+TURRETHD 57 -180deg 180deg 0deg              
+TURRETAM 57  100
+TURRETIV 57  1.0sec                     
+TURRETNM 57 "9999"                    
+TURRETAR 57                                  　　　　 
+TURRETCT 57  PILOT                         
+TURRETRG 57 3000m    
+
+TURRETPO 58  -200.00m -0.10m 10.00m -180.00deg 0deg 0deg
+TURRETPT 58 0deg 0deg 0deg               
+TURRETHD 58 -180deg 180deg 0deg              
+TURRETAM 58  100
+TURRETIV 58  1.0sec                     
+TURRETNM 58 "9999"                    
+TURRETAR 58                                  　　　　 
+TURRETCT 58  PILOT                         
+TURRETRG 58 3000m   
+
+TURRETPO 59  -200.00m -0.10m 10.00m 152.35deg 0.2deg 0deg
+TURRETPT 59 0deg 0deg 0deg               
+TURRETHD 59 -180deg 180deg 0deg              
+TURRETAM 59  100
+TURRETIV 59  1.0sec                     
+TURRETNM 59 "9999"                    
+TURRETAR 59                                  　　　　 
+TURRETCT 59  PILOT                         
+TURRETRG 59 3000m   
+
+TURRETPO 60  -200.00m -0.10m 10.00m 124.65deg 0.2deg 0deg
+TURRETPT 60 0deg 0deg 0deg               
+TURRETHD 60 -180deg 180deg 0deg              
+TURRETAM 60  100
+TURRETIV 60  1.0sec                     
+TURRETNM 60 "9999"                    
+TURRETAR 60                                  　　　　 
+TURRETCT 60  PILOT                         
+TURRETRG 60 3000m   
+
+TURRETPO 61  -200.00m -0.10m 10.00m 96.95deg 0.2deg 0deg
+TURRETPT 61 0deg 0deg 0deg               
+TURRETHD 61 -180deg 180deg 0deg              
+TURRETAM 61  100
+TURRETIV 61  1.0sec                     
+TURRETNM 61 "9999"                    
+TURRETAR 61                                  　　　　 
+TURRETCT 61  PILOT                         
+TURRETRG 61 3000m   
+
+TURRETPO 62  -200.00m -0.10m 10.00m 69.25deg 0.2deg 0deg
+TURRETPT 62 0deg 0deg 0deg               
+TURRETHD 62 -180deg 180deg 0deg              
+TURRETAM 62   100
+TURRETIV 62  1.0sec                     
+TURRETNM 62 "9999"                   
+TURRETAR 62                                  　　　　 
+TURRETCT 62  PILOT                         
+TURRETRG 62 3000m   
+
+TURRETPO 63  -200.00m -0.10m 10.00m 41.55deg 0.2deg 0deg
+TURRETPT 63 0deg 0deg 0deg               
+TURRETHD 63 -180deg 180deg 0deg              
+TURRETAM 63   100
+TURRETIV 63  1.0sec                     
+TURRETNM 63 "9999"                    
+TURRETAR 63                                  　　　　 
+TURRETCT 63  PILOT                         
+TURRETRG 63 3000m   
+
+TURRETPO 64  -200.00m -0.10m 10.00m 13.85deg 0.2deg 0deg
+TURRETPT 64 0deg 0deg 0deg               
+TURRETHD 64 0deg 0deg 0deg              
+TURRETAM 64   100
+TURRETIV 64  1.0sec                     
+TURRETNM 64 "9999"                    
+TURRETAR 64                                  　　　　 
+TURRETCT 64  PILOT                         
+TURRETRG 64 3000m 
+
+TURRETPO 65  -200.00m -0.10m 10.00m -41.55deg 0.2deg 0deg
+TURRETPT 65 0deg 0deg 0deg               
+TURRETHD 65 0deg 0deg 0deg              
+TURRETAM 65  100
+TURRETIV 65  1.0sec                     
+TURRETNM 65 "9999"                    
+TURRETAR 65                                  　　　　 
+TURRETCT 65  PILOT                         
+TURRETRG 65 3000m   
+
+AUTOCALC

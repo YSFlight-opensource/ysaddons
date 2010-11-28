@@ -1,0 +1,33 @@
+FIELD
+SKY 37 123 209
+GND 2 34 185
+
+SRF
+FIL _t_hoop_p.srf
+ID 0
+TAG ""
+POS -19.40 0.00 0.00 0 0 0
+END
+
+SRF
+FIL _t_hoop_p.srf
+ID 0
+TAG ""
+POS 0.00 0.00 -19.40 16384 0 0
+END
+
+SRF
+FIL _t_hoop_p.srf
+ID 0
+TAG ""
+POS 19.40 0.00 0.00 32768 0 0
+END
+
+SRF
+FIL _t_hoop_p.srf
+ID 0
+TAG ""
+POS 0.00 0.00 19.40 -16384 0 0
+END
+
+ENDF

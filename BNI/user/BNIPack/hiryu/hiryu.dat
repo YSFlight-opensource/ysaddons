@@ -1,0 +1,269 @@
+IDENTIFY [BNIPACK]HIRYU_CUSTOM
+HTRADIUS 500m
+STRENGTH 20000
+INITIGUN 100000
+INITISAM 100000
+MAXSPEED 0kt
+MAXROTAT 0deg
+MINAIMPI 0deg
+MAXAIMPI 0deg
+CARRIER user/BNIPack/hiryu/hiryu.acp
+MINIDAMG 0
+SPLYFUEL TRUE
+SPLYAMMO TRUE
+
+NMTURRET 20
+
+TURRETPO 0 0m 123.91m 9.35m 0deg 0deg 0deg   # Number x y z h p b
+TURRETPT 0 -10deg 40deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 0 -180deg 180deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 0 100000                             # Ammo
+TURRETIV 0 0.05sec                              # Number ShootingInterval
+TURRETNP 0 TURR                        # DNM Node Name
+TURRETNH 0 gun1                       # DNM Node Name (Heading Rotation)
+TURRETAR 0
+TURRETCT 0 GUNNER                            # Controlled by PILOT or GUNNER
+TURRETRG 0 3000m
+TURRETPW 0 5
+
+TURRETPO 1 0m 116.14m -60.11m 0deg 0deg 0deg   # Number x y z h p b
+TURRETPT 1 -10deg 40deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 1 -100deg 100deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 1 100000                             # Ammo
+TURRETIV 1 0.035sec                              # Number ShootingInterval
+TURRETNP 1 TURR                      # DNM Node Name
+TURRETNH 1 gun2                     # DNM Node Name (Heading Rotation)
+TURRETAR 1
+TURRETCT 1 GUNNER                            # Controlled by PILOT or GUNNER
+TURRETRG 1 2400m
+TURRETPW 1 2
+
+TURRETPO 2 0m 133.90m -86.27m 0deg 0deg 0deg   # Number x y z h p b
+TURRETPT 2 -10deg 40deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 2 -120deg 120deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 2 100000                             # Ammo
+TURRETIV 2 0.035sec                              # Number ShootingInterval
+TURRETNP 2 TURR                      # DNM Node Name
+TURRETNH 2 gun3                    # DNM Node Name (Heading Rotation)
+TURRETAR 2
+TURRETCT 2 GUNNER                            # Controlled by PILOT or GUNNER
+TURRETRG 2 2400m
+TURRETPW 2 2
+
+TURRETPO 3 0m 186.55m -190.76m 0deg 0deg 0deg   # Number x y z h p b
+TURRETPT 3 -10deg 40deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 3 -120deg 120deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 3 100000                             # Ammo
+TURRETIV 3 0.05sec                              # Number ShootingInterval
+TURRETNP 3 TURR                      # DNM Node Name
+TURRETNH 3 gun4                    # DNM Node Name (Heading Rotation)
+TURRETAR 3
+TURRETCT 3 GUNNER                            # Controlled by PILOT or GUNNER
+TURRETRG 3 3000m
+TURRETPW 3 5
+
+TURRETPO 4 -33.51m 160.59m -196.73m 0deg 0deg 0deg   # Number x y z h p b
+TURRETPT 4 -15deg 40deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 4 -15deg 190deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 4 100000                             # Ammo
+TURRETIV 4 0.035sec                              # Number ShootingInterval
+TURRETNP 4 TURR                      # DNM Node Name
+TURRETNH 4 gun5_l                    # DNM Node Name (Heading Rotation)
+TURRETAR 4
+TURRETCT 4 GUNNER                            # Controlled by PILOT or GUNNER
+TURRETRG 4 1800m
+TURRETPW 4 3
+
+TURRETPO 5 33.51m 160.59m -196.73m 0deg 0deg 0deg   # Number x y z h p b
+TURRETPT 5 -15deg 40deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 5 -190deg 15deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 5 100000                             # Ammo
+TURRETIV 5 0.035sec                              # Number ShootingInterval
+TURRETNP 5 TURR                      # DNM Node Name
+TURRETNH 5 gun5_r                    # DNM Node Name (Heading Rotation)
+TURRETAR 5
+TURRETCT 5 GUNNER                            # Controlled by PILOT or GUNNER
+TURRETRG 5 1800m
+TURRETPW 5 3
+
+TURRETPO 6 -13.32m -23.11m -3.74m 0deg 0deg 0deg   # Number x y z h p b
+TURRETPT 6 -60deg 10deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 6 -15deg 190deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 6 100000                             # Ammo
+TURRETIV 6 0.05sec                              # Number ShootingInterval
+TURRETNP 6 TURR                      # DNM Node Name
+TURRETNH 6 gun6_l                    # DNM Node Name (Heading Rotation)
+TURRETAR 6
+TURRETCT 6 GUNNER                            # Controlled by PILOT or GUNNER
+TURRETRG 6 4800m
+TURRETPW 6 5
+
+TURRETPO 7 13.32m -23.11m -3.74m 0deg 0deg 0deg   # Number x y z h p b
+TURRETPT 7 -60deg 10deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 7 -190deg 15deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 7 100000                             # Ammo
+TURRETIV 7 0.05sec                              # Number ShootingInterval
+TURRETNP 7 TURR                      # DNM Node Name
+TURRETNH 7 gun6_r                    # DNM Node Name (Heading Rotation)
+TURRETAR 7
+TURRETCT 7 GUNNER                            # Controlled by PILOT or GUNNER
+TURRETRG 7 4800m
+TURRETPW 7 5
+
+TURRETPO 8 -31.30m 112.71m -104.18m 90deg 0deg 0deg   # Number x y z h p b
+TURRETPT 8 -100deg 100deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 8 -50deg 180deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 8 100000                             # Ammo
+TURRETIV 8 10sec                              # Number ShootingInterval
+TURRETNP 8 TURR                      # DNM Node Name
+TURRETNH 8 TURR                    # DNM Node Name (Heading Rotation)
+TURRETAR 8 
+TURRETCT 8 GUNNER                            # Controlled by PILOT or GUNNER
+TURRETRG 8 5500m
+TURRETPW 8 5
+TURRETWP 8 AIM9
+
+TURRETPO 9 -31.30m 112.71m -144.97m 90deg 0deg 0deg   # Number x y z h p b
+TURRETPT 9 -100deg 100deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 9 -50deg 180deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 9 100000                             # Ammo
+TURRETIV 9 10sec                              # Number ShootingInterval
+TURRETNP 9 TURR                      # DNM Node Name
+TURRETNH 9 TURR                    # DNM Node Name (Heading Rotation)
+TURRETAR 9 
+TURRETCT 9 GUNNER                            # Controlled by PILOT or GUNNER
+TURRETRG 9 5500m
+TURRETPW 9 5
+TURRETWP 9 AIM9
+
+TURRETPO 10 -31.30m 112.71m -192.47m 90deg 0deg 0deg   # Number x y z h p b
+TURRETPT 10 -100deg 100deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 10 -50deg 180deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 10 100000                             # Ammo
+TURRETIV 10 10sec                              # Number ShootingInterval
+TURRETNP 10 TURR                      # DNM Node Name
+TURRETNH 10 TURR                    # DNM Node Name (Heading Rotation)
+TURRETAR 10 
+TURRETCT 10 GUNNER                            # Controlled by PILOT or GUNNER
+TURRETRG 10 5500m
+TURRETPW 10 5
+TURRETWP 10 AIM9
+
+TURRETPO 11 -21.45m 125.46m -125.40m 90deg 0deg 0deg   # Number x y z h p b
+TURRETPT 11 -100deg 100deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 11 -50deg 180deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 11 100000                             # Ammo
+TURRETIV 11 10sec                              # Number ShootingInterval
+TURRETNP 11 TURR                      # DNM Node Name
+TURRETNH 11 TURR                    # DNM Node Name (Heading Rotation)
+TURRETAR 11 
+TURRETCT 11 GUNNER                            # Controlled by PILOT or GUNNER
+TURRETRG 11 16000m
+TURRETPW 11 5
+TURRETWP 11 AIM120
+
+TURRETPO 12 -21.45m 125.46m -166.2m 90deg 0deg 0deg   # Number x y z h p b
+TURRETPT 12 -100deg 100deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 12 -50deg 180deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 12 100000                             # Ammo
+TURRETIV 12 10sec                              # Number ShootingInterval
+TURRETNP 12 TURR                      # DNM Node Name
+TURRETNH 12 TURR                    # DNM Node Name (Heading Rotation)
+TURRETAR 12 
+TURRETCT 12 GUNNER                            # Controlled by PILOT or GUNNER
+TURRETRG 12 16000m
+TURRETPW 12 5
+TURRETWP 12 AIM120
+
+TURRETPO 13 -21.45m 125.46m -213.691m 90deg 0deg 0deg   # Number x y z h p b
+TURRETPT 13 -100deg 100deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 13 -50deg 180deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 13 100000                             # Ammo
+TURRETIV 13 10sec                              # Number ShootingInterval
+TURRETNP 13 TURR                      # DNM Node Name
+TURRETNH 13 TURR                    # DNM Node Name (Heading Rotation)
+TURRETAR 13 
+TURRETCT 13 GUNNER                            # Controlled by PILOT or GUNNER
+TURRETRG 13 16000m
+TURRETPW 13 5
+TURRETWP 13 AIM120
+
+TURRETPO 14 31.30m 112.71m -104.18m -90deg 0deg 0deg   # Number x y z h p b
+TURRETPT 14 -100deg 100deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 14 -50deg 180deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 14 100000                             # Ammo
+TURRETIV 14 10sec                              # Number ShootingInterval
+TURRETNP 14 TURR                      # DNM Node Name
+TURRETNH 14 TURR                    # DNM Node Name (Heading Rotation)
+TURRETAR 14 
+TURRETCT 14 GUNNER                            # Controlled by PILOT or GUNNER
+TURRETRG 14 5500m
+TURRETPW 14 5
+TURRETWP 14 AIM9
+
+TURRETPO 15 31.30m 112.71m -144.97m -90deg 0deg 0deg   # Number x y z h p b
+TURRETPT 15 -100deg 100deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 15 -50deg 180deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 15 100000                             # Ammo
+TURRETIV 15 10sec                              # Number ShootingInterval
+TURRETNP 15 TURR                      # DNM Node Name
+TURRETNH 15 TURR                    # DNM Node Name (Heading Rotation)
+TURRETAR 15 
+TURRETCT 15 GUNNER                            # Controlled by PILOT or GUNNER
+TURRETRG 15 5500m
+TURRETPW 15 5
+TURRETWP 15 AIM9
+
+TURRETPO 16 31.30m 112.71m -192.47m -90deg 0deg 0deg   # Number x y z h p b
+TURRETPT 16 -100deg 100deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 16 -50deg 180deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 16 100000                             # Ammo
+TURRETIV 16 10sec                              # Number ShootingInterval
+TURRETNP 16 TURR                      # DNM Node Name
+TURRETNH 16 TURR                    # DNM Node Name (Heading Rotation)
+TURRETAR 16 
+TURRETCT 16 GUNNER                            # Controlled by PILOT or GUNNER
+TURRETRG 16 5500m
+TURRETPW 16 5
+TURRETWP 16 AIM9
+
+TURRETPO 17 21.45m 125.46m -125.40m -90deg 0deg 0deg   # Number x y z h p b
+TURRETPT 17 -100deg 100deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 17 -50deg 180deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 17 100000                             # Ammo
+TURRETIV 17 10sec                              # Number ShootingInterval
+TURRETNP 17 TURR                      # DNM Node Name
+TURRETNH 17 TURR                    # DNM Node Name (Heading Rotation)
+TURRETAR 17 
+TURRETCT 17 GUNNER                            # Controlled by PILOT or GUNNER
+TURRETRG 17 16000m
+TURRETPW 17 5
+TURRETWP 17 AIM120
+
+TURRETPO 18 21.45m 125.46m -166.2m -90deg 0deg 0deg   # Number x y z h p b
+TURRETPT 18 -100deg 100deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 18 -50deg 180deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 18 100000                             # Ammo
+TURRETIV 18 10sec                              # Number ShootingInterval
+TURRETNP 18 TURR                      # DNM Node Name
+TURRETNH 18 TURR                    # DNM Node Name (Heading Rotation)
+TURRETAR 18 
+TURRETCT 18 GUNNER                            # Controlled by PILOT or GUNNER
+TURRETRG 18 16000m
+TURRETPW 18 5
+TURRETWP 18 AIM120
+
+TURRETPO 19 21.45m 125.46m -213.691m -90deg 0deg 0deg   # Number x y z h p b
+TURRETPT 19 -100deg 100deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 19 -50deg 180deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 19 100000                             # Ammo
+TURRETIV 19 10sec                              # Number ShootingInterval
+TURRETNP 19 TURR                      # DNM Node Name
+TURRETNH 19 TURR                    # DNM Node Name (Heading Rotation)
+TURRETAR 19 
+TURRETCT 19 GUNNER                            # Controlled by PILOT or GUNNER
+TURRETRG 19 16000m
+TURRETPW 19 5
+TURRETWP 19 AIM120
+
+USEAIMAT 0m 2400m 0m

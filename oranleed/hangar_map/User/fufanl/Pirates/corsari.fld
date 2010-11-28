@@ -1,0 +1,1116 @@
+FIELD
+SKY 90 122 139
+GND 57 89 128
+PC2
+FIL corsari.pc2
+POS 0.00 0.00 0.00 0 0 0
+END
+TER
+FIL mountemp1.ter
+ID 0
+TAG ""
+POS -8455.24 0.00 -11675.09 2872 0 0
+END
+TER
+FIL mountemp2.ter
+ID 0
+TAG ""
+POS -1588.41 0.00 -3176.81 -6758 0 0
+END
+TER
+FIL mountemp2.ter
+ID 0
+TAG ""
+POS 1005.99 0.00 3971.02 -6758 0 0
+END
+TER
+FIL hillk.ter
+ID 0
+TAG ""
+POS -1842.14 0.00 34.48 9010 0 0
+END
+TER
+FIL hillm.ter
+ID 0
+TAG ""
+POS -2276.25 0.00 -296.44 3174 0 0
+END
+TER
+FIL hillm.ter
+ID 0
+TAG ""
+POS -2011.10 0.00 -70.60 -29824 0 0
+END
+TER
+FIL hills.ter
+ID 0
+TAG ""
+POS -3503.52 0.00 -192.09 0 0 0
+END
+TER
+FIL hills2.ter
+ID 0
+TAG ""
+POS 1785.39 0.00 679.72 16178 0 0
+END
+TER
+FIL mounthaw.ter
+ID 0
+TAG ""
+POS 2359.79 0.00 560.16 0 0 0
+END
+TER
+FIL hillm.ter
+ID 0
+TAG ""
+POS 2142.11 0.00 1858.86 0 0 0
+END
+TER
+FIL hillm.ter
+ID 0
+TAG ""
+POS 2053.31 0.00 2153.43 -15972 0 0
+END
+TER
+FIL hillk.ter
+ID 0
+TAG ""
+POS -1212.37 0.00 -512.48 22218 0 0
+END
+TER
+FIL mountcresc.ter
+ID 0
+TAG ""
+POS 787.77 0.00 -1207.56 12696 0 0
+END
+TER
+FIL mountcresc1.ter
+ID 0
+TAG ""
+POS -5886.84 0.00 -2757.46 -10240 0 0
+END
+TER
+FIL hills.ter
+ID 0
+TAG ""
+POS 1492.00 0.00 -713.26 0 0 0
+END
+TER
+FIL hills.ter
+ID 0
+TAG ""
+POS 2279.29 0.00 81.12 32560 0 0
+END
+TER
+FIL hill2.ter
+ID 0
+TAG ""
+POS -728.56 0.00 -27.36 9730 0 0
+END
+TER
+FIL hill2.ter
+ID 0
+TAG ""
+POS 160.76 0.00 629.37 1744 0 0
+END
+RGN
+ID 1
+TAG "emp"
+ARE -500000000.00 -500000000.00 500000000.00 500000000.00
+POS -1844.68 0.00 -2669.91 0 0 0
+END
+SRF
+FIL albero.srf
+ID 0
+TAG ""
+POS -6782.12 0.03 -3978.80 0 0 0
+END
+SRF
+FIL albero1.srf
+ID 0
+TAG ""
+POS -8304.43 0.00 -2424.38 0 0 0
+END
+SRF
+FIL albero2.srf
+ID 0
+TAG ""
+POS -8976.82 0.00 -1700.92 0 0 0
+END
+SRF
+FIL albero.srf
+ID 0
+TAG ""
+POS -6576.42 0.03 -3952.22 0 0 0
+END
+SRF
+FIL albero.srf
+ID 0
+TAG ""
+POS -6603.00 0.03 -3971.87 0 0 0
+END
+SRF
+FIL albero.srf
+ID 0
+TAG ""
+POS -6628.39 0.03 -3944.59 0 0 0
+END
+SRF
+FIL albero.srf
+ID 0
+TAG ""
+POS -6783.27 0.03 -3934.89 0 0 0
+END
+SRF
+FIL albero.srf
+ID 0
+TAG ""
+POS -6740.51 0.03 -4040.05 0 0 0
+END
+SRF
+FIL albero.srf
+ID 0
+TAG ""
+POS -6784.43 0.03 -4043.51 0 0 0
+END
+SRF
+FIL albero2.srf
+ID 0
+TAG ""
+POS -6552.25 0.00 -3599.98 0 0 0
+END
+SRF
+FIL albero2.srf
+ID 0
+TAG ""
+POS -6739.69 0.00 -4151.17 0 0 0
+END
+SRF
+FIL albero2.srf
+ID 0
+TAG ""
+POS -8602.32 0.00 -1854.12 0 0 0
+END
+SRF
+FIL albero2.srf
+ID 0
+TAG ""
+POS -7793.75 0.00 -3471.26 0 0 0
+END
+SRF
+FIL albero2.srf
+ID 0
+TAG ""
+POS -8049.09 0.00 -3811.71 0 0 0
+END
+SRF
+FIL albero1.srf
+ID 0
+TAG ""
+POS -5880.71 0.00 -3895.30 0 0 0
+END
+SRF
+FIL albero1.srf
+ID 0
+TAG ""
+POS -6296.62 0.00 -3866.11 0 0 0
+END
+SRF
+FIL albero1.srf
+ID 0
+TAG ""
+POS -6783.24 0.00 -3864.73 0 0 0
+END
+SRF
+FIL albero1.srf
+ID 0
+TAG ""
+POS -7036.25 0.00 -3939.38 0 0 0
+END
+SRF
+FIL albero1.srf
+ID 0
+TAG ""
+POS -7419.26 0.00 -2841.43 0 0 0
+END
+SRF
+FIL albero1.srf
+ID 0
+TAG ""
+POS -7819.29 0.00 -3947.89 0 0 0
+END
+SRF
+FIL albero2.srf
+ID 0
+TAG ""
+POS -8227.83 0.00 -4135.14 0 0 0
+END
+SRF
+FIL albero2.srf
+ID 0
+TAG ""
+POS -8687.44 0.00 -1649.85 0 0 0
+END
+SRF
+FIL albero2.srf
+ID 0
+TAG ""
+POS -8057.60 0.00 -2739.29 0 0 0
+END
+SRF
+FIL albero4.srf
+ID 0
+TAG ""
+POS -506.79 0.00 1459.01 0 0 0
+END
+SRF
+FIL albero4.srf
+ID 0
+TAG ""
+POS -375.44 0.00 1069.08 0 0 0
+END
+SRF
+FIL albero4.srf
+ID 0
+TAG ""
+POS -174.31 0.00 1762.75 0 0 0
+END
+SRF
+FIL albero4.srf
+ID 0
+TAG ""
+POS -264.62 0.00 1820.21 0 0 0
+END
+SRF
+FIL albero4.srf
+ID 0
+TAG ""
+POS -400.07 0.00 1381.02 0 0 0
+END
+SRF
+FIL albero4.srf
+ID 0
+TAG ""
+POS -732.54 0.00 1188.11 0 0 0
+END
+SRF
+FIL albero4.srf
+ID 0
+TAG ""
+POS -798.21 0.00 1237.36 0 0 0
+END
+SRF
+FIL abete1.srf
+ID 0
+TAG ""
+POS -1417.84 0.00 1588.88 0 0 0
+END
+SRF
+FIL abete1.srf
+ID 0
+TAG ""
+POS -1030.69 0.00 1608.73 0 0 0
+END
+SRF
+FIL abete1.srf
+ID 0
+TAG ""
+POS 2.66 0.00 2312.24 0 0 0
+END
+SRF
+FIL abete1.srf
+ID 0
+TAG ""
+POS -1132.83 0.00 1210.40 0 0 0
+END
+SRF
+FIL abete1.srf
+ID 0
+TAG ""
+POS -755.85 0.00 2002.62 0 0 0
+END
+SRF
+FIL abete1.srf
+ID 0
+TAG ""
+POS -1624.71 0.00 1175.14 0 0 0
+END
+SRF
+FIL abete1.srf
+ID 0
+TAG ""
+POS -1404.02 0.00 1953.99 0 0 0
+END
+SRF
+FIL abete1.srf
+ID 0
+TAG ""
+POS 492.52 0.00 1742.57 0 0 0
+END
+SRF
+FIL abete1.srf
+ID 0
+TAG ""
+POS -1140.04 0.00 2451.83 0 0 0
+END
+SRF
+FIL abete1.srf
+ID 0
+TAG ""
+POS -705.67 0.00 2414.80 0 0 0
+END
+SRF
+FIL abete1.srf
+ID 0
+TAG ""
+POS -377.88 0.00 2277.03 0 0 0
+END
+SRF
+FIL pino4.srf
+ID 0
+TAG ""
+POS -722.90 0.02 894.84 0 0 0
+END
+SRF
+FIL pino4.srf
+ID 0
+TAG ""
+POS 1851.84 0.02 1146.96 0 0 0
+END
+SRF
+FIL pino4.srf
+ID 0
+TAG ""
+POS -3130.31 0.02 -640.58 0 0 0
+END
+SRF
+FIL pino4.srf
+ID 0
+TAG ""
+POS -3153.95 0.02 -362.78 0 0 0
+END
+SRF
+FIL pino4.srf
+ID 0
+TAG ""
+POS 788.41 0.02 1741.38 0 0 0
+END
+SRF
+FIL pino4.srf
+ID 0
+TAG ""
+POS 1013.01 0.02 1800.49 0 0 0
+END
+SRF
+FIL pino4.srf
+ID 0
+TAG ""
+POS 1373.55 0.02 1806.40 0 0 0
+END
+SRF
+FIL pino4.srf
+ID 0
+TAG ""
+POS 1609.98 0.02 1900.97 0 0 0
+END
+SRF
+FIL pino4.srf
+ID 0
+TAG ""
+POS -249.59 0.02 476.52 0 0 0
+END
+SRF
+FIL pino4.srf
+ID 0
+TAG ""
+POS 22.29 0.02 588.82 0 0 0
+END
+SRF
+FIL pino4.srf
+ID 0
+TAG ""
+POS -1065.25 0.02 -327.32 0 0 0
+END
+SRF
+FIL pino4.srf
+ID 0
+TAG ""
+POS -846.56 0.02 -138.18 0 0 0
+END
+SRF
+FIL pino4.srf
+ID 0
+TAG ""
+POS 400.59 0.02 2079.61 0 0 0
+END
+SRF
+FIL pino4.srf
+ID 0
+TAG ""
+POS -2005.03 0.02 701.12 0 0 0
+END
+SRF
+FIL pino4.srf
+ID 0
+TAG ""
+POS -1538.10 0.02 783.87 0 0 0
+END
+SRF
+FIL pino4.srf
+ID 0
+TAG ""
+POS -1106.63 0.02 866.62 0 0 0
+END
+SRF
+FIL pino4.srf
+ID 0
+TAG ""
+POS 1880.30 0.02 1244.89 0 0 0
+END
+SRF
+FIL pino4.srf
+ID 0
+TAG ""
+POS 1407.45 0.02 411.50 0 0 0
+END
+SRF
+FIL pino4.srf
+ID 0
+TAG ""
+POS 798.66 0.02 411.50 0 0 0
+END
+SRF
+FIL pino4.srf
+ID 0
+TAG ""
+POS -371.63 0.02 -108.63 0 0 0
+END
+SRF
+FIL pino4.srf
+ID 0
+TAG ""
+POS -820.83 0.02 -593.30 0 0 0
+END
+SRF
+FIL pino4.srf
+ID 0
+TAG ""
+POS 845.95 0.02 736.58 0 0 0
+END
+SRF
+FIL tree9.srf
+ID 0
+TAG ""
+POS -3066.85 0.00 -2580.78 0 0 0
+END
+SRF
+FIL tree9.srf
+ID 0
+TAG ""
+POS -669.77 0.00 -1177.01 0 0 0
+END
+SRF
+FIL tree9.srf
+ID 0
+TAG ""
+POS -2307.50 0.00 -996.41 0 0 0
+END
+SRF
+FIL tree9.srf
+ID 0
+TAG ""
+POS -2282.87 0.00 -877.38 0 0 0
+END
+SRF
+FIL tree9.srf
+ID 0
+TAG ""
+POS -111.55 0.00 -1119.55 0 0 0
+END
+SRF
+FIL tree9.srf
+ID 0
+TAG ""
+POS -292.15 0.00 -1558.74 0 0 0
+END
+SRF
+FIL tree9.srf
+ID 0
+TAG ""
+POS -957.09 0.00 -1850.17 0 0 0
+END
+SRF
+FIL tree9.srf
+ID 0
+TAG ""
+POS -1154.11 0.00 -1103.13 0 0 0
+END
+SRF
+FIL tree9.srf
+ID 0
+TAG ""
+POS -1305.98 0.00 -1517.69 0 0 0
+END
+SRF
+FIL tree9.srf
+ID 0
+TAG ""
+POS -2089.96 0.00 -1644.94 0 0 0
+END
+SRF
+FIL tree9.srf
+ID 0
+TAG ""
+POS -2036.60 0.00 -2108.75 0 0 0
+END
+SRF
+FIL tree6.srf
+ID 0
+TAG ""
+POS -4664.10 0.00 -3105.26 0 0 0
+END
+SRF
+FIL tree6.srf
+ID 0
+TAG ""
+POS -3718.14 0.00 -2307.01 0 0 0
+END
+SRF
+FIL tree6.srf
+ID 0
+TAG ""
+POS -4188.47 0.00 -2758.59 0 0 0
+END
+PC2
+FIL risaia.pc2
+POS -9250.69 0.00 -3014.29 -6962 0 0
+END
+SRF
+FIL albero2.srf
+ID 0
+TAG ""
+POS -9862.44 0.00 -3363.90 0 0 0
+END
+SRF
+FIL pino4.srf
+ID 0
+TAG ""
+POS -9626.94 0.02 -3589.28 0 0 0
+END
+SRF
+FIL tree9.srf
+ID 0
+TAG ""
+POS -8763.27 0.00 -3289.99 0 0 0
+END
+SRF
+FIL pino4.srf
+ID 0
+TAG ""
+POS -8977.05 0.02 -3617.78 0 0 0
+END
+SRF
+FIL pino4.srf
+ID 0
+TAG ""
+POS -9130.97 0.02 -2531.79 0 0 0
+END
+SRF
+FIL pino4.srf
+ID 0
+TAG ""
+POS -9974.69 0.02 -3287.14 0 0 0
+END
+SRF
+FIL pino4.srf
+ID 0
+TAG ""
+POS -9156.63 0.02 -3766.00 0 0 0
+END
+SRF
+FIL pino4.srf
+ID 0
+TAG ""
+POS -9470.17 0.02 -3748.90 0 0 0
+END
+SRF
+FIL pino4.srf
+ID 0
+TAG ""
+POS -8922.89 0.02 -2699.96 0 0 0
+END
+SRF
+FIL pino4.srf
+ID 0
+TAG ""
+POS -8751.87 0.02 -2870.98 0 0 0
+END
+SRF
+FIL pino4.srf
+ID 0
+TAG ""
+POS -9951.88 0.02 -2973.60 0 0 0
+END
+SRF
+FIL tree9.srf
+ID 0
+TAG ""
+POS -8820.28 0.00 -3478.12 0 0 0
+END
+SRF
+FIL tree9.srf
+ID 0
+TAG ""
+POS -9872.08 0.00 -2668.60 0 0 0
+END
+SRF
+FIL tree9.srf
+ID 0
+TAG ""
+POS -9676.87 0.00 -2509.49 0 0 0
+END
+SRF
+FIL tree9.srf
+ID 0
+TAG ""
+POS -9444.56 0.00 -2337.67 0 0 0
+END
+SRF
+FIL tree9.srf
+ID 0
+TAG ""
+POS -8395.57 0.00 -3620.64 0 0 0
+END
+SRF
+FIL tree9.srf
+ID 0
+TAG ""
+POS -8959.95 0.00 -3845.82 0 0 0
+END
+SRF
+FIL tree9.srf
+ID 0
+TAG ""
+POS -8774.67 0.00 -3803.06 0 0 0
+END
+SRF
+FIL village_house.srf
+ID 0
+TAG ""
+POS -9131.39 -0.00 -2548.35 25394 0 0
+END
+SRF
+FIL village_house1.srf
+ID 0
+TAG ""
+POS -9920.30 -0.00 -3286.68 -8804 0 0
+END
+SRF
+FIL village_house2.srf
+ID 0
+TAG ""
+POS -9009.11 -0.00 -3674.21 7168 0 0
+END
+SRF
+FIL village_house3.srf
+ID 0
+TAG ""
+POS -8977.77 -0.00 -3667.62 6450 0 0
+END
+SRF
+FIL village_house3.srf
+ID 0
+TAG ""
+POS -9004.97 -0.00 -3644.42 7164 0 0
+END
+SRF
+FIL village_house3.srf
+ID 0
+TAG ""
+POS -9069.93 -0.00 -3693.48 5734 0 0
+END
+SRF
+FIL village_house2.srf
+ID 0
+TAG ""
+POS -9115.67 -0.00 -3737.23 5324 0 0
+END
+SRF
+FIL village_house2.srf
+ID 0
+TAG ""
+POS -9091.81 -0.00 -3721.32 6450 0 0
+END
+SRF
+FIL village_house1.srf
+ID 0
+TAG ""
+POS -9867.55 -0.00 -3346.62 -7372 0 0
+END
+SRF
+FIL village_house.srf
+ID 0
+TAG ""
+POS -9054.02 -0.00 -2611.01 25496 0 0
+END
+SRF
+FIL village_house.srf
+ID 0
+TAG ""
+POS -9109.97 -0.00 -2535.24 25292 0 0
+END
+SRF
+FIL fortif.srf
+ID 0
+TAG ""
+POS 1782.13 0.00 1143.45 -25700 0 0
+END
+SRF
+FIL fortif.srf
+ID 0
+TAG ""
+POS 366.75 0.00 667.13 -24882 0 0
+END
+SRF
+FIL fortif.srf
+ID 0
+TAG ""
+POS -2503.67 0.00 -967.58 -17100 0 0
+END
+SRF
+FIL fortif.srf
+ID 0
+TAG ""
+POS -2994.59 0.00 203.17 -24882 0 0
+END
+SRF
+FIL fortif.srf
+ID 0
+TAG ""
+POS 2252.91 0.00 1824.92 -24882 0 0
+END
+SRF
+FIL fortif.srf
+ID 0
+TAG ""
+POS -3712.36 0.00 -2332.94 -10342 0 0
+END
+SRF
+FIL fortif.srf
+ID 0
+TAG ""
+POS -4496.26 0.00 -3623.02 -1434 0 0
+END
+SRF
+FIL albero2.srf
+ID 0
+TAG ""
+POS -4723.61 0.00 -3633.59 0 0 0
+END
+SRF
+FIL albero2.srf
+ID 0
+TAG ""
+POS -4543.00 0.00 -3699.27 0 0 0
+END
+SRF
+FIL albero2.srf
+ID 0
+TAG ""
+POS -4579.71 0.00 -3599.19 0 0 0
+END
+SRF
+FIL albero2.srf
+ID 0
+TAG ""
+POS -4419.87 0.00 -3584.34 0 0 0
+END
+TER
+FIL hills3.ter
+ID 0
+TAG ""
+POS 2153.49 0.00 1696.80 -25496 0 0
+END
+TER
+FIL hills3.ter
+ID 0
+TAG ""
+POS 1990.26 0.00 1395.15 -58264 0 0
+END
+TER
+FIL mountemp.ter
+ID 0
+TAG ""
+POS -5775.69 0.00 -4213.39 12284 0 0
+END
+TER
+FIL mountemp_s.ter
+ID 0
+TAG ""
+POS -12647.68 0.00 2140.89 -3781 0 0
+END
+SRF
+FIL pontelegno.srf
+ID 0
+TAG ""
+POS -8438.96 0.00 -3659.57 -2558 0 0
+END
+SRF
+FIL pontelegno.srf
+ID 0
+TAG ""
+POS -9089.89 0.00 -3657.98 7168 0 0
+END
+SRF
+FIL pontelegno.srf
+ID 0
+TAG ""
+POS -8684.00 0.00 -3088.53 13314 0 0
+END
+SRF
+FIL pontelegno.srf
+ID 0
+TAG ""
+POS -9828.09 0.00 -3359.51 -8496 0 0
+END
+SRF
+FIL pontelegno.srf
+ID 0
+TAG ""
+POS -9012.60 0.00 -3594.00 7374 0 0
+END
+SRF
+FIL pontelegno.srf
+ID 0
+TAG ""
+POS -9043.17 0.00 -2648.60 -7060 0 0
+END
+SRF
+FIL abete1.srf
+ID 0
+TAG ""
+POS 228.03 0.00 2471.98 0 0 0
+END
+TER
+FIL mountcresc2.ter
+ID 0
+TAG ""
+POS -793.78 0.00 3142.69 12084 0 0
+END
+SRF
+FIL albero.srf
+ID 0
+TAG ""
+POS -781.76 0.03 3906.68 0 0 0
+END
+SRF
+FIL albero4.srf
+ID 0
+TAG ""
+POS -783.40 0.00 4146.19 0 0 0
+END
+SRF
+FIL tree9.srf
+ID 0
+TAG ""
+POS -399.72 0.00 4047.22 0 0 0
+END
+SRF
+FIL pino4.srf
+ID 0
+TAG ""
+POS -308.67 0.02 3942.31 0 0 0
+END
+SRF
+FIL tree9.srf
+ID 0
+TAG ""
+POS -236.01 0.00 4105.64 0 0 0
+END
+SRF
+FIL tree9.srf
+ID 0
+TAG ""
+POS -721.45 0.00 4102.65 0 0 0
+END
+SRF
+FIL tree9.srf
+ID 0
+TAG ""
+POS -515.58 0.00 4078.89 0 0 0
+END
+SRF
+FIL tree9.srf
+ID 0
+TAG ""
+POS -331.50 0.00 4167.97 0 0 0
+END
+SRF
+FIL tree9.srf
+ID 0
+TAG ""
+POS -860.60 0.00 4096.71 -5424 0 0
+END
+SRF
+FIL albero4.srf
+ID 0
+TAG ""
+POS -1175.33 0.00 4027.43 0 0 0
+END
+SRF
+FIL albero4.srf
+ID 0
+TAG ""
+POS -663.57 0.00 4023.54 0 0 0
+END
+SRF
+FIL albero4.srf
+ID 0
+TAG ""
+POS -778.85 0.00 4055.14 0 0 0
+END
+SRF
+FIL albero.srf
+ID 0
+TAG ""
+POS -164.18 0.03 3859.18 0 0 0
+END
+SRF
+FIL albero.srf
+ID 0
+TAG ""
+POS -492.76 0.03 3831.46 0 0 0
+END
+SRF
+FIL albero.srf
+ID 0
+TAG ""
+POS -1015.01 0.03 3973.98 0 0 0
+END
+SRF
+FIL pino4.srf
+ID 0
+TAG ""
+POS -116.30 0.02 4030.38 0 0 0
+END
+SRF
+FIL pino4.srf
+ID 0
+TAG ""
+POS -532.35 0.02 3946.27 0 0 0
+END
+SRF
+FIL pino4.srf
+ID 0
+TAG ""
+POS 256.53 0.02 2956.36 0 0 0
+END
+SRF
+FIL pino4.srf
+ID 0
+TAG ""
+POS 177.86 0.02 3229.99 0 0 0
+END
+SRF
+FIL pino4.srf
+ID 0
+TAG ""
+POS 21.89 0.02 3964.08 0 0 0
+END
+SRF
+FIL albero1.srf
+ID 0
+TAG ""
+POS -385.78 0.00 2782.76 0 0 0
+END
+SRF
+FIL albero1.srf
+ID 0
+TAG ""
+POS -354.48 0.00 2779.07 0 0 0
+END
+SRF
+FIL albero1.srf
+ID 0
+TAG ""
+POS -327.77 0.00 2762.04 0 0 0
+END
+SRF
+FIL albero1.srf
+ID 0
+TAG ""
+POS -368.29 0.00 2745.93 0 0 0
+END
+SRF
+FIL albero1.srf
+ID 0
+TAG ""
+POS -327.77 0.00 2789.66 0 0 0
+END
+SRF
+FIL albero1.srf
+ID 0
+TAG ""
+POS -305.22 0.00 2754.21 0 0 0
+END
+SRF
+FIL moletto.srf
+ID 0
+TAG ""
+POS -1056.79 0.00 4108.58 -4710 0 0
+END
+SRF
+FIL quart_base.srf
+ID 0
+TAG ""
+POS -1069.07 0.13 4173.53 0 0 0
+END
+SRF
+FIL stele.srf
+ID 0
+TAG ""
+POS 310.88 0.00 2345.70 0 0 0
+END
+SRF
+FIL stele.srf
+ID 0
+TAG ""
+POS 199.98 0.00 2351.01 0 0 0
+END
+SRF
+FIL stele.srf
+ID 0
+TAG ""
+POS 198.55 0.00 2345.94 0 0 0
+END
+SRF
+FIL stele.srf
+ID 0
+TAG ""
+POS 311.04 0.00 2350.78 0 0 0
+END
+SRF
+FIL stele.srf
+ID 0
+TAG ""
+POS -4269.41 0.00 -3265.45 0 0 0
+END
+SRF
+FIL stele.srf
+ID 0
+TAG ""
+POS -4454.06 0.00 -3121.79 0 0 0
+END
+SRF
+FIL stele.srf
+ID 0
+TAG ""
+POS -4450.57 0.00 -3120.20 0 0 0
+END
+SRF
+FIL stele.srf
+ID 0
+TAG ""
+POS -4266.40 0.00 -3263.54 0 0 0
+END
+ENDF

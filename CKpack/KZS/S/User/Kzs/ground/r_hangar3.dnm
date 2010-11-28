@@ -1,0 +1,38 @@
+DYNAMODEL
+
+SRF "0000"
+FIL r_hangar.srf
+CLA 0
+NST 1
+STA 0.0 0.0 0.0  0 0 0 1
+POS 0.0 0.0 0.0  0 0 0 1
+CNT 0.0 0.0 0.0
+REL DEP
+NCH 2
+CLD "T"
+CLD "B"
+END
+
+SRF "T"
+FIL r_hangar.srf
+CLA 0
+NST 1
+STA 0.0 0.0 0.0  0 0 0 1
+POS -120.0 0.0 0.0  0 0 0 1
+CNT 0.0 0.0 0.0
+REL DEP
+NCH 0
+END
+
+SRF "B"
+FIL r_hangar.srf
+CLA 0
+NST 1
+STA 0.0 0.0 0.0  0 0 0 1
+POS 120.0 0.0 0.0  0 0 0 1
+CNT 0.0 0.0 0.0
+REL DEP
+NCH 0
+END
+
+END

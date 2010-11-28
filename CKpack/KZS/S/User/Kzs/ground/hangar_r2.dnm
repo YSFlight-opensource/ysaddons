@@ -1,0 +1,43 @@
+DYNAMODEL
+
+PCK _null.srf 3
+SURF
+V 0.0 0.0 0.0
+E
+
+SRF "0000"
+FIL _null.srf
+CLA 0
+NST 1
+STA 0.0 0.0 0.0  0 0 0 1
+POS 0.0 0.0 0.0  0 0 0 1
+CNT 0.0 0.0 0.0
+REL DEP
+NCH 2
+CLD "L"
+CLD "R"
+END
+
+SRF "L"
+FIL hangar_r.srf
+CLA 0
+NST 1
+STA 0.0 0.0 0.0  0 0 0 1
+POS -95.0 0.0 0.0  0 0 0 1
+CNT 0.0 0.0 0.0
+REL DEP
+NCH 0
+END
+
+SRF "R"
+FIL hangar_r.srf
+CLA 0
+NST 1
+STA 0.0 0.0 0.0  0 0 0 1
+POS 95.0 0.0 0.0  0 0 0 1
+CNT 0.0 0.0 0.0
+REL DEP
+NCH 0
+END
+
+END

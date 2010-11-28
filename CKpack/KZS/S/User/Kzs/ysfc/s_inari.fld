@@ -1,0 +1,67 @@
+FIELD
+SKY 37 123 209
+GND 2 34 185
+
+PC2
+FIL s_inari_g.pc2
+POS 0.00 0.00 0.00 0 0 0
+END
+
+PLT
+FIL s_inari_s.pc2
+POS -1.50 0.00 0.00 16384 0 0
+END
+PLT
+FIL s_inari_s.pc2
+POS 1.50 0.00 0.00 16384 0 0
+END
+
+PLT
+FIL s_inari_f.pc2
+POS 0.00 0.00 1.00 0 0 0
+END
+PLT
+FIL s_inari_b.pc2
+POS 0.00 0.00 -1.00 0 0 0
+END
+
+PLT
+FIL s_inari_r.pc2
+POS 0.00 2.50 0.00 0 8192 0
+END
+PLT
+FIL s_inari_r.pc2
+POS 0.00 2.50 0.00 0 -8192 0
+END
+
+PLT
+FIL s_inari_t.pc2
+POS 0.00 0.00 3.00 0 0 0
+END
+
+PLT
+FIL s_inari_l.pc2
+POS 1.25 0.00 4.00 0 0 0
+END
+PLT
+FIL s_inari_l.pc2
+POS 1.25 0.00 4.00 16384 0 0
+END
+
+PLT
+FIL s_inari_l.pc2
+POS -1.25 0.00 4.00 0 0 0
+END
+PLT
+FIL s_inari_l.pc2
+POS -1.25 0.00 4.00 16384 0 0
+END
+
+RGN
+ID 2
+TAG ""
+ARE -10.00 -10.00 10.00 10.00
+POS 0.00 0.00 1.75 0 0 0
+END
+
+ENDF

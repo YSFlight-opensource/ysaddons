@@ -1,0 +1,19 @@
+REM Instrument Panel Definitoin for Beech Super King Air 200
+REM Circular indicators,
+REM   ???????? x y radius
+REM Rectangular indicators
+REM   ???????? x1 y1 x2 y2
+REM   (x1<x2, y1<y2)
+
+PNLRANGE -0.80 -1.0 0.80 -0.37
+FUEL____ -0.4 -0.90 -0.3 -0.60
+AIRSPEED 0.05 -0.65 0.25
+THROTTLE 0.6 -0.65 0.25
+BRAKE___ -0.4 -0.55 -0.3 -0.45
+
+SPEEDVFE 15kt
+SPEEDVNO 80kt
+SPEEDVNE 90kt
+SPEEDRNG 100kt
+SPEEDMCH FALSE
+SPEEDARC 330deg

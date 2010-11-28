@@ -1,0 +1,10 @@
+user/major/scenery/ground/jp_carrdeck.srf
+user/major/scenery/ground/jp_carrwire.srf
+user/major/scenery/ground/jp_carrctp.srf
+user/major/scenery/ground/null.srf
+ILS 0m 8.7m -100m 180deg 6.5deg 0deg 3000m
+VIEWPOINT TRUE
+ARRESTINGWIRE 13.15m 20m -40.0m -12.56m 20m -40.0m
+BRIDGEPOS -13.79m 23.72m 21.85m
+
+REM ACP File Aircraft Carrier

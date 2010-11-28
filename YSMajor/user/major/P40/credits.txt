@@ -1,0 +1,64 @@
+     
+
+    Many thanks to:
+
+************************
+******* ORANLEED ******* - for the original meshes and cockpit details.
+************************
+
+************************
+***** LUCKYBEARGOD ***** - for the "Flying Tigers" logo (and giving me a brief lesson on Tiger history)
+************************
+
+************************
+******** RICM96 ******** - for adjusting the DAT file.
+************************
+
+
+
+
+     @@@@@@@@@@@@@@@@@@@@@@
+          /  _/ \  \ \
+         /\  \/ /  / /
+        /  \_/ /  / /
+        l  l\_/  /_/
+        l  l  \_/
+        l  \
+         \  \
+          \_/
+
+
+     *********************************
+     ***** This release includes *****
+     *********************************
+
+
+- Wheeler Field P-40B  - US Army Hawaii Dec.7 1941 
+     * #155 as flown by Kenneth Taylor
+     * #160 as flown by George Welsh
+     * Press 'bomb door' button to change numbers   
+
+- RAF SQ122 P-40B - Royal Air Force North Africa
+
+- Flying Tigers P-40B  - AVG Chinese Nationalist Air Force 
+     * #71 as flown by Ed Overend and Erik Shilling.
+
+- Henderson Field P-38F  - Guadalcanal
+     * #33 as flown by Lt. Richard Smith 39th FS
+
+- New Guinea P-400 (P-39) - Hawkeye II
+
+- Yunnan China Scenery:
+     * Mission 1: Contact  -  Bomber intercept
+     * Mission 2: Tangle   -  Bomber intercept with fighter escort
+     * Mission 3: Scramble -  Airfield attack
+
+- gun.wav - homemade gun sound file:
+     * copy to your 'sound' folder in YS Flight. 
+     * Warning: Will overwrite your original soundfile.
+       Back-up your original soundfile if you wish to keep it.
+
+- Animated muzzle flash:
+     * Press 'Reverse thrust' button while firing.
+
+

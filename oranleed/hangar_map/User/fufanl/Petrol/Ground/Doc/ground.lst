@@ -1,0 +1,98 @@
+Aircraft
+
+user/fufanl/petrol/ground/navy/cargo_posatore.dat user/fufanl/petrol/ground/navy/cargo_posatore.dnm user/fufanl/petrol/ground/navy/cargo_posat_cockpit.srf
+user/fufanl/petrol/ground/navy/cargo_cruiser.dat user/fufanl/petrol/ground/navy/cargo_cruiser.dnm user/fufanl/petrol/ground/navy/cargo_cruiser_coll.srf
+user/fufanl/petrol/ground/navy/Cargo_contship.dat user/fufanl/petrol/ground/navy/Cargo_contship.dnm user/fufanl/petrol/ground/navy/Cargo_contship_cockpit.srf
+user/fufanl/petrol/ground/navy/superpetroliera.dat user/fufanl/petrol/ground/navy/superpetroliera.dnm user/fufanl/petrol/ground/navy/superpetroliera_cockpit.srf
+user/fufanl/petrol/ground/navy/arctic_princess.dat user/fufanl/petrol/ground/navy/arctic_princess.dnm user/fufanl/petrol/ground/navy/arctic_cockpit.srf
+user/fufanl/petrol/ground/navy/arctic_cruiser.dat user/fufanl/petrol/ground/navy/arctic_cruiser.dnm user/fufanl/petrol/ground/navy/arctic_cockpit.srf
+user/fufanl/petrol/ground/navy/cargo_sonda.dat user/fufanl/petrol/ground/navy/cargo_sonda.dnm user/fufanl/petrol/ground/navy/cargosonda_cockpit.srf
+user/fufanl/petrol/ground/navy/independence.dat user/fufanl/petrol/ground/navy/independence.dnm user/fufanl/petrol/ground/navy/indi_cockpit.srf
+user/fufanl/petrol/ground/navy/lcs_independence.dat user/fufanl/petrol/ground/navy/lcs_independence.dnm user/fufanl/petrol/ground/navy/indi_cockpit.srf
+
+Ground
+
+user/fufanl/petrol/ground/air_port1.dat user/fufanl/petrol/ground/air_port1_visual.srf user/fufanl/petrol/ground/air_port1_coll.srf
+user/fufanl/petrol/ground/arctic_princess.dat user/fufanl/petrol/ground/arctic_princess.srf user/fufanl/petrol/ground/arctic_princess.srf
+user/fufanl/petrol/ground/arctic_cruiser.dat user/fufanl/petrol/ground/arctic_cruiser.srf user/fufanl/petrol/ground/arctic_cruiser.srf
+user/fufanl/petrol/ground/av8.dat user/fufanl/petrol/ground/av8.srf user/fufanl/petrol/ground/av8.srf
+user/fufanl/petrol/ground/big_carrier.dat user/fufanl/petrol/ground/big_carriervisual.srf user/fufanl/petrol/ground/big_carriercoll.srf
+user/fufanl/petrol/ground/c130.dat user/fufanl/petrol/ground/c130.srf user/fufanl/petrol/ground/c130.srf
+user/fufanl/petrol/ground/ch47.dat user/fufanl/petrol/ground/ch47.srf user/fufanl/petrol/ground/ch47.srf
+user/fufanl/petrol/ground/crane_sm.dat user/fufanl/petrol/ground/crane_sm.srf user/fufanl/petrol/ground/crane_sm.srf
+user/fufanl/petrol/ground/cargocarrier.dat user/fufanl/petrol/ground/cargocarrier_visual.srf user/fufanl/petrol/ground/cargocarrier_coll.srf
+user/fufanl/petrol/ground/condotto.dat user/fufanl/petrol/ground/condotto.srf user/fufanl/petrol/ground/condotto.srf
+user/fufanl/petrol/ground/draken.dat user/fufanl/petrol/ground/draken.srf user/fufanl/petrol/ground/draken.srf
+user/fufanl/petrol/ground/fuel_truck.dat user/fufanl/petrol/ground/fuel_truck.srf user/fufanl/petrol/fuel_truck.srf
+user/fufanl/petrol/ground/gru_conica.dat user/fufanl/petrol/ground/gru_conica.srf user/fufanl/petrol/ground/gru_conica.srf
+user/fufanl/petrol/ground/gruport.dat user/fufanl/petrol/ground/gruport.srf user/fufanl/petrol/ground/gruport.srf
+user/fufanl/petrol/ground/gruport1.dat user/fufanl/petrol/ground/gruport1.srf user/fufanl/petrol/ground/gruport1.srf
+user/fufanl/petrol/ground/gruport2.dat user/fufanl/petrol/ground/gruport2.srf user/fufanl/petrol/ground/gruport2.srf
+user/fufanl/petrol/ground/gruport3.dat user/fufanl/petrol/ground/gruport3.srf user/fufanl/petrol/ground/gruport3.srf
+user/fufanl/petrol/ground/gruport4.dat user/fufanl/petrol/ground/gruport4.srf user/fufanl/petrol/ground/gruport4.srf
+user/fufanl/petrol/ground/hangar_norge.dat user/fufanl/petrol/ground/hangar_norge.srf user/fufanl/petrol/ground/hangar_norge.srf
+user/fufanl/petrol/ground/hangar_norge1.dat user/fufanl/petrol/ground/hangar_norge1.srf user/fufanl/petrol/ground/hangar_norge1.srf
+user/fufanl/petrol/ground/hangar_norge2.dat user/fufanl/petrol/ground/hangar_norge2.srf user/fufanl/petrol/ground/hangar_norge2.srf
+user/fufanl/petrol/ground/hangar_norge3.dat user/fufanl/petrol/ground/hangar_norge3.srf user/fufanl/petrol/ground/hangar_norge3.srf
+user/fufanl/petrol/ground/hangar_scot.dat user/fufanl/petrol/ground/hangar_scot.srf user/fufanl/petrol/ground/hangar_scot.srf
+user/fufanl/petrol/ground/hangar_scot1.dat user/fufanl/petrol/ground/hangar_scot1.srf user/fufanl/petrol/ground/hangar_scot1.srf
+user/fufanl/petrol/ground/hangar_scot2.dat user/fufanl/petrol/ground/hangar_scot2.srf user/fufanl/petrol/ground/hangar_scot2.srf
+user/fufanl/petrol/ground/hangar_scot3.dat user/fufanl/petrol/ground/hangar_scot3.srf user/fufanl/petrol/ground/hangar_scot3.srf
+user/fufanl/petrol/ground/hangar_scot4.dat user/fufanl/petrol/ground/hangar_scot4.srf user/fufanl/petrol/ground/hangar_scot4.srf
+user/fufanl/petrol/ground/hangar_scot5.dat user/fufanl/petrol/ground/hangar_scot5.srf user/fufanl/petrol/ground/hangar_scot5.srf
+user/fufanl/petrol/ground/hangar_scot6.dat user/fufanl/petrol/ground/hangar_scot6.srf user/fufanl/petrol/ground/hangar_scot6.srf
+user/fufanl/petrol/ground/hangarport_scot.dat user/fufanl/petrol/ground/hangarport_scot.srf user/fufanl/petrol/ground/hangarport_scot.srf
+user/fufanl/petrol/ground/hangarport_scot1.dat user/fufanl/petrol/ground/hangarport_scot1.srf user/fufanl/petrol/ground/hangarport_scot1.srf
+user/fufanl/petrol/ground/jaguar.dat user/fufanl/petrol/ground/jaguar.srf user/fufanl/petrol/ground/jaguar.srf
+user/fufanl/petrol/ground/linx.dat user/fufanl/petrol/ground/linx.srf user/fufanl/petrol/ground/linx.srf
+user/fufanl/petrol/ground/molo_410x30.dat user/fufanl/petrol/ground/molo_410x30.srf user/fufanl/petrol/ground/molo_410x30.srf
+user/fufanl/petrol/ground/molo_300x40.dat user/fufanl/petrol/ground/molo_300x40.srf user/fufanl/petrol/ground/molo_300x40.srf
+user/fufanl/petrol/ground/molo_misto_base2.dat user/fufanl/petrol/ground/molo_misto_base2.srf user/fufanl/petrol/ground/molo_misto_base2.srf
+user/fufanl/petrol/ground/molo_misto_incl.dat user/fufanl/petrol/ground/molo_misto_incl.srf user/fufanl/petrol/ground/molo_misto_incl.srf
+user/fufanl/petrol/ground/molo_misto_scot.dat user/fufanl/petrol/ground/molo_misto_scot.srf user/fufanl/petrol/ground/molo_misto_scot.srf
+user/fufanl/petrol/ground/molo_misto_t.dat user/fufanl/petrol/ground/molo_misto_t.srf user/fufanl/petrol/ground/molo_misto_t.srf
+user/fufanl/petrol/ground/norge_porterminal.dat user/fufanl/petrol/ground/norge_porterminal.srf user/fufanl/petrol/ground/norge_porterminal.srf
+user/fufanl/petrol/ground/norge_porterminal1.dat user/fufanl/petrol/ground/norge_porterminal1.srf user/fufanl/petrol/ground/norge_porterminal1.srf
+user/fufanl/petrol/ground/oiltank.dat user/fufanl/petrol/ground/oiltank.srf user/fufanl/petrol/ground/oiltank.srf
+user/fufanl/petrol/ground/oiltank2.dat user/fufanl/petrol/ground/oiltank2.srf user/fufanl/petrol/ground/oiltank2.srf
+user/fufanl/petrol/ground/oil_platform.dat user/fufanl/petrol/ground/oil_platform.srf user/fufanl/petrol/ground/oil_platform.srf
+user/fufanl/petrol/ground/oil_platform1.dat user/fufanl/petrol/ground/oil_platform1.srf user/fufanl/petrol/ground/oil_platform1.srf
+user/fufanl/petrol/ground/oil_platform2.dat user/fufanl/petrol/ground/oil_platform2.srf user/fufanl/petrol/ground/oil_platform2.srf
+user/fufanl/petrol/ground/oleodotto.dat user/fufanl/petrol/ground/oleodotto.srf user/fufanl/petrol/ground/oleodotto.srf
+user/fufanl/petrol/ground/oleodotto_inv.dat user/fufanl/petrol/ground/oleodotto_inv.srf user/fufanl/petrol/ground/oleodotto_inv.srf
+user/fufanl/petrol/ground/pompaggio.dat user/fufanl/petrol/ground/pompaggio.srf user/fufanl/petrol/ground/pompaggio.srf
+user/fufanl/petrol/ground/raffineria_norge.dat user/fufanl/petrol/ground/raffineria_norge.srf user/fufanl/petrol/ground/raffineria_norge.srf
+user/fufanl/petrol/ground/refuel_truck.dat user/fufanl/petrol/ground/refuel_truck.srf user/fufanl/petrol/refuel_truck.srf
+user/fufanl/petrol/ground/ship_cargocont.dat user/fufanl/petrol/ground/ship_cargocont.dnm user/fufanl/petrol/ground/ship_cargocockpit.srf
+user/fufanl/petrol/ground/ship_cargocont1.dat user/fufanl/petrol/ground/ship_cargocont1.srf user/fufanl/petrol/ground/ship_cargocont1.srf
+user/fufanl/petrol/ground/ship_cargocruiser.dat user/fufanl/petrol/ground/ship_cargocruiser.srf user/fufanl/petrol/ground/ship_cargocruiser.srf
+user/fufanl/petrol/ground/ship_cargomist.dat user/fufanl/petrol/ground/ship_cargomist.srf user/fufanl/petrol/ground/ship_cargomist.srf
+user/fufanl/petrol/ground/ship_cargoperfor.dat user/fufanl/petrol/ground/ship_cargoperfor.srf user/fufanl/petrol/ground/ship_cargoperfor.srf
+user/fufanl/petrol/ground/ship_cargoposatore.dat user/fufanl/petrol/ground/ship_cargoposatore.srf user/fufanl/petrol/ground/ship_cargoposatore.srf
+user/fufanl/petrol/ground/ship_petroliera.dat user/fufanl/petrol/ground/ship_petroliera.srf user/fufanl/petrol/ground/ship_petroliera.srf
+user/fufanl/petrol/ground/ship_petroliera1.dat user/fufanl/petrol/ground/ship_petroliera1.srf user/fufanl/petrol/ground/ship_petroliera1.srf
+user/fufanl/petrol/ground/ship_petroliera2.dat user/fufanl/petrol/ground/ship_petroliera2.srf user/fufanl/petrol/ground/ship_petroliera2.srf
+user/fufanl/petrol/ground/ship_petroliera_g.dat user/fufanl/petrol/ground/ship_petroliera_g.srf user/fufanl/petrol/ground/ship_petroliera_g.srf
+user/fufanl/petrol/ground/superpetroliera_g.dat user/fufanl/petrol/ground/superpetroliera_g.srf user/fufanl/petrol/ground/superpetroliera_g.srf
+
+
+user/fufanl/petrol/ground/versus/alfa_class.dat user/fufanl/petrol/ground/versus/alfa_class.srf user/fufanl/petrol/ground/versus/alfa_class.srf
+user/fufanl/petrol/ground/versus/baku_class.dat user/fufanl/petrol/ground/versus/baku_class.srf user/fufanl/petrol/ground/versus/baku_class.srf
+user/fufanl/petrol/ground/versus/jurJi_class.dat user/fufanl/petrol/ground/versus/jurJi_class.srf user/fufanl/petrol/ground/versus/jurJi_class.srf
+user/fufanl/petrol/ground/versus/ka_50.dat user/fufanl/petrol/ground/versus/ka_50.dnm user/fufanl/petrol/ground/versus/ka_50_coll.srf
+user/fufanl/petrol/ground/versus/kirov.dat user/fufanl/petrol/ground/versus/kirov.srf user/fufanl/petrol/ground/versus/kirov_coll.srf
+user/fufanl/petrol/ground/versus/kuznetsov_class.dat user/fufanl/petrol/ground/versus/kuznetsov_class.srf user/fufanl/petrol/ground/versus/kuznetsov_class.srf
+user/fufanl/petrol/ground/versus/mi8_class.dat user/fufanl/petrol/ground/versus/mi8_class.srf user/fufanl/petrol/ground/versus/mi8_class.srf
+user/fufanl/petrol/ground/versus/mi24_class.dat user/fufanl/petrol/ground/versus/mi24_class.srf user/fufanl/petrol/ground/versus/mi24_class.srf
+user/fufanl/petrol/ground/versus/mig29_class.dat user/fufanl/petrol/ground/versus/mig29_class.srf user/fufanl/petrol/ground/versus/mig29_class.srf
+user/fufanl/petrol/ground/versus/mig31_class.dat user/fufanl/petrol/ground/versus/mig31_class.srf user/fufanl/petrol/ground/versus/mig31_class.srf
+user/fufanl/petrol/ground/versus/mig35_class.dat user/fufanl/petrol/ground/versus/mig35_class.srf user/fufanl/petrol/ground/versus/mig35_class.srf
+user/fufanl/petrol/ground/versus/slava_class.dat user/fufanl/petrol/ground/versus/slava_class.srf user/fufanl/petrol/ground/versus/slava_class.srf
+user/fufanl/petrol/ground/versus/sterre.dat user/fufanl/petrol/ground/versus/sterre.srf user/fufanl/petrol/ground/versus/sterre.srf
+user/fufanl/petrol/ground/versus/sovremenny.dat user/fufanl/petrol/ground/versus/sovremenny.srf user/fufanl/petrol/ground/versus/sovremenny.srf
+
+
+
+Scenery
+
+BLACK_GOLD User/fufanl/petrol/oil_warSE.fld User/fufanl/petrol/oil_war.stp User/fufanl/petrol/oil_war.ysf

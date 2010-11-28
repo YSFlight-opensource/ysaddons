@@ -1,0 +1,62 @@
+DYNAMODEL
+
+SRF "0000"
+FIL coconut_tree_s.srf
+CLA 0
+NST 1
+STA 0.0 0.0 0.0  0 0 0 1
+POS 0.0 0.0 0.0  0 0 0 1
+CNT 0.0 0.0 0.0
+REL DEP
+NCH 4
+CLD "T"
+CLD "B"
+CLD "L"
+CLD "R"
+END
+
+SRF "T"
+FIL coconut_tree.srf
+CLA 0
+NST 1
+STA 0.0 0.0 0.0  0 0 0 1
+POS -100.0 0.0 0.0  0 0 0 1
+CNT 0.0 0.0 0.0
+REL DEP
+NCH 0
+END
+
+SRF "B"
+FIL coconut_tree.srf
+CLA 0
+NST 1
+STA 0.0 0.0 0.0  0 0 0 1
+POS 100.0 0.0 0.0  0 0 0 1
+CNT 0.0 0.0 0.0
+REL DEP
+NCH 0
+END
+
+SRF "L"
+FIL coconut_tree_s.srf
+CLA 0
+NST 1
+STA 0.0 0.0 0.0  0 0 0 1
+POS -200.0 0.0 0.0  0 0 0 1
+CNT 0.0 0.0 0.0
+REL DEP
+NCH 0
+END
+
+SRF "R"
+FIL coconut_tree_s.srf
+CLA 0
+NST 1
+STA 0.0 0.0 0.0  0 0 0 1
+POS 200.0 0.0 0.0  0 0 0 1
+CNT 0.0 0.0 0.0
+REL DEP
+NCH 0
+END
+
+END

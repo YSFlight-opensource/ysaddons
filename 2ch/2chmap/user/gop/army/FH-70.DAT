@@ -1,0 +1,32 @@
+IDENTIFY [GOP]FH-70
+HTRADIUS 8m
+STRENGTH 9
+INITIGUN 0
+INITCANO 0
+INITISAM 0
+MAXSPEED 5km/h
+MAXROTAT 10deg
+MINAIMPI 80deg
+MAXAIMPI 80deg
+GRNDTYPE VEHICLE
+
+ANTIGRND TRUE
+
+AIMROTAT 30deg
+AIMPITCH 30deg
+
+NMTURRET 1
+TURRETPO 0 0m 1000m 0m 0deg 0deg 0deg   # Number x y z h p b
+TURRETPT 0 -90deg 0deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 0 -180deg 180deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 0 999999999999                              # Ammo
+TURRETIV 0 60sec                              # Number ShootingInterval
+TURRETNH 0 CAN_NULL                        # DNM Node Name
+TURRETNP 0 NULL
+TURRETGD 0
+TURRETCT 0 GUNNER                            # Controlled by PILOT or GUNNER
+TURRETRG 0 5000m
+TURRETWP 0 RKT
+TURRETPW 0 100
+
+USEAIMAT 0m 2m 0m

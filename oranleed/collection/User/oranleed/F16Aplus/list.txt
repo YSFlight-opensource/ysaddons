@@ -1,0 +1,77 @@
+
+User/oranleed/F16Aplus/f16ap_kz_adf.dat User/oranleed/F16Aplus/f16ap_kz_adf.dnm User/oranleed/F16Aplus/f16c_kz_coll.srf User/oranleed/F16Aplus/f16c_kz_cockpit.srf User/oranleed/F16Aplus/f16ap_kz_adf_coarse.dnm
+User/oranleed/F16Aplus/f16ap_kz_casbai.dat User/oranleed/F16Aplus/f16ap_kz_casbai.dnm User/oranleed/F16Aplus/f16c_kz_coll.srf User/oranleed/F16Aplus/f16c_kz_cockpit.srf User/oranleed/F16Aplus/f16ap_kz_casbai_coarse.dnm
+User/oranleed/F16Aplus/f16bp_kz_trainer.dat User/oranleed/F16Aplus/f16bp_kz_trainer.dnm User/oranleed/F16Aplus/f16c_kz_coll.srf User/oranleed/F16Aplus/f16d_kz_cockpit.srf User/oranleed/F16Aplus/f16bp_kz_trainer_coarse.dnm
+
+
+
+データ一覧:
+    リファインした拙作F-16のバリエーションです。
+    
+    機種は
+        F-16A Plus ADF model
+        F-16A Plus CAS/BAI model
+        F-16B Plus Trainer
+    の三機種です。
+    
+    データは一応 block 15 OCU機を想定しています。
+    
+    
+    
+    ADF(Air-Defense-Fighter)は米国のANG(Air-Nation-Guard･･･だったっけ?)に配備
+    されているタイプの物です。
+    ノーマルのA Plusとの違いは以下の点です。
+        ･機首上面とインテイク下面に4枚ずつのIFFアンテナを増設
+        ･機首左舷のRWRバルジの下に国籍不明機照射用ライトの追加
+        ･垂直尾翼基部へのバルジの追加(機上自営ジャマー･･･だったと思う)
+    ほんとならテイルコードとか文字入れした方がいいんですけどね。(でも面倒だしw)
+    先のC/Dと差別化する為に、グレー迷彩の塗り分け位置は初期のキャノピー後部まで
+    白っぽい奴にしました。
+    武装にロケット弾装備可能なのは私の趣味です。
+    
+    CAS/BAI は、A-10に代替する近接航空支援/戦場航空阻止作戦機 A-16 へと発展させ
+    る計画があったときの物です。結局 A-16 は没になってしまったんですが･･･。
+    その後、24機の A/Bが CAS/BAI 能力強化改修を施されて、ニューヨークANG等に試験
+    的に配備されたりしました。
+    ネットで検索するとA-10と同じグリーンの迷彩(リザード?ヨーロピアンワン?)の機体の
+    写真画像が見つかると思います。
+    (私がやっとこさ見つけたのは一枚だけでNYではなくネバダみたいですけど･･･)
+    この迷彩塗装を再現すればいいんですが、F-16に緑色は似合わないような気もするし
+    面 倒 く さ い ので無塗装というか FSD4号機 風のカラーにしました。
+    ハードの改修はしたけど塗装はまだなのよ･みたいな感じでw。
+    ノーマルの A Plus との違いは以下の点です。
+        ･センターに 30mm GUN POD(GPU-5) を装備
+        ･インテイク右側に(多分レーダーだと思う)ポッド状のバルジの追加
+        ･これ以外の外観上の相違点はリサーチしてません(ｫｨ
+    このポッドとバルジを取り去ればクリーンな A Plus の外観になります。
+    機銃は GUN POD に設定してあります。(30mm)
+    ADFと同じく、武装にロケット弾装備可能なのは私の趣味です。
+    
+    B Plus Trainer は事のついでに作ったもので、訓練用爆弾のディスペンサー(SUU-20)を
+    つけてみたかったので、"訓練機"という位置づけて作成しました。
+    実際にこんな呼称の特別仕様機があるわけではありません。
+    SUU-20をとればノーマルの B Plus です。
+    塗装は手を抜いて CAS と同じです。
+    
+    
+    
+    CASの GPU-5 もそうですが、SUU-20も目分量で作成してありますので形状不良です。
+    ディスペンサーの腹側に見えるオレンジとブルーの物体は訓練用爆弾です。
+    このディスペンサーには訓練用爆弾6発とロケット弾4発が装備可能なので、そのように
+    してあります。(ロケット弾の装備数はずっと多くなってますが･･･)
+    
+    
+    
+    何故 A ではなく A Plus ?って感じですが、 A Plus だとC型の水平尾翼を流用できるからw。
+    A型の垂直尾翼とインテイク(一応C/Dよりも口をすぼめてはあるけど･･･失敗かも)が
+    XL作成時に必要で、そのためだけに作ったようなものなので、リサーチいい加減･
+    データのチェックもいい加減です。二重に重なった無駄ポリゴンとかあるかもしれません。
+
+
+
+このデータの再配布は自由です。
+改造･流用等は、KzsPack同梱のreadmeに記載してある条件を尊重していただければ
+事前許諾無しに自由にして頂いてかまいません。
+
+by Kzs on 2004/12/02.
+/E

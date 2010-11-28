@@ -1,0 +1,83 @@
+わいえすのシーナリー（修正Ｖｅｒ）
+
+No.1　ハリポタシーナリー（ホグワーツ周辺）
+
+インストール方法
+
+手順１
+scenaryフォルダの中のファイルを、ＹＳをインストールしたフォルダ内のscenaryフォルダにコピーしてください。
+
+groundフォルダの中のファイルを、ＹＳをインストールしたフォルダ内のgroundフォルダにコピーしてください。
+
+手順２
+下の行をscenary.lstに登録してください。
+
+[WAIESU]HARRY_POTTER_QUIDDITCH User/Waiesu/Harry_Potter/scenary/hyqt.fld User/Waiesu/Harry_Potter/scenary/hyqt.stp User/Waiesu/Harry_Potter/scenary/hyqt.yfs
+
+下の行をground.lstに登録してください。
+
+User/Waiesu/Harry_Potter/ground/quidditch.dat User/Waiesu/Harry_Potter/ground/quidditch.srf User/Waiesu/Harry_Potter/ground/quidditch.srf
+User/Waiesu/Harry_Potter/ground/harry_sky_ss.dat User/Waiesu/Harry_Potter/ground/harry_sky_ss.srf User/Waiesu/Harry_Potter/ground/harry_sky_ss.srf
+User/Waiesu/Harry_Potter/ground/hogworts.dat User/Waiesu/Harry_Potter/ground/hogworts.srf User/Waiesu/Harry_Potter/ground/hogworts.srf
+User/Waiesu/Harry_Potter/ground/hy_hrpt_qd.dat User/Waiesu/Harry_Potter/ground/hy_hrpt_qd.srf User/Waiesu/Harry_Potter/ground/hy_hrpt_qd.srf
+User/Waiesu/Harry_Potter/ground/magic.dat User/Waiesu/Harry_Potter/ground/magic.srf User/Waiesu/Harry_Potter/ground/magic.srf
+
+これで完了です。
+
+
+説明
+　
+　大人気ヒット作「ハリー・ポッター」の世界をを自由に飛べたらなと思い、初めてですがこれを作ってみました。島の中心にあるのがクィデッチのスタジアムで、本当にクィデッチができるようにしてみました。島の東にあるのがホグワーツ城（のつもり）、その南東にあるのが「SANCTUM-BATTLE（密室戦闘室）愛称ＭＡＧＩＣ＿ＢＯＸ」です。ほかに空中島、海上基地などがあります。非力ＰＣで作ったので、ＯｐｅｎＧＬが使えなく、ＳＵＲＦファイルにしていませんが、４月に買うニューＰＣで修正しようと思っています。
+
+
+スタート位置
+
+QUI_STA_N1～QUI_STA_S3　　　　クィデッチのスタジアムで、クィディッチをする時のスタート位置で　　　　　　　　　　　　　　　す。N1～N3がＡチーム、S1～S3がＢチームです。ちなみに試合をする　　　　　　　　　　　　　　　時はＩＦＦはチームごとに違うものにしてください。
+QUI_STA_LOW(QUI_JUDGE_POS)　　クィデッチの審判ポジションです（審判っているのかな・・・）。
+HOG_SRW_01_N　　　　　　　　　海上基地から出ます。
+ON_SKY_STATION1～2　　　　　　空中島から出ます。
+ON_HELIPORT_EAST(SNICHI_POS)　ヘリポート（スニッチ駐機場）から出ます。クィディッチをするとき　　　　　　　　　　　　　　　スニッチはここから出発してスタジアムの中に入ります。他に、MAIN
+　　　　　　　　　　　　　　　・SOUTH・WEST・NORTHのスニッチポジションがあります。
+MAGIC_BOX_ROW(SB_JUDGE_POS)　 密室戦闘室の審判ポジションです（いるのか？）。
+MAGIC_BOX_LEFT(IFF1・2)　　　 密室戦闘室の戦闘スタート位置です。
+HOGWORTS_CASTLE　　　　　　　 ホグワーツ城から出ます。
+
+
+クィディッチについて
+
+　クィデッチとは、ハリポタに出てくるスポーツのことです。このシーナリーでもクィディッチをできるようにしましたが、細部までは再現できませんでした。そこで、ＹＳ版クィディッチは、次のようにしたいと思います（あくまでレナモンさんのものに僕がちょっと修正を加えたものですが）。
+
+・プレイ人数は７人
+・６人はシーカー（スニッチを取る選手）
+・１人はスニッチ（シーカーに取られるので、取られないように動き回る選手）
+・チームは２チームで、１チーム３人。もちろんＩＦＦは違うものに。
+・ゲームが始まったら、シーカー全員でスニッチを追い、スニッチを撃墜したチームの勝ちとする。
+・原則としてスタジアムの外には出ない。
+・高度制限はないものとする。
+・時間制限は５分。５分スニッチが逃げ切ったら、スニッチの勝ちとし、その試合を終了する。
+
+　・・・とまあ、こんな感じです。わからない所があったら、ゴンタさん・Ｃｔｒｌさんの掲示板または僕に直接メールを下さい。あくまで僕とレナモンさんが勝手に決めたことなので、ルールは自由に変更してもかまいません。
+
+
+着陸可能な場所
+
+　海面の色の薄い所や、クィディッチスタジアム、滑走路などです。陸地に着地しようとするとドカーンっていきます。
+
+
+著作権･利用条件等
+
+　このシーナリーは、ＹＳの作者である山川氏から許可を得て作成されたものではありませんので、もしこのデータを使って何らかの損害などが発生しても、山川氏に対しての抗議または賠償請求等を行うことは一切ご遠慮下さい。
+　また、何か損害などが発生しても、シーナリーを作成したわいえすはその賠償の責任は負わないものとします。
+　上の事項に同意できる時のみ、このデータを使用してください。
+　著作権（非公認のくせに）は一応保持します。他のデータ(ＹＳシーナリ・航空機等)への流用や改造及び、改造後のデータの再配布は、「わいえすのデータを使用している」旨を一言明記してくだされば事前の許諾無しに行なっていただいてかまいません。
+　ただし、改造後のデータに関しては、その結果には一切関知いたしませんので各自の責任に
+おいて行なってください。
+　これらの事は本データの利用者の権利を制限する為のものではありません。
+
+
+連絡について
+
+　・ご不明な点がありましたら、私宛に、メールにてお問い合わせくださいませ。
+　・質問・ご要望等２４時間受け付けております（爆）。
+
+　　　　　　　　　　　　　　　　　　　　　　　　　　　Ｅメール　　yokokazu@cmail.plala.or.jp

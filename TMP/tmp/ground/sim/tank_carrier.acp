@@ -1,0 +1,7 @@
+tmp/ground/sim/tank_carrier_deck.srf
+tmp/ground/sim/tank_carrier_wire.srf
+tmp/ground/sim/tank_carrier_catapult.srf
+tmp/ground/sim/tank_carrier_bridge.srf
+ILS -11m 22.5m -125m 0deg 5deg 0deg 6000m
+
+REM ACP File Aircraft Carrier Property

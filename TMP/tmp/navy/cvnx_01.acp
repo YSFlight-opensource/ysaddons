@@ -1,0 +1,8 @@
+tmp/navy/cvnx_01_deck.srf
+tmp/navy/cvnx_01_wire.srf
+tmp/navy/cvnx_01_deck.srf
+tmp/navy/cvnx_01_bridge.srf
+ILS 8.52m 20.00m -165.3m 180deg 5deg 0deg 6000m
+VIEWPOINT TRUE
+
+REM ACP File Aircraft Carrier Property

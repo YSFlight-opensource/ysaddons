@@ -1,0 +1,57 @@
+FIELD
+SKY 37 123 209
+GND 102 153 51
+
+PC2
+FIL suzuka_south.pc2
+POS 0.00 0.00 0.00 10012 0 0
+END
+PC2
+FIL suzuka_south_grid.pc2
+POS 50.06 0.00 73.89 -9552 0 0
+END
+
+FLD
+FIL fence(0x10)_szk_s.fld
+POS 0.00 0.00 0.00 10012 0 0
+END
+
+PLT
+FIL arrow.pc2
+POS -72.89 0.00 21.25 -23756 0 0
+END
+PLT
+FIL arrow.pc2
+POS -33.27 0.00 27.49 -23756 0 0
+END
+PLT
+FIL arrow.pc2
+POS -50.94 0.00 25.17 -23756 0 0
+END
+
+SRF
+FIL _t_tree5_s.srf
+ID 0
+TAG ""
+POS -37.76 0.00 -145.24 0 0 0
+END
+SRF
+FIL _t_tree4_s.srf
+ID 0
+TAG ""
+POS -72.29 0.00 -96.14 0 0 0
+END
+SRF
+FIL _t_tree5_s.srf
+ID 0
+TAG ""
+POS 25.16 0.00 22.35 0 0 0
+END
+SRF
+FIL _t_tree5_s.srf
+ID 0
+TAG ""
+POS -70.42 0.00 -30.48 0 0 0
+END
+
+ENDF

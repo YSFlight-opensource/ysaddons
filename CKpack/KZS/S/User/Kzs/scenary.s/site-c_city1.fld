@@ -1,0 +1,236 @@
+FIELD
+SKY 37 123 209
+GND 2 34 185
+PC2
+FIL site-c_city1.pc2
+POS 0.00 0.00 0.00 0 0 0
+END
+SRF
+FIL _t_build24.srf
+ID 0
+TAG ""
+POS -95.53 0.00 202.71 0 0 0
+END
+SRF
+FIL _t_build24.srf
+ID 0
+TAG ""
+POS 270.79 0.00 -403.81 0 0 0
+END
+SRF
+FIL _t_build24.srf
+ID 0
+TAG ""
+POS 246.32 0.00 -179.06 0 0 0
+END
+SRF
+FIL _t_build24.srf
+ID 0
+TAG ""
+POS -273.87 0.00 -200.44 0 0 0
+END
+SRF
+FIL _t_build24.srf
+ID 0
+TAG ""
+POS 294.54 0.00 133.02 0 0 0
+END
+SRF
+FIL _t_build24.srf
+ID 0
+TAG ""
+POS -243.47 0.00 426.18 0 0 0
+END
+SRF
+FIL _t_build24.srf
+ID 0
+TAG ""
+POS -95.01 0.00 -351.55 0 0 0
+END
+SRF
+FIL _t_build15_l.srf
+ID 0
+TAG ""
+POS -749.70 0.00 -690.89 0 0 0
+END
+SRF
+FIL _t_build15_l.srf
+ID 0
+TAG ""
+POS -711.22 0.00 724.33 16256 0 0
+END
+SRF
+FIL _t_build15_l.srf
+ID 0
+TAG ""
+POS 678.35 0.00 -729.37 16384 0 0
+END
+SRF
+FIL _t_build15_l.srf
+ID 0
+TAG ""
+POS 742.49 0.00 720.06 0 0 0
+END
+SRF
+FIL _t_build12.srf
+ID 0
+TAG ""
+POS 166.27 0.00 -598.58 0 0 0
+END
+SRF
+FIL _t_build12.srf
+ID 0
+TAG ""
+POS 437.06 0.00 -342.05 0 0 0
+END
+SRF
+FIL _t_build12.srf
+ID 0
+TAG ""
+POS 448.34 0.00 206.46 0 0 0
+END
+SRF
+FIL _t_build12.srf
+ID 0
+TAG ""
+POS -448.34 0.00 -48.89 0 0 0
+END
+SRF
+FIL _t_build12.srf
+ID 0
+TAG ""
+POS -95.01 0.00 -622.34 0 0 0
+END
+SRF
+FIL _t_build12.srf
+ID 0
+TAG ""
+POS 95.01 0.00 337.30 0 0 0
+END
+SRF
+FIL _t_build12.srf
+ID 0
+TAG ""
+POS -243.47 0.00 108.48 0 0 0
+END
+SRF
+FIL _t_build06.srf
+ID 0
+TAG ""
+POS -441.81 0.00 -351.55 0 0 0
+END
+SRF
+FIL _t_build06.srf
+ID 0
+TAG ""
+POS 95.01 0.00 -874.12 0 0 0
+END
+SRF
+FIL _t_build06.srf
+ID 0
+TAG ""
+POS 646.09 0.00 -128.27 0 0 0
+END
+SRF
+FIL _t_build06.srf
+ID 0
+TAG ""
+POS 442.41 0.00 -45.92 0 0 0
+END
+SRF
+FIL _t_build06.srf
+ID 0
+TAG ""
+POS -389.56 0.00 356.30 0 0 0
+END
+SRF
+FIL _t_build06.srf
+ID 0
+TAG ""
+POS -142.52 0.00 627.09 0 0 0
+END
+SRF
+FIL _t_build06.srf
+ID 0
+TAG ""
+POS 294.54 0.00 437.06 0 0 0
+END
+SRF
+FIL _t_build06.srf
+ID 0
+TAG ""
+POS -342.05 0.00 -627.09 0 0 0
+END
+SRF
+FIL _t_build06.srf
+ID 0
+TAG ""
+POS -454.28 0.00 206.46 0 0 0
+END
+SRF
+FIL _t_build06.srf
+ID 0
+TAG ""
+POS -622.34 0.00 -114.02 0 0 0
+END
+SRF
+FIL _t_build24.srf
+ID 0
+TAG ""
+POS 57.48 0.00 -428.47 0 0 0
+END
+SRF
+FIL _t_build24.srf
+ID 0
+TAG ""
+POS -88.60 0.00 -54.36 0 0 0
+END
+SRF
+FIL _t_build12.srf
+ID 0
+TAG ""
+POS -52.26 0.00 422.81 0 0 0
+END
+SRF
+FIL _t_build12.srf
+ID 0
+TAG ""
+POS -240.90 0.00 -434.35 0 0 0
+END
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS -394.04 0.00 886.59 0 0 0
+END
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS -38.72 0.00 88.16 0 0 0
+END
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS 402.25 0.00 -648.52 0 0 0
+END
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS -870.17 0.00 -131.35 0 0 0
+END
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS 878.38 0.00 -410.46 0 0 0
+END
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS 656.73 0.00 147.76 0 0 0
+END
+ENDF

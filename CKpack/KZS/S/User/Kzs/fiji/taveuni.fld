@@ -1,0 +1,37 @@
+FIELD
+SKY 37 123 209
+GND 2 34 185
+
+PC2
+FIL taveuni.pc2
+POS 0.00 0.00 0.00 0 0 0
+END
+
+FLD
+FIL as_18k.fld
+POS -5200.00 0.00 11785.00 -16384 0 0
+END
+
+FLD
+FIL aw_15k.fld
+POS 11360.00 0.00 11335.00 -1638 0 0
+END
+
+TER
+FIL karoturama.ter
+ID 0
+TAG ""
+POS -3049.27 0.00 9691.92 30106 0 0
+END
+TER
+FIL uluigarau.ter
+ID 0
+TAG ""
+POS -21134.23 0.00 -7742.80 -6548 0 0
+END
+FLD
+FIL taveuni_beach.fld
+POS 0.00 0.00 0.00 0 0 0
+END
+
+ENDF

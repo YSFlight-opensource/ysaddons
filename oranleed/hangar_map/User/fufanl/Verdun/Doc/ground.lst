@@ -1,0 +1,32 @@
+Ground
+User/fufanl/verdun/ground/campania.dat User/fufanl/verdun/ground/campania_visual.srf User/fufanl/verdun/ground/campania_coll.srf
+User/fufanl/verdun/ground/b_carrier.dat User/fufanl/verdun/ground/b_carriervisual.srf User/fufanl/verdun/ground/b_carriercoll.srf
+User/fufanl/verdun/ground/crane.dat User/fufanl/verdun/ground/crane.srf User/fufanl/verdun/ground/crane.srf
+User/fufanl/verdun/ground/daimler.dat User/fufanl/verdun/ground/daimler.srf User/fufanl/verdun/ground/daimler.srf
+User/fufanl/verdun/ground/fokker.dat User/fufanl/verdun/ground/fokker.srf User/fufanl/verdun/ground/fokker_coll.srf
+User/fufanl/verdun/ground/grucant.dat User/fufanl/verdun/ground/grucant.srf User/fufanl/verdun/ground/grucant.srf
+User/fufanl/verdun/ground/hangargb.dat User/fufanl/verdun/ground/hangargb.srf User/fufanl/verdun/ground/hangargb.srf
+User/fufanl/verdun/ground/hangarmim.dat User/fufanl/verdun/ground/hangarmim.srf User/fufanl/verdun/ground/hangarmim.srf
+User/fufanl/verdun/ground/hangkais.dat User/fufanl/verdun/ground/hangkais.srf User/fufanl/verdun/ground/hangkais.srf
+User/fufanl/verdun/ground/hangkais1.dat User/fufanl/verdun/ground/hangkais1.srf User/fufanl/verdun/ground/hangkais1.srf
+User/fufanl/verdun/ground/hindenburg.dat User/fufanl/verdun/ground/hindenburg.srf User/fufanl/verdun/ground/hindenburg.srf
+User/fufanl/verdun/ground/k210_l.dat User/fufanl/verdun/ground/k210_l.srf User/fufanl/verdun/ground/k210_l.srf
+User/fufanl/verdun/ground/k280mm.dat User/fufanl/verdun/ground/k280mm.srf User/fufanl/verdun/ground/k280mm.srf
+User/fufanl/verdun/ground/m_gerat.dat User/fufanl/verdun/ground/m_gerat.srf User/fufanl/verdun/ground/m_gerat.srf
+User/fufanl/verdun/ground/porterminal3.dat User/fufanl/verdun/ground/porterminal3.srf User/fufanl/verdun/ground/porterminal3.srf
+User/fufanl/verdun/ground/seydlitz.dat User/fufanl/verdun/ground/seydlitz.srf User/fufanl/verdun/ground/seydlitz.srf
+User/fufanl/verdun/ground/submarine.dat User/fufanl/verdun/ground/submarine.srf User/fufanl/verdun/ground/submarine.srf
+User/fufanl/verdun/ground/subtunnel1.dat User/fufanl/verdun/ground/subtunnel1.srf User/fufanl/verdun/ground/subtunnel1.srf
+User/fufanl/verdun/ground/taniche.dat User/fufanl/verdun/ground/taniche.srf User/fufanl/verdun/ground/taniche.srf
+User/fufanl/verdun/ground/taniche1.dat User/fufanl/verdun/ground/taniche1.srf User/fufanl/verdun/ground/taniche1.srf
+User/fufanl/verdun/ground/tenda1.dat User/fufanl/verdun/ground/tenda1.srf User/fufanl/verdun/ground/tenda1.srf
+User/fufanl/verdun/ground/zeppelin.dat User/fufanl/verdun/ground/zeppelin.srf User/fufanl/verdun/ground/zeppelin.srf
+User/fufanl/verdun/ground/zeppelin_a.dat User/fufanl/verdun/ground/zeppelin_a.srf User/fufanl/verdun/ground/zeppelin_coll.srf
+User/fufanl/verdun/ground/zepphangar.dat User/fufanl/verdun/ground/zepphangar.srf User/fufanl/verdun/ground/zepphangar.srf
+User/fufanl/verdun/ground/derflinger.dat User/fufanl/verdun/ground/derflinger.srf User/fufanl/verdun/ground/derflinger.srf
+User/fufanl/verdun/ground/a7v.dat User/fufanl/verdun/ground/a7v.srf User/fufanl/verdun/ground/a7v.srf
+User/fufanl/verdun/ground/moletto.dat User/fufanl/verdun/ground/moletto.srf User/fufanl/verdun/ground/moletto.srf
+
+Scenery
+VERDUN User/fufanl/verdun/verdun.fld User/fufanl/verdun/verdun.stp User/fufanl/verdun/verdun.yfs
+

@@ -1,0 +1,14 @@
+FIELD
+SKY 37 123 209
+GND 2 34 185
+PC2
+FIL hachijo_kojima.pc2
+POS 0.00 0.00 0.00 0 0 0
+END
+TER
+FIL taihei.ter
+ID 0
+TAG ""
+POS 91.21 0.00 -1083.15 6144 0 0
+END
+ENDF

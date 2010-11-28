@@ -1,0 +1,5 @@
+user/oranleed/ju87/ju87d.dat user/oranleed/ju87/ju87d.dnm user/oranleed/ju87/ju87coll.srf user/oranleed/ju87/ju87cockpit.srf user/oranleed/ju87/ju87dcoarse.dnm
+user/oranleed/ju87/ju87g.dat user/oranleed/ju87/ju87g.dnm user/oranleed/ju87/ju87coll.srf user/oranleed/ju87/ju87cockpit.srf user/oranleed/ju87/ju87gcoarse.dnm
+
+使用爆弾：胴体　SC250Bomb(OHPイングラム氏作)
+　　　　　翼下　同上(50％縮小)←同梱

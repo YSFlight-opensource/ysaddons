@@ -1,0 +1,111 @@
+User/cefp/ageha.dat User/cefp/ageha.dnm User/cefp/agehacoll.srf User/cefp/agehacockpit.srf User/cefp/agehacoarse.dnm
+User/cefp/amp.dat User/cefp/amp.dnm User/cefp/ampcoll.srf
+User/cefp/domo.dat User/cefp/domo.dnm User/cefp/domocoll.srf User/cefp/domocockpit.srf
+User/cefp/airshipr.dat User/cefp/airshipr.dnm User/cefp/airshipr_coll.srf User/cefp/airshipr_cockpit.srf
+User/cefp/f15c_isaf.dat User/cefp/f15c_isaf.dnm aircraft/f15coll.srf User/cefp/f15_eafccockpit.srf
+User/cefp/f15eisaf.dat User/cefp/f15eisaf.dnm aircraft/f15coll.srf User/cefp/f15eisafcockpit.srf User/cefp/f15eisafcoarse.dnm
+User/cefp/f15jkai-p21.dat User/cefp/f15j-p.dnm aircraft/f15coll.srf User/cefp/f15jcockpit.srf User/cefp/f15jkcoarse.dnm
+User/cefp/ffr31.dat User/cefp/ffr31.dnm User/cefp/ffr31coll.srf User/cefp/ffr31cockpit.srf User/cefp/ffr31coarse.dnm
+User/cefp/ffr41.dat User/cefp/ffr41.dnm User/cefp/ffr41coll.srf User/cefp/ffr41cockpit.srf
+User/cefp/hellhound.dat User/cefp/hhe.dnm User/cefp/hhecoll2.srf  User/cefp/hellcoarse.srf
+User/cefp/limande.dat User/cefp/limande.dnm User/cefp/limandecoll.srf User/cefp/limandecockpit.srf User/cefp/limandecoarse.srf
+User/cefp/sanka.dat User/cefp/sanka.dnm User/cefp/sankacoll.srf User/cefp/sankacockpit.srf
+User/cefp/TIEinterceptor.dat User/cefp/TIEinterceptor.dnm User/cefp/TIEinterceptorcoll.srf User/cefp/TIEinterceptorcok.srf
+User/cefp/ve1.dat User/cefp/ve1.dnm aircraft/f14coll.srf User/cefp/vf1cockpit.srf
+User/cefp/vf0.dat User/cefp/vf0.dnm User/cefp/vf0coll.srf User/cefp/vf0cockpit.srf User/cefp/vf0coarse.dnm
+User/cefp/vf1j_jasdf.dat User/cefp/vf1j_jasdf.dnm aircraft/f14coll.srf User/cefp/vf1cockpit.srf 
+User/cefp/vf1as.dat User/cefp/vf1as.dnm aircraft/f14coll.srf User/cefp/vf1cockpit.srf
+User/cefp/vf1s_sv.dat User/cefp/vf1s_sv.dnm aircraft/f14coll.srf User/cefp/vf1cockpit.srf
+User/cefp/vf1ab.dat User/cefp/vf1ab.dnm aircraft/f14coll.srf User/cefp/vf1cockpit.srf
+User/cefp/vf1d.dat User/cefp/vf1d.dnm aircraft/f14coll.srf User/cefp/vf1cockpit.srf
+User/cefp/vt1.dat User/cefp/vt1.dnm aircraft/f14coll.srf User/cefp/vf1cockpit.srf
+User/cefp/yf19f.dat User/cefp/yf19f.dnm User/cefp/yf19fcoll.srf User/cefp/yf19fcockpit.srf User/cefp/yf19fcoarse.dnm
+User/cefp/yf19.dat User/cefp/yf19.dnm User/cefp/yf19coll.srf User/cefp/yf19cockpit.srf User/cefp/yf19coarse.dnm
+User/cefp/yf21.dat User/cefp/yf21.dnm User/cefp/yf21coll.srf User/cefp/yf21cockpit.srf User/cefp/yf21coarse.dnm
+User/cefp/x71.dat User/cefp/x71.dnm User/cefp/x71coll.srf User/cefp/x71cockpit.srf
+User/cefp/x71rtb.dat User/cefp/x71rtb.dnm User/cefp/x71rtbcoll.srf User/cefp/x71rtbcockpit.srf
+User/cefp/x71et.dat User/cefp/x71et.dnm User/cefp/x71etcoll.srf User/cefp/x71etcockpit.srf
+User/cefp/y_zero.dat User/cefp/y_zero.dnm User/cefp/y_zero_coll.srf User/cefp/y_zero_cockpit.srf User/cefp/y_zero_coarse.srf
+User/cefp/fhx.dat User/cefp/fhx.dnm User/cefp/fhxcl.srf User/cefp/fhxck.srf
+User/cefp/ffr31mrd_fg.dat User/cefp/ffr31mrd_fg.dnm User/cefp/ffr31mrd_fg_coll.srf User/cefp/ffr31mrd_fg_cock.srf User/cefp/ffr31mrd_fg_coarse.dnm
+User/cefp/frx00.dat User/cefp/frx00.dnm User/cefp/frx00coll.srf User/cefp/frx00cockpit.srf User/cefp/frx00coarse.dnm
+User/cefp/yf21_b.dat User/cefp/yf21_b.dnm User/cefp/yf21coll.srf User/cefp/yf21_bcockpit.srf User/cefp/yf21_bcoarse.dnm
+User/cefp/yf21_bfp.dat User/cefp/yf21_bfp.dnm User/cefp/yf21coll.srf User/cefp/yf21_bcockpit.srf User/cefp/yf21_bfpcoarse.dnm
+User/cefp/yf21_bg.dat User/cefp/yf21_bg.dnm User/cefp/yf21coll.srf User/cefp/yf21_bcockpit.srf User/cefp/yf21_bgcoarse.dnm
+User/cefp/vf11f.dat User/cefp/vf11f.dnm User/cefp/vf11coll.srf User/cefp/vf11cockpit.srf User/cefp/vf11fcoarse.dnm
+User/cefp/vf11.dat User/cefp/vf11.dnm User/cefp/vf11coll.srf User/cefp/vf11cockpit.srf User/cefp/vf11coarse.dnm
+User/cefp/kaizoku.dat User/cefp/kaizoku.dnm User/cefp/kaizoku_coll.srf User/cefp/kaizoku_cp.srf
+User/cefp/BDragon.dat User/cefp/BDragon.dnm User/cefp/BDragoncoll.srf User/cefp/BDragoncockpit.srf User/cefp/BDragoncoarse.dnm
+User/cefp/_vf1a.dat User/cefp/_vf1a.dnm User/cefp/vf1_coll.srf User/cefp/_vf1cockpit.srf User/cefp/_vf1acoarse.dnm
+User/cefp/_vf1as.dat User/cefp/_vf1as.dnm User/cefp/vf1_coll.srf User/cefp/_vf1cockpit.srf User/cefp/_vf1ascoarse.dnm
+User/cefp/_vf1j.dat User/cefp/_vf1j.dnm User/cefp/vf1_coll.srf User/cefp/_vf1cockpit.srf User/cefp/_vf1jcoarse.dnm
+User/cefp/_vf1js.dat User/cefp/_vf1js.dnm User/cefp/vf1_coll.srf User/cefp/_vf1cockpit.srf User/cefp/_vf1jscoarse.dnm
+User/cefp/_vf1s.dat User/cefp/_vf1s.dnm User/cefp/vf1_coll.srf User/cefp/_vf1cockpit.srf User/cefp/_vf1scoarse.dnm
+User/cefp/_vf1ss.dat User/cefp/_vf1ss.dnm User/cefp/vf1_coll.srf User/cefp/_vf1cockpit.srf User/cefp/_vf1sscoarse.dnm
+User/cefp/liltern.dat User/cefp/liltern.dnm User/cefp/lilterncl.srf User/cefp/lilternckpt.srf User/cefp/lilterncoar.srf
+User/cefp/queadlaunn-rau-c.dat User/cefp/queadlaunn-rau-c.dnm User/cefp/queadlaunn-rau_coll.srf User/cefp/queadlaunn-rau_cockpit.srf User/cefp/queadlaunn-rau-c_coarse.dnm
+User/cefp/queadlaunn-rau.dat User/cefp/queadlaunn-rau.dnm User/cefp/queadlaunn-rau_coll.srf User/cefp/queadlaunn-rau_cockpit.srf User/cefp/queadlaunn-rau_coarse.dnm
+User/cefp/king-gainer.dat User/cefp/king-gainer.dnm User/cefp/king-gainer_coll.srf User/cefp/king-gainer_cockpit.srf User/cefp/king-gainer_coarse.dnm
+User/cefp/rushrod.dat User/cefp/rushrod.dnm User/cefp/rushrod_coll.srf User/cefp/rushrod_cockpit.srf User/cefp/rushrod_coarse.dnm
+User/cefp/goleem.dat User/cefp/goleem.dnm User/cefp/goleem_coll.srf User/cefp/goleem_cockpit.srf User/cefp/goleem_coarse.dnm
+User/cefp/under-goleem.dat User/cefp/under-goleem.dnm User/cefp/goleem_coll.srf User/cefp/goleem_cockpit.srf User/cefp/under-goleem_coarse.dnm
+User/cefp/r101.dat User/cefp/r101.dnm User/cefp/r101coll.srf User/cefp/coffin.srf
+User/cefp/r102.dat User/cefp/r102.dnm User/cefp/r102coll.srf User/cefp/coffin.srf
+User/cefp/r103.dat User/cefp/r103.dnm User/cefp/r103coll.srf User/cefp/coffin.srf
+User/cefp/r201.dat User/cefp/r201.dnm User/cefp/r201coll.srf User/cefp/coffin.srf
+User/cefp/r352.dat User/cefp/r352.dnm User/cefp/r352coll.srf User/cefp/coffin.srf
+User/cefp/x49.dat User/cefp/x49.dnm User/cefp/x49coll.srf User/cefp/coffin.srf
+User/cefp/yf21fp_ver.02.dat User/cefp/yf21fp_ver.02.dnm User/cefp/yf21_ver.02coll.srf User/cefp/yf21_ver.02cockpit.srf User/cefp/yf21fp_ver.02coarse.dnm
+User/cefp/tachikoma.dat User/cefp/tachikoma.dnm User/cefp/tachikoma_coll.srf User/cefp/tachikoma_cp.srf User/cefp/tachikoma_coarse.dnm
+User/cefp/tachikoma_c.dat User/cefp/tachikoma_c.dnm User/cefp/tachikoma_coll.srf User/cefp/tachikoma_cp.srf User/cefp/tachikoma_c_coar.dnm
+User/cefp/tachikoma_g.dat User/cefp/tachikoma_g.dnm User/cefp/tachikoma_coll.srf User/cefp/tachikoma_cp.srf User/cefp/tachikoma_g_coar.dnm
+User/cefp/type12.dat User/cefp/type12.dnm User/cefp/type12coll.srf User/cefp/type12cockpit.srf User/cefp/type12coarse.dnm
+User/cefp/hauneb.dat User/cefp/hauneb.dnm User/cefp/haunebcoll.srf User/cefp/haunebcockpit.srf User/cefp/haunebcoarse.dnm
+User/cefp/haunebng.dat User/cefp/haunebng.dnm User/cefp/haunebcoll.srf User/cefp/haunebngcockpit.srf User/cefp/haunebngcoarse.dnm
+User/cefp/airwolf.dat User/cefp/airwolf.dnm User/cefp/airwolfcoll.srf User/cefp/airwolfcockpit.srf User/cefp/airwolfcoarse.dnm
+User/cefp/airwolf2.dat User/cefp/airwolf2.dnm User/cefp/airwolfcoll.srf User/cefp/airwolfcockpit.srf User/cefp/airwolfcoarse.dnm
+User/cefp/shacho.dat User/cefp/shacho.dnm User/cefp/shacho_coll.srf User/cefp/shacho_cockpit.srf
+User/cefp/mina.dat User/cefp/mina.dnm User/cefp/minacoll.srf User/cefp/minacockpit.srf User/cefp/minacoarse.dnm
+User/cefp/speeder.dat User/cefp/speeder.dnm User/cefp/speedercoll.srf User/cefp/speedercockpit.srf User/cefp/speedercoarse.dnm
+User/cefp/UH-001.dat User/cefp/UH-001.dnm User/cefp/UH-001_coll.srf User/cefp/UH-001_cockpit.srf
+User/cefp/force.dat User/cefp/force.dnm User/cefp/forcecoll.srf User/cefp/forcecock.srf
+User/cefp/force2.dat User/cefp/force.dnm User/cefp/forcecoll.srf User/cefp/forcecock.srf
+User/cefp/vicviper.dat User/cefp/vicviper.dnm User/cefp/viccoll.srf User/cefp/viccock.srf
+User/cefp/vicviper2.dat User/cefp/vicviper.dnm User/cefp/viccoll.srf User/cefp/viccock.srf
+User/cefp/vicviper3.dat User/cefp/lordbritish.dnm User/cefp/lordcoll.srf User/cefp/lordcock.srf
+User/cefp/vicviper4.dat User/cefp/lordbritish.dnm User/cefp/lordcoll.srf User/cefp/lordcock.srf
+User/cefp/EP.dat User/cefp/EP.dnm User/cefp/EP_coll.srf User/cefp/EP_cock.srf aircraft/f15j.dnm
+User/cefp/bahamut.dat User/cefp/bahamut.dnm User/cefp/bahamut-coll.srf User/cefp/bahamut-cockpit.srf User/cefp/bahamut-coarse.dnm
+User/cefp/bahamut-b.dat User/cefp/bahamut.dnm User/cefp/bahamut-coll.srf User/cefp/bahamut-cockpit.srf User/cefp/bahamut-coarse.dnm
+User/cefp/vicviper_s.dat User/cefp/vicviper_s.dnm User/cefp/vicviper_s_coll.srf User/cefp/vicviper_s_cock.srf
+User/cefp/knight2000.dat User/cefp/knight2000.dnm User/cefp/knight2000coll.srf User/cefp/knight2000cockpit.srf User/cefp/kittcoarse.dnm
+User/cefp/michaelknight.dat User/cefp/michaelknight.dnm User/cefp/michaelcoll.srf User/cefp/michaelcockpit.srf
+User/cefp/karr.dat User/cefp/karr.dnm User/cefp/knight2000coll.srf User/cefp/knight2000cockpit.srf User/cefp/karrcoarse.dnm
+User/cefp/ikaruga.dat User/cefp/ikaruga.dnm User/cefp/ikarugacoll.srf User/cefp/ikarugacockpit.srf User/cefp/ikarugacoarse.dnm
+User/cefp/ikaruga-b.dat User/cefp/ikaruga-b.dnm User/cefp/ikarugacoll.srf User/cefp/ikarugacockpit.srf User/cefp/ikarugacoarse-b.dnm
+User/cefp/ikaruga-c.dat User/cefp/ikaruga-c.dnm User/cefp/ikarugacoll.srf User/cefp/ikarugacockpit.srf
+User/cefp/superman.dat User/cefp/superman.dnm User/cefp/supermancoll.srf User/cefp/supermancockpit.srf User/cefp/supermancoarse.dnm
+User/cefp/Mi-96D.dat User/cefp/Mi-96D.dnm User/cefp/Mi-96D_coll.srf User/cefp/Mi-96D_cock.srf User/cefp/Mi-96D_co.dnm
+User/cefp/Aigaion.dat User/cefp/Aigaion.dnm User/cefp/Aigaion_coll.srf User/cefp/Aigaion_cock.srf User/cefp/Aigaion_co.dnm
+User/cefp/wg-a.dat User/cefp/wg.dnm User/cefp/wg-coll.srf User/cefp/wg-cockpit.srf User/cefp/wg-coarse.dnm
+User/cefp/wg-m.dat User/cefp/wg.dnm User/cefp/wg-coll.srf User/cefp/wg-cockpit.srf User/cefp/wg-coarse.dnm
+User/cefp/wg-a-lgt.dat User/cefp/wg-light.dnm User/cefp/wg-coll.srf User/cefp/wg-cockpit.srf User/cefp/wg-coarse.dnm
+User/cefp/wg-m-lgt.dat User/cefp/wg-light.dnm User/cefp/wg-coll.srf User/cefp/wg-cockpit.srf User/cefp/wg-coarse.dnm
+User/cefp/r90.dat User/cefp/r90.dnm User/cefp/r90_coll.srf User/cefp/r90_cock.srf User/cefp/r90_coarse.dnm
+
+
+User/cefp/gundam/rx77.dat User/cefp/gundam/rx77.dnm User/cefp/gundam/rx77coll.srf User/cefp/gundam/gundamcockpit.srf User/cefp/gundam/rx77coarse.dnm
+User/cefp/gundam/rx78.dat User/cefp/gundam/rx78.dnm User/cefp/gundam/rx78coll.srf User/cefp/gundam/gundamcockpit.srf User/cefp/gundam/rx78coarse.dnm
+User/cefp/gundam/rgm79.dat User/cefp/gundam/rgm79.dnm User/cefp/gundam/rx78coll.srf User/cefp/gundam/gundamcockpit.srf User/cefp/gundam/rgm79coarse.dnm
+User/cefp/gundam/mk2.dat User/cefp/gundam/mk2.dnm User/cefp/gundam/gundamcoll_old.srf User/cefp/gundam/mk2cockpit.srf User/cefp/gundam/mk2coarse.dnm
+User/cefp/gundam/ms06j.dat User/cefp/gundam/ms06j.dnm User/cefp/gundam/zakucoll_old.srf User/cefp/gundam/zakucockpit_old.srf User/cefp/gundam/zaku_fcoarse_old.dnm
+User/cefp/gundam/ms05b.dat User/cefp/gundam/ms05b.dnm User/cefp/gundam/zakucoll_old.srf User/cefp/gundam/zakucockpit_old.srf User/cefp/gundam/zaku_fcoarse_old.dnm
+User/cefp/gundam/coref.dat User/cefp/gundam/coreft.dnm User/cefp/gundam/coreftcockpit.srf User/cefp/gundam/coreftcoll.srf 
+User/cefp/gundam/core_kz.dat    User/cefp/gundam/core_kz.dnm    User/cefp/gundam/core_kz_coll.srf User/cefp/gundam/core_kz_cockpit.srf User/cefp/gundam/core_kz_coarse.dnm
+User/cefp/gundam/core_kz(t).dat User/cefp/gundam/core_kz(t).dnm User/cefp/gundam/core_kz_coll.srf User/cefp/gundam/core_kz_cockpit.srf User/cefp/gundam/core_kz(t)_coarse.dnm
+User/cefp/gundam/elmeth_kz(m).dat User/cefp/gundam/elmeth_kz(m).dnm User/cefp/gundam/elmeth_kz_coll.srf User/cefp/gundam/elmeth_kz_cockpit.srf User/cefp/gundam/elmeth_kz(m)_coarse.dnm
+User/cefp/gundam/elmeth_kz(n).dat User/cefp/gundam/elmeth_kz(n).dnm User/cefp/gundam/elmeth_kz_coll.srf User/cefp/gundam/elmeth_kz_cockpit.srf User/cefp/gundam/elmeth_kz(n)_coarse.dnm
+User/cefp/gundam/turn_a.dat User/cefp/gundam/turn_a.dnm User/cefp/gundam/gundamcoll_old.srf User/cefp/gundam/turn_acockpit.srf User/cefp/gundam/turn_acoarse.dnm
+User/cefp/gundam/turn_x.dat User/cefp/gundam/turn_x.dnm User/cefp/gundam/turn_xcoll.srf User/cefp/gundam/turn_xcockpit.srf User/cefp/gundam/turn_xcoarse.dnm
+User/cefp/gundam/zgundam.dat User/cefp/gundam/zgundam.dnm User/cefp/gundam/zgundamcoll.srf User/cefp/gundam/zgcockpit.srf User/cefp/gundam/zgundamcoarse.dnm
+User/cefp/gundam/hazel.dat User/cefp/gundam/hazel.dnm User/cefp/gundam/hazel.srf User/cefp/gundam/gundamcockpit.srf

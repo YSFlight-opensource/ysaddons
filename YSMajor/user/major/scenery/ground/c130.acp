@@ -1,0 +1,10 @@
+user/major/klu/c130_deck.srf
+user/major/klu/c130_wire.srf
+user/major/klu/c130_catapult.srf
+user/major/klu/null.srf
+ILS 0.0m -1.45m -9.13m 180deg 0deg 0deg 0m
+VIEWPOINT TRUE
+ARRESTINGWIRE -1.5m -1.45m -9.13m 1.5m -1.45m -9.13m
+BRIDGEPOS 0.0m 0.0m 8.0m
+
+REM ACP File Aircraft Carrier Property

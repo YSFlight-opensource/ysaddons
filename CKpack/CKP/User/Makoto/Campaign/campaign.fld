@@ -1,0 +1,6848 @@
+FIELD
+GND 0 0 127
+SKY 23 106 189
+
+PC2
+FIL hex/land/shoal.pc2
+POS 144000 0 0 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 150000 0 0 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 156000 0 0 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 162000 0 0 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 168000 0 0 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 174000 0 0 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 180000 0 0 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 186000 0 0 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 192000 0 0 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 222000 0 0 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 228000 0 0 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 234000 0 0 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 141000 0 -4500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 147000 0 -4500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 153000 0 -4500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 159000 0 -4500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 165000 0 -4500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 171000 0 -4500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 177000 0 -4500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 183000 0 -4500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 189000 0 -4500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 213000 0 -4500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 138000 0 -9000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 144000 0 -9000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 150000 0 -9000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 156000 0 -9000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 162000 0 -9000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/bush.pc2
+POS 168000 0 -9000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 174000 0 -9000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 180000 0 -9000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/bush.pc2
+POS 186000 0 -9000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 192000 0 -9000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/bush.pc2
+POS 198000 0 -9000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/bush.pc2
+POS 204000 0 -9000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 216000 0 -9000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 222000 0 -9000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 234000 0 -9000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 246000 0 -9000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 111000 0 -13500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 117000 0 -13500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 123000 0 -13500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 141000 0 -13500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/bush.pc2
+POS 147000 0 -13500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 153000 0 -13500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 165000 0 -13500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 171000 0 -13500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 177000 0 -13500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 189000 0 -13500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 195000 0 -13500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 201000 0 -13500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 207000 0 -13500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 219000 0 -13500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 225000 0 -13500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 243000 0 -13500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 249000 0 -13500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 108000 0 -18000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 114000 0 -18000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 120000 0 -18000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 126000 0 -18000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 144000 0 -18000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 150000 0 -18000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/bush.pc2
+POS 162000 0 -18000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 168000 0 -18000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 174000 0 -18000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/bush.pc2
+POS 180000 0 -18000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/bush.pc2
+POS 186000 0 -18000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 192000 0 -18000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 198000 0 -18000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 210000 0 -18000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 228000 0 -18000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 240000 0 -18000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/bush.pc2
+POS 246000 0 -18000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 258000 0 -18000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 99000 0 -22500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 105000 0 -22500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 111000 0 -22500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 117000 0 -22500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 129000 0 -22500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 141000 0 -22500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 147000 0 -22500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 153000 0 -22500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 159000 0 -22500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 165000 0 -22500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 171000 0 -22500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 177000 0 -22500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 183000 0 -22500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 189000 0 -22500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 195000 0 -22500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 207000 0 -22500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 213000 0 -22500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 219000 0 -22500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 237000 0 -22500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 255000 0 -22500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 114000 0 -27000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 120000 0 -27000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 126000 0 -27000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 132000 0 -27000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 150000 0 -27000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 156000 0 -27000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 162000 0 -27000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 168000 0 -27000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 174000 0 -27000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 180000 0 -27000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 186000 0 -27000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 192000 0 -27000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 198000 0 -27000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 204000 0 -27000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/bush.pc2
+POS 210000 0 -27000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 228000 0 -27000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 234000 0 -27000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 252000 0 -27000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 258000 0 -27000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 93000 0 -31500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 99000 0 -31500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 117000 0 -31500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/bush.pc2
+POS 123000 0 -31500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 129000 0 -31500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 147000 0 -31500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 153000 0 -31500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 159000 0 -31500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 165000 0 -31500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/bush.pc2
+POS 171000 0 -31500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 177000 0 -31500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 183000 0 -31500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 189000 0 -31500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 195000 0 -31500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 201000 0 -31500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 207000 0 -31500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 213000 0 -31500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/bush.pc2
+POS 219000 0 -31500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 225000 0 -31500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 237000 0 -31500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 243000 0 -31500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 249000 0 -31500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 90000 0 -36000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 96000 0 -36000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 102000 0 -36000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 108000 0 -36000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/bush.pc2
+POS 162000 0 -36000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 168000 0 -36000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/bush.pc2
+POS 174000 0 -36000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 180000 0 -36000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 186000 0 -36000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 192000 0 -36000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 198000 0 -36000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 204000 0 -36000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 210000 0 -36000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 216000 0 -36000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 228000 0 -36000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/bush.pc2
+POS 240000 0 -36000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 246000 0 -36000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 264000 0 -36000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 93000 0 -40500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 99000 0 -40500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 105000 0 -40500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 111000 0 -40500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 117000 0 -40500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/bush.pc2
+POS 123000 0 -40500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 129000 0 -40500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 135000 0 -40500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 141000 0 -40500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 165000 0 -40500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 171000 0 -40500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 183000 0 -40500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/bush.pc2
+POS 195000 0 -40500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 201000 0 -40500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/bush.pc2
+POS 213000 0 -40500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 219000 0 -40500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 231000 0 -40500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 237000 0 -40500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 243000 0 -40500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 261000 0 -40500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 96000 0 -45000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 102000 0 -45000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 114000 0 -45000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 120000 0 -45000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 126000 0 -45000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 132000 0 -45000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 138000 0 -45000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 144000 0 -45000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 150000 0 -45000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 156000 0 -45000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 162000 0 -45000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 168000 0 -45000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 174000 0 -45000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 180000 0 -45000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 186000 0 -45000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 192000 0 -45000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 198000 0 -45000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 216000 0 -45000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 222000 0 -45000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 234000 0 -45000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 240000 0 -45000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 264000 0 -45000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 105000 0 -49500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 111000 0 -49500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 117000 0 -49500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 129000 0 -49500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 135000 0 -49500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/bush.pc2
+POS 141000 0 -49500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 147000 0 -49500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 153000 0 -49500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 159000 0 -49500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 171000 0 -49500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 183000 0 -49500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 231000 0 -49500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 237000 0 -49500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 243000 0 -49500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 249000 0 -49500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 255000 0 -49500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 261000 0 -49500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 114000 0 -54000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 126000 0 -54000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 156000 0 -54000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 162000 0 -54000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 186000 0 -54000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 192000 0 -54000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 198000 0 -54000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 204000 0 -54000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 210000 0 -54000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 111000 0 -58500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 117000 0 -58500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 123000 0 -58500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 153000 0 -58500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 159000 0 -58500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 165000 0 -58500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 177000 0 -58500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/desert.pc2
+POS 183000 0 -58500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/desert.pc2
+POS 189000 0 -58500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/desert.pc2
+POS 195000 0 -58500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/desert.pc2
+POS 201000 0 -58500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/desert.pc2
+POS 207000 0 -58500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/desert.pc2
+POS 213000 0 -58500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 225000 0 -58500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 114000 0 -63000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 120000 0 -63000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/bush.pc2
+POS 126000 0 -63000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 150000 0 -63000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 156000 0 -63000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 162000 0 -63000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 174000 0 -63000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/desert.pc2
+POS 180000 0 -63000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/desert.pc2
+POS 192000 0 -63000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/desert.pc2
+POS 204000 0 -63000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/desert.pc2
+POS 210000 0 -63000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 222000 0 -63000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 228000 0 -63000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 111000 0 -67500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 123000 0 -67500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 129000 0 -67500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 135000 0 -67500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/bush.pc2
+POS 141000 0 -67500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 147000 0 -67500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 153000 0 -67500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 159000 0 -67500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 171000 0 -67500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/desert.pc2
+POS 177000 0 -67500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/desert.pc2
+POS 189000 0 -67500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 195000 0 -67500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 201000 0 -67500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/desert.pc2
+POS 207000 0 -67500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/desert.pc2
+POS 213000 0 -67500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/desert.pc2
+POS 219000 0 -67500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 225000 0 -67500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 120000 0 -72000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 126000 0 -72000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 132000 0 -72000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 138000 0 -72000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 144000 0 -72000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 156000 0 -72000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/desert.pc2
+POS 174000 0 -72000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/desert.pc2
+POS 192000 0 -72000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 198000 0 -72000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/desert.pc2
+POS 210000 0 -72000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/desert.pc2
+POS 216000 0 -72000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/desert.pc2
+POS 222000 0 -72000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 228000 0 -72000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 51000 0 -76500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 57000 0 -76500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 63000 0 -76500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 69000 0 -76500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 75000 0 -76500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 81000 0 -76500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 87000 0 -76500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 99000 0 -76500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 117000 0 -76500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 129000 0 -76500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 135000 0 -76500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 153000 0 -76500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 171000 0 -76500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/desert.pc2
+POS 189000 0 -76500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/desert.pc2
+POS 195000 0 -76500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/desert.pc2
+POS 207000 0 -76500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/desert.pc2
+POS 213000 0 -76500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/desert.pc2
+POS 219000 0 -76500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 225000 0 -76500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 30000 0 -81000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 36000 0 -81000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 42000 0 -81000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 48000 0 -81000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/bush.pc2
+POS 54000 0 -81000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 60000 0 -81000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 66000 0 -81000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/bush.pc2
+POS 72000 0 -81000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 78000 0 -81000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 84000 0 -81000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 90000 0 -81000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 96000 0 -81000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/bush.pc2
+POS 102000 0 -81000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 114000 0 -81000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 132000 0 -81000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 138000 0 -81000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 144000 0 -81000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 150000 0 -81000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 174000 0 -81000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/desert.pc2
+POS 186000 0 -81000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/desert.pc2
+POS 192000 0 -81000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/desert.pc2
+POS 198000 0 -81000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/desert.pc2
+POS 204000 0 -81000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/desert.pc2
+POS 210000 0 -81000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/desert.pc2
+POS 216000 0 -81000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 222000 0 -81000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 27000 0 -85500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/bush.pc2
+POS 33000 0 -85500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 39000 0 -85500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 45000 0 -85500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 51000 0 -85500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 69000 0 -85500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 75000 0 -85500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 81000 0 -85500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 87000 0 -85500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 93000 0 -85500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 99000 0 -85500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 105000 0 -85500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 111000 0 -85500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 123000 0 -85500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 183000 0 -85500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 189000 0 -85500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 195000 0 -85500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 201000 0 -85500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 207000 0 -85500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 213000 0 -85500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 219000 0 -85500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 24000 0 -90000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 30000 0 -90000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 36000 0 -90000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 42000 0 -90000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 48000 0 -90000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 54000 0 -90000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 66000 0 -90000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 72000 0 -90000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/bush.pc2
+POS 78000 0 -90000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 84000 0 -90000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 90000 0 -90000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 96000 0 -90000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 102000 0 -90000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 114000 0 -90000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 21000 0 -94500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 27000 0 -94500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 33000 0 -94500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 39000 0 -94500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/bush.pc2
+POS 45000 0 -94500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 51000 0 -94500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 57000 0 -94500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 63000 0 -94500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 69000 0 -94500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 75000 0 -94500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 81000 0 -94500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 87000 0 -94500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/bush.pc2
+POS 93000 0 -94500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 99000 0 -94500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 105000 0 -94500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 111000 0 -94500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 117000 0 -94500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 123000 0 -94500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 24000 0 -99000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 36000 0 -99000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 42000 0 -99000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 48000 0 -99000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 54000 0 -99000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 60000 0 -99000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 66000 0 -99000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 72000 0 -99000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 78000 0 -99000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 84000 0 -99000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 90000 0 -99000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 96000 0 -99000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 102000 0 -99000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 108000 0 -99000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 114000 0 -99000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 120000 0 -99000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 126000 0 -99000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 21000 0 -103500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 33000 0 -103500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 39000 0 -103500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 45000 0 -103500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 51000 0 -103500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 57000 0 -103500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 63000 0 -103500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/bush.pc2
+POS 69000 0 -103500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 75000 0 -103500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 81000 0 -103500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/bush.pc2
+POS 87000 0 -103500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 93000 0 -103500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 99000 0 -103500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 105000 0 -103500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 111000 0 -103500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 117000 0 -103500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 123000 0 -103500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 18000 0 -108000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 24000 0 -108000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 30000 0 -108000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 36000 0 -108000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 42000 0 -108000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 48000 0 -108000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 54000 0 -108000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 60000 0 -108000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 66000 0 -108000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 72000 0 -108000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 78000 0 -108000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 84000 0 -108000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 90000 0 -108000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 96000 0 -108000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 102000 0 -108000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 108000 0 -108000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 114000 0 -108000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 120000 0 -108000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 126000 0 -108000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 15000 0 -112500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 21000 0 -112500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 27000 0 -112500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 33000 0 -112500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 39000 0 -112500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 45000 0 -112500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 51000 0 -112500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 57000 0 -112500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 63000 0 -112500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 69000 0 -112500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 75000 0 -112500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 81000 0 -112500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 93000 0 -112500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/bush.pc2
+POS 99000 0 -112500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 105000 0 -112500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 111000 0 -112500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 123000 0 -112500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 18000 0 -117000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 24000 0 -117000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 30000 0 -117000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 36000 0 -117000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 42000 0 -117000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 54000 0 -117000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/bush.pc2
+POS 60000 0 -117000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 66000 0 -117000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/bush.pc2
+POS 72000 0 -117000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 78000 0 -117000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 90000 0 -117000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 96000 0 -117000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 102000 0 -117000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 108000 0 -117000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 120000 0 -117000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 15000 0 -121500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 21000 0 -121500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 27000 0 -121500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 33000 0 -121500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 39000 0 -121500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 51000 0 -121500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 57000 0 -121500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 63000 0 -121500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 69000 0 -121500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 75000 0 -121500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 81000 0 -121500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 87000 0 -121500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 93000 0 -121500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 99000 0 -121500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 105000 0 -121500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 117000 0 -121500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 18000 0 -126000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 24000 0 -126000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 30000 0 -126000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 36000 0 -126000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 48000 0 -126000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 54000 0 -126000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 66000 0 -126000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 72000 0 -126000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 78000 0 -126000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 84000 0 -126000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 90000 0 -126000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 96000 0 -126000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 102000 0 -126000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 108000 0 -126000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 114000 0 -126000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 15000 0 -130500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 21000 0 -130500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 27000 0 -130500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 33000 0 -130500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 39000 0 -130500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 45000 0 -130500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 51000 0 -130500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 57000 0 -130500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 63000 0 -130500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/bush.pc2
+POS 69000 0 -130500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 75000 0 -130500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 81000 0 -130500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 87000 0 -130500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 93000 0 -130500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 99000 0 -130500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 105000 0 -130500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 111000 0 -130500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 117000 0 -130500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 123000 0 -130500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 6000 0 -135000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 12000 0 -135000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 24000 0 -135000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/bush.pc2
+POS 30000 0 -135000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 48000 0 -135000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 54000 0 -135000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/bush.pc2
+POS 60000 0 -135000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 66000 0 -135000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 72000 0 -135000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 78000 0 -135000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 84000 0 -135000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 90000 0 -135000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 96000 0 -135000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 102000 0 -135000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 108000 0 -135000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 114000 0 -135000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 120000 0 -135000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 126000 0 -135000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 27000 0 -139500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 33000 0 -139500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 39000 0 -139500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 45000 0 -139500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 51000 0 -139500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 57000 0 -139500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 63000 0 -139500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 69000 0 -139500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 75000 0 -139500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 81000 0 -139500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 87000 0 -139500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 93000 0 -139500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 99000 0 -139500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 105000 0 -139500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 111000 0 -139500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 117000 0 -139500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 123000 0 -139500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 18000 0 -144000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 24000 0 -144000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 30000 0 -144000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 36000 0 -144000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 42000 0 -144000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 54000 0 -144000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 60000 0 -144000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 66000 0 -144000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 72000 0 -144000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 78000 0 -144000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 84000 0 -144000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 90000 0 -144000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 96000 0 -144000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 108000 0 -144000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 114000 0 -144000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 126000 0 -144000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 15000 0 -148500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 27000 0 -148500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 33000 0 -148500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 39000 0 -148500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 45000 0 -148500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 51000 0 -148500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 57000 0 -148500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 63000 0 -148500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 69000 0 -148500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 75000 0 -148500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 81000 0 -148500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 87000 0 -148500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 93000 0 -148500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 105000 0 -148500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 111000 0 -148500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 123000 0 -148500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 36000 0 -153000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 42000 0 -153000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 48000 0 -153000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 60000 0 -153000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 66000 0 -153000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 72000 0 -153000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 78000 0 -153000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 84000 0 -153000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 90000 0 -153000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 96000 0 -153000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 102000 0 -153000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 108000 0 -153000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 114000 0 -153000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 126000 0 -153000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 39000 0 -157500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 45000 0 -157500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 51000 0 -157500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest.pc2
+POS 63000 0 -157500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 69000 0 -157500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 75000 0 -157500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 81000 0 -157500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/plain.pc2
+POS 87000 0 -157500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 93000 0 -157500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 99000 0 -157500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 105000 0 -157500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 129000 0 -157500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 48000 0 -162000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood.pc2
+POS 66000 0 -162000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 72000 0 -162000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 78000 0 -162000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 84000 0 -162000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 90000 0 -162000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 108000 0 -162000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 114000 0 -162000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 126000 0 -162000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 117000 0 -166500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/shoal.pc2
+POS 123000 0 -166500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 222000 30 -9000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 117000 30 -22500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 183000 30 -22500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 189000 30 -22500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 255000 30 -22500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 180000 30 -27000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 186000 30 -27000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 192000 30 -27000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 198000 30 -27000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 201000 30 -31500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 207000 30 -31500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 213000 30 -31500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 102000 30 -36000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 93000 30 -40500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 99000 30 -40500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 243000 30 -40500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 240000 30 -45000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 147000 30 -49500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 153000 30 -49500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 114000 30 -63000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 147000 30 -67500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 228000 30 -72000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 153000 30 -76500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 225000 30 -76500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 150000 30 -81000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 123000 30 -85500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 96000 30 -90000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 69000 30 -94500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 75000 30 -94500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 99000 30 -94500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 60000 30 -99000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 96000 30 -99000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 102000 30 -99000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 45000 30 -103500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 51000 30 -103500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 57000 30 -103500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 99000 30 -103500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 105000 30 -103500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 36000 30 -108000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 42000 30 -108000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 54000 30 -108000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 60000 30 -108000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 39000 30 -112500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 45000 30 -112500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 51000 30 -112500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 18000 30 -117000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 24000 30 -117000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 36000 30 -117000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 102000 30 -117000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 15000 30 -121500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 21000 30 -121500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 27000 30 -121500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 33000 30 -121500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 99000 30 -121500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 30000 30 -126000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 36000 30 -126000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 96000 30 -126000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 102000 30 -126000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 27000 30 -130500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 33000 30 -130500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 39000 30 -130500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 45000 30 -130500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 81000 30 -130500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 87000 30 -130500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 93000 30 -130500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 72000 30 -135000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 78000 30 -135000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 90000 30 -135000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 57000 30 -139500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 69000 30 -139500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 75000 30 -139500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 81000 30 -139500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 87000 30 -139500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 93000 30 -139500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 54000 30 -144000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 60000 30 -144000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 66000 30 -144000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 72000 30 -144000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 78000 30 -144000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 84000 30 -144000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 90000 30 -144000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 108000 30 -144000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 39000 30 -148500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 69000 30 -148500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 75000 30 -148500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 81000 30 -148500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 42000 30 -153000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 48000 30 -153000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 51000 30 -157500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/forest-u.pc2
+POS 63000 30 -157500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 147000 20 -4500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 153000 20 -4500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 159000 20 -4500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 165000 20 -4500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 171000 20 -4500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 177000 20 -4500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 183000 20 -4500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 189000 20 -4500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 144000 20 -9000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 216000 20 -9000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 234000 20 -9000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 246000 20 -9000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 141000 20 -13500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 153000 20 -13500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 201000 20 -13500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 219000 20 -13500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 225000 20 -13500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 249000 20 -13500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 108000 20 -18000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 114000 20 -18000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 120000 20 -18000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 126000 20 -18000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 144000 20 -18000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 198000 20 -18000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 210000 20 -18000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 258000 20 -18000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 99000 20 -22500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 105000 20 -22500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 129000 20 -22500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 147000 20 -22500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 171000 20 -22500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 177000 20 -22500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 195000 20 -22500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 237000 20 -22500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 114000 20 -27000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 120000 20 -27000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 132000 20 -27000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 150000 20 -27000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 174000 20 -27000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 252000 20 -27000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 258000 20 -27000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 93000 20 -31500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 99000 20 -31500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 117000 20 -31500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 129000 20 -31500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 153000 20 -31500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 177000 20 -31500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 183000 20 -31500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 189000 20 -31500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 195000 20 -31500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 237000 20 -31500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 249000 20 -31500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 90000 20 -36000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 108000 20 -36000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 198000 20 -36000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 204000 20 -36000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 210000 20 -36000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 216000 20 -36000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 246000 20 -36000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 105000 20 -40500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 117000 20 -40500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 129000 20 -40500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 141000 20 -40500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 237000 20 -40500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 96000 20 -45000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 102000 20 -45000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 114000 20 -45000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 144000 20 -45000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 168000 20 -45000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 234000 20 -45000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 159000 20 -49500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 171000 20 -49500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 111000 20 -58500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 177000 20 -58500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 222000 20 -63000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 111000 20 -67500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 129000 20 -67500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 159000 20 -67500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 171000 20 -67500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 195000 20 -67500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 201000 20 -67500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 225000 20 -67500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 156000 20 -72000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 198000 20 -72000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 99000 20 -76500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 129000 20 -76500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 171000 20 -76500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 90000 20 -81000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 96000 20 -81000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 138000 20 -81000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 222000 20 -81000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 36000 20 -90000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 84000 20 -90000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 33000 20 -94500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 81000 20 -94500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 123000 20 -94500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 24000 20 -99000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 36000 20 -99000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 42000 20 -99000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 48000 20 -99000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 54000 20 -99000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 66000 20 -99000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 72000 20 -99000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 78000 20 -99000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 90000 20 -99000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 108000 20 -99000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 126000 20 -99000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 21000 20 -103500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 33000 20 -103500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 39000 20 -103500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 63000 20 -103500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 75000 20 -103500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 93000 20 -103500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 123000 20 -103500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 24000 20 -108000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 30000 20 -108000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 48000 20 -108000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 78000 20 -108000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 96000 20 -108000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 102000 20 -108000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 108000 20 -108000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 126000 20 -108000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 15000 20 -112500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 27000 20 -112500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 33000 20 -112500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 57000 20 -112500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 63000 20 -112500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 69000 20 -112500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 42000 20 -117000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 54000 20 -117000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 90000 20 -117000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 108000 20 -117000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 39000 20 -121500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 51000 20 -121500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 93000 20 -121500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 105000 20 -121500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 18000 20 -126000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 24000 20 -126000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 84000 20 -126000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 15000 20 -130500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 57000 20 -130500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 75000 20 -130500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 99000 20 -130500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 105000 20 -130500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 6000 20 -135000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 12000 20 -135000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 24000 20 -135000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 48000 20 -135000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 66000 20 -135000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 84000 20 -135000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 96000 20 -135000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 108000 20 -135000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 114000 20 -135000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 27000 20 -139500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 33000 20 -139500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 39000 20 -139500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 51000 20 -139500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 111000 20 -139500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 96000 20 -144000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 15000 20 -148500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 27000 20 -148500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 33000 20 -148500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 51000 20 -148500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 57000 20 -148500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 63000 20 -148500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 87000 20 -148500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 93000 20 -148500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 105000 20 -148500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 111000 20 -148500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 36000 20 -153000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 66000 20 -153000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 72000 20 -153000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 78000 20 -153000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 84000 20 -153000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 102000 20 -153000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 39000 20 -157500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 45000 20 -157500 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 48000 20 -162000 0 0 0
+ID 0
+END
+
+PC2
+FIL hex/land/wood-u.pc2
+POS 66000 20 -162000 0 0 0
+ID 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 165000 0 -13500 0 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 171000 0 -13500 0 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 177000 0 -13500 0 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 189000 0 -13500 0 0 0
+END
+
+FLD
+FIL hex/road/road3.fld
+POS 195000 0 -13500 0 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 198000 0 -18000 -10249 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 240000 0 -18000 -10249 0 0
+END
+
+
+FLD
+FIL hex/road/road.fld
+POS 159000 0 -22500 -10249 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 207000 0 -22500 0 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 213000 0 -22500 0 0 0
+END
+
+FLD
+FIL hex/road/road2.fld
+POS 219000 0 -22500 0 0 0
+END
+
+
+FLD
+FIL hex/road/road.fld
+POS 114000 0 -27000 0 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 120000 0 -27000 0 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 126000 0 -27000 0 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 132000 0 -27000 0 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 150000 0 -27000 0 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 156000 0 -27000 0 0 0
+END
+
+FLD
+FIL hex/road/road4.fld
+POS 162000 0 -27000 0 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 198000 0 -27000 10249 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 228000 0 -27000 0 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 234000 0 -27000 0 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 252000 0 -27000 -10249 0 0
+END
+
+
+FLD
+FIL hex/road/road.fld
+POS 165000 0 -31500 -10249 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 195000 0 -31500 10249 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 225000 0 -31500 -10249 0 0
+END
+
+
+FLD
+FIL hex/road/road1.fld
+POS 102000 0 -36000 0 0 0
+END
+
+FLD
+FIL hex/road/road5.fld
+POS 168000 0 -36000 0 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 192000 0 -36000 10249 0 0
+END
+
+FLD
+FIL hex/road/road1.fld
+POS 228000 0 -36000 32768 0 0
+END
+
+
+FLD
+FIL hex/road/road.fld
+POS 105000 0 -40500 -10249 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 165000 0 -40500 10249 0 0
+END
+
+FLD
+FIL hex/road/road4.fld
+POS 171000 0 -40500 32768 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 183000 0 -40500 0 0 0
+END
+
+
+FLD
+FIL hex/road/road3.fld
+POS 126000 0 -45000 0 0 32768
+END
+
+FLD
+FIL hex/road/road.fld
+POS 132000 0 -45000 0 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 138000 0 -45000 0 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 144000 0 -45000 0 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 150000 0 -45000 0 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 156000 0 -45000 0 0 0
+END
+
+FLD
+FIL hex/road/road2.fld
+POS 162000 0 -45000 0 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 174000 0 -45000 -10249 0 0
+END
+
+FLD
+FIL hex/road/road3.fld
+POS 192000 0 -45000 32768 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 198000 0 -45000 0 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 216000 0 -45000 0 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 222000 0 -45000 0 0 0
+END
+
+
+FLD
+FIL hex/road/road.fld
+POS 111000 0 -49500 -10249 0 0
+END
+
+
+FLD
+FIL hex/road/road.fld
+POS 114000 0 -54000 -10249 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 162000 0 -54000 10249 0 0
+END
+
+
+FLD
+FIL hex/road/road5.fld
+POS 117000 0 -58500 32768 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 159000 0 -58500 10249 0 0
+END
+
+FLD
+FIL hex/road/road2.fld
+POS 183000 0 -58500 32768 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 189000 0 -58500 0 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 195000 0 -58500 0 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 201000 0 -58500 0 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 207000 0 -58500 0 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 213000 0 -58500 0 0 0
+END
+
+
+FLD
+FIL hex/road/road1.fld
+POS 120000 0 -63000 32768 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 156000 0 -63000 10249 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 180000 0 -63000 10249 0 0
+END
+
+FLD
+FIL hex/road/road1.fld
+POS 222000 0 -63000 32768 0 0
+END
+
+
+FLD
+FIL hex/road/road.fld
+POS 153000 0 -67500 10249 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 177000 0 -67500 10249 0 0
+END
+
+FLD
+FIL hex/road/road1.fld
+POS 219000 0 -67500 0 0 0
+END
+
+
+FLD
+FIL hex/road/road2.fld
+POS 120000 0 -72000 32768 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 126000 0 -72000 0 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 132000 0 -72000 0 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 138000 0 -72000 0 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 144000 0 -72000 0 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 156000 0 -72000 0 0 0
+END
+
+FLD
+FIL hex/road/road6.fld
+POS 174000 0 -72000 0 0 0
+END
+
+FLD
+FIL hex/road/road1.fld
+POS 222000 0 -72000 32768 0 0
+END
+
+
+FLD
+FIL hex/road/road.fld
+POS 117000 0 -76500 10249 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 219000 0 -76500 10249 0 0
+END
+
+
+FLD
+FIL hex/road/road4.fld
+POS 114000 0 -81000 0 32768 0
+END
+
+FLD
+FIL hex/road/road3.fld
+POS 186000 0 -81000 32768 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 192000 0 -81000 0 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 198000 0 -81000 0 0 0
+END
+
+FLD
+FIL hex/road/road6.fld
+POS 204000 0 -81000 0 0 32768
+END
+
+FLD
+FIL hex/road/road.fld
+POS 210000 0 -81000 0 0 0
+END
+
+FLD
+FIL hex/road/road3.fld
+POS 216000 0 -81000 0 32768 0
+END
+
+
+FLD
+FIL hex/road/road.fld
+POS 69000 0 -85500 0 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 75000 0 -85500 0 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 81000 0 -85500 0 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 87000 0 -85500 0 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 93000 0 -85500 0 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 99000 0 -85500 0 0 0
+END
+
+FLD
+FIL hex/road/road3.fld
+POS 105000 0 -85500 0 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 111000 0 -85500 10249 0 0
+END
+
+
+FLD
+FIL hex/road/road3.fld
+POS 42000 0 -90000 0 0 32768
+END
+
+FLD
+FIL hex/road/road.fld
+POS 48000 0 -90000 0 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 54000 0 -90000 0 0 0
+END
+
+
+FLD
+FIL hex/road/road.fld
+POS 39000 0 -94500 10249 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 105000 0 -94500 10249 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 111000 0 -94500 -10249 0 0
+END
+
+
+FLD
+FIL hex/road/road.fld
+POS 36000 0 -99000 10249 0 0
+END
+
+FLD
+FIL hex/road/road3.fld
+POS 96000 0 -99000 0 0 32768
+END
+
+FLD
+FIL hex/road/road3.fld
+POS 102000 0 -99000 0 32768 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 114000 0 -99000 -10249 0 0
+END
+
+
+FLD
+FIL hex/road/road.fld
+POS 33000 0 -103500 10249 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 93000 0 -103500 10249 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 117000 0 -103500 -10249 0 0
+END
+
+
+FLD
+FIL hex/road/road.fld
+POS 30000 0 -108000 10249 0 0
+END
+
+FLD
+FIL hex/road/road3.fld
+POS 84000 0 -108000 0 0 32768
+END
+
+FLD
+FIL hex/road/road3.fld
+POS 90000 0 -108000 0 32768 0
+END
+
+FLD
+FIL hex/road/road1.fld
+POS 120000 0 -108000 32768 0 0
+END
+
+
+FLD
+FIL hex/road/road1.fld
+POS 27000 0 -112500 0 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 81000 0 -112500 10249 0 0
+END
+
+
+FLD
+FIL hex/road/road1.fld
+POS 30000 0 -117000 32768 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 78000 0 -117000 10249 0 0
+END
+
+
+FLD
+FIL hex/road/road.fld
+POS 27000 0 -121500 10249 0 0
+END
+
+FLD
+FIL hex/road/road3.fld
+POS 57000 0 -121500 0 0 32768
+END
+
+FLD
+FIL hex/road/road.fld
+POS 63000 0 -121500 0 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 69000 0 -121500 0 0 0
+END
+
+FLD
+FIL hex/road/road3.fld
+POS 75000 0 -121500 0 32768 0
+END
+
+FLD
+FIL hex/road/road2.fld
+POS 117000 0 -121500 32768 0 0
+END
+
+
+FLD
+FIL hex/road/road.fld
+POS 24000 0 -126000 10249 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 54000 0 -126000 10249 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 114000 0 -126000 10249 0 0
+END
+
+
+FLD
+FIL hex/road/road.fld
+POS 15000 0 -130500 -10249 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 21000 0 -130500 10249 0 0
+END
+
+FLD
+FIL hex/road/road1.fld
+POS 39000 0 -130500 0 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 51000 0 -130500 10249 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 111000 0 -130500 10249 0 0
+END
+
+
+FLD
+FIL hex/road/road.fld
+POS 48000 0 -135000 10249 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 108000 0 -135000 10249 0 0
+END
+
+
+FLD
+FIL hex/road/road5.fld
+POS 45000 0 -139500 0 32768 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 105000 0 -139500 10249 0 0
+END
+
+
+FLD
+FIL hex/road/road2.fld
+POS 24000 0 -144000 32768 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 30000 0 -144000 0 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 36000 0 -144000 0 0 0
+END
+
+FLD
+FIL hex/road/road7.fld
+POS 42000 0 -144000 0 0 0
+END
+
+
+FLD
+FIL hex/road/road.fld
+POS 45000 0 -148500 -10249 0 0
+END
+
+
+FLD
+FIL hex/road/road3.fld
+POS 48000 0 -153000 32768 0 0
+END
+
+FLD
+FIL hex/road/road3.fld
+POS 90000 0 -153000 0 0 32768
+END
+
+FLD
+FIL hex/road/road3.fld
+POS 96000 0 -153000 0 32768 0
+END
+
+
+FLD
+FIL hex/road/road.fld
+POS 63000 0 -157500 0 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 69000 0 -157500 0 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 75000 0 -157500 0 0 0
+END
+
+FLD
+FIL hex/road/road.fld
+POS 81000 0 -157500 0 0 0
+END
+
+FLD
+FIL hex/road/road3.fld
+POS 87000 0 -157500 0 32768 0
+END
+
+
+FLD
+FIL hex/base/R-armybase.fld
+POS 210000 0 -9000 0 0 0
+END
+
+FLD
+FIL hex/base/R-navalbase.fld
+POS 240000 0 -9000 32768 0 0
+END
+
+
+FLD
+FIL hex/city/R-city1.fld
+POS 159000 0 -13500 0 0 0
+END
+
+FLD
+FIL hex/city/R-city3.fld
+POS 183000 0 -13500 0 0 0
+END
+
+FLD
+FIL hex/city/R-city1.fld
+POS 213000 0 -13500 0 0 0
+END
+
+FLD
+FIL hex/base/R-armybase.fld
+POS 231000 0 -13500 0 0 0
+END
+
+FLD
+FIL hex/city/R-city1.fld
+POS 237000 0 -13500 0 0 0
+END
+
+
+FLD
+FIL hex/city/city1.fld
+POS 156000 0 -18000 0 0 0
+END
+
+FLD
+FIL hex/base/R-armybase.fld
+POS 204000 0 -18000 0 0 0
+END
+
+FLD
+FIL hex/mountain/hill.fld
+POS 216000 0 -18000 0 0 0
+END
+
+FLD
+FIL hex/base/airport.fld
+POS 222000 0 -18000 0 0 0
+END
+
+FLD
+FIL hex/base/R-airbase.fld
+POS 222000 0 -18000 26633 0 0
+END
+
+FLD
+FIL hex/mountain/hill.fld
+POS 234000 0 -18000 0 0 0
+END
+
+
+FLD
+FIL hex/city/city1.fld
+POS 123000 0 -22500 0 0 0
+END
+
+FLD
+FIL hex/city/R-city2.fld
+POS 201000 0 -22500 0 0 0
+END
+
+FLD
+FIL hex/mountain/mountain.fld
+POS 225000 0 -22500 0 0 0
+END
+
+FLD
+FIL hex/mountain/mountain.fld
+POS 231000 0 -22500 0 0 0
+END
+
+FLD
+FIL hex/city/R-capital.fld
+POS 243000 0 -22500 32768 0 0
+END
+
+FLD
+FIL hex/base/R-navalbase.fld
+POS 249000 0 -22500 32768 0 0
+END
+
+
+FLD
+FIL hex/base/port.fld
+POS 96000 0 -27000 0 0 0
+END
+
+FLD
+FIL hex/base/airport.fld
+POS 102000 0 -27000 0 0 0
+END
+
+FLD
+FIL hex/base/airbase.fld
+POS 102000 0 -27000 26633 0 0
+END
+
+FLD
+FIL hex/base/factory.fld
+POS 108000 0 -27000 0 0 0
+END
+
+FLD
+FIL hex/mountain/hill.fld
+POS 216000 0 -27000 0 0 0
+END
+
+FLD
+FIL hex/base/R-armybase.fld
+POS 222000 0 -27000 0 0 0
+END
+
+FLD
+FIL hex/city/R-city2.fld
+POS 240000 0 -27000 0 0 0
+END
+
+FLD
+FIL hex/mountain/hill.fld
+POS 246000 0 -27000 0 0 0
+END
+
+
+FLD
+FIL hex/city/city1.fld
+POS 105000 0 -31500 0 0 0
+END
+
+FLD
+FIL hex/base/airport.fld
+POS 111000 0 -31500 0 0 0
+END
+
+FLD
+FIL hex/base/airbase.fld
+POS 111000 0 -31500 26633 0 0
+END
+
+FLD
+FIL hex/mountain/mountain.fld
+POS 231000 0 -31500 0 0 0
+END
+
+FLD
+FIL hex/base/R-navalbase2.fld
+POS 255000 0 -31500 32768 0 0
+END
+
+
+FLD
+FIL hex/base/factory.fld
+POS 156000 0 -36000 0 0 0
+END
+
+FLD
+FIL hex/mountain/hill.fld
+POS 222000 0 -36000 0 0 0
+END
+
+FLD
+FIL hex/mountain/hill.fld
+POS 234000 0 -36000 0 0 0
+END
+
+FLD
+FIL hex/base/R-armybase.fld
+POS 252000 0 -36000 0 0 0
+END
+
+
+FLD
+FIL hex/city/city1.fld
+POS 147000 0 -40500 0 0 0
+END
+
+FLD
+FIL hex/city/city2.fld
+POS 153000 0 -40500 0 0 0
+END
+
+FLD
+FIL hex/city/city1.fld
+POS 159000 0 -40500 0 0 0
+END
+
+FLD
+FIL hex/city/R-city1.fld
+POS 177000 0 -40500 0 0 0
+END
+
+FLD
+FIL hex/city/R-city1.fld
+POS 189000 0 -40500 0 0 0
+END
+
+FLD
+FIL hex/base/R-armybase.fld
+POS 207000 0 -40500 0 0 0
+END
+
+FLD
+FIL hex/base/airport.fld
+POS 225000 0 -40500 0 0 0
+END
+
+FLD
+FIL hex/base/R-airbase.fld
+POS 225000 0 -40500 26633 0 0
+END
+
+
+FLD
+FIL hex/city/R-city2.fld
+POS 204000 0 -45000 0 0 0
+END
+
+FLD
+FIL hex/city/R-city3.fld
+POS 210000 0 -45000 0 0 0
+END
+
+FLD
+FIL hex/city/R-city3.fld
+POS 228000 0 -45000 0 0 0
+END
+
+
+FLD
+FIL hex/city/city1.fld
+POS 123000 0 -49500 0 0 0
+END
+
+FLD
+FIL hex/base/factory.fld
+POS 165000 0 -49500 0 0 0
+END
+
+
+FLD
+FIL hex/base/factory.fld
+POS 120000 0 -54000 0 0 0
+END
+
+FLD
+FIL hex/mountain/mountain.fld
+POS 132000 0 -54000 0 0 0
+END
+
+FLD
+FIL hex/mountain/mountain.fld
+POS 138000 0 -54000 0 0 0
+END
+
+FLD
+FIL hex/mountain/mountain.fld
+POS 144000 0 -54000 0 0 0
+END
+
+FLD
+FIL hex/mountain/hill.fld
+POS 150000 0 -54000 0 0 0
+END
+
+FLD
+FIL hex/city/city1.fld
+POS 168000 0 -54000 0 0 0
+END
+
+
+FLD
+FIL hex/mountain/mountain.fld
+POS 129000 0 -58500 0 0 0
+END
+
+FLD
+FIL hex/city/city2.fld
+POS 135000 0 -58500 0 0 0
+END
+
+FLD
+FIL hex/mountain/alpine.fld
+POS 141000 0 -58500 0 0 0
+END
+
+FLD
+FIL hex/mountain/mountain.fld
+POS 147000 0 -58500 0 0 0
+END
+
+FLD
+FIL hex/city/R-city2.fld
+POS 219000 0 -58500 0 0 0
+END
+
+
+FLD
+FIL hex/mountain/mountain.fld
+POS 132000 0 -63000 0 0 0
+END
+
+FLD
+FIL hex/mountain/mountain.fld
+POS 138000 0 -63000 0 0 0
+END
+
+FLD
+FIL hex/mountain/mountain.fld
+POS 144000 0 -63000 0 0 0
+END
+
+FLD
+FIL hex/base/factory.fld
+POS 186000 0 -63000 0 0 0
+END
+
+FLD
+FIL hex/mountain/dune.fld
+POS 198000 0 -63000 0 0 0
+END
+
+FLD
+FIL hex/mountain/dune.fld
+POS 216000 0 -63000 0 0 0
+END
+
+
+FLD
+FIL hex/city/city1.fld
+POS 117000 0 -67500 0 0 0
+END
+
+FLD
+FIL hex/base/armybase.fld
+POS 183000 0 -67500 0 0 0
+END
+
+
+FLD
+FIL hex/city/city2.fld
+POS 108000 0 -72000 0 0 0
+END
+
+FLD
+FIL hex/mountain/mountain.fld
+POS 114000 0 -72000 0 0 0
+END
+
+FLD
+FIL hex/city/city1.fld
+POS 150000 0 -72000 0 0 0
+END
+
+FLD
+FIL hex/base/airport.fld
+POS 180000 0 -72000 0 0 0
+END
+
+FLD
+FIL hex/base/airbase.fld
+POS 180000 0 -72000 26633 0 0
+END
+
+FLD
+FIL hex/city/city1.fld
+POS 186000 0 -72000 0 0 0
+END
+
+FLD
+FIL hex/mountain/dune.fld
+POS 204000 0 -72000 0 0 0
+END
+
+
+FLD
+FIL hex/base/airport.fld
+POS 105000 0 -76500 0 0 0
+END
+
+FLD
+FIL hex/base/airbase.fld
+POS 105000 0 -76500 16384 0 0
+END
+
+FLD
+FIL hex/mountain/mountain.fld
+POS 111000 0 -76500 0 0 0
+END
+
+FLD
+FIL hex/base/armybase.fld
+POS 123000 0 -76500 0 0 0
+END
+
+FLD
+FIL hex/base/factory.fld
+POS 141000 0 -76500 0 0 0
+END
+
+FLD
+FIL hex/city/city2.fld
+POS 147000 0 -76500 0 0 0
+END
+
+FLD
+FIL hex/mountain/dune.fld
+POS 177000 0 -76500 0 0 0
+END
+
+FLD
+FIL hex/base/airport.fld
+POS 183000 0 -76500 0 0 0
+END
+
+FLD
+FIL hex/base/airbase.fld
+POS 183000 0 -76500 6135 0 0
+END
+
+FLD
+FIL hex/city/city1.fld
+POS 201000 0 -76500 0 0 0
+END
+
+
+FLD
+FIL hex/city/city1.fld
+POS 108000 0 -81000 0 0 0
+END
+
+FLD
+FIL hex/mountain/mountain.fld
+POS 120000 0 -81000 0 0 0
+END
+
+FLD
+FIL hex/city/city1.fld
+POS 126000 0 -81000 0 0 0
+END
+
+FLD
+FIL hex/mountain/dune.fld
+POS 180000 0 -81000 0 0 0
+END
+
+
+FLD
+FIL hex/city/city1.fld
+POS 57000 0 -85500 0 0 0
+END
+
+FLD
+FIL hex/base/factory.fld
+POS 63000 0 -85500 0 0 0
+END
+
+FLD
+FIL hex/mountain/mountain.fld
+POS 117000 0 -85500 0 0 0
+END
+
+FLD
+FIL hex/base/port.fld
+POS 129000 0 -85500 32768 0 0
+END
+
+
+FLD
+FIL hex/city/city2.fld
+POS 60000 0 -90000 0 0 0
+END
+
+FLD
+FIL hex/base/factory.fld
+POS 108000 0 -90000 0 0 0
+END
+
+FLD
+FIL hex/city/city1.fld
+POS 120000 0 -90000 0 0 0
+END
+
+FLD
+FIL hex/base/airport.fld
+POS 126000 0 -90000 0 0 0
+END
+
+FLD
+FIL hex/base/airbase.fld
+POS 126000 0 -90000 -6135 0 0
+END
+
+
+
+FLD
+FIL hex/city/B-city2.fld
+POS 30000 0 -99000 0 0 0
+END
+
+
+FLD
+FIL hex/city/B-city1.fld
+POS 27000 0 -103500 0 0 0
+END
+
+
+
+FLD
+FIL hex/city/B-city2.fld
+POS 87000 0 -112500 0 0 0
+END
+
+FLD
+FIL hex/city/city2.fld
+POS 117000 0 -112500 0 0 0
+END
+
+
+FLD
+FIL hex/city/B-city2.fld
+POS 48000 0 -117000 0 0 0
+END
+
+FLD
+FIL hex/city/B-city1.fld
+POS 84000 0 -117000 0 0 0
+END
+
+FLD
+FIL hex/base/factory.fld
+POS 114000 0 -117000 0 0 0
+END
+
+
+FLD
+FIL hex/base/B-armybase.fld
+POS 45000 0 -121500 0 0 0
+END
+
+FLD
+FIL hex/city/city1.fld
+POS 111000 0 -121500 0 0 0
+END
+
+FLD
+FIL hex/base/port.fld
+POS 123000 0 -121500 32768 0 0
+END
+
+
+FLD
+FIL hex/base/B-armybase.fld
+POS 12000 0 -126000 0 0 0
+END
+
+FLD
+FIL hex/base/airport.fld
+POS 42000 0 -126000 0 0 0
+END
+
+FLD
+FIL hex/base/B-airbase.fld
+POS 42000 0 -126000 -16384 0 0
+END
+
+FLD
+FIL hex/city/B-city3.fld
+POS 60000 0 -126000 0 0 0
+END
+
+FLD
+FIL hex/city/city1.fld
+POS 120000 0 -126000 0 0 0
+END
+
+
+FLD
+FIL hex/base/B-navalbase2.fld
+POS 9000 0 -130500 0 0 0
+END
+
+
+FLD
+FIL hex/base/B-armybase.fld
+POS 18000 0 -135000 0 0 0
+END
+
+FLD
+FIL hex/base/B-radarstation.fld
+POS 36000 0 -135000 0 0 0
+END
+
+FLD
+FIL hex/base/airport.fld
+POS 42000 0 -135000 0 0 0
+END
+
+FLD
+FIL hex/base/B-airbase.fld
+POS 42000 0 -135000 -6135 0 0
+END
+
+
+FLD
+FIL hex/base/B-navalbase.fld
+POS 15000 0 -139500 0 0 0
+END
+
+FLD
+FIL hex/city/B-capital.fld
+POS 21000 0 -139500 0 0 0
+END
+
+
+FLD
+FIL hex/base/airport.fld
+POS 48000 0 -144000 0 0 0
+END
+
+FLD
+FIL hex/base/B-airbase.fld
+POS 48000 0 -144000 -6135 0 0
+END
+
+FLD
+FIL hex/city/B-city1.fld
+POS 102000 0 -144000 0 0 0
+END
+
+
+FLD
+FIL hex/base/B-navalbase.fld
+POS 21000 0 -148500 0 0 0
+END
+
+FLD
+FIL hex/city/B-city2.fld
+POS 99000 0 -148500 0 0 0
+END
+
+
+FLD
+FIL hex/city/B-city1.fld
+POS 54000 0 -153000 0 0 0
+END
+
+
+FLD
+FIL hex/base/B-armybase.fld
+POS 57000 0 -157500 0 0 0
+END
+
+
+FLD
+FIL hex/base/B-armybase.fld
+POS 54000 0 -162000 0 0 0
+END
+
+FLD
+FIL hex/city/B-city2.fld
+POS 60000 0 -162000 0 0 0
+END
+
+FLD
+FIL hex/mountain/wasteland.fld
+POS 219000 0 -4500 0 0 0
+END
+
+FLD
+FIL hex/mountain/wasteland.fld
+POS 225000 0 -4500 0 0 0
+END
+
+FLD
+FIL hex/mountain/wasteland.fld
+POS 231000 0 -4500 0 0 0
+END
+
+FLD
+FIL hex/mountain/wasteland.fld
+POS 237000 0 -4500 0 0 0
+END
+
+FLD
+FIL hex/mountain/wasteland.fld
+POS 228000 0 -9000 0 0 0
+END
+
+FLD
+FIL hex/mountain/wasteland.fld
+POS 258000 0 -36000 0 0 0
+END
+
+FLD
+FIL hex/mountain/wasteland.fld
+POS 249000 0 -40500 0 0 0
+END
+
+FLD
+FIL hex/mountain/wasteland.fld
+POS 255000 0 -40500 0 0 0
+END
+
+FLD
+FIL hex/mountain/wasteland.fld
+POS 246000 0 -45000 0 0 0
+END
+
+FLD
+FIL hex/mountain/wasteland.fld
+POS 252000 0 -45000 0 0 0
+END
+
+FLD
+FIL hex/mountain/wasteland.fld
+POS 258000 0 -45000 0 0 0
+END
+
+FLD
+FIL hex/mountain/wasteland.fld
+POS 120000 0 -144000 0 0 0
+END
+
+FLD
+FIL hex/mountain/wasteland.fld
+POS 117000 0 -148500 0 0 0
+END
+
+FLD
+FIL hex/mountain/wasteland.fld
+POS 120000 0 -153000 0 0 0
+END
+
+FLD
+FIL hex/mountain/wasteland.fld
+POS 111000 0 -157500 0 0 0
+END
+
+FLD
+FIL hex/mountain/wasteland.fld
+POS 117000 0 -157500 0 0 0
+END
+
+FLD
+FIL hex/mountain/wasteland.fld
+POS 123000 0 -157500 0 0 0
+END
+
+FLD
+FIL hex/mountain/wasteland.fld
+POS 120000 0 -162000 0 0 0
+END
+
+
+FLD
+FIL hex/bridge/bridge.fld
+POS 138000 0 -27000 0 0 0
+END
+
+FLD
+FIL hex/bridge/bridge.fld
+POS 144000 0 -27000 0 0 0
+END
+
+FLD
+FIL hex/bridge/bridge.fld
+POS 108000 0 -45000 -10249 0 0
+END
+
+FLD
+FIL hex/bridge/bridge.fld
+POS 177000 0 -49500 -10249 0 0
+END
+
+FLD
+FIL hex/bridge/bridge.fld
+POS 225000 0 -49500 10249 0 0
+END
+
+FLD
+FIL hex/bridge/bridge.fld
+POS 180000 0 -54000 -10249 0 0
+END
+
+FLD
+FIL hex/bridge/bridge.fld
+POS 222000 0 -54000 10249 0 0
+END
+
+FLD
+FIL hex/bridge/bridge.fld
+POS 162000 0 -72000 0 0 0
+END
+
+FLD
+FIL hex/bridge/bridge.fld
+POS 168000 0 -72000 0 0 0
+END

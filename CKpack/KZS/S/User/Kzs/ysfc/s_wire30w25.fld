@@ -1,0 +1,73 @@
+FIELD
+SKY 37 123 209
+GND 2 34 185
+
+PLT
+FIL s_wire_bridge.pc2
+POS 0.00 0.00 1250.00 0 0 0
+END
+PLT
+FIL s_wire_bridge.pc2
+POS 0.00 0.00 750.00 0 0 0
+END
+PLT
+FIL s_wire_bridge.pc2
+POS 0.00 0.00 250.00 0 0 0
+END
+
+PLT
+FIL s_wire_bridge.pc2
+POS 0.00 0.00 -1250.00 0 0 0
+END
+PLT
+FIL s_wire_bridge.pc2
+POS 0.00 0.00 -750.00 0 0 0
+END
+PLT
+FIL s_wire_bridge.pc2
+POS 0.00 0.00 -250.00 0 0 0
+END
+
+PLT
+FIL s_wire.pc2
+POS -10.00 0.01 0.00 16384 0 0
+END
+PLT
+FIL s_wire.pc2
+POS 10.00 0.01 0.00 16384 0 0
+END
+PLT
+FIL s_wire.pc2
+POS -10.00 0.01 500.00 16384 0 0
+END
+PLT
+FIL s_wire.pc2
+POS 10.00 0.01 500.00 16384 0 0
+END
+PLT
+FIL s_wire.pc2
+POS -10.00 0.01 1000.00 16384 0 0
+END
+PLT
+FIL s_wire.pc2
+POS 10.00 0.01 1000.00 16384 0 0
+END
+
+PLT
+FIL s_wire.pc2
+POS -10.00 0.01 -500.00 16384 0 0
+END
+PLT
+FIL s_wire.pc2
+POS 10.00 0.01 -500.00 16384 0 0
+END
+PLT
+FIL s_wire.pc2
+POS -10.00 0.01 -1000.00 16384 0 0
+END
+PLT
+FIL s_wire.pc2
+POS 10.00 0.01 -1000.00 16384 0 0
+END
+
+ENDF

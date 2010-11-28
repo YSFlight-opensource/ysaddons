@@ -1,0 +1,44 @@
+FIELD
+SKY 32 180 180
+GND 32 128 32
+PLT
+FIL _l-house_t2.pc2
+POS 0.00 40.00 0.00 0 16384 0
+END
+PLT
+FIL _l-house_t.pc2
+POS 0.00 35.00 0.00 0 16384 0
+END
+PLT
+FIL _l-house_r1.pc2
+POS 0.00 27.50 7.50 0 0 0
+END
+PLT
+FIL _l-house_r2.pc2
+POS 0.00 27.50 -7.50 0 0 0
+END
+PLT
+FIL _l-house_r1.pc2
+POS 7.50 27.50 0.00 16384 0 0
+END
+PLT
+FIL _l-house_r2.pc2
+POS -7.50 27.50 0.00 16384 0 0
+END
+PLT
+FIL _l-house_w1.pc2
+POS 0.00 0.00 5.00 0 0 0
+END
+PLT
+FIL _l-house_w2.pc2
+POS 0.00 0.00 -5.00 0 0 0
+END
+PLT
+FIL _l-house_w1.pc2
+POS 5.00 0.00 0.00 16384 0 0
+END
+PLT
+FIL _l-house_w2.pc2
+POS -5.00 0.00 0.00 16384 0 0
+END
+ENDF

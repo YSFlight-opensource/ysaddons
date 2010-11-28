@@ -1,0 +1,90 @@
+User/gop/CV/wasp.dat User/gop/CV/LHD-1.dnm User/gop/CV/LHD1_coll.srf "" User/gop/CV/LHD1_coarse.srf
+User/gop/CV/ivanrogov.dat User/gop/CV/ivanrogov.dnm User/gop/CV/ivanrogov_coll.srf "" User/gop/CV/ivanrogov_coarse.srf
+User/gop/CV/CVN-77.dat User/gop/CV/CVN-77.dnm User/gop/CV/CVN-77_coll.srf "" User/gop/CV/CVN-77_coarse.srf
+User/gop/CV/ulvanovsk.dat User/gop/CV/ulvanovsk.dnm User/gop/CV/ulvanovsk_coll.srf "" User/gop/CV/ulvanovsk_coarse.srf
+User/gop/CV/16DDH.dat User/gop/CV/16DDH.dnm User/gop/CV/16DDH_coll.srf "" User/gop/CV/16DDH_coarse.srf
+User/gop/CV/baku.dat User/gop/CV/baku.dnm User/gop/CV/baku_coll.srf "" User/gop/CV/baku_coarse.srf
+
+User/gop/ground/W25bridge.dat User/gop/ground/W25bridge.srf User/gop/ground/W25bridge_coll.srf "" User/gop/ground/W25bridge_coarse.srf
+User/gop/ground/2km_highway.dat User/gop/ground/2kmhighway_main.srf User/gop/ground/2kmhighway_coll.srf "" User/gop/ground/2kmhighway_coarse.srf
+User/gop/ground/200mhighway.dat User/gop/ground/200mhighway_main.srf User/gop/ground/200mhighway_coll.srf "" User/gop/ground/200mhighway_coarse.srf
+
+User/gop/ground/stadiam.dat User/gop/ground/stadiam_main.srf User/gop/ground/stadiam_coll.srf "" User/gop/ground/stadiam_coarse.srf
+User/gop/ground/gop_tunnel.dat user/gop/ground/gop_tunnel.srf user/gop/ground/gop_tunnel.srf "" User/gop/ground/gop_tunnel_coarse.srf
+
+User/gop/building/buildingx2-139m.dat User/gop/building/buildingx2-139m.srf User/gop/null.srf "" User/gop/building/buildingx2-139m_coarse.srf
+
+User/gop/ground/flagblue.dat User/gop/ground/flagblue.srf User/gop/ground/flagblue.srf "" User/gop/ground/flagblue_coarse.srf
+User/gop/ground/flagblue_gun.dat User/gop/ground/flagblue.srf User/gop/ground/flagblue.srf "" User/gop/ground/flagblue_coarse.srf
+User/gop/ground/flagred.dat User/gop/ground/flagred.srf User/gop/ground/flagblue.srf "" User/gop/ground/flagred_coarse.srf
+User/gop/ground/flagred_gun.dat User/gop/ground/flagred.srf User/gop/ground/flagred.srf "" User/gop/ground/flagred_coarse.srf
+
+User/gop/ground/gasst.dat User/gop/ground/gasst_main.srf User/gop/ground/gasst_coll.srf "" User/gop/ground/gasst_coarse.srf
+User/gop/ground/gasst_low.dat User/gop/ground/gasst_low_main.srf User/gop/ground/gasst_low_coll.srf "" User/gop/ground/gasst_low_coarse.srf
+
+User/gop/ground/cvs.dat User/gop/ground/cvs_main.srf User/gop/ground/cvs_coll.srf "" User/gop/ground/cvs_coarse.srf
+User/gop/ground/cvs_low.dat User/gop/ground/cvs_low_main.srf User/gop/ground/cvs_low_coll.srf "" User/gop/ground/cvs_low_coarse.srf
+
+User/gop/ground/forest.dat User/gop/ground/forest_main.srf ground/null.srf "" User/gop/ground/forest_coarse.srf
+User/gop/ground/forest1km.dat User/gop/ground/forest1km_main.srf ground/null.srf "" User/gop/ground/forest1km_coarse.srf
+User/gop/ground/fence.dat User/gop/ground/fence_main.srf User/gop/ground/fence_coll.srf "" User/gop/ground/fence_coarse.srf
+User/gop/ground/station1.dat User/gop/ground/station1_main.srf User/gop/ground/station1_coll.srf "" User/gop/ground/station1_coarse.srf
+User/gop/ground/station2.dat User/gop/ground/station2_main.srf User/gop/ground/station2_coll.srf "" User/gop/ground/station2_coarse.srf
+User/gop/ground/station2_low.dat User/gop/ground/station2_low_main.srf User/gop/ground/station2_low_coll.srf "" User/gop/ground/station2_low_coarse.srf
+User/gop/ground/broken_e3.dat User/gop/ground/broken_e3.srf User/gop/null.srf "" User/gop/ground/broken_e3_coarse.srf
+
+User/gop/airport/tower.dat User/gop/airport/tower_main.srf User/gop/airport/tower_coll.srf "" User/gop/airport/tower_coarse.srf
+User/gop/airport/air_hanger.dat User/gop/airport/air_hanger.srf User/gop/airport/air_hanger_coll.srf "" User/gop/airport/air_hanger_coarse.srf
+User/gop/airport/air_hanger2.dat User/gop/airport/air_hanger2.srf User/gop/airport/air_hanger2_coll.srf "" User/gop/airport/air_hanger2_coarse.srf
+User/gop/airport/tarminal.dat User/gop/airport/tarminal_main.srf User/gop/airport/tarminal_coll.srf "" User/gop/airport/tarminal_coarse.srf
+User/gop/airport/tarminal_low.dat User/gop/airport/tarminal_low_main.srf User/gop/null.srf "" User/gop/airport/tarminal_low_coarse.srf
+
+User/gop/port/navalbase1.dat User/gop/port/navalbase1_main.srf User/gop/port/navalbase1_coll.srf "" User/gop/port/navalbase1_coarse.srf
+User/gop/port/navalbase2.dat User/gop/port/navalbase2_main.srf User/gop/port/navalbase2_coll.srf "" User/gop/port/navalbase2_coarse.srf
+User/gop/port/navalbase3.dat User/gop/port/navalbase3_main.srf User/gop/port/navalbase3_coll.srf "" User/gop/port/navalbase3_coarse.srf
+User/gop/port/crane.dat User/gop/port/crane_main.srf User/gop/port/crane_coll.srf "" User/gop/port/crane_coarse.srf
+User/gop/port/hanger.dat User/gop/port/hanger_main.srf User/gop/port/hanger_coll.srf "" User/gop/port/hanger_coarse.srf
+
+User/gop/supply/fueltank1.dat User/gop/supply/fueltank1.srf User/gop/supply/fueltank1_coll.srf "" User/gop/supply/fueltank1_coarse.srf
+User/gop/supply/fueltank2.dat User/gop/supply/fueltank2.srf User/gop/supply/fueltank2_coll.srf "" User/gop/supply/fueltank2_coarse.srf
+User/gop/supply/fueltank3.dat User/gop/supply/fueltank3.srf User/gop/supply/fueltank3_coll.srf "" User/gop/supply/fueltank3_coarse.srf
+User/gop/supply/wp_hanger.dat User/gop/supply/wp_hanger.srf User/gop/supply/wp_hanger_coll.srf "" User/gop/supply/wp_hanger_coarse.srf
+User/gop/supply/truck.dat User/gop/supply/truck_main.srf User/gop/supply/truck_coll.srf "" User/gop/supply/truck_coarse.srf
+User/gop/supply/supply.dat User/gop/supply/supply.dnm User/gop/supply/supply_coll.srf "" User/gop/supply/supply_coarse.srf
+User/gop/supply/supply_object.dat User/gop/supply/supplyobj_main.srf User/gop/supply/supplyobj_coll.srf "" User/gop/supply/supplyobj_coarse.srf
+
+
+User/gop/common-aaa/aaa-sam.dat User/gop/common-aaa/aaa-sam.dnm User/gop/common-aaa/aaa-sam_coll.srf "" User/gop/common-aaa/aaa-sam_coarse.dnm
+User/gop/common-aaa/gopsam.dat User/gop/common-aaa/gopsam.dnm User/gop/common-aaa/gopsam_coll.srf "" User/gop/common-aaa/gopsam_coarse.dnm
+User/gop/common-aaa/gopaaa.dat User/gop/common-aaa/gopaaa.dnm User/gop/common-aaa/gopaaa_coll.srf "" User/gop/common-aaa/gopaaa_coarse.dnm
+User/gop/common-aaa/bunker.dat User/gop/common-aaa/bunker_main.srf User/gop/common-aaa/bunker_coll.srf "" User/gop/common-aaa/bunker_coarse.srf
+User/gop/common-aaa/guntruck.dat User/gop/common-aaa/guntruck.dnm User/gop/common-aaa/guntruck_coll.srf "" User/gop/common-aaa/guntruck_coarse.srf
+
+User/gop/west/mim104.dat User/gop/west/mim104.dnm User/gop/west/mim104_coll.srf "" User/gop/west/mim104_coarse.dnm
+User/gop/west/mim72.dat User/gop/west/mim72.dnm User/gop/west/mim72_coll.srf "" User/gop/west/mim72_coarse.srf
+User/gop/west/m6.dat User/gop/west/m6.dnm User/gop/west/m6_coll.srf "" User/gop/west/m6_coarse.srf
+User/gop/west/BurkeF2A.dat User/gop/west/BurkeF2A.dnm User/gop/west/BurkeF2A_coll.srf "" User/gop/west/BurkeF2A_coarse.srf
+User/gop/west/lcac.dat User/gop/west/lcac.dnm User/gop/west/lcac_coll.srf "" User/gop/west/lcac_coarse.srf
+
+User/gop/west/C17.dat User/gop/west/c17_main.srf User/gop/west/c17_coll.srf "" User/gop/west/c17_coarse.srf
+User/gop/west/C17fly.dat User/gop/west/c17fly_main.srf User/gop/west/c17_coll.srf "" User/gop/west/c17_coarse.srf
+
+User/gop/east/S300.dat User/gop/east/S300.dnm User/gop/east/S300_coll.srf "" User/gop/east/S300_coarse.srf
+User/gop/east/3M9kub.dat User/gop/east/3M9kub.dnm User/gop/east/3M9_coll.srf "" User/gop/east/3M9kub_coarse.srf
+User/gop/east/2s6m.dat User/gop/east/2s6m.dnm User/gop/east/2s6m_coll.srf "" User/gop/east/2s6m_coarse.srf
+User/gop/east/udaloy_class.dat User/gop/east/udaloy_class.dnm User/gop/east/udaloy_coll.srf "" User/gop/east/udaloy_coarse.srf
+
+User/gop/east/An12.dat User/gop/east/An12_main.srf User/gop/east/An12_coll.srf "" User/gop/east/An12_coarse.srf
+User/gop/east/An12fly.dat User/gop/east/An12fly_main.srf User/gop/east/An12_coll.srf "" User/gop/east/An12_coarse.srf
+
+User/gop/army/m1a2sep.dat User/gop/army/m1a2sep.dnm User/gop/army/m1a2sep_coll.srf "" User/gop/army/m1a2sep_coarse.dnm
+User/gop/army/t80u.dat User/gop/army/t80u.dnm User/gop/army/t80u_coll.srf "" User/gop/army/t80u_coarse.dnm
+User/gop/army/FH-70.dat User/gop/army/FH-70.dnm User/gop/army/fh70_coll.srf "" User/gop/army/FH-70_coarse.dnm
+
+
+User/gop/truck/Itruck.dat User/gop/truck/Itruck_main.srf User/gop/truck/Itruck_coll.srf "" User/gop/truck/Itruck_coarse.srf
+
+User/gop/cloud/cloud_20km.dat User/gop/cloud/cloud_20km.srf User/gop/null.srf 
+User/gop/cloud/thunderhead.dat User/gop/cloud/thunderhead_main.srf User/gop/null.srf
+
+User/gop/dummy.dat User/gop/null.srf User/gop/null.srf

@@ -1,0 +1,38 @@
+DYNAMODEL
+
+SRF "0000"
+FIL tent_l.srf
+CLA 0
+NST 1
+STA 0.0 0.0 0.0  0 0 0 1
+POS 0.0 0.0 0.0  0 0 0 1
+CNT 0.0 0.0 0.0
+REL DEP
+NCH 2
+CLD "T"
+CLD "B"
+END
+
+SRF "T"
+FIL tent_l.srf
+CLA 0
+NST 1
+STA 0.0 0.0 0.0  0 0 0 1
+POS -51.66 0.0 0.0  0 0 0 1
+CNT 0.0 0.0 0.0
+REL DEP
+NCH 0
+END
+
+SRF "B"
+FIL tent_l.srf
+CLA 0
+NST 1
+STA 0.0 0.0 0.0  0 0 0 1
+POS 51.66 0.0 0.0  0 0 0 1
+CNT 0.0 0.0 0.0
+REL DEP
+NCH 0
+END
+
+END

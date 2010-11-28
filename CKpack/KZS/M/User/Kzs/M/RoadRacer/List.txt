@@ -1,0 +1,3 @@
+User/kzs/M/RoadRacer/bike_racer_r.dat User/kzs/M/RoadRacer/bike_racer_r.dnm User/kzs/M/RoadRacer/bike_racer_coll.srf User/kzs/M/RoadRacer/bicyclecockpit.srf User/kzs/M/RoadRacer/bike_racer_r_coarse.dnm
+User/kzs/M/RoadRacer/bike_racer_b.dat User/kzs/M/RoadRacer/bike_racer_b.dnm User/kzs/M/RoadRacer/bike_racer_coll.srf User/kzs/M/RoadRacer/bicyclecockpit.srf User/kzs/M/RoadRacer/bike_racer_b_coarse.dnm
+User/kzs/M/RoadRacer/bike_racer_y.dat User/kzs/M/RoadRacer/bike_racer_y.dnm User/kzs/M/RoadRacer/bike_racer_coll.srf User/kzs/M/RoadRacer/bicyclecockpit.srf User/kzs/M/RoadRacer/bike_racer_y_coarse.dnm

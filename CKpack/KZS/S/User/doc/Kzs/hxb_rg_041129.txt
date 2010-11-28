@@ -1,0 +1,133 @@
+***ground.lst
+User/Kzs/hxb_rg/ground/hxb_terminal.dat User/Kzs/hxb_rg/ground/hxb_terminal.srf User/Kzs/hxb_rg/ground/hxb_terminal_coll.srf
+User/Kzs/hxb_rg/ground/hxb_terminal(s).dat User/Kzs/hxb_rg/ground/hxb_terminal(s).srf User/Kzs/hxb_rg/ground/hxb_terminal(s)_coll.srf
+User/Kzs/hxb_rg/ground/hxb_build10l15.dat User/Kzs/hxb_rg/ground/hxb_build10l15.srf User/Kzs/hxb_rg/ground/hxb_build10l15.srf
+User/Kzs/hxb_rg/ground/hxb_build25l50.dat User/Kzs/hxb_rg/ground/hxb_build25l50.srf User/Kzs/hxb_rg/ground/hxb_build25l50.srf
+User/Kzs/hxb_rg/ground/hxb_build05h12.dat User/Kzs/hxb_rg/ground/hxb_build05h12.srf User/Kzs/hxb_rg/ground/hxb_build05h12.srf
+User/Kzs/hxb_rg/ground/hxb_build05h12t.dat User/Kzs/hxb_rg/ground/hxb_build05h12t.srf User/Kzs/hxb_rg/ground/hxb_build05h12t_coll.srf
+User/Kzs/hxb_rg/ground/hxb_build10h25.dat User/Kzs/hxb_rg/ground/hxb_build10h25.srf User/Kzs/hxb_rg/ground/hxb_build10h25.srf
+User/Kzs/hxb_rg/ground/hxb_build10h25t.dat User/Kzs/hxb_rg/ground/hxb_build10h25t.srf User/Kzs/hxb_rg/ground/hxb_build10h25t_coll.srf
+User/Kzs/hxb_rg/ground/hxb_build10n75.dat User/Kzs/hxb_rg/ground/hxb_build10n75.srf User/Kzs/hxb_rg/ground/hxb_build10n75.srf
+User/Kzs/hxb_rg/ground/hxb_build10n150.dat User/Kzs/hxb_rg/ground/hxb_build10n150.srf User/Kzs/hxb_rg/ground/hxb_build10n150.srf
+User/Kzs/hxb_rg/ground/hxb_build12n42.dat User/Kzs/hxb_rg/ground/hxb_build12n42.srf User/Kzs/hxb_rg/ground/hxb_build12n42.srf
+User/Kzs/hxb_rg/ground/hxb_build12n50.dat User/Kzs/hxb_rg/ground/hxb_build12n50.srf User/Kzs/hxb_rg/ground/hxb_build12n50.srf
+User/Kzs/hxb_rg/ground/hxb_build20n20.dat User/Kzs/hxb_rg/ground/hxb_build20n20.srf User/Kzs/hxb_rg/ground/hxb_build20n20.srf
+User/Kzs/hxb_rg/ground/hxb_build20n150.dat User/Kzs/hxb_rg/ground/hxb_build20n150.srf User/Kzs/hxb_rg/ground/hxb_build20n150.srf
+User/Kzs/hxb_rg/ground/hxb_build20n300.dat User/Kzs/hxb_rg/ground/hxb_build20n300.srf User/Kzs/hxb_rg/ground/hxb_build20n300.srf
+User/Kzs/hxb_rg/ground/hxb_build25n200.dat User/Kzs/hxb_rg/ground/hxb_build25n200.srf User/Kzs/hxb_rg/ground/hxb_build25n200.srf
+User/Kzs/hxb_rg/ground/hxb_build25n225.dat User/Kzs/hxb_rg/ground/hxb_build25n225.srf User/Kzs/hxb_rg/ground/hxb_build25n225.srf
+User/Kzs/hxb_rg/ground/hxb_build30f150.dat User/Kzs/hxb_rg/ground/hxb_build30f150.srf User/Kzs/hxb_rg/ground/hxb_build30f150_coll.srf
+User/Kzs/hxb_rg/ground/hxb_build03t30.dat User/Kzs/hxb_rg/ground/hxb_build03t30.srf User/Kzs/hxb_rg/ground/hxb_build03t30.srf
+User/Kzs/hxb_rg/ground/hxb_build03t60.dat User/Kzs/hxb_rg/ground/hxb_build03t60.srf User/Kzs/hxb_rg/ground/hxb_build03t60.srf
+User/Kzs/hxb_rg/ground/hxb_build03t90.dat User/Kzs/hxb_rg/ground/hxb_build03t90.srf User/Kzs/hxb_rg/ground/hxb_build03t90.srf
+User/Kzs/hxb_rg/ground/hxb_build06t60.dat User/Kzs/hxb_rg/ground/hxb_build06t60.srf User/Kzs/hxb_rg/ground/hxb_build06t60.srf
+User/Kzs/hxb_rg/ground/hxb_build06t120.dat User/Kzs/hxb_rg/ground/hxb_build06t120.srf User/Kzs/hxb_rg/ground/hxb_build06t120.srf
+User/Kzs/hxb_rg/ground/hxb_build06t180.dat User/Kzs/hxb_rg/ground/hxb_build06t180.srf User/Kzs/hxb_rg/ground/hxb_build06t180.srf
+User/Kzs/hxb_rg/ground/hxb_relics.dat User/Kzs/hxb_rg/ground/hxb_relics.dnm User/Kzs/hxb_rg/ground/hxb_relics_coll.srf
+User/Kzs/hxb_rg/ground/hxb_ext_tunnel.dat User/Kzs/hxb_rg/ground/hxb_ext_tunnel_visual.srf User/Kzs/hxb_rg/ground/hxb_ext_tunnel_coll.srf
+User/Kzs/hxb_rg/ground/biot/hxb_biot.dat User/Kzs/hxb_rg/ground/biot/hxb_biot.dnm User/Kzs/hxb_rg/ground/biot/hxb_biot_coll.srf
+User/Kzs/hxb_rg/ground/biot/hxb_biot_a.dat User/Kzs/hxb_rg/ground/biot/hxb_biot_a.dnm User/Kzs/hxb_rg/ground/biot/hxb_biot_coll.srf
+User/Kzs/hxb_rg/ground/biot/hxb_biot_s.dat User/Kzs/hxb_rg/ground/biot/hxb_biot_s.dnm User/Kzs/hxb_rg/ground/biot/hxb_biot_coll.srf
+User/Kzs/hxb_rg/ground/biot/hxb_biot_ha.dat User/Kzs/hxb_rg/ground/biot/hxb_biot_ha.dnm User/Kzs/hxb_rg/ground/biot/hxb_biot_coll.srf
+User/Kzs/hxb_rg/ground/biot/hxb_biot_hs.dat User/Kzs/hxb_rg/ground/biot/hxb_biot_hs.dnm User/Kzs/hxb_rg/ground/biot/hxb_biot_coll.srf
+User/Kzs/hxb_rg/ground/biot/hxb_biot_ga.dat User/Kzs/hxb_rg/ground/biot/hxb_biot_ga.dnm User/Kzs/hxb_rg/ground/biot/hxb_biot_coll.srf
+User/Kzs/hxb_rg/ground/biot/hxb_biot_gs.dat User/Kzs/hxb_rg/ground/biot/hxb_biot_gs.dnm User/Kzs/hxb_rg/ground/biot/hxb_biot_coll.srf
+User/Kzs/hxb_rg/ground/biot/hxb_biot_as.dat User/Kzs/hxb_rg/ground/biot/hxb_biot_as.dnm User/Kzs/hxb_rg/ground/biot/hxb_biot_coll.srf
+User/Kzs/hxb_rg/ground/biot/hxb_biot_b.dat User/Kzs/hxb_rg/ground/biot/hxb_biot_b.dnm User/Kzs/hxb_rg/ground/biot/hxb_biot_coll.srf
+User/Kzs/hxb_rg/ground/biot/hxb_biot_bc.dat User/Kzs/hxb_rg/ground/biot/hxb_biot_bc.dnm User/Kzs/hxb_rg/ground/biot/hxb_biot_coll.srf
+User/Kzs/hxb_rg/ground/biot/hxb_biot_c.dat User/Kzs/hxb_rg/ground/biot/hxb_biot_c.dnm User/Kzs/hxb_rg/ground/biot/hxb_biot_coll.srf
+User/Kzs/hxb_rg/ground/biot/hxb_biot_r.dat User/Kzs/hxb_rg/ground/biot/hxb_biot_r.dnm User/Kzs/hxb_rg/ground/biot/hxb_biot_coll.srf
+User/Kzs/hxb_rg/ground/biot/hxb_biot_t.dat User/Kzs/hxb_rg/ground/biot/hxb_biot_t.dnm User/Kzs/hxb_rg/ground/biot/hxb_biot_t_coll.srf
+User/Kzs/hxb_rg/ground/biot/hxb_biot_l.dat User/Kzs/hxb_rg/ground/biot/hxb_biot_l.dnm User/Kzs/hxb_rg/ground/biot/hxb_biot_l_coll.srf
+User/Kzs/hxb_rg/ground/biot/hxb_biot_x.dat User/Kzs/hxb_rg/ground/biot/hxb_biot_x.dnm User/Kzs/hxb_rg/ground/biot/hxb_biot_coll.srf
+User/Kzs/hxb_rg/ground/biot/hxb_bishop.dat User/Kzs/hxb_rg/ground/biot/hxb_bishop.srf User/Kzs/hxb_rg/ground/biot/hxb_bishop_coll.srf
+User/Kzs/hxb_rg/ground/biot/hxb_bi-cargo.dat User/Kzs/hxb_rg/ground/biot/hxb_bi-cargo.dnm User/Kzs/hxb_rg/ground/biot/hxb_bi-cargo_coll.srf
+User/Kzs/hxb_rg/ground/biot/hxb_bi-cargo_c.dat User/Kzs/hxb_rg/ground/biot/hxb_bi-cargo_c.dnm User/Kzs/hxb_rg/ground/biot/hxb_bi-cargo_c_coll.srf
+User/Kzs/hxb_rg/ground/biot/hxb_bi-corvette.dat User/Kzs/hxb_rg/ground/biot/hxb_bi-corvette.dnm User/Kzs/hxb_rg/ground/biot/hxb_bi-corvette_coll.srf
+User/Kzs/hxb_rg/ground/biot/hxb_bi-cruiser.dat User/Kzs/hxb_rg/ground/biot/hxb_bi-cruiser.dnm User/Kzs/hxb_rg/ground/biot/hxb_bi-cruiser_coll.srf
+User/Kzs/hxb_rg/ground/biot/hxb_bi-destroyer.dat User/Kzs/hxb_rg/ground/biot/hxb_bi-destroyer.dnm User/Kzs/hxb_rg/ground/biot/hxb_bi-destroyer_coll.srf
+User/Kzs/hxb_rg/ground/hxb_tower0k8.dat User/Kzs/hxb_rg/ground/hxb_tower0k8.dnm User/Kzs/hxb_rg/ground/hxb_tower0k8_coll.srf
+User/Kzs/hxb_rg/ground/hxb_tower2k.dat User/Kzs/hxb_rg/ground/hxb_tower2k.dnm User/Kzs/hxb_rg/ground/hxb_tower2k_coll.srf
+User/Kzs/hxb_rg/ground/hxb_tower3k5.dat User/Kzs/hxb_rg/ground/hxb_tower3k5.dnm User/Kzs/hxb_rg/ground/hxb_tower3k5_coll.srf
+
+***senery.lst
+[Kzs]_HEXAGON-RG/FrontSide User/Kzs/hxb_rg/hxb_fs.fld User/Kzs/hxb_rg/hxb_fs.stp User/Kzs/hxb_rg/hxb_fs.yfs
+[Kzs]_HEXAGON-RG/VoidSpace User/Kzs/hxb_rg/hxb_vs.fld User/Kzs/hxb_rg/hxb_vs.stp User/Kzs/hxb_rg/hxb_vs.yfs
+[Kzs]_HEXAGON-RG/Hexagon User/Kzs/hxb_rg/hxb_xb.fld User/Kzs/hxb_rg/hxb_xb.stp User/Kzs/hxb_rg/hxb_xb.yfs
+[Kzs]_HEXAGON-RG/Hexagon(Light) User/Kzs/hxb_rg/hxb_xb.fld User/Kzs/hxb_rg/hxb_xb.stp User/Kzs/hxb_rg/hxb_xb(lgt).yfs
+
+
+
+※ 以下の物が別途必要です。
+    Kzs Pack/S
+    patch_S_040603.cab
+    pack_s_more_040731.cab
+    patch_S_041129.cab 中の obj_update.cab
+
+
+
+データ一覧:
+    昔作った「Hexagon」のリメイク版です。
+    でも、リメイクというより、同じ名前を使った別物になってます。
+    今回は六角形にこだわって作ってみましたw。(えらいめんどくさかったんですが･･･)
+    
+    マップとしては、架空系、SF調(or アニメチック)です。
+    三つのマップでストーリー仕立てになってます。
+    
+    一応、バックグラウンドの設定として、
+    私たち(プレイヤー)の住む世界に、異次元の世界からの侵略が(･･･以下略)といった物を想定してます(笑。
+    
+    1) [Kzs]_HEXAGON-RG/FrontSide
+        私たち(プレイヤー)の住む世界。
+        異次元世界への通路(VoidGate)のそばの島に設営された基地。
+        VoidGateは島の北東150km程度のところにあります。
+        VoidGateには異次元世界からの斥候が居ますので、撃退してくださいw。
+    
+    2) [Kzs]_HEXAGON-RG/VoidSpace
+        「FrontSide」から敵の世界(Hexagon)へ行くには、一度中間の世界を通らねばなりません。
+        このマップがその中間地帯です。
+        マップ南東にいる空母からスタートして方位315を目指して280km程突き進んでください。
+        途中には、Hexagonの部隊の中継基地が点在しています。
+        マップ北東にたどり着くと、HexagonへつながるVoidGateがあって、そのなかにチューブがあります。
+        このチューブの内部、一番奥の部分が着艦できるようになっているので、着艦したらクリア(?)です。
+    
+    3) [Kzs]_HEXAGON-RG/Hexagon
+        敵の本拠地です。
+        ↑の最後のチューブ状オブジェクトと同じものがスタート位置になっています。
+        スタートしたら、山をたどるように北東へ進んでください。
+        そのうち敵の中継基地が見えて来ます。ここから先は西へ向かう事になります。
+        中継基地を過ぎてさらに進む(マップ北西方向)と敵の要塞(とげとげのでかいやつ)。
+        この要塞には地上レベルに入り口が六ヶ所あって、中に入れます。
+        (入り口に"ドア"は無いですが、見張りが居ますw)
+        この要塞の中に変なやつが居ますので、そいつをやっつけてください。
+        
+        ※ このマップの建物の内、でかい物(三つ)は破壊不可になってます。
+        (一応、破壊できないのでIFF 1にしてありますが、要塞のみ、要塞内に置いたオブジェクトが
+        重なって敵として見えます･･･)
+        ※ 「[Kzs]_HEXAGON-RG/Hexagon(light)」は、オブジェクトを削減して敵兵器をなくした軽量版です。
+        (調子こいて作ってたらすっかり重くなっちゃったんでT_T)
+    
+    着陸可能なエリア:
+        スタート位置が設定してある場所から類推して下さい(ｺﾗ。
+        基地などは、基地の敷地になっている土台の六角形全体が接地可能にしてあります。
+        具体的には「hxb_rw01～04.fld」「hxb_factory.fld」「hxb_relics.fld」
+        「hxb_city.fld」「hxb_town.fld」をgefilでごらんくださいm(_ _)m。
+        「[Kzs]_HEXAGON-RG/Hexagon」のみ、マップ全体が接地可能になってます。
+        スタート位置によっては、敵のど真ん中になっているのもあります。
+    
+    オブジェクト:
+        ごちゃごちゃといっぱいあります。しかも、Visualのsrfを共有しているため
+        離れた所からみると見分けがつきにくいですが、微妙に外観(付属物)が異なるのと、
+        武装量/最大射程などが異なっています。
+        敵艦船の中には空母タイプの物もあります。
+        (真正面から近づくとILSが作動しますから見分けはつくと思いますが)
+        「hxb_rg/ground/biot/」配下のファイルが敵キャラデータですので、
+        一度SurfViewでみておいた方が良いかも知れません。
+
+
+このデータ(cabファイル)の再配布は自由です。
+改造･流用等は、KzsPack同梱のreadmeに記載してある条件を尊重していただければ
+事前許諾無しに自由にして頂いてかまいません。
+
+by Kzs on 2004//11/29.
+/E

@@ -1,0 +1,8 @@
+user/tf58/ground/cv5_deck.srf
+user/tf58/ground/cv5_arrestor.srf
+user/tf58/ground/blank.srf
+user/tf58/ground/blank.srf
+VIEWPOINT TRUE
+BRIDGEPOS 8.47m 23.0m 23.0m
+ARRESTINGWIRE -11.00m 17.05m -97.00m 11.00m 17.05m -97.00m
+REM ACP File Aircraft Carrier Property

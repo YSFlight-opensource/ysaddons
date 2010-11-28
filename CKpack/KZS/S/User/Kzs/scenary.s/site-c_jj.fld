@@ -1,0 +1,85 @@
+FIELD
+SKY 37 123 209
+GND 2 34 185
+
+FLD
+FIL site-c_jj_p.fld
+POS 0.00 0.00 -300.00 0 0 0
+END
+
+FLD
+FIL site-c_jj_p.fld
+POS 0.00 0.00 -150.00 0 0 0
+END
+
+FLD
+FIL site-c_jj_p.fld
+POS 0.00 0.00 0.00 0 0 0
+END
+
+FLD
+FIL site-c_jj_p.fld
+POS 0.00 0.00 150.00 0 0 0
+END
+
+FLD
+FIL site-c_jj_p.fld
+POS 0.00 0.00 300.00 0 0 0
+END
+
+
+
+FLD
+FIL site-c_jj_p.fld
+POS -300.00 0.00 0.00 16384 0 0
+END
+
+FLD
+FIL site-c_jj_p.fld
+POS -150.00 0.00 0.00 16384 0 0
+END
+
+FLD
+FIL site-c_jj_p.fld
+POS 0.00 0.00 0.00 16384 0 0
+END
+
+FLD
+FIL site-c_jj_p.fld
+POS 150.00 0.00 0.00 16384 0 0
+END
+
+FLD
+FIL site-c_jj_p.fld
+POS 300.00 0.00 0.00 16384 0 0
+END
+
+
+
+
+FLD
+FIL site-c_jj_p.fld
+POS 450.00 500.00 -300.00 0 0 16384
+END
+
+FLD
+FIL site-c_jj_p.fld
+POS 450.00 500.00 -150.00 0 0 16384
+END
+
+FLD
+FIL site-c_jj_p.fld
+POS 450.00 500.00 0.00 0 0 16384
+END
+
+FLD
+FIL site-c_jj_p.fld
+POS 450.00 500.00 150.00 0 0 16384
+END
+
+FLD
+FIL site-c_jj_p.fld
+POS 450.00 500.00 300.00 0 0 16384
+END
+
+ENDF

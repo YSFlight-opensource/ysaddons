@@ -1,0 +1,78 @@
+DYNAMODEL
+SRF "0000"
+FIL hxb_biot_body_t.srf
+CLA 0
+NST 1
+STA 0.0 0.0 0.0 0 0 0 1
+POS 0.0 0.0 0.0 0 0 0 1
+CNT 0.0 0.0 0.0
+REL DEP
+NCH 6
+CLD "0002"
+CLD "0003"
+CLD "0004"
+CLD "0005"
+CLD "0006"
+CLD "0007"
+END
+SRF "0002"
+FIL hxb_biot_leg.srf
+CLA 0
+NST 1
+STA 0.0 0.0 0.0 0 0 0 1
+POS -7.5 -7.5 0.0 16384 0 0 1
+CNT 0.0 -11.0 0.0
+REL DEP
+NCH 0
+END
+SRF "0003"
+FIL hxb_biot_leg.srf
+CLA 0
+NST 1
+STA 0.0 0.0 0.0 0 0 0 1
+POS 7.5 -7.5 0.0 -16384 0 0 1
+CNT 0.0 -11.0 0.0
+REL DEP
+NCH 0
+END
+SRF "0004"
+FIL hxb_biot_leg.srf
+CLA 0
+NST 1
+STA 0.0 0.0 0.0 0 0 0 1
+POS -7.5 -7.5 18.75.0 8192 0 0 1
+CNT 0.0 -11.0 0.0
+REL DEP
+NCH 0
+END
+SRF "0005"
+FIL hxb_biot_leg.srf
+CLA 0
+NST 1
+STA 0.0 0.0 0.0 0 0 0 1
+POS 7.5 -7.5 18.75 -8192 0 0 1
+CNT 0.0 -11.0 0.0
+REL DEP
+NCH 0
+END
+SRF "0006"
+FIL hxb_biot_leg.srf
+CLA 0
+NST 1
+STA 0.0 0.0 0.0 0 0 0 1
+POS -7.5 -7.5 -18.75.0 24576 0 0 1
+CNT 0.0 -11.0 0.0
+REL DEP
+NCH 0
+END
+SRF "0007"
+FIL hxb_biot_leg.srf
+CLA 0
+NST 1
+STA 0.0 0.0 0.0 0 0 0 1
+POS 7.5 -7.5 -18.75 -24576 0 0 1
+CNT 0.0 -11.0 0.0
+REL DEP
+NCH 0
+END
+END

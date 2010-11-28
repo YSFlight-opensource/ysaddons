@@ -1,0 +1,37 @@
+Ground
+user/fufanl/gustav/ground/casablanca.dat user/fufanl/gustav/ground/casablanca_visual.srf user/fufanl/gustav/ground/casablanca_coll.srf
+user/fufanl/gustav/ground/empiremcc.dat user/fufanl/gustav/ground/empiremcc_visual.srf user/fufanl/gustav/ground/empiremcc_coll.srf
+user/fufanl/gustav/ground/b24.dat user/fufanl/gustav/ground/b24.srf user/fufanl/gustav/ground/b24_coll.srf
+user/fufanl/gustav/ground/105-25_m43.dat user/fufanl/gustav/ground/105-25_m43.srf user/fufanl/gustav/ground/105-25_m43.srf
+user/fufanl/gustav/ground/bigfactory.dat user/fufanl/gustav/ground/bigfactory.srf user/fufanl/gustav/ground/bigfactory.srf
+user/fufanl/gustav/ground/blocco9.dat user/fufanl/gustav/ground/blocco9.srf user/fufanl/gustav/ground/blocco9.srf
+user/fufanl/gustav/ground/breda35.dat user/fufanl/gustav/ground/breda35.srf user/fufanl/gustav/ground/breda35.srf
+user/fufanl/gustav/ground/ca90-53.dat user/fufanl/gustav/ground/ca90-53.srf user/fufanl/gustav/ground/ca90-53.srf
+user/fufanl/gustav/ground/hummel.dat user/fufanl/gustav/ground/hummel.srf user/fufanl/gustav/ground/hummel.srf
+user/fufanl/gustav/ground/hummel_t.dat user/fufanl/gustav/ground/hummel_t.srf user/fufanl/gustav/ground/hummel_t.srf
+user/fufanl/gustav/ground/jgpz4_h.dat user/fufanl/gustav/ground/jgpz4_h.srf user/fufanl/gustav/ground/jgpz4_h.srf
+user/fufanl/gustav/ground/l6_rim.dat user/fufanl/gustav/ground/l6_rim.srf user/fufanl/gustav/ground/l6_rim.srf
+user/fufanl/gustav/ground/lt38.dat user/fufanl/gustav/ground/lt38.srf user/fufanl/gustav/ground/lt38.srf
+user/fufanl/gustav/ground/marder3.dat user/fufanl/gustav/ground/marder3.srf user/fufanl/gustav/ground/marder3.srf
+user/fufanl/gustav/ground/montecassino.dat user/fufanl/gustav/ground/montecassino.srf user/fufanl/gustav/ground/montecassino.srf
+user/fufanl/gustav/ground/nashorn.dat user/fufanl/gustav/ground/nashorn.srf user/fufanl/gustav/ground/nashorn.srf
+user/fufanl/gustav/ground/p26-40.dat user/fufanl/gustav/ground/p26-40.srf user/fufanl/gustav/ground/p26-40.srf
+user/fufanl/gustav/ground/pz4light.dat user/fufanl/gustav/ground/pz4light.srf user/fufanl/gustav/ground/pz4light.srf
+user/fufanl/gustav/ground/sdkfz251b.dat user/fufanl/gustav/ground/sdkfz251b.srf user/fufanl/gustav/ground/sdkfz251b.srf
+user/fufanl/gustav/ground/sem90-53.dat user/fufanl/gustav/ground/sem90-53.srf user/fufanl/gustav/ground/sem90-53.srf
+user/fufanl/gustav/ground/tigerlight.dat user/fufanl/gustav/ground/tigerlight.srf user/fufanl/gustav/ground/tigerlight.srf
+user/fufanl/gustav/ground/hangar.dat user/fufanl/gustav/ground/hangar.srf user/fufanl/gustav/ground/hangar.srf
+user/fufanl/gustav/ground/hangar1.dat user/fufanl/gustav/ground/hangar1.srf user/fufanl/gustav/ground/hangar1.srf
+user/fufanl/gustav/ground/hangar2.dat user/fufanl/gustav/ground/hangar2.srf user/fufanl/gustav/ground/hangar2.srf
+user/fufanl/gustav/ground/hangar3.dat user/fufanl/gustav/ground/hangar3.srf user/fufanl/gustav/ground/hangar3.srf
+user/fufanl/gustav/ground/hangar4.dat user/fufanl/gustav/ground/hangar4.srf user/fufanl/gustav/ground/hangar4.srf
+user/fufanl/gustav/ground/hangar5.dat user/fufanl/gustav/ground/hangar5.srf user/fufanl/gustav/ground/hangar5.srf
+user/fufanl/gustav/ground/hangar6.dat user/fufanl/gustav/ground/hangar6.srf user/fufanl/gustav/ground/hangar6.srf
+user/fufanl/gustav/ground/tower1.dat user/fufanl/gustav/ground/tower1.srf user/fufanl/gustav/ground/tower1.srf
+user/fufanl/gustav/ground/tower_d1.dat user/fufanl/gustav/ground/tower_d1.srf user/fufanl/gustav/ground/tower_d1.srf
+user/fufanl/gustav/ground/tower_d2.dat user/fufanl/gustav/ground/tower_d2.srf user/fufanl/gustav/ground/tower_d2.srf
+user/fufanl/gustav/ground/alloggi.dat user/fufanl/gustav/ground/alloggi.srf user/fufanl/gustav/ground/alloggi.srf
+user/fufanl/gustav/ground/alloggi1.dat user/fufanl/gustav/ground/alloggi1.srf user/fufanl/gustav/ground/alloggi1.srf
+
+Scenery
+GUSTAV_LINE User/fufanl/gustav/gustav.fld User/fufanl/gustav/gustav.stp User/fufanl/gustav/gustav.yfs 

@@ -1,0 +1,12 @@
+川西　局地戦闘機「紫電」11型(N1K1-J)
+全長:  9.35m
+全幅: 12.00m
+全高:  3.96m
+自重: 2,657kg
+最高速度:594km/h
+武装:20mm機関砲4 7.7mm機銃2
+生産機数　1007機
+
+
+aircraftフォルダの中のaircraft.lstに次の一行を追加して、上書き保存してください。
+user/oranleed/siden11/siden11.dat user/oranleed/siden11/siden11.dnm user/oranleed/siden11/siden11coll.srf user/oranleed/siden11/siden11cockpit.srf user/oranleed/siden11/siden11coarse.dnm

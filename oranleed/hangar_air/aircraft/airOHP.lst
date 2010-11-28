@@ -1,0 +1,72 @@
+User/hangar/m_mig29a/m_mig29a.dat User/hangar/m_mig29a/m_mig29a.dnm User/hangar/m_mig29a/m_mig29acoll.srf User/hangar/m_mig29a/m_mig29acockpit.srf User/hangar/m_mig29a/m_mig29acoarse.dnm
+user/hangar/ouka/ouka.dat user/hangar/ouka/ouka.dnm user/hangar/ouka/ouka_coll.srf user/hangar/ouka/ouka_cockpit.srf user/hangar/ouka/ouka_coarse.dnm
+user/hangar/D3A1(99)/99b.dat user/hangar/D3A1(99)/99b.dnm user/hangar/D3A1(99)/99coll.srf user/hangar/D3A1(99)/99cockpit.srf user/hangar/D3A1(99)/99coarse.dnm
+user/hangar/Reppu/reppu.dat user/hangar/Reppu/reppu.dnm user/hangar/Reppu/reppucl.srf user/hangar/Reppu/reppucpt.srf user/hangar/Reppu/reppucrs.srf
+User/hangar/WrightFlyer/WrightFlyer.dat User/hangar/WrightFlyer/WrightFlyer.dnm User/hangar/WrightFlyer/wf_coll.srf User/hangar/WrightFlyer/wf_cockpit.srf User/hangar/WrightFlyer/wf_coarse.srf
+User/hangar/yf16ccv/yf16_kz_ccv.dat User/hangar/yf16ccv/yf16_kz_ccv.dnm User/hangar/yf16ccv/f16c_kz_coll.srf User/hangar/yf16ccv/f16c_kz_cockpit.srf User/hangar/yf16ccv/yf16_kz_ccv_coarse.dnm
+User/Hangar/Kamikaze/Kamikaze.dat User/Hangar/Kamikaze/Kamikaze.dnm User/Hangar/Kamikaze/Kamikaze_coll.srf User/Hangar/Kamikaze/Kamikaze_Cockpit.srf User/Hangar/Kamikaze/Kamikaze_Coar.srf
+user/hangar/isshiki/isshiki.dat user/hangar/isshiki/isshiki.dnm user/hangar/isshiki/isshikicoll.srf user/hangar/isshiki/isshikicockpit.srf user/hangar/isshiki/isshikicoarse.dnm
+user/hangar/yak2/Yak2.dat user/hangar/yak2/Yak2.dnm user/hangar/yak2/Yak2cl.srf user/hangar/yak2/Yak2cpt.srf
+user/hangar/yak2/Yak2-2.dat user/hangar/yak2/Yak2-2.dnm user/hangar/yak2/Yak2cl.srf user/hangar/yak2/Yak2cpt.srf
+User/hangar/fw190wht/fw190wht.dat User/hangar/fw190wht/fw190a8wht.dnm User/hangar/fw190wht/fw190coll.srf User/hangar/fw190wht/fw190cockpit.srf User/hangar/fw190wht/fw190wht_coarse.dnm
+User/hangar/F-20A/F-20A_OADF108SQ.dat  User/hangar/F-20A/F-20A_OADF108SQ.dnm  User/hangar/F-20A/F-20Acool.srf  User/hangar/F-20A/F-20Acockpit.srf  User/hangar/F-20A/F-20A_OADF108SQcourse.srf
+User/hangar/F-117A/F-117A_OADF(GRN).dat User/hangar/F-117A/F-117A_OADF(GRN).dnm User/hangar/F-117A/F-117AGD(GRN)cool.srf  User/hangar/F-117A/F-117A(GRN)cockpit.srf User/hangar/F-117A/F-117AGD(GRN)coarse.srf 
+User/hangar/Tu154M/Tu154MBalkan.dat User/hangar/Tu154M/Tu154MBalkan.dnm User/hangar/Tu154M/Tu154Mcoll.srf User/hangar/Tu154M/Tu154Mcockpit.srf User/hangar/Tu154M/Tu154balkancoarse.dnm
+User/hangar/Tu154M/Tu154MAeroflot.dat User/hangar/Tu154M/Tu154Maeroflot.dnm User/hangar/Tu154M/Tu154Mcoll.srf User/hangar/Tu154M/Tu154Mcockpit.srf User/hangar/Tu154M/Tu154aeroflotcoarse.dnm
+User/hangar/F50/F50NAL.dat User/hangar/F50/F50NAL.dnm User/hangar/F50/F50coll.srf User/hangar/F50/F50cockpit.srf User/hangar/F50/F50NALcoarse.dnm
+User/hangar/F50/F50Skyways.dat User/hangar/F50/F50Skyway.dnm User/hangar/F50/F50coll.srf User/hangar/F50/F50cockpit.srf User/hangar/F50/F50Skywaycoarse.dnm
+User/hangar/mikasa/mikasa1.dat User/hangar/mikasa/mikasa1.dnm User/hangar/mikasa/mikasacoll.srf User/hangar/mikasa/mikasacockpit.srf
+User/hangar/concorde/concordeAF.dat User/hangar/concorde/concordeAF.dnm User/hangar/concorde/concordecoll.srf User/hangar/concorde/concordecockpit.srf User/hangar/concorde/concorde_coarse.dnm
+User/hangar/concorde/concordeBA.dat User/hangar/concorde/concordeBA.dnm User/hangar/concorde/concordecoll.srf User/hangar/concorde/concordecockpit.srf User/hangar/concorde/concorde_coarse.dnm
+user/hangar/z21/zero21.dat user/hangar/z21/zero21.dnm user/hangar/z21/zerocoll.srf user/hangar/z21/zero21cockpit.srf user/hangar/z21/zero21coarse.dnm
+user/hangar/zr21/zero21(OCP).dat user/hangar/zr21/zero21.dnm user/hangar/zr21/zero21coll.srf user/hangar/zr21/21cockpit.srf user/hangar/zr21/zero21coarse.dnm
+user/hangar/z52/zero52.dat user/hangar/z52/zero52.dnm user/hangar/z52/zerocoll.srf user/hangar/z52/zero52cockpit.srf user/hangar/z52/zero52coarse.dnm
+user/hangar/vulcan/vulcan.dat user/hangar/vulcan/vulcan.dnm user/hangar/vulcan/vulcan-coll.srf user/hangar/vulcan/vulcan-ckpt.srf user/hangar/vulcan/vulcan-cors.dnm
+user/hangar/f86f/f86f(usaf).dat user/hangar/f86f/f86f(usaf).dnm user/hangar/f86f/f86coll.srf user/hangar/f86f/f86fcockpit.srf
+User/hangar/fokkerdr1/fokkerdr1.dat User/hangar/fokkerdr1/fokkerdr1.dnm User/hangar/fokkerdr1/fokkerdr1coll.srf User/hangar/fokkerdr1/fokkerdr1cookpit.srf User/hangar/fokkerdr1/fokkerdr1coarse.dnm
+User/hangar/g3m/g3m.dat User/hangar/g3m/g3m.dnm User/hangar/g3m/g3m_coll.srf 
+
+User/hangar/yak25/yak25dynmx.dat User/hangar/yak25/yak25mnmdl.dnm User/hangar/yak25/yak25clmdl.srf User/hangar/yak25/yak25vrckpt.srf User/hangar/yak25/yak25mnmdlcoarse.dnm
+User/hangar/f4c/f4c.dat User/hangar/f4c/f4c.dnm User/hangar/f4c/f4coll.srf User/hangar/f4c/f4c_cockpit.srf User/hangar/f4c/f4c_coarse.dnm
+user/hangar/96/type96f.dat user/hangar/96/type96f.dnm user/hangar/96/type96fcl.srf user/hangar/96/openck.srf user/hangar/96/type96fco.srf
+user/hangar/ki43/type1f.dat user/hangar/ki43/type1f.dnm user/hangar/ki43/type1fcl.srf user/hangar/ki43/type1fck.srf user/hangar/ki43/type1fcoar.dnm
+user/hangar/Yak-15/Yak15.dat user/hangar/Yak-15/Yak15.dnm user/hangar/Yak-15/Yak15cl.srf user/hangar/Yak-15/Yak15cpt.srf
+user/hangar/Yak-17/Yak17.dat user/hangar/Yak-17/Yak17.dnm user/hangar/Yak-17/Yak17cl.srf user/hangar/Yak-17/Yak17cpt.srf
+User/hangar/sbd/sbd.dat User/hangar/sbd/sbd.dnm User/hangar/sbd/sbdcl.srf User/hangar/sbd/sbdcpt.srf
+user/hangar/EELF6/EELF6DYNMX.dat user/hangar/EELF6/EELF6MNMDL.dnm user/hangar/EELF6/EELF6CL.srf user/hangar/EELF6/EELF6CPT.srf
+user/hangar/d520/d520fr.dat user/hangar/d520/d520fr.dnm user/hangar/d520/d520_cl.srf user/hangar/d520/d520_cpt.srf user/hangar/d520/d520fr_cors.srf
+user/hangar/I-16/I-16gr.dat user/hangar/I-16/I-16gr.dnm user/hangar/I-16/I-16_cl.srf user/hangar/I-16/I-16_cpt.srf user/hangar/I-16/I-16gr_cors.srf
+user/hangar/I-16/I-16Ye.dat user/hangar/I-16/I-16Ye.dnm user/hangar/I-16/I-16_cl.srf user/hangar/I-16/I-16_cpt.srf user/hangar/I-16/I-16gr_cors.srf
+User/hangar/mirage2000/Mirage2000(S.C).dat User/hangar/mirage2000/Mirage2000(S.C).dnm User/hangar/mirage2000/Mirage2000(S.C)_coll.srf User/hangar/mirage2000/Mirage2000(S.C)_cockpit.srf User/hangar/mirage2000/Mirage2000(S.C)_coarse.dnm
+user/hangar/T-4/T4_31.dat user/hangar/T-4/T4_31.dnm user/hangar/T-4/T4cl.srf user/hangar/T-4/T4cpt.srf
+user/hangar/T-4/T4_32_wTank.dat user/hangar/T-4/T4_32_wTank.dnm user/hangar/T-4/T4cl.srf user/hangar/T-4/T4cpt.srf
+User/Hangar/F4F-3B/Dynamix.cfg User/Hangar/F4F-3B/Main_Models/Model_Combat.dnm User/Hangar/F4F-3B/Other_Models/Collide.srf User/Hangar/F4F-3B/Other_Models/CrossHair.srf User/Hangar/F4F-3B/Other_Models/Distant_Visual.srf
+User/Hangar/F4F-3P/Dynamix.cfg User/Hangar/F4F-3P/Main_Models/Model_Combat.dnm User/Hangar/F4F-3P/Other_Models/Collide.srf User/Hangar/F4F-3P/Other_Models/CrossHair.srf User/Hangar/F4F-3P/Other_Models/Distant_Visual.srf
+User/Hangar/F4F-4P/Dynamix.cfg User/Hangar/F4F-4P/Main_Models/Model_Combat.dnm User/Hangar/F4F-4P/Other_Models/Collide.srf User/Hangar/F4F-4P/Other_Models/CrossHair.srf User/Hangar/F4F-4P/Other_Models/Distant_Visual.srf
+User/Hangar/F4F-4T/Dynamix.cfg User/Hangar/F4F-4T/Main_Models/Model_Combat.dnm User/Hangar/F4F-4T/Other_Models/Collide.srf User/Hangar/F4F-4T/Other_Models/CrossHair.srf User/Hangar/F4F-4T/Other_Models/Distant_Visual.srf
+User/Hangar/FM-1A/Dynamix.cfg User/Hangar/FM-1A/Main_Models/Model_Combat.dnm User/Hangar/FM-1A/Other_Models/Collide.srf User/Hangar/FM-1A/Other_Models/CrossHair.srf User/Hangar/FM-1A/Other_Models/Distant_Visual.srf
+User/Hangar/FM-2S/Dynamix.cfg User/Hangar/FM-2S/Main_Models/Model_Combat.dnm User/Hangar/FM-2S/Other_Models/Collide.srf User/Hangar/FM-2S/Other_Models/CrossHair.srf User/Hangar/FM-2S/Other_Models/Distant_Visual.srf
+User/Hangar/Martlet_IIIS/Dynamix.cfg User/Hangar/Martlet_IIIS/Main_Models/Model_Combat.dnm User/Hangar/Martlet_IIIS/Other_Models/Collide.srf User/Hangar/Martlet_IIIS/Other_Models/CrossHair.srf User/Hangar/Martlet_IIIS/Other_Models/Distant_Visual.srf
+User/Hangar/Martlet_VN/Dynamix.cfg User/Hangar/Martlet_VN/Main_Models/Model_Combat.dnm User/Hangar/Martlet_VN/Other_Models/Collide.srf User/Hangar/Martlet_VN/Other_Models/CrossHair.srf User/Hangar/Martlet_VN/Other_Models/Distant_Visual.srf
+User/Hangar/Martlet_VD/Dynamix.cfg User/Hangar/Martlet_VD/Main_Models/Model_Combat.dnm User/Hangar/Martlet_VD/Other_Models/Collide.srf User/Hangar/Martlet_VD/Other_Models/CrossHair.srf User/Hangar/Martlet_VD/Other_Models/Distant_Visual.srf
+User/hangar/f15d/f15d.dat User/hangar/f15d/f15d.dnm User/hangar/f15d/f15coll.srf User/hangar/f15d/f15dcockpit.srf User/hangar/f15d/f15d_coarse.dnm
+User/hangar/a7k/a7k.dat User/hangar/a7k/a7k.dnm User/hangar/a7k/a7_coll.srf User/hangar/a7k/a7_cockpit.srf User/hangar/a7k/a7coarse.dnm
+User/hangar/f14a/f14a.dat User/hangar/f14a/f14a.dnm User/hangar/f14a/f14coll.srf User/hangar/f14a/f14acockpit.srf User/hangar/f14a/f14acoarse.dnm
+User/hangar/f14alowv/f14a.dat User/hangar/f14alowv/f14a.dnm User/hangar/f14alowv/f14coll.srf User/hangar/f14alowv/f14acockpit.srf User/hangar/f14alowv/f14acoarse.dnm
+User/hangar/f15e/f15e.dat User/hangar/f15e/f15e.dnm User/hangar/f15e/f15coll.srf User/hangar/f15e/f15ecockpit.srf User/hangar/f15e/f15e_coarse.dnm
+User/hangar/f4e/f4e.dat User/hangar/f4e/f4e.dnm User/hangar/f4e/f4coll.srf User/hangar/f4e/f4ecockpit.srf User/hangar/f4e/f4e_coarse.dnm
+User/hangar/su27ub/su27ub.dat User/hangar/su27ub/su27ub.dnm User/hangar/su27ub/su27ub_coll.srf User/hangar/su27ub/su27ub_cockpit.srf User/hangar/su27ub/su27ubcoarse.dnm
+User/hangar/f18d/fa18d.dat User/hangar/f18d/fa18d.dnm User/hangar/f18d/f18coll.srf User/hangar/f18d/f18c_cockpit.srf User/hangar/f18d/f18dcoarse.dnm
+User/hangar/Yak-3/Yak-3.dat User/hangar/Yak-3/Yak-3.dnm User/hangar/Yak-3/Yak-3CL.srf User/hangar/Yak-3/Yak-3CPT.srf User/hangar/Yak-3/Yak-3DV.srf
+User/hangar/Yak-9U/Yak-9U.dat User/hangar/Yak-9U/Yak-9U.dnm User/hangar/Yak-9U/Yak-9UCL.srf User/hangar/Yak-9U/Yak-9UCPT.srf User/hangar/Yak-9U/Yak-9UDV.srf
+User/hangar/t41a/t41a_kz.dat User/hangar/t41a/t41a_kz.dnm User/hangar/t41a/c172r_kz_coll.srf User/hangar/t41a/c172r_kz_cockpit.srf User/hangar/t41a/t41a_kz_coarse.dnm
+User/hangar/f14anf/f14a_nf1002003.dat User/hangar/f14anf/f14a_nf1002003.dnm User/hangar/f14anf/f14coll.srf User/hangar/f14anf/f14acockpit.srf User/hangar/f14anf/f14acoarse.dnm
+User/hangar/f14anf/f14a_nf1072003.dat User/hangar/f14anf/f14a_nf1072003.dnm User/hangar/f14anf/f14coll.srf User/hangar/f14anf/f14acockpit.srf User/hangar/f14anf/f14acoarse.dnm
+user/hangar/B-2A_Light/B-2ALight.dat user/hangar/B-2A_Light/B-2ALight.dnm user/hangar/B-2A_Light/B-2A_coll.srf user/hangar/B-2A_Light/B-2A_cockpit.srf user/hangar/B-2A_Light/B-2A_coarse.dnm
+user/hangar/B-2A_Light/B-2ALightMark.dat user/hangar/B-2A_Light/B-2ALightMark.dnm user/hangar/B-2A_Light/B-2A_coll.srf user/hangar/B-2A_Light/B-2A_cockpit.srf user/hangar/B-2A_Light/B-2A_coarse.dnm
+User/hangar/Harrier-2-Plus/AV-8B-plus.dat User/hangar/Harrier-2-Plus/AV-8B-plus.dnm User/hangar/Harrier-2-Plus/coll.srf User/hangar/Harrier-2-Plus/cockpit.srf User/hangar/Harrier-2-Plus/coarse.dnm
+User/hangar/fa-18c/fa-18c(S.C).dat User/hangar/fa-18c/fa-18c(S.C).dnm User/hangar/fa-18c/fa-18c(S.C)_coll.srf User/hangar/fa-18c/fa-18c(S.C)_cockpit.srf User/hangar/fa-18c/fa-18c(S.C)_coarse.dnm
+
+user/hangar/yak141(yume)/yak141(yume).dat user/hangar/yak141(yume)/yak141(yume).dnm user/hangar/yak141(yume)/yak141coll.srf user/hangar/yak141(yume)/yak141(yume)cockpit.srf user/hangar/yak141(yume)/yak141(yume)coarse.dnm
+User/hangar/array/yx38dol.DAT User/hangar/array/yx38dol.dnm User/hangar/array/yx38dcoll.srf User/hangar/array/yx38dcock.srf
+user/hangar/Jango_Fett/jango.dat user/hangar/Jango_Fett/jango.dnm user/hangar/Jango_Fett/jango_cl.srf user/hangar/Jango_Fett/jango_ck.srf user/hangar/Jango_Fett/jango_coarse.dnm

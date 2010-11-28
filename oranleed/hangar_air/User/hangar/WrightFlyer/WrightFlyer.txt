@@ -1,0 +1,2 @@
+このフォルダごとUserフォルダに入れて、以下の1行をaircraft.lstに追加。
+User/WrightFlyer/WrightFlyer.dat User/WrightFlyer/WrightFlyer.dnm User/WrightFlyer/wf_coll.srf User/WrightFlyer/wf_cockpit.srf User/WrightFlyer/wf_coarse.srf

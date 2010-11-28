@@ -1,0 +1,1 @@
+user/hangar/ouka/ouka.dat user/hangar/ouka/ouka.dnm user/hangar/ouka/ouka_coll.srf user/hangar/ouka/ouka_cockpit.srf user/hangar/ouka/ouka_coarse.dnm

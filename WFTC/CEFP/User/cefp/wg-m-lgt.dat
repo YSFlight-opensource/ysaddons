@@ -1,0 +1,150 @@
+IDENTIFY "WHITE_GLINT(M)-LIGHT" #GUN MANUAL CONTROL / LIGHT MODEL
+CATEGORY UTILITY
+
+AFTBURNR TRUE                 #HAVE AFTERBURNER?
+THRAFTBN 1000.0t              #THRUST WITH AFTERBURNER
+THRMILIT  140.0t              #THRUST AT MILITARY POWER
+THRSTREV    1.0               #EFFICIENCY OF THRUST REVERSER
+WEIGHCLN   40.0t              #WEIGHT CLEAN
+WEIGFUEL    3.0t              #WEIGHT OF FUEL
+WEIGLOAD   20.0t              #WEIGHT OF PAYLOAD
+FUELABRN    1.0kg             #FUEL CONSUMPTION WHEN USING AFTERBURNER
+FUELMILI    0.01kg            #FUEL CONSUMPTION AT MILITARY POWER
+
+COCKPITP     0.0m 8m -35m     #COCKPIT POSITION
+EXCAMERA "S" 0.0m 4m   4m 0deg 0deg 0deg OUTSIDE
+
+LEFTGEAR -1.00m -13.00m -12.00m #LEFT LANDING GEAR POSITION
+RIGHGEAR  1.00m -13.00m -12.00m #RIGHT LANDING GEAR POSITION
+WHELGEAR  0.00m -13.00m  12.00m #WHEEL POSITION
+ARRESTER  0.00m -13.00m   0.00m
+MACHNGUN  0.00m   0.00m   0.00m #MACHINE GUN POSITION
+SMOKEGEN  0.00m   3.35m -15.00m #SMOKE GENERATOR POSITION
+VAPORPO0  2.00m   0.00m  -5.00m #VAPOR POSITION (Wings Swept Back or no-VGW)
+VAPORPO1  2.00m   0.00m  -5.00m #VAPOR POSITION (Wings Spread)
+HTRADIUS 20.00m                 #OUTSIDE SPHERE RADIUS
+
+TRIGGER1 GUN
+TRIGGER2 AAM
+TRIGGER3 AGM
+TRIGGER4 SMK
+
+STRENGTH 20
+
+CRITAOAP  90deg               #CRITICAL AOA POSITIVE
+CRITAOAM -90deg               #CRITICAL AOA NEGATIVE
+
+CRITSPED 1.0MACH              #CRITICAL SPEED
+MAXSPEED 2.0MACH              #MAXIMUM SPEED
+
+HASSPOIL TRUE                 #HAS SPOILER?
+RETRGEAR TRUE                 #HAS RETRACTABLE LANDING GEAR?
+VARGEOMW TRUE                 #HAS VARIABLE GEOMETRY WING?
+
+TRSTVCTR TRUE                 #HAS THRUST VECTORING CAPABILITY?
+TRSTDIR0 0.0m 0.0m 1.0m       #Thrust vector 0
+TRSTDIR1 0.0m 1.0m 0.0m       #Thrust vector 1
+PSTMPTCH 90deg                #Post-Stall Maneuver VPitch
+PSTMYAW_ 90deg                #Post-Stall Maneuver VYaw
+PSTMROLL 90deg                #Post-Stall Maneuver VRoll
+
+CLVARGEO  0.0                 #EFFECT OF VARIABLE GEOMETRY WING FOR Cl
+CDVARGEO  0.0                 #EFFECT OF VARIABLE GEOMETRY WING FOR Cd
+CLBYFLAP  0.5                 #EFFECT OF FLAP FOR Cl
+CDBYFLAP  2.0                 #EFFECT OF FLAP FOR Cd
+CDBYGEAR 10.0                 #EFFECT OF GEAR FOR Cd
+CDSPOILR  8.0                 #EFFECT OF SPOILER FOR Cd
+
+WINGAREA 50m^2                #WING AREA
+
+MXIPTAOA 1.0deg               #MAX INPUT AOA
+MXIPTSSA 1.0deg               #MAX INPUT SSA
+MXIPTROL 1.0deg               #MAX INPUT ROLL
+
+REM CPITMANE corresponds to Spring Constant K
+REM CPITSTAB corresponds to Damper Constant B
+REM To be critically damped, B=2*sqrt(K)
+REM 2% Settling Time=??
+
+MANESPD1 700kt                #MINIMUM MANEUVABLE SPEED
+MANESPD2 700kt                #FULLY MANEUVABLE SPEED
+CPITMANE 10.0                 #PITCH MANEUVERBILITY CONSTANT
+CPITSTAB  5.0                 #PITCH STABILITY CONSTANT
+CYAWMANE 10.0                 #YAW MANEUVABILITY CONSTANT
+CYAWSTAB  5.0                 #YAW STABILITY CONSTANT
+CROLLMAN 10.0                 #ROLL MANEUVABILITY CONSTANT
+
+CTLLDGEA TRUE                 #CONTROL LANDINGGEAR
+CTLBRAKE FALSE                #CONTROL BRAKE
+CTLSPOIL 0.0                  #CONTROL SPOILER
+CTLABRNR FALSE                #CONTROL AFTERBURNER
+CTLTHROT 0.0                  #CONTROL THRUST
+CTLIFLAP 1.0                  #CONTROL FLAP
+CTLINVGW 1.0                  #CONTROL VARIABLE GEOMETRY WING
+CTLATVGW TRUE                 #CONTROL AUTO VARIABLE GEOMETRY WING
+VGWSPED1 10kt
+VGWSPED2 50kt
+
+POSITION 0m 3ft 0m            #POSITION
+ATTITUDE 45deg 0deg 0deg      #ATTITUDE
+INITFUEL 75%                  #INITIAL FUEL
+INITLOAD 0.0t                 #INITIAL PAYLOAD
+INITSPED 0.0MACH              #INITIAL SPEED
+
+REM ClZero,CdZero is fixed by Cruising condition
+REFVCRUS 1.0MACH              #CRUISING SPEED
+REFACRUS 20000ft              #CRUISING ALTITUDE
+REFTCRUS 0.3                  #CRUISING THROTTLE SETTING
+
+REM ClSlope,CdConst is fixed by Landing condition
+REFVLAND 80kt                 #LANDING SPEED
+REFAOALD 8deg                 #LANDING AOA
+REFLNRWY 100m                 #RUNWAY REQUIRED TO STOP
+REFTHRLD 0.30                 #LANDING THROTTLE SETTING
+
+NMTURRET 3
+
+TURRETPO 0  0m 2.5m 1.0m 0deg -45deg 0deg # Number x y z h p b
+TURRETPT 0   0deg 90deg 0deg              # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 0 -30deg 30deg 0deg              # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 0 0                              # Ammo
+TURRETIV 0 0.33sec                        # Number ShootingInterval
+TURRETCT 0 PILOT                          # Controlled by PILOT or GUNNER
+TURRETRG 0 1000m
+
+TURRETPO 1  4m 2.5m 1.0m 0deg -45deg 0deg # Number x y z h p b
+TURRETPT 1   0deg 90deg 0deg              # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 1 -30deg 10deg 0deg              # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 1 2000                           # Ammo
+TURRETIV 1 0.33sec                        # Number ShootingInterval
+TURRETAR 1                                # Anti Air Capable
+TURRETGD 1                                # Anti Ground Capable
+TURRETNP 1 GUN-R                          # DNM Node Name
+TURRETNH 1 GUN-R2                         # DNM Node Name
+TURRETCT 1 PILOT                          # Controlled by PILOT or GUNNER
+TURRETRG 1 1000m
+
+TURRETPO 2 -4m 2.5m 1.0m 0deg -45deg 0deg # Number x y z h p b
+TURRETPT 2   0deg 90deg 0deg              # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 2 -10deg 30deg 0deg              # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 2 2000                           # Ammo
+TURRETIV 2 0.33sec                        # Number ShootingInterval
+TURRETAR 2                                # Anti Air Capable
+TURRETGD 2                                # Anti Ground Capable
+TURRETNP 2 GUN-L                          # DNM Node Name
+TURRETNH 2 GUN-L2                         # DNM Node Name
+TURRETCT 2 PILOT                          # Controlled by PILOT or GUNNER
+TURRETRG 2 1000m
+
+INITIGUN 0                    #INITIAL GUN
+
+INITIAAM 10                   #INITIAL AAM
+INITIAGM 10                   #INITIAL AGM
+AAMVISIB FALSE
+AGMVISIB FALSE
+AAMSLOT_ -8.9m 6.4m -2.3m
+AAMSLOT_  8.9m 6.4m -2.3m
+AGMSLOT_ -8.9m 6.4m -2.3m
+AGMSLOT_  8.9m 6.4m -2.3m
+
+AUTOCALC

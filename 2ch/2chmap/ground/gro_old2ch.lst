@@ -1,0 +1,31 @@
+User/2ch/2chmap/IFF4/asr_radar.dat User/2ch/2chmap/IFF4/asr_radar.srf User/2ch/2chmap/guard_ground/2chsambase.srf
+User/2ch/2chmap/IFF4/alt_hangar_h.dat User/2ch/2chmap/IFF4/alt_hangar_h.srf User/2ch/2chmap/IFF4/alt_hangar_h_coll.srf
+User/2ch/2chmap/IFF4/sam_ls.dat User/2ch/2chmap/IFF4/sam_ls.dnm User/2ch/2chmap/guard_ground/2chsambase.srf
+User/2ch/2chmap/IFF4/sam_rs.dat User/2ch/2chmap/IFF4/sam_rs.srf User/2ch/2chmap/guard_ground/2chsambase.srf
+User/2ch/2chmap/guard_ground/2chaaa.dat User/2ch/2chmap/guard_ground/2chaaa.dnm User/2ch/2chmap/guard_ground/2chaaacoll.srf
+User/2ch/2chmap/IFF4/ddg.dat User/2ch/2chmap/IFF4/ddg.srf User/2ch/2chmap/IFF4/ddg_coll.srf
+User/2ch/2chmap/ground/alt_hanger.dat user/2ch/2chmap/ground/alt_hanger.srf user/2ch/2chmap/ground/alt_hanger.srf
+User/2ch/2chmap/fighters_ground/f_hangar.dat User/2ch/2chmap/fighters_ground/f_hangar.srf User/2ch/2chmap/fighters_ground/f_hangarcoll.srf
+User/2ch/2chmap/IFF1/ddg_iff1.dat User/2ch/2chmap/IFF1/ddg_iff1.dnm User/2ch/2chmap/IFF1/ddg_iff1coll.srf
+User/2ch/2chmap/IFF1/ddg_iff1sam.dat User/2ch/2chmap/IFF1/ddg_iff1sam.dnm User/2ch/2chmap/IFF1/ddg_iff1samcoll.srf
+User/2ch/2chmap/IFF4/guardian_angel.dat User/2ch/2chmap/IFF4/guardian_angel.dnm User/2ch/2chmap/IFF4/guardian_angel_coll.srf
+User/2ch/2chmap/IFF2/ddg_iff2.dat User/2ch/2chmap/IFF2/ddg_iff2.dnm User/2ch/2chmap/IFF2/ddg_iff2coll.srf
+User/2ch/2chmap/IFF2/ddg_iff2sam.dat User/2ch/2chmap/IFF2/ddg_iff2sam.dnm User/2ch/2chmap/IFF2/ddg_iff2samcoll.srf
+User/2ch/2chmap/IFF4/hayabusa.dat User/2ch/2chmap/IFF4/hayabusa.dnm User/2ch/2chmap/IFF4/hayabusa_coll.srf
+
+User/2ch/saitama/2chmap/ground/bill1.dat User/2ch/saitama/2chmap/ground/bill1view.srf User/2ch/saitama/2chmap/ground/bill1coll.srf
+User/2ch/saitama/2chmap/ground/bill2.dat User/2ch/saitama/2chmap/ground/bill2view.srf User/2ch/saitama/2chmap/ground/bill2coll.srf
+User/2ch/saitama/2chmap/ground/bill_width1.dat User/2ch/saitama/2chmap/ground/bill_width1view.srf User/2ch/saitama/2chmap/ground/bill_width1coll.srf
+
+User/2ch/saitama/2chmap/ground/terminal.dat user/2ch/saitama/2chmap/ground/terminal.srf user/2ch/saitama/2chmap/ground/terminal_coll.srf
+User/2ch/saitama/2chmap/ground/Alplaza.dat User/2ch/saitama/2chmap/ground/Alplaza.srf User/2ch/saitama/2chmap/ground/Alplaza_coll.srf
+User/2ch/saitama/2chmap/ground/Cignal.dat User/2ch/saitama/2chmap/ground/Cignal.srf User/2ch/saitama/2chmap/ground/Cignal_coll.srf
+User/2ch/saitama/2chmap/ground/Missile_site_w.dat User/2ch/saitama/2chmap/ground/Missile_site_w.srf User/2ch/saitama/2chmap/ground/Missile_site_coll.srf
+User/2ch/saitama/2chmap/ground/Missile_site.dat User/2ch/saitama/2chmap/ground/Missile_site.srf User/2ch/saitama/2chmap/ground/Missile_site_coll.srf
+
+User/2ch/saitama/2chmap/guard_ground/ucav.dat User/2ch/saitama/2chmap/guard_ground/ucav.dnm User/2ch/saitama/2chmap/guard_ground/ucavcoll.srf
+
+User/2ch/saitama/2chmap/fighters_ground/f_runway.dat User/2ch/saitama/2chmap/fighters_ground/f_runwayview.srf User/2ch/saitama/2chmap/fighters_ground/f_runwaycoll.srf
+User/2ch/saitama/2chmap/fighters_ground/eplon.dat User/2ch/saitama/2chmap/fighters_ground/eplonview.srf User/2ch/saitama/2chmap/fighters_ground/eploncoll.srf
+User/2ch/saitama/2chmap/fighters_ground/f_road500m.dat User/2ch/saitama/2chmap/fighters_ground/f_road500m.srf User/2ch/saitama/2chmap/fighters_ground/f_road500m_coll.srf
+User/2ch/saitama/2chmap/fighters_ground/f_road50m.dat User/2ch/saitama/2chmap/fighters_ground/f_road50m.srf User/2ch/saitama/2chmap/fighters_ground/f_road50mcoll.srf

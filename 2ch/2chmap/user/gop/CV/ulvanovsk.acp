@@ -1,0 +1,10 @@
+User/gop/CV/ulvanovsk_deck.srf
+User/gop/CV/ulvanovsk_wire.srf
+User/gop/CV/ulvanovsk_catapult.srf
+User/gop/CV/ulvanovsk_bridge.srf
+ILS 0m 20m -94m 189deg 5deg 0deg 6000m
+VIEWPOINT TRUE
+ARRESTINGWIRE 19m 20.5m -91.0m -20m 20.5m -96m
+BRIDGEPOS 21.0m 28.0m -14.0m
+
+REM ACP File Aircraft Carrier Property

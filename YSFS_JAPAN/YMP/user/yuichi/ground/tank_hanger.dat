@@ -1,0 +1,4 @@
+IDENTIFY TANK_HANGER
+HTRADIUS 20m
+STRENGTH 20
+CARRIER user/yuichi/ground/tank_hanger.acp

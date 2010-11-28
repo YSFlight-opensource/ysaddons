@@ -1,0 +1,180 @@
+※※※　Ｋｚｓ　Ｐａｃｋ ご利用の皆様　※※※
+
+”Kzs Pack”に収録されている機体の一部と、ほとんどの地上物(User/Kzs/ground内)
+は、
+ゴンタ氏の配布パッケージ”GAP 2001/10/31 バージョン”に収録されている古い拙作
+データ（機体及び地上物）と重複します。
+
+ゴンタ氏の配布パッケージ”GAP 2001/10/31 バージョン”をインストールされている場
+合には、以下のGAP収録データを削除しないと、不具合が発生する事が在ります。
+
+※　拙作シーナリデータもGAPに収録されていますが、こちらはそのままで”Kzs Pack”
+　　と共存可能です。
+　　ただし、
+　　Kzs Pack2002/07/07版で一部の地上物の名称が変更されたので、
+　　Kzs Pack2002/07/07版以降と共存させるには、古い名称の地上物を設定している
+　　yfsファイルを修正しなくてはなりません。
+　　「User/Kzs/_update.gap/」ディレクトリ内のkzs_gap.cabと言う圧縮ファイルを
+　　展開して、できたyfs ファイルを「gap/scenary/」ディレクトリに上書きコピー
+　　してください。
+
+
+
+１）「aircraft/aircraft.lst」から削除すべき機体登録行
+*** remove from aircraft/aircraft.lst ***
+
+gap/aircraft/f16kz_s.dat gap/aircraft/f16kz_s.dnm aircraft/f16coll.srf aircraft/f16cockpit.srf 
+gap/aircraft/f16xl_kz.dat gap/aircraft/f16xl_kz.dnm gap/aircraft/f16xl_coll.srf gap/aircraft/f16xl_cockpit.srf 
+gap/aircraft/f18kz.dat gap/aircraft/f18kz.dnm aircraft/f18coll.srf gap/aircraft/f18kz_cockpit.srf
+gap/aircraft/f20x_kz.dat gap/aircraft/f20x_kz.dnm aircraft/f5coll.srf gap/aircraft/f20x_kz_cockpit.srf
+gap/aircraft/f22kz.dat gap/aircraft/f22kz.dnm aircraft/f22coll.srf gap/aircraft/f22kz_cockpit.srf 
+gap/aircraft/c172.dat gap/aircraft/c172.dnm gap/aircraft/c172_coll.srf gap/aircraft/c172_cockpit.srf
+gap/aircraft/c172_red.dat gap/aircraft/c172_red.dnm gap/aircraft/c172_coll.srf gap/aircraft/c172_cockpit.srf
+gap/aircraft/c172_blue.dat gap/aircraft/c172_blue.dnm gap/aircraft/c172_coll.srf gap/aircraft/c172_cockpit.srf
+
+gap/aircraft/gap2/xf01e.dat gap/aircraft/gap2/xf01e.dnm gap/aircraft/gap2/xf01e_coll.srf gap/aircraft/gap2/xf01e_cockpit.srf 
+gap/aircraft/gap2/xf02a.dat gap/aircraft/gap2/xf02a.dnm gap/aircraft/gap2/xf02a_coll.srf gap/aircraft/gap2/xf02a_cockpit.srf 
+gap/aircraft/gap2/xf03a.dat gap/aircraft/gap2/xf03a.dnm gap/aircraft/gap2/xf03a_coll.srf gap/aircraft/gap2/xf03a_cockpit.srf 
+gap/aircraft/gap2/xu00p.dat gap/aircraft/gap2/xu00p.dnm gap/aircraft/gap2/xu00p_coll.srf gap/aircraft/gap2/xu00p_cockpit.srf
+
+※ xf01e～xu00pの四つの機体は、Kzs Packには収録していないので、お使いになるのな
+   ら残しておいても良いです。(でも、こんな変な機体を使う人は居まい･･･)
+
+
+
+２）「ground/ground.lst」から削除すべき地上物登録行
+*** remove from ground/ground.lst ***
+
+gap/ground/gate_bridge05.dat gap/ground/gate_bridge05.srf gap/ground/gate_bridge05_coll.srf
+gap/ground/gate_bridge10.dat gap/ground/gate_bridge10.srf gap/ground/gate_bridge10_coll.srf
+gap/ground/n_bridge05.dat gap/ground/n_bridge05.srf gap/ground/n_bridge05_coll.srf
+gap/ground/n_bridge10.dat gap/ground/n_bridge10.srf gap/ground/n_bridge10_coll.srf
+gap/ground/gate30.dat gap/ground/gate30.srf gap/ground/gate30.srf
+gap/ground/gate25.dat gap/ground/gate25.srf gap/ground/gate25.srf
+gap/ground/gate20.dat gap/ground/gate20.srf gap/ground/gate20.srf
+gap/ground/gate15.dat gap/ground/gate15.srf gap/ground/gate15.srf
+gap/ground/gate10.dat gap/ground/gate10.srf gap/ground/gate10.srf
+gap/ground/office_build27.dat gap/ground/office_build27.srf gap/ground/office_build27.srf
+gap/ground/office_build45.dat gap/ground/office_build45.srf gap/ground/office_build45.srf
+gap/ground/enemy_hq.dat gap/ground/enemy_hq.srf gap/ground/enemy_hq_coll.srf
+gap/ground/ehq_fence.dat gap/ground/ehq_fence.srf gap/ground/ehq_fence.srf
+gap/ground/ehq_fuel_tank.dat gap/ground/ehq_fuel_tank.srf gap/ground/ehq_fuel_tank_coll.srf
+gap/ground/ehq_fuel_tank_s.dat gap/ground/ehq_fuel_tank_s.srf gap/ground/ehq_fuel_tank_s_coll.srf
+gap/ground/ehq_radar.dat gap/ground/ehq_radar.srf gap/ground/ehq_radar_coll.srf
+gap/ground/ehq_tower.dat gap/ground/ehq_tower.srf gap/ground/ehq_tower_coll.srf
+gap/ground/ehq_warehouse.dat gap/ground/ehq_warehouse.srf gap/ground/ehq_warehouse_coll.srf
+gap/ground/grnd_carrier.dat gap/ground/grnd_carrier_visual.srf gap/ground/grnd_carrier_coll.srf
+gap/ground/s-sam.dat gap/ground/v-sam.srf gap/ground/_afv_coll.srf
+gap/ground/s-aaa.dat gap/ground/v-aaa.srf gap/ground/_afv_coll.srf
+gap/ground/s-tank.dat gap/ground/v-tank.srf gap/ground/_afv_coll.srf
+gap/ground/s-track.dat gap/ground/v-track.srf gap/ground/_afv_coll.srf
+gap/ground/t-sam.dat gap/ground/v-sam.srf gap/ground/_afv_coll.srf
+gap/ground/t-aaa.dat gap/ground/v-aaa.srf gap/ground/_afv_coll.srf
+gap/ground/t-tank.dat gap/ground/v-tank.srf gap/ground/_afv_coll.srf
+gap/ground/t-track.dat gap/ground/v-track.srf gap/ground/_afv_coll.srf
+gap/ground/v-sam.dat gap/ground/v-sam.srf gap/ground/_afv_coll.srf
+gap/ground/v-aaa.dat gap/ground/v-aaa.srf gap/ground/_afv_coll.srf
+gap/ground/v-tank.dat gap/ground/v-tank.srf gap/ground/_afv_coll.srf
+gap/ground/v-track.dat gap/ground/v-track.srf gap/ground/_afv_coll.srf
+gap/ground/t-oil_tanker.dat gap/ground/oil_tanker.srf gap/ground/oil_tanker_coll.srf
+gap/ground/t-cargo_ship.dat gap/ground/cargo_ship.srf gap/ground/cargo_ship_coll.srf
+gap/ground/t-psgr_ship.dat gap/ground/psgr_ship.srf gap/ground/psgr_ship_coll.srf
+gap/ground/v-oil_tanker.dat gap/ground/oil_tanker.srf gap/ground/oil_tanker_coll.srf
+gap/ground/v-cargo_ship.dat gap/ground/cargo_ship.srf gap/ground/cargo_ship_coll.srf
+gap/ground/v-psgr_ship.dat gap/ground/psgr_ship.srf gap/ground/psgr_ship_coll.srf
+gap/ground/t-battle_ship.dat gap/ground/battle_ship_t.srf gap/ground/battle_ship_coll.srf
+gap/ground/s-battle_ship_a.dat gap/ground/battle_ship_a.srf gap/ground/battle_ship_coll.srf
+gap/ground/s-battle_ship_s.dat gap/ground/battle_ship_s.srf gap/ground/battle_ship_coll.srf
+gap/ground/s-battle_ship_as.dat gap/ground/battle_ship_as.srf gap/ground/battle_ship_coll.srf
+gap/ground/v-battle_ship.dat gap/ground/battle_ship_t.srf gap/ground/battle_ship_coll.srf
+gap/ground/v-battle_ship_a.dat gap/ground/battle_ship_a.srf gap/ground/battle_ship_coll.srf
+gap/ground/v-battle_ship_s.dat gap/ground/battle_ship_s.srf gap/ground/battle_ship_coll.srf
+gap/ground/v-battle_ship_as.dat gap/ground/battle_ship_as.srf gap/ground/battle_ship_coll.srf
+
+
+
+３）「gap/aircraftディレクトリ」「gap/groundディレクトリ」から削除すべきファイル
+*** remove files from gap/aircraft/, gap/ground/ ***
+
+上記１）、２）の登録行を削除すれば、ＹＳの実行に不具合はでませんが、不要な旧ファ
+イルが残りますので、削除したい場合は、以下に上げるファイルを削除してください。
+
+※　「gap/aircraftディレクトリ」「gap/groundディレクトリ」には、他の方が作成され
+※　た機体・地上物データも含まれていますので、削除作業は注意深く行なってください。
+
+
+
+*** remove files from gap/aircraft ***
+f16kz.dat       , f16kz.dnm
+f16kz_s.dat     , f16kz_s.dnm
+f16xl_kz.dat    , f16xl_kz.dnm  , f16xl_coll.srf        , f16xl_cockpit.srf 
+f18kz.dat       , f18kz.dnm     , f18kz_cockpit.srf
+f20x_kz.dat     , f20x_kz.dnm   , f20x_kz_cockpit.srf
+f22kz.dat       , f22kz.dnm     , f22kz_cockpit.srf 
+c172.dat        , c172.dnm      , c172_coll.srf         , c172_cockpit.srf
+c172_red.dat    , c172_red.dnm
+c172_blue.dat   , c172_blue.dnm
+
+*** remove files from gap/aircraft/gap2 ***
+xf01e.dat       , xf01e.dnm     , xf01e_coll.srf        , xf01e_cockpit.srf 
+xf02a.dat       , xf02a.dnm     , xf02a_coll.srf        , xf02a_cockpit.srf 
+xf03a.dat       , xf03a.dnm     , xf03a_coll.srf        , xf03a_cockpit.srf 
+xu00p.dat       , xu00p.dnm     , xu00p_coll.srf        , xu00p_cockpit.srf
+
+
+
+*** remove from gap/ground ***
+_null.acp
+gate_bridge05.dat       , gate_bridge05.srf         , gate_bridge05_coll.srf
+gate_bridge10.dat       , gate_bridge10.srf         , gate_bridge10_coll.srf
+n_bridge05.dat          , n_bridge05.srf            , n_bridge05_coll.srf
+n_bridge10.dat          , n_bridge10.srf            , n_bridge10_coll.srf
+gate30.dat              , gate30.srf
+gate25.dat              , gate25.srf
+gate20.dat              , gate20.srf
+gate15.dat              , gate15.srf
+gate10.dat              , gate10.srf
+office_build27.dat      , office_build27.srf
+office_build45.dat      , office_build45.srf
+enemy_hq.dat            , enemy_hq.srf              , enemy_hq_coll.srf
+ehq_fence.dat           , ehq_fence.srf
+ehq_fuel_tank.dat       , ehq_fuel_tank.srf         , ehq_fuel_tank_coll.srf
+ehq_fuel_tank_s.dat     , ehq_fuel_tank_s.srf       , ehq_fuel_tank_s_coll.srf
+ehq_radar.dat           , ehq_radar.srf             , ehq_radar_coll.srf
+ehq_tower.dat           , ehq_tower.srf             , ehq_tower_coll.srf
+ehq_warehouse.dat       , ehq_warehouse.srf         , ehq_warehouse_coll.srf
+grnd_carrier.dat        , grnd_carrier_visual.srf   , grnd_carrier_coll.srf     , grnd_carrier.acp
+s-sam.dat               , v-sam.srf                 , _afv_coll.srf
+s-aaa.dat               , v-aaa.srf
+s-tank.dat              , v-tank.srf
+s-track.dat             , v-track.srf
+t-sam.dat               , v-sam.srf
+t-aaa.dat               , v-aaa.srf
+t-tank.dat              , v-tank.srf
+t-track.dat             , v-track.srf
+v-sam.dat               , v-sam.srf
+v-aaa.dat               , v-aaa.srf
+v-tank.dat              , v-tank.srf
+v-track.dat             , v-track.srf
+t-oil_tanker.dat        , oil_tanker.srf            , oil_tanker_coll.srf
+t-cargo_ship.dat        , cargo_ship.srf            , cargo_ship_coll.srf
+t-psgr_ship.dat         , psgr_ship.srf             , psgr_ship_coll.srf
+v-oil_tanker.dat        , oil_tanker.srf
+v-cargo_ship.dat        , cargo_ship.srf
+v-psgr_ship.dat         , psgr_ship.srf
+t-battle_ship.dat       , battle_ship_t.srf         , battle_ship_coll.srf
+s-battle_ship_a.dat     , battle_ship_a.srf
+s-battle_ship_s.dat     , battle_ship_s.srf
+s-battle_ship_as.dat    , battle_ship_as.srf
+v-battle_ship.dat       , battle_ship_t.srf
+v-battle_ship_a.dat     , battle_ship_a.srf
+v-battle_ship_s.dat     , battle_ship_s.srf
+v-battle_ship_as.dat    , battle_ship_as.srf
+
+
+
+                                                          by Kzs on 2002/09/14.
+
+                                              e-mail :    kazu3613@dc.mbn.or.jp
+                                                          KGG02303@nifty.ne.jp
+/E

@@ -1,0 +1,50 @@
+Edwards Air Force Base (KEDW)
+
+This version of the Edwards Air Force Base was based on US Geological Survey 1 meter resolution satellite imagery taken in 1994, obtained from http://terraserver.microsoft.com, FAA terminal plates effective on 0901Z 05 Aug 2004, and 08 Jul 2004 edition of 1:500000 FAA sectional charts.
+
+The map is aligned to magnetic north. The current magnetic variation for the Edwards AFB area is 13.8 degrees E.
+
+Most of the Rogers lakebed are land and taxi-able. However, some areas, such as those close to the edge of the lakebed, are not. So please stay close to the marked lakebed runway areas.
+
+The line that is parallel to runway 04/22 and runs between that runway and the main apron is called the tower fly-by line.
+
+The line that runs north/south along the entire length of the lakebed on the eastern portion of the lake is the low level speed course. It is marked at 1 statue mile intervals.
+
+Dryden Flight Research Center is located at the northern most portion of the Edwards main base (just west of the compass rose).
+
+The smaller airfield at the north of the lake is Edwards North Aux Base. 
+
+Mojave airport:
+
+There are literally hundreds of aircrafts in storage at each of the three aircraft storage area around the Mojave airport. Obviously, in order not to overload the computer I can only put a handful at each.
+
+If my research is correct the western most building along the main apron at Mojave is the office and hangar of Scaled Composites.
+
+The entire map is based on reality. However, artistic license is applied to where information is not complete, to make the map more interesting, to get around system limitations of YSFlight, or simply when I get lazy. :)
+
+ - Stuff that I *might* add in the future:
+
+More mountains that surrounds the Mojave desert.
+More roads/rail lines that runs across this area.
+More details to the town of Edwards.
+A fictional "Enemy Airbase" 
+China Lake NAWS (about 90km to the north), maybe make it as the "enemy airbase" :)
+Air Force Plant 42 at Palmdale
+More variety of parked aircrafts on the ground.
+
+ - Version History
+
+20 Jul 2005: Minor update, mostly added more aircrafts at the apron and replacing the tower at KMHV. (Thanks HF!)
+
+1 Feb 2005 : Added the Mojave Airport (home of SpaceShip One, Scaled Composites, and the Civilian Aerospace Test Center). Added the EDW (Edwards), PMD (Palmdale) and LHS (Lake Hughes) VORs, and runway edge lights at Edwards.
+
+26 Aug 2004 : Mostly expanded the surrounding environment, adding hills and roads plus Rosamond Lake to the west and Koehn Lake to the north.
+
+17 Aug 2004 : Designated various buildings around the airbase as primary target to enable the Intercept mission.
+
+16 Aug 2004 : Initial release.
+
+All files are copyright 2005 by Edmund Hon
+http://www.ysflight.ca
+taskforce58@gmail.com
+

@@ -1,0 +1,105 @@
+IDENTIFY "PIAGGIO_P.180_AVANTI_AERONAUTICA_MILITARE"
+CATEGORY NORMAL
+AFTBURNR FALSE                #HAVE AFTERBURNER?
+PROPELLR 1700HP               #PROPELLER ENGINE
+THRSTREV 0.2                 #EFFICIENCY OF THRUST REVERSER
+WEIGHCLN 7200lb                #WEIGHT CLEAN
+WEIGFUEL  2666lb                #WEIGHT OF FUEL
+WEIGLOAD  4230lb                #WEIGHT OF PAYLOAD
+FUELABRN 0.0lb                #FUEL CONSUMPTION WHEN USING AFTERBURNER
+FUELMILI 0.1865lb              #FUEL CONSUMPTION AT MILITARY POWER
+
+COCKPITP -0.30m  0.42m  4.05m  #COCKPIT POSITION
+EXCAMERA "COPILOT" 0.30m  0.42m  4.05m  0deg 0deg 0deg INSIDE
+EXCAMERA "WINDOW1" 0.62m  0.35m  0.78m  -90deg 0deg 0deg INSIDE
+EXCAMERA "WINDOW2" -0.62m  0.35m  2.74m  90deg 0deg 0deg INSIDE
+EXCAMERA "PAX1" -0.45m  0.45m  0.33m  0deg 0deg 0deg INSIDE
+EXCAMERA "PAX2" -0.45m  0.45m  1.74m  -180deg 0deg 0deg INSIDE
+LEFTGEAR -1.51m -1.48m -0.63m  #LEFT LANDING GEAR POSITION
+RIGHGEAR  1.51m -1.48m -0.63m  #RIGHT LANDING GEAR POSITION
+WHELGEAR  0.0m -1.48m  5.19m  #WHEEL POSITION
+ARRESTER  0.0m 0.00m 0.00m
+SMOKEGEN  0.0m  -0.30m -4.5m  #SMOKE GENERATOR POSITION
+VAPORPO0 6.96m  0.44m -1.48m  #VAPOR POSITION (Wings Swept Back or no-VGW)
+VAPORPO1 6.96m  0.44m -1.48m  #VAPOR POSITION (Wings Swept Back or no-VGW)
+HTRADIUS 10.0m                #OUTSIDE SPHERE RADIUS
+
+STRENGTH 10
+
+CRITAOAP  20deg               #CRITICAL AOA POSITIVE
+CRITAOAM -15deg               #CRITICAL AOA NEGATIVE
+
+CRITSPED 0.9mach              #CRITICAL SPEED
+MAXSPEED 0.72mach              #MAXIMUM SPEED
+
+HASSPOIL FALSE                #HAS SPOILER?
+RETRGEAR TRUE                 #HAS RETRACTABLE LANDING GEAR?
+VARGEOMW FALSE                #HAS VARIABLE GEOMETRY WING?
+
+
+CLVARGEO 0.0                  #EFFECT OF VARIABLE GEOMETRY WING FOR Cl
+CDVARGEO 0.0                  #EFFECT OF VARIABLE GEOMETRY WING FOR Cd
+CLBYFLAP 0.2                  #EFFECT OF FLAP FOR Cl
+CDBYFLAP 0.6                  #EFFECT OF FLAP FOR Cd
+CDBYGEAR 0.4                  #EFFECT OF GEAR FOR Cd
+CDSPOILR 0.0                  #EFFECT OF SPOILER FOR Cd
+
+WINGAREA 22.73m^2             #WING AREA
+REM  Avanti wing area note: 
+REM     Forward wing area - 2.19 m^2
+REM     Main wing area - 16 m^2
+REM     Both are directly lift contributing, plus the fuselage accounting for 
+REM     about 20% of total lift, so effective wing area is adjusted up.
+REM     Total wing area (forward + main) = 18.19 m^2 which accounts for 80%, so total
+REM     effective wing area = 18.19 / 0.8 = 22.73 m^2
+
+
+
+MXIPTAOA 25.0deg              #MAX INPUT AOA
+MXIPTSSA 5.0deg               #MAX INPUT SSA
+MXIPTROL 95.0deg              #MAX INPUT ROLL
+
+REM CPITMANE corresponds to Spring Constant K
+REM CPITSTAB corresponds to Damper Constant B
+REM To be critically damped, B=2*sqrt(K)
+REM 2% Settling Time=??
+
+MANESPD1 70kt                 #MINIMUM MANEUVABLE SPEED
+MANESPD2 100kt                 #FULLY MANEUVABLE SPEED
+CPITMANE 5.5                  #PITCH MANEUVERBILITY CONSTANT
+CPITSTAB 3.2                  #PITCH STABILITY CONSTANT
+CYAWMANE 3.6                  #YAW MANEUVABILITY CONSTANT
+CYAWSTAB 3.0                  #YAW STABILITY CONSTANT
+CROLLMAN 3.0                  #ROLL MANEUVABILITY CONSTANT
+
+CTLLDGEA TRUE                 #CONTROL LANDINGGEAR
+CTLBRAKE FALSE                #CONTROL BRAKE
+CTLSPOIL 0.0                  #CONTROL SPOILER
+CTLABRNR FALSE                #CONTROL AFTERBURNER
+CTLTHROT 0.0                  #CONTROL THRUST
+CTLIFLAP 0.0                  #CONTROL FLAP
+CTLINVGW 0.0                  #CONTROL VARIABLE GEOMETRY WING
+CTLATVGW FALSE                #CONTROL AUTO VARIABLE GEOMETRY WING
+
+POSITION 0m 3ft 0m            #POSITION
+ATTITUDE 45deg 0deg 0deg      #ATTITUDE
+INITFUEL 75%                  #INITIAL FUEL
+INITLOAD 1100lb                 #INITIAL PAYLOAD
+INITSPED 0.0MACH              #INITIAL SPEED
+
+REM Slots must come before Inits.
+
+INITIGUN 0                    #INITIAL GUN
+
+REM ClZero,CdZero is fixed by Cruising condition
+REFVCRUS 398kt              #CRUISING SPEED
+REFACRUS 28000ft              #CRUISING ALTITUDE
+REFTCRUS 1.00                 #CRUISING THROTTLE SETTING
+
+REM ClSlope,CdConst is fixed by Landing condition
+REFVLAND 100kt                 #LANDING SPEED
+REFAOALD 7deg                 #LANDING AOA
+REFLNRWY 600m                #RUNWAY REQUIRED TO STOP
+REFTHRLD 0.75                  #LANDING THROTTLE SETTING
+
+AUTOCALC

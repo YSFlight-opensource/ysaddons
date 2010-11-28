@@ -1,0 +1,118 @@
+IDENTIFY "KPN01_KUMARI"
+CATEGORY NORMAL
+AFTBURNR FALSE                     #HAVE AFTERBURNER
+THRAFTBN 0.00t                     #THRUST WITH AFTERBURNER
+FUELABRN 0.00kg                    #FUEL CONSUMPTION WHEN USING AFTERBURNER
+THRMILIT 2.48t                     #THRUST AT MILITARY POWER
+WEIGHCLN 3.72t                     #WEIGHT CLEAN
+WEIGFUEL 1.95t                     #WEIGHT OF FUEL
+WEIGLOAD 2.60t                     #WEIGHT OF PAYLOAD
+FUELMILI 0.15kg                    #FUEL CONSUMPTION AT MILITARY POWER
+THRSTREV 0.55                      #RATIO OF THURUST REVERSE
+COCKPITP -0.270m  0.518m  2.192m   #COCKPIT POSITION
+LEFTGEAR -0.500m -1.070m  0.090m   #LEFT LANDING GEAR POSITION
+RIGHGEAR  0.500m -1.070m  0.090m   #RIGHT LANDING GEAR POSITION
+WHELGEAR  0.000m -1.070m  2.100m   #WHEEL POSITION
+ARRESTER  0.000m -0.980m  0.050m   #ARRESTING HOOK POSITION
+SMOKEGEN  0.000m  0.400m -3.600m   #SMOKE GENERATOR POSITION
+VAPORPO0  7.520m  0.000m -0.835m   #VAPOR POSITION(Wings Swept Back or no-VGW)
+VAPORPO1  7.520m  0.000m -0.835m   #VAPOR POSITION(Wings Spread)
+HTRADIUS  8.500m                   #OUTSIDE SPHERE RADIUS
+RADARCRS 0.85                      #RADAR CROSS SECTIO
+WEAPONCH SMK
+INITIGUN 0
+STRENGTH 8
+
+CRITAOAP  25.0deg                  #CRITICAL AOA POSITIVE
+CRITAOAM -20.0deg                  #CRITICAL AOA NEGATIVE
+CRITSPED 341kt                     #CRITICAL SPEED
+MAXSPEED 454kt                     #MAXIMUM SPEED
+HASSPOIL TRUE                      #HAS SPOILER
+RETRGEAR TRUE                      #HAS RETRACTABLE LANDING GEAR
+VARGEOMW TRUE                      #HAS VARIABLE GEOMETRY WING
+VGWSPED1 0kt
+VGWSPED2 0kt
+TRSTVCTR TRUE                      #HAS THRUST VECTORING CAPABILITY
+TRSTDIR0 0.000m  0.000m 1.000m     #Thrust vector 0
+TRSTDIR1 0.000m -1.000m 0.001m     #Thrust vector 1
+PSTMPTCH 5.0deg                    #Post-Stall Maneuver VPitch
+PSTMYAW_ 0.0deg                    #Post-Stall Maneuver VYaw
+PSTMROLL 0.0deg                    #Post-Stall Maneuver VRoll
+CLVARGEO 0.00                      #EFFECT OF VARIABLE GEOMETRY WING FOR Cl
+CDVARGEO 0.00                      #EFFECT OF VARIABLE GEOMETRY WING FOR Cd
+CLBYFLAP 0.35                      #EFFECT OF FLAP FOR Cl
+CDBYFLAP 0.40                      #EFFECT OF FLAP FOR Cd
+CDBYGEAR 0.30                      #EFFECT OF GEAR FOR Cd
+CDSPOILR 0.70                      #EFFECT OF SPOILER FOR Cd
+
+WINGAREA  21.04m^2                 #WING AREA
+MXIPTAOA  28.00deg                 #MAX INPUT AOA
+MXIPTSSA   5.00deg                 #MAX INPUT SSA
+MXIPTROL 330.00deg                 #MAX INPUT ROLL
+
+REM CPITMANE corresponds to Spring Constant K
+REM CPITSTAB corresponds to Damper Constant B
+REM To be critically damped, B=2*sqrt(K)
+REM 2% Settling Time=??
+
+MANESPD1 50kt                      #MINIMUM MANEUVABLE SPEED
+MANESPD2 100kt                     #FULLY MANEUVABLE SPEED
+CPITMANE 8.0                       #PITCH MANEUVERBILITY CONSTANT
+CPITSTAB 4.0                       #PITCH STABILITY CONSTANT
+CYAWMANE 5.0                       #YAW MANEUVABILITY CONSTANT
+CYAWSTAB 3.0                       #YAW STABILITY CONSTANT
+CROLLMAN 4.0                       #ROLL MANEUVABILITY CONSTANT
+CTLLDGEA TRUE                      #CONTROL LANDINGGEAR
+CTLBRAKE FALSE                     #CONTROL BRAKE
+CTLSPOIL 0.0                       #CONTROL SPOILER
+CTLABRNR FALSE                     #CONTROL AFTERBURNER
+CTLTHROT 0.0                       #CONTROL THRUST
+CTLIFLAP 0.0                       #CONTROL FLAP
+CTLINVGW 0.0                       #CONTROL VARIABLE GEOMETRY WING
+CTLATVGW FALSE                     #CONTROL AUTO VARIABLE GEOMETRY WING
+POSITION 0m 3ft 0m                 #POSITION
+ATTITUDE 0deg 0deg 0deg            #ATTITUDE
+INITFUEL 75%                       #INITIAL FUEL
+INITLOAD 0.00t                     #INITIAL PAYLOAD
+INITSPED 0.0kt                     #INITIAL SPEED
+
+NMTURRET 3
+TURRETPO 0 0m 0m 0m 0deg 0deg 0deg #Number x y z h p b
+TURRETPT 0 0.0deg 30.0deg 0.0deg   #Number MinPitch MaxPitch NeutralPitch
+TURRETHD 0 0.0deg 90.0deg 0.0deg   #Number MinHdg MaxHdg NeutralHdg
+TURRETAM 0 0                       #Ammo
+TURRETIV 0 0.5sec                  #Number ShootingInterval
+TURRETNM 0 010                     #DNM Node Name
+TURRETAR 0                         #Anti Air Capable
+TURRETCT 0 PILOT                   #Controlled by PILOT or GUNNER
+TURRETRG 0 1m
+TURRETPO 1 0m 0m 0m 0deg 0deg 0deg #Number x y z h p b
+TURRETPT 1 0.0deg 30.0deg 0.0deg   #Number MinPitch MaxPitch NeutralPitch
+TURRETHD 1 0.0deg 0.0deg 0.0deg    #Number MinHdg MaxHdg NeutralHdg
+TURRETAM 1 0                       #Ammo
+TURRETIV 1 0.5sec                  #Number ShootingInterval
+TURRETNM 1 373                     #DNM Node Name
+TURRETAR 1                         #Anti Air Capable
+TURRETCT 1 PILOT                   #Controlled by PILOT or GUNNER
+TURRETRG 1 1m
+TURRETPO 2 0m 0m 0m 0deg 0deg 0deg #Number x y z h p b
+TURRETPT 2 0.0deg 0.0deg 0.0deg    #Number MinPitch MaxPitch NeutralPitch
+TURRETHD 2 0.0deg 90.0deg 0.0deg   #Number MinHdg MaxHdg NeutralHdg
+TURRETAM 2 0                       #Ammo
+TURRETIV 2 0.5sec                  #Number ShootingInterval
+TURRETNM 2 400                     #DNM Node Name
+TURRETAR 2                         #Anti Air Capable
+TURRETCT 2 PILOT                   #Controlled by PILOT or GUNNER
+TURRETRG 2 1m
+
+REM ClZero,CdZero is fixed by Cruising condition
+REFVCRUS 414kt                     #CRUISING SPEED
+REFACRUS 9836ft                    #CRUISING ALTITUDE
+REFTCRUS 0.75                      #CRUISING THROTTLE SETTING
+REM ClSlope,CdConst is fixed by Landing condition
+REFVLAND 121kt                     #LANDING SPEED
+REFAOALD 9.0deg                    #LANDING AOA
+REFLNRWY 1200m                     #RUNWAY REQUIRED TO STOP
+REFTHRLD 0.20                      #LANDING THROTTLE SETTING
+
+AUTOCALC

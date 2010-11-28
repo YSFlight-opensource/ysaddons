@@ -1,0 +1,24 @@
+FIELD
+SKY 37 123 209
+GND 2 34 185
+
+SRF
+FIL _t_wall_fence_v.srf
+ID 0
+TAG ""
+POS -35.00 0.00 -200.00 0 0 0
+END
+
+SRF
+FIL _t_wall_fence_v.srf
+ID 0
+TAG ""
+POS 35.00 0.00 200.00 0 0 0
+END
+
+FLD
+FIL site-c_w_tunnel_sw.fld
+POS 0.00 0.00 0.00 0 0 0
+END
+
+ENDF

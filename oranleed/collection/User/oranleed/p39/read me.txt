@@ -1,0 +1,12 @@
+ベル　P-39エアコブラ戦闘機
+全長: 9.19m
+全幅: 10.36m
+全高:  3.61m
+自重: 2,545kg
+最高速度:621km/h
+武装:37mm機関砲×1　12.7mm機銃×2  7.62mm機銃×4
+生産機数9,558機
+
+
+aircraftフォルダの中のaircraft.lstに次の一行を追加して、上書き保存してください。
+user/oranleed/p39/p39.dat user/oranleed/p39/p39.dnm user/oranleed/p39/p39coll.srf user/oranleed/p39/p39cockpit.srf user/oranleed/p39/p39coarse.dnm

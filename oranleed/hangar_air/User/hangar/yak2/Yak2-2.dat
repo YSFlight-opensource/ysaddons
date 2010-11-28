@@ -1,0 +1,113 @@
+REM Yak Bomber
+IDENTIFY "Yakovlev_Yak-2_2"
+CATEGORY WW2ATTACKER
+AFTBURNR FALSE                #HAVE AFTERBURNER?
+PROPELLR 1920HP               #PROPELLER ENGINE
+WEIGHCLN  3.76t                #WEIGHT CLEAN
+WEIGFUEL  0.82t                #WEIGHT OF FUEL
+WEIGLOAD  0.4t                #WEIGHT OF PAYLOAD
+FUELABRN 0.0kg                #FUEL CONSUMPTION WHEN USING AFTERBURNER
+FUELMILI 0.08kg               #FUEL CONSUMPTION AT MILITARY POWER
+
+COCKPITP 0.0m  0.66m  1.34m  #COCKPIT POSITION
+LEFTGEAR -1.98m -2.195m 1.435m  #LEFT LANDING GEAR POSITION
+RIGHGEAR  1.98m -2.195m 1.435m  #RIGHT LANDING GEAR POSITION
+WHELGEAR  0.0m -0.28m  -5.465m  #WHEEL POSITION
+ARRESTER  0.0m -0.155m -5.275m
+MACHNGUN  0.0m  0.715m  -0.715m  #MACHINE GUN POSITION
+GUNDIREC  0.0m 0.5m -1.5m     #MACHINE GUN DIRECTION
+SMOKEGEN -2.205m -0.185m -2.25m  #SMOKE GENERATOR POSITION
+VAPORPO0  7.0m  0.15m -0.41m  #VAPOR POSITION (Wings Swept Back or no-VGW)
+VAPORPO1  7.0m  0.15m -0.41m  #VAPOR POSITION (Wings Swept Back or no-VGW)
+HTRADIUS  10.0m                #OUTSIDE SPHERE RADIUS
+
+TRIGGER1 GUN
+TRIGGER2 NON
+TRIGGER3 NON
+TRIGGER4 NON
+
+STRENGTH 4
+
+CRITAOAP  20deg               #CRITICAL AOA POSITIVE
+CRITAOAM -15deg               #CRITICAL AOA NEGATIVE
+
+CRITSPED 322km/h              #CRITICAL SPEED
+MAXSPEED 498km/h              #MAXIMUM SPEED
+
+HASSPOIL FALSE                #HAS SPOILER?
+RETRGEAR TRUE                 #HAS RETRACTABLE LANDING GEAR?
+VARGEOMW FALSE                #HAS VARIABLE GEOMETRY WING?
+
+CLVARGEO 0.0                  #EFFECT OF VARIABLE GEOMETRY WING FOR Cl
+CDVARGEO 0.0                  #EFFECT OF VARIABLE GEOMETRY WING FOR Cd
+CLBYFLAP 0.2                  #EFFECT OF FLAP FOR Cl
+CDBYFLAP 0.5                  #EFFECT OF FLAP FOR Cd
+CDBYGEAR 0.5                  #EFFECT OF GEAR FOR Cd
+CDSPOILR 0.0                  #EFFECT OF SPOILER FOR Cd
+
+WINGAREA 32m^2                #WING AREA
+
+MXIPTAOA 17.0deg              #MAX INPUT AOA
+MXIPTSSA 6.0deg               #MAX INPUT SSA
+MXIPTROL 57.0deg              #MAX INPUT ROLL
+
+REM CPITMANE corresponds to Spring Constant K
+REM CPITSTAB corresponds to Damper Constant B
+REM To be critically damped, B=2*sqrt(K)
+REM 2% Settling Time=??
+
+MANESPD1 50kt                 #MINIMUM MANEUVABLE SPEED
+MANESPD2 80kt                 #FULLY MANEUVABLE SPEED
+CPITMANE 8.0                  #PITCH MANEUVERBILITY CONSTANT
+CPITSTAB 2.0                  #PITCH STABILITY CONSTANT
+CYAWMANE 3.0                  #YAW MANEUVABILITY CONSTANT
+CYAWSTAB 2.0                  #YAW STABILITY CONSTANT
+CROLLMAN 3.0                  #ROLL MANEUVABILITY CONSTANT
+
+CTLLDGEA TRUE                 #CONTROL LANDINGGEAR
+CTLBRAKE FALSE                #CONTROL BRAKE
+CTLSPOIL 0.0                  #CONTROL SPOILER
+CTLABRNR FALSE                #CONTROL AFTERBURNER
+CTLTHROT 0.0                  #CONTROL THRUST
+CTLIFLAP 0.0                  #CONTROL FLAP
+CTLINVGW 0.0                  #CONTROL VARIABLE GEOMETRY WING
+CTLATVGW FALSE                #CONTROL AUTO VARIABLE GEOMETRY WING
+
+POSITION 0m 3ft 0m           #POSITION
+ATTITUDE 45deg 0deg 0deg      #ATTITUDE
+INITFUEL 75%                  #INITIAL FUEL
+INITLOAD 0.0t                 #INITIAL PAYLOAD
+INITSPED 0.0MACH              #INITIAL SPEED
+
+NMTURRET 1
+TURRETPO 0 0m 0.65m -0.57m 180deg 0deg 0deg      # Number x y z h p b
+TURRETPT 0 0deg 50deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 0 -60deg 60deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 0 2000                              # Ammo
+TURRETIV 0 0.15sec                            # Number ShootingInterval
+TURRETNM 0 MG                            # DNM Node Name
+TURRETAR 0                                   # Anti Air Capable
+REM TURRETGD 0                                   # Anti Ground Capable
+TURRETCT 0 GUNNER                            # Controlled by PILOT or GUNNER
+TURRETRG 0 700m
+
+INITIGUN 0                    #INITIAL GUN
+INITIAAM 0                    #INITIAL AAM
+INITIAGM 0                    #INITIAL AGM
+INITBOMB 2
+
+BOMBSLOT  0.7m -0.7m 0.65m
+BOMBSLOT -0.7m -0.7m 0.65m
+
+REM ClZero,CdZero is fixed by Cruising condition
+REFVCRUS 498km/h              #CRUISING SPEED
+REFACRUS 3000m              #CRUISING ALTITUDE
+REFTCRUS 1.0                 #CRUISING THROTTLE SETTING
+
+REM ClSlope,CdConst is fixed by Landing condition
+REFVLAND 80kt                 #LANDING SPEED
+REFAOALD 10deg                 #LANDING AOA
+REFLNRWY 400m                 #RUNWAY REQUIRED TO STOP
+REFTHRLD 0.5                  #LANDING THROTTLE SETTING
+
+AUTOCALC

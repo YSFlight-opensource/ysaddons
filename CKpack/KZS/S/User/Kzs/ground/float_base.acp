@@ -1,0 +1,9 @@
+User/Kzs/ground/float_base_deck.srf
+User/Kzs/ground/float_base_wire.srf
+User/Kzs/ground/float_base_catapult.srf
+User/Kzs/ground/float_base_bridge.srf
+ILS 0.00m 20.00m -140m 180deg 5deg 0deg 6000m
+VIEWPOINT TRUE
+ARRESTINGWIRE -32.85786m 20.5m -95.00m 32.85786m 20.5m -95.00m
+
+REM ACP File Aircraft Carrier Property

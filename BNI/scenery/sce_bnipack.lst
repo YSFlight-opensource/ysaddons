@@ -1,0 +1,15 @@
+MID-OHIO_RACEWAY user/BNIPack/midohio/midohio_h.fld user/BNIPack/midohio/midohio.stp
+MID-OHIO_RACEWAY(LITE) user/BNIPack/midohio/midohio.fld user/BNIPack/midohio/midohio.stp
+MID-OHIO_RACEWAY(LOOP) user/BNIPack/midohio/midohio_h.fld user/BNIPack/midohio/midohio.stp user/BNIPack/midohio/midohio_loop.yfs
+MID-OHIO_RACEWAY(LOOP/L) user/BNIPack/midohio/midohio.fld user/BNIPack/midohio/midohio.stp user/BNIPack/midohio/midohio_loop.yfs
+MID-OHIO_RACEWAY(SHORT) user/BNIPack/midohio/midohio_h.fld user/BNIPack/midohio/midohio.stp user/BNIPack/midohio/midohio_short.yfs
+MID-OHIO_RACEWAY(SHORT/L) user/BNIPack/midohio/midohio.fld user/BNIPack/midohio/midohio.stp user/BNIPack/midohio/midohio_short.yfs
+MID-OHIO_RACEWAY(LONG) user/BNIPack/midohio/midohio_h.fld user/BNIPack/midohio/midohio.stp user/BNIPack/midohio/midohio_full.yfs
+MID-OHIO_RACEWAY(LONG/L) user/BNIPack/midohio/midohio.fld user/BNIPack/midohio/midohio.stp user/BNIPack/midohio/midohio_full.yfs
+
+SILVERSTONE user/BNIPack/silverstone/silverstone.fld user/BNIPack/silverstone/silverstone.stp
+SILVERSTONE(GRAND_PRIX) user/BNIPack/silverstone/silverstone.fld user/BNIPack/silverstone/silverstone.stp user/BNIPack/silverstone/grandprix.yfs
+SILVERSTONE(INTERNATIONAL) user/BNIPack/silverstone/silverstone.fld user/BNIPack/silverstone/silverstone.stp user/BNIPack/silverstone/international.yfs
+SILVERSTONE(NATIONAL) user/BNIPack/silverstone/silverstone.fld user/BNIPack/silverstone/silverstone.stp user/BNIPack/silverstone/national.yfs
+ 
+PALAU_RANGE user/BNIPack/palau/palau.fld user/BNIPack/palau/palau.stp

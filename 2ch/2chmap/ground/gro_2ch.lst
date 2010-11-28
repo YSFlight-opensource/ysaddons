@@ -1,0 +1,47 @@
+User/2ch/2chground/runway/4000RW.dat User/2ch/2chground/runway/4000RW.srf User/2ch/2chground/runway/4000RW_coll.srf "" User/2ch/2chground/runway/4000RW_coarse.srf
+User/2ch/2chground/runway/4000RWNVOR.dat User/2ch/2chground/runway/4000RW.srf User/2ch/2chground/runway/4000RW_coll.srf "" User/2ch/2chground/runway/4000RW_coarse.srf
+User/2ch/2chground/runway/3000RW.dat User/2ch/2chground/runway/3000RW.srf User/2ch/2chground/runway/3000RW_coll.srf "" User/2ch/2chground/runway/3000RW_coarse.srf
+User/2ch/2chground/runway/3000RWNVOR.dat User/2ch/2chground/runway/3000RW.srf User/2ch/2chground/runway/3000RW_coll.srf "" User/2ch/2chground/runway/3000RW_coarse.srf
+User/2ch/2chground/runway/2500RW.dat User/2ch/2chground/runway/2500RW.srf User/2ch/2chground/runway/2500RW_coll.srf "" User/2ch/2chground/runway/2500RW_coarse.srf
+User/2ch/2chground/runway/2500RWNVOR.dat User/2ch/2chground/runway/2500RW.srf User/2ch/2chground/runway/2500RW_coll.srf "" User/2ch/2chground/runway/2500RW_coarse.srf
+User/2ch/2chground/runway/2000RW.dat User/2ch/2chground/runway/2000RW.srf User/2ch/2chground/runway/2000RW_coll.srf "" User/2ch/2chground/runway/2000RW_coarse.srf
+User/2ch/2chground/runway/2000RWNVOR.dat User/2ch/2chground/runway/2000RW.srf User/2ch/2chground/runway/2000RW_coll.srf "" User/2ch/2chground/runway/2000RW_coarse.srf
+User/2ch/2chground/runway/1500RW.dat User/2ch/2chground/runway/1500RW.srf User/2ch/2chground/runway/1500RW_coll.srf "" User/2ch/2chground/runway/1500RW_coarse.srf
+User/2ch/2chground/runway/1500RWNVOR.dat User/2ch/2chground/runway/1500RW.srf User/2ch/2chground/runway/1500RW_coll.srf "" User/2ch/2chground/runway/1500RW_coarse.srf
+User/2ch/2chground/runway/1000RW.dat User/2ch/2chground/runway/1000RW.srf User/2ch/2chground/runway/1000RW_coll.srf "" User/2ch/2chground/runway/1000RW_coarse.srf
+User/2ch/2chground/runway/500RW.dat User/2ch/2chground/runway/500RW.srf User/2ch/2chground/runway/500RW_coll.srf "" User/2ch/2chground/runway/500RW_coarse.srf
+User/2ch/2chground/runway/highwaystrip.dat User/2ch/2chground/runway/highwaystrip.srf User/2ch/2chground/runway/highwaystrip_coll.srf "" User/2ch/2chground/runway/highwaystrip_coarse.srf
+
+User/2ch/2chground/ground/W50bridge.dat User/2ch/2chground/ground/W50bridge.srf User/2ch/2chground/ground/W50bridge_coll.srf "" User/2ch/2chground/ground/W50bridge_coarse.srf
+
+User/2ch/2chground/ground/alt_hanger.dat user/2ch/2chground/ground/alt_hanger.srf user/2ch/2chground/ground/alt_hanger.srf
+User/2ch/2chground/ground/hqbill.dat User/2ch/2chground/ground/hqbill.dnm User/2ch/2chground/ground/hqbill_coll.srf "" User/2ch/2chground/ground/hqbill_coarse.srf
+User/2ch/2chground/ground/bills.dat User/2ch/2chground/ground/bills_main.srf User/2ch/2chground/ground/bills_coll.srf "" User/2ch/2chground/ground/bills_coarse.srf
+User/2ch/2chground/ground/tunnelhangar.dat User/2ch/2chground/ground/tunnelhangar.srf User/2ch/2chground/ground/tunnelhangar_coll.srf "" User/2ch/2chground/ground/tunnelhangar_coarse.srf
+
+User/2ch/2chground/ground/saitama.dat User/2ch/2chground/ground/saitama_main.srf User/2ch/2chground/ground/saitama_coll.srf "" User/2ch/2chground/ground/saitama_coarse.srf
+
+
+User/2ch/2chground/guard_ground/hohei.dat User/2ch/2chground/guard_ground/hohei.dnm User/2ch/2chground/guard_ground/hohei_coll.srf "" User/2ch/2chground/guard_ground/hohei_coarse.srf
+User/2ch/2chground/guard_ground/radarsight.dat User/2ch/2chground/guard_ground/radarsight.dnm User/2ch/2chground/guard_ground/radarsight_coll.srf "" User/2ch/2chground/guard_ground/radarsight_coarse.dnm
+
+User/2ch/2chground/east/grnd/spyship.dat User/2ch/2chground/east/grnd/spyship.srf User/2ch/2chground/east/grnd/spyship-cls.srf
+
+User/2ch/2chground/ground/500km_cloud.dat User/2ch/2chground/ground/500km_cloud.srf User/2ch/2chground/ground/cloud_coll.srf
+User/2ch/2chground/ground/small_cloud.dat User/2ch/2chground/ground/small_cloud.srf User/2ch/2chground/ground/cloud_coll.srf
+
+
+User/2ch/2chground/army/m1a1.dat User/2ch/2chground/army/m1a1.dnm User/2ch/2chground/army/tankscl.srf "" User/2ch/2chground/army/tankscl.srf
+User/2ch/2chground/army/bdrm2.dat User/2ch/2chground/army/bdrm2.dnm User/2ch/2chground/army/tankscl.srf "" User/2ch/2chground/army/tankscl.srf
+User/2ch/2chground/army/btr-60.dat User/2ch/2chground/army/btr-60.dnm User/2ch/2chground/army/tankscl.srf "" User/2ch/2chground/army/tankscl.srf
+User/2ch/2chground/army/pt-76.dat User/2ch/2chground/army/pt-76.dnm User/2ch/2chground/army/tankscl.srf "" User/2ch/2chground/army/tankscl.srf
+User/2ch/2chground/army/t-55.dat User/2ch/2chground/army/t-55.dnm User/2ch/2chground/army/tankscl.srf "" User/2ch/2chground/army/tankscl.srf
+User/2ch/2chground/army/t-62.dat User/2ch/2chground/army/t-62.dnm User/2ch/2chground/army/tankscl.srf "" User/2ch/2chground/army/tankscl.srf
+User/2ch/2chground/army/t-72.dat User/2ch/2chground/army/t-72.dnm User/2ch/2chground/army/tankscl.srf "" User/2ch/2chground/army/tankscl.srf
+User/2ch/2chground/army/t-80.dat User/2ch/2chground/army/t-80.dnm User/2ch/2chground/army/tankscl.srf "" User/2ch/2chground/army/tankscl.srf
+User/2ch/2chground/army/typ-59.dat User/2ch/2chground/army/typ-59.dnm User/2ch/2chground/army/tankscl.srf "" User/2ch/2chground/army/tankscl.srf
+User/2ch/2chground/army/type-62.dat User/2ch/2chground/army/type-62.dnm User/2ch/2chground/army/tankscl.srf "" User/2ch/2chground/army/tankscl.srf
+User/2ch/2chground/army/type-98.dat User/2ch/2chground/army/type-98.dnm User/2ch/2chground/army/tankscl.srf "" User/2ch/2chground/army/tankscl.srf
+User/2ch/2chground/army/INFPL.dat User/2ch/2chground/army/INFPL.dnm User/2ch/2chground/army/infplcl.srf "" User/2ch/2chground/army/infplc.dnm
+
+User/2ch/2chground/spweapon/mgrex.dat User/2ch/2chground/spweapon/mgrex.dnm User/2ch/2chground/spweapon/mgrex_coll.srf "" User/2ch/2chground/spweapon/mgrex_coarse.dnm

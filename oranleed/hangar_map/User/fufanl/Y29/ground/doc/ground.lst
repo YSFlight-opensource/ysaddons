@@ -1,0 +1,22 @@
+Scenery:
+OP_BODENPLATTE user/fufanl/y29/y29.fld user/fufanl/y29/y29.stp user/fufanl/y29/y29.yfs
+OPERATION_BODENPLATTE user/fufanl/y29/y29se.fld user/fufanl/y29/y29.stp 
+
+ground:
+
+User/fufanl/y29/ground/bf109.dat User/fufanl/y29/ground/bf109.srf User/fufanl/y29/ground/bf109.srf
+User/fufanl/y29/ground/bf109bomb.dat User/fufanl/y29/ground/bf109bomb.srf User/fufanl/y29/ground/bf109bomb.srf
+User/fufanl/y29/ground/fw190.dat User/fufanl/y29/ground/fw190.srf User/fufanl/y29/ground/fw190.srf
+User/fufanl/y29/ground/p47.dat User/fufanl/y29/ground/p47.srf User/fufanl/y29/ground/p47.srf
+user/fufanl/y29/ground/m16_aa.dat user/fufanl/y29/ground/m16_aa.srf user/fufanl/y29/ground/m16_aa.srf
+user/fufanl/y29/ground/m16_aaside.dat user/fufanl/y29/ground/m16_aaside.srf user/fufanl/y29/ground/m16_aaside.srf
+user/fufanl/y29/ground/ushangar.dat user/fufanl/y29/ground/ushangar.srf user/fufanl/y29/ground/ushangar.srf
+user/fufanl/y29/ground/ushangar1.dat user/fufanl/y29/ground/ushangar1.srf user/fufanl/y29/ground/ushangar1.srf
+user/fufanl/y29/ground/ushangarbig.dat user/fufanl/y29/ground/ushangarbig.srf user/fufanl/y29/ground/ushangarbig.srf
+user/fufanl/y29/ground/obhangarb.dat user/fufanl/y29/ground/obhangarb.srf user/fufanl/y29/ground/obhangarb.srf
+user/fufanl/y29/ground/obhangars.dat user/fufanl/y29/ground/obhangars.srf user/fufanl/y29/ground/obhangars.srf
+user/fufanl/y29/ground/obhangar1.dat user/fufanl/y29/ground/obhangar1.srf user/fufanl/y29/ground/obhangar1.srf
+user/fufanl/y29/ground/obhangar.dat user/fufanl/y29/ground/obhangar.srf user/fufanl/y29/ground/obhangar.srf
+
+
+

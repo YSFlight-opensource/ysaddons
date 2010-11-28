@@ -1,0 +1,45 @@
+CFB Cold Lake (CYOD) and surrounding environment.
+
+This version of CFB Cold Lake was based on these Nav Canada publications: Canada Airport Manoeuvring Surfaces (effective 0901Z 12 May 2005) and 1:500000 VFR Navigation Chart (May 2004 edition), supplemented by satellite photos from maps.google.com.
+Latest version of CAMS can be downloaded from the Nav Canada website:
+http://www.navcanada.ca/NavCanada.asp?Content=ContentDefinitionFiles%5CPublications%5CAeronauticalInfoProducts%5Cdefault.xml
+
+Google map link for CFB Cold Lake:
+http://maps.google.ca/maps?ll=54.405144,-110.281277&spn=0.044707,0.107142&t=k&hl=en
+
+The map is aligned to magnetic north. The current magnetic variation for the area around CFB Cold Lake is 16 degrees E.
+
+*  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+Airports:
+
+CFB Cold Lake (CYOD):
+There are 3 runways at CFB Cold Lake: 13L/31R (12600x200 ft, bearing 128/308), 13R/31L (10000x150 ft, bearing 128/308) and 04/22 (8270x200 ft, bearing 038/218). In real life there are no published civilian ILS approaches at CYOD, only NDB approaches. I do not have access to military approach plates, but I don't think they have ILS approaches either, because a) if ILS is available for the military then they will also be available for civilians, and b) there are PAR (Precision Approach Radar) controllers on duty full time for Rwy 13L, 31R and 22. However in this map I added ILS for rwy 13L/31R/22. The on-field VOR is actually a TACAN in real life and is used only by the military. In real life jet aircrafts will fly the pattern at 1500AGL, non-jets 800 AGL. The large variety of military aircrafts on the aprons is to depict CYOD during the multi-national Maple Flag exercise that is held annually.
+
+Cold Lake Regional (CEN5):
+This is a small aerodrome operated by the town of Cold Lake, about 5 NM north of CYOD. No navaids at the airport - it is VFR only. Runway 07/25 (3000x75 ft, bearing 074/254).
+
+Bonnyville (CYBF):
+This is another small aerodrome in the area, operated by the town of same name. It is located about 32 NM south-west of CYOD. Again it is VFR only. Runway 07/25 (4433x75 ft, bearing 074/254) with the threshold of rwy 25 displaced 512 ft.
+
+The "Enemy Airbase":
+There is one runway (Rwy 10/28 8000x200 ft, bearing 102/282) at this combined military/civilian facility. There are aircraft revetments off either end of the runway, and the civilian terminal is located on the east end of the main apron. The entire airfield is defended by mobile SAM launchers and ZU-23 guns. Remember that civilian facilities and any civilian aircrafts are NOT valid targets. Starting positions are located on both ends of the runway and also in some of the revetments. However in non-network play starting at these positions can be extremly hazardous due to the active air-defense!
+
+*  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+This map is compatible with the standard Intercept missions, Endurance mode, and Close Air Support missions. In the CAS mission enemy ground force will approach CYOD from the North (near the Cold Lake regional airport) and the North-West.
+
+The entire map is based on reality. However, artistic license is applied to where information is not complete, to make the map more interesting, to get around system limitations of YSFlight, or simply when I get lazy. :)
+
+*  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+Version History
+
+30 Jul 2005 : Initial release.
+
+15 Oct 2005 : minor fixes and added the lite version.
+
+All files are copyright 2005 by Edmund Hon
+http://www.ysflight.ca
+taskforce58@gmail.com
+

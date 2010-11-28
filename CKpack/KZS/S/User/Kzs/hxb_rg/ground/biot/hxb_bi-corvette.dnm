@@ -1,0 +1,49 @@
+DYNAMODEL
+PCK _null.srf 3
+SURF
+V 0.0 0.0 0.0
+E
+SRF "0000"
+FIL hxb_bishop.srf
+CLA 0
+NST 1
+STA 0.0 0.0 0.0 0 0 0 1
+POS 0.0 0.0 0.0 0 0 0 1
+CNT 0.0 0.0 0.0
+REL DEP
+NCH 1
+CLD "0001"
+END
+SRF "0001"
+FIL _null.srf
+CLA 0
+NST 1
+STA 0.0 0.0 0.0 0 0 0 0
+POS 0.0 0.0 -140.0 0 0 0 1
+CNT 0.0 0.0 0.0
+REL DEP
+NCH 2
+CLD "1001"
+CLD "1002"
+END
+SRF "1001"
+FIL hxb_bishop_shield_s.srf
+CLA 0
+NST 1
+STA 0.0 0.0 0.0 0 0 0 1
+POS -65.0 0.0 0.0 0 0 28672 1
+CNT 0.0 0.0 0.0
+REL DEP
+NCH 0
+END
+SRF "1002"
+FIL hxb_bishop_shield_s.srf
+CLA 0
+NST 1
+STA 0.0 0.0 0.0 0 0 0 1
+POS 65.0 0.0 0.0 0 0 4096 1
+CNT 0.0 0.0 0.0
+REL DEP
+NCH 0
+END
+END

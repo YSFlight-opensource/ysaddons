@@ -1,0 +1,240 @@
+DYNAMODEL
+DNMVER 1
+SRF "balloon"
+CLA 0
+NST 2
+STA 0 0 0 0 0 0 1
+STA 0 0 0 0 0 0 1
+POS 0 9 0 0 0 0 1
+CNT 0 0 0
+REL DEP
+NCH 8
+CLD "envelope-inside"
+CLD "envelope-burner"
+CLD "ripvalve"
+CLD "burner-f"
+CLD "burner-b"
+CLD "pilot"
+CLD "envelope-outside"
+CLD "CAMERA"
+END
+SRF "envelope-inside"
+FIL D/envelope-inside.srf
+CLA 2
+NST 2
+STA 0 0 0 0 0 0 1
+STA 0 0 0 0 0 0 0
+POS 0 0 0 0 0 0 1
+CNT 0 0 0
+REL DEP
+NCH 0
+END
+SRF "envelope-burner"
+FIL D/envelope-burner.srf
+CLA 2
+NST 2
+STA 0 0 0 0 0 0 0
+STA 0 0 0 0 0 0 1
+POS 0 0 0 0 0 0 1
+CNT 0 0 0
+REL DEP
+NCH 0
+END
+SRF "ripvalve"
+CLA 5
+NST 2
+STA 0 -0.1 0 0 0 0 1
+STA 0 0 0 0 0 0 1
+POS 0 0 0 0 0 0 1
+CNT 0 0 0
+REL DEP
+NCH 2
+CLD "ripvalve-view"
+CLD "ripvalve-burner"
+END
+SRF "ripvalve-view"
+FIL D/ripvalve.srf
+CLA 2
+NST 2
+STA 0 0 0 0 0 0 1
+STA 0 0 0 0 0 0 0
+POS 0 0 0 0 0 0 1
+CNT 0 0 0
+REL DEP
+NCH 0
+END
+SRF "ripvalve-burner"
+FIL D/ripvalve-burner.srf
+CLA 2
+NST 2
+STA 0 0 0 0 0 0 0
+STA 0 0 0 0 0 0 1
+POS 0 0 0 0 0 0 1
+CNT 0 0 0
+REL DEP
+NCH 0
+END
+SRF "burner-f"
+FIL burner.srf
+CLA 0
+NST 2
+STA 0 0 0 0 0 0 1
+STA 0 0 0 0 0 0 1
+POS 0 0 0.25 0 0 0 1
+CNT 0 0 0
+REL DEP
+NCH 1
+CLD "fire-f"
+END
+SRF "fire-f"
+CLA 3
+NST 1
+STA 0 0 0 0 0 0 1
+POS 0 -9.42 0 0 546 0 1
+CNT 0 -9.42 0
+REL DEP
+NCH 1
+CLD "fire-f2"
+END
+SRF "fire-f2"
+CLA 3
+NST 1
+STA 0 0 0 0 0 0 1
+POS 0 0 0 0 0 0 1
+CNT 0 0 0
+REL DEP
+NCH 1
+CLD "fire-f3"
+END
+SRF "fire-f3"
+CLA 3
+NST 1
+STA 0 0 0 0 0 0 1
+POS 0 0 0 0 0 0 1
+CNT 0 0 0
+REL DEP
+NCH 1
+CLD "fire-f-view"
+END
+SRF "fire-f-view"
+FIL fire.srf
+CLA 2
+NST 2
+STA 0 0 0 0 0 0 0
+STA 0 0 0 0 0 0 1
+POS 0 0 0 0 0 0 1
+CNT 0 0 0
+REL DEP
+NCH 0
+END
+SRF "burner-b"
+FIL burner.srf
+CLA 0
+NST 2
+STA 0 0 0 0 0 0 1
+STA 0 0 0 0 0 0 1
+POS 0 0 -0.25 0 0 0 1
+CNT 0 0 0
+REL DEP
+NCH 1
+CLD "fire-b"
+END
+SRF "fire-b"
+CLA 3
+NST 1
+STA 0 0 0 0 0 0 1
+POS 0 -9.42 0 0 -546 0 1
+CNT 0 -9.42 0
+REL DEP
+NCH 1
+CLD "fire-b2"
+END
+SRF "fire-b2"
+CLA 3
+NST 1
+STA 0 0 0 0 0 0 1
+POS 0 0 0 0 0 0 1
+CNT 0 0 0
+REL DEP
+NCH 2
+CLD "fire-b3"
+CLD "fire-b-view"
+END
+SRF "fire-b3"
+CLA 3
+NST 1
+STA 0 0 0 0 0 0 1
+POS 0 0 0 0 0 0 1
+CNT 0 0 0
+REL DEP
+NCH 0
+END
+SRF "fire-b-view"
+FIL fire.srf
+CLA 2
+NST 2
+STA 0 0 0 0 0 0 0
+STA 0 0 0 0 0 0 1
+POS 0 0 0 32768 0 0 1
+CNT 0 0 0
+REL DEP
+NCH 0
+END
+SRF "pilot"
+FIL D/pilot.srf
+CLA 0
+NST 2
+STA 0 0 0 0 0 0 1
+STA 0 0 0 0 0 0 1
+POS 0 0 0 0 0 0 1
+CNT 0 0 0
+REL DEP
+NCH 1
+CLD "basket"
+END
+SRF "basket"
+FIL basket.srf
+CLA 0
+NST 2
+STA 0 0 0 0 0 0 1
+STA 0 0 0 0 0 0 1
+POS 0 0 0 0 0 0 1
+CNT 0 0 0
+REL DEP
+NCH 1
+CLD "frame"
+END
+SRF "frame"
+FIL frame.srf
+CLA 0
+NST 2
+STA 0 0 0 0 0 0 1
+STA 0 0 0 0 0 0 1
+POS 0 0 0 0 0 0 1
+CNT 0 0 0
+REL DEP
+NCH 0
+END
+SRF "envelope-outside"
+FIL D/envelope-outside.srf
+CLA 0
+NST 2
+STA 0 0 0 0 0 0 1
+STA 0 0 0 0 0 0 1
+POS 0 0 0 0 0 0 1
+CNT 0 0 0
+REL DEP
+NCH 0
+END
+SRF "CAMERA"
+FIL camera.srf
+CLA 0
+NST 2
+STA 0 0 0 0 0 0 1
+STA 0 0 0 0 0 0 1
+POS -0.93 -10.926 0.468 0 0 0 1
+CNT -0.93 -10.926 0.468
+REL DEP
+NCH 0
+END
+END

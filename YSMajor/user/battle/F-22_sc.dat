@@ -1,0 +1,150 @@
+REM GACGLIMT 7.9
+REM GACRADRG 230
+REM GACRADCS 0.1
+REM GACECMRG 0
+REM GACAEWTR 50
+REM GACAEWRC 1
+REM GACLNDNV 0
+REM GACLIMIT 2
+REM GACSNDCH 2
+REM GACRCVCH 2
+REM GACRADSD 2
+REM GACRADEL 1
+
+IDENTIFY "Starscream_F-22"
+CATEGORY FIGHTER
+AFTBURNR TRUE                 #HAVE AFTERBURNER?
+THRAFTBN 46.0t                #THRUST WITH AFTERBURNER
+THRMILIT 34.0t                #THRUST AT MILITARY POWER
+WEIGHCLN 14.4t                #WEIGHT CLEAN
+WEIGFUEL  10.0t                #WEIGHT OF FUEL
+WEIGLOAD 8.0t                #WEIGHT OF PAYLOAD
+FUELABRN 25kg                #FUEL CONSUMPTION WHEN USING AFTERBURNER
+FUELMILI 1.25kg               #FUEL CONSUMPTION AT MILITARY POWER
+GUNINTVL 0.01
+
+COCKPITP  0.0m  0.95m   4.20m  #COCKPIT POSITION
+LEFTGEAR -2.09m -2.01m -2.85m  #LEFT LANDING GEAR POSITION
+RIGHGEAR  2.09m -2.01m -2.85m  #RIGHT LANDING GEAR POSITION
+WHELGEAR  0.0m -2.01m  3.155m  #WHEEL POSITION
+ARRESTER  0.0m -1.50m -7.00m
+MACHNGUN  1.615m  -1.20m  1.815m  #MACHINE GUN POSITION
+SMOKEGEN 0.00m -0.00m -8.50m  #SMOKE GENERATOR POSITION
+VAPORPO0  6.78m  0.06m -5.05m  #VAPOR POSITION (Wings Swept Back or no-VGW)
+VAPORPO1  6.78m  0.06m -5.05m  #VAPOR POSITION (Wings Spread)
+HTRADIUS  12.6m                #OUTSIDE SPHERE RADIUS
+
+EXCAMERA "robotview" 0.0m 8m -10.0m 0deg 0deg 0deg INSIDE
+
+TRIGGER1 GUN
+TRIGGER2 AAM
+TRIGGER3 AGM
+TRIGGER4 SMK
+
+STRENGTH 250
+
+CRITAOAP  26.75deg               #CRITICAL AOA POSITIVE
+CRITAOAM -15deg               #CRITICAL AOA NEGATIVE
+
+CRITSPED 2.6MACH              #CRITICAL SPEED
+MAXSPEED 2.9MACH              #MAXIMUM SPEED
+
+HASSPOIL TRUE                 #HAS SPOILER?
+RETRGEAR TRUE                 #HAS RETRACTABLE LANDING GEAR?
+VARGEOMW TRUE                #HAS VARIABLE GEOMETRY WING?
+VGWSPED1 0kt                 #VARIABLE GEOMETRY WING SPEED
+VGWSPED2 2kt                 #VARIABLE GEOMETRY WING SPEED
+
+TRSTVCTR TRUE                 #HAS THRUST VECTORING CAPABILITY?
+TRSTDIR0 0.0m 0.0m 1.0m       #Thrust vector 0
+TRSTDIR1 0.0m 1.0m 0.0m       #Thrust vector 1
+PSTMPTCH 30deg                #Post-Stall Maneuver VPitch
+PSTMYAW_ 30deg                #Post-Stall Maneuver VYaw
+PSTMROLL 30deg                #Post-Stall Maneuver VRoll
+
+CLVARGEO 0.0                  #EFFECT OF VARIABLE GEOMETRY WING FOR Cl
+CDVARGEO 0.0                  #EFFECT OF VARIABLE GEOMETRY WING FOR Cd
+CLBYFLAP 0.35                  #EFFECT OF FLAP FOR Cl
+CDBYFLAP 1.4                  #EFFECT OF FLAP FOR Cd
+CDBYGEAR 0.5                  #EFFECT OF GEAR FOR Cd
+CDSPOILR 3.6                  #EFFECT OF SPOILER FOR Cd
+
+WINGAREA 78m^2                #WING AREA
+
+MXIPTAOA 29.0deg              #MAX INPUT AOA
+MXIPTSSA 8.0deg               #MAX INPUT SSA
+MXIPTROL 280.0deg             #MAX INPUT ROLL
+
+REM CPITMANE corresponds to Spring Constant K
+REM CPITSTAB corresponds to Damper Constant B
+REM To be critically damped, B=2*sqrt(K)
+REM 2% Settling Time=??
+
+MANESPD1 5kt                 #MINIMUM MANEUVABLE SPEED
+MANESPD2 25kt                 #FULLY MANEUVABLE SPEED
+CPITMANE 5.5                 #PITCH MANEUVERBILITY CONSTANT
+CPITSTAB 2.0                  #PITCH STABILITY CONSTANT
+CYAWMANE 7.0                  #YAW MANEUVABILITY CONSTANT
+CYAWSTAB 2.0                  #YAW STABILITY CONSTANT
+CROLLMAN 4.0                  #ROLL MANEUVABILITY CONSTANT
+
+CTLLDGEA TRUE                 #CONTROL LANDINGGEAR
+CTLBRAKE FALSE                #CONTROL BRAKE
+CTLSPOIL 0.0                  #CONTROL SPOILER
+CTLABRNR FALSE                #CONTROL AFTERBURNER
+CTLTHROT 0.0                  #CONTROL THRUST
+CTLIFLAP 0.0                  #CONTROL FLAP
+CTLINVGW 0.0                  #CONTROL VARIABLE GEOMETRY WING
+CTLATVGW FALSE                #CONTROL AUTO VARIABLE GEOMETRY WING
+
+POSITION 0m 3ft 0m           #POSITION
+ATTITUDE 45deg 0deg 0deg      #ATTITUDE
+INITFUEL 75%                  #INITIAL FUEL
+INITLOAD 0.0t                 #INITIAL PAYLOAD
+INITSPED 0.0MACH              #INITIAL SPEED
+
+MAXNMAAM 100
+MAXNMAGM 100
+MAXNBOMB 100
+MAXNMRKT 38
+
+HRDPOINT -0.7m -1.5m -1.0m AGM65 AIM9 AIM120 RKT B250 B500
+HRDPOINT 0.7m -1.5m -1.0m AGM65 AIM9 AIM120 RKT B250 B500
+
+AGMVISIB FALSE
+
+LMTBYHDP FALSE                 #Limit Max Num Weapon by Hardpoint
+AAMVISIB FALSE
+
+BMBAYRCS 1.0
+BOMINBAY TRUE
+
+INITIGUN 0                 #INITIAL GUN
+LOADWEPN AIM9 8
+INITIAGM 8                    #INITIAL AGM
+
+NMTURRET 1
+TURRETPO 0 5m 4m  0m 0deg 0deg 0deg      # Number x y z h p b
+TURRETPT 0 -25deg 25deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 0 -25deg 25deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 0 4000                              # Ammo
+TURRETIV 0 0.02sec                           # Number ShootingInterval
+TURRETNM 0 1007b                               # DNM Node Name
+TURRETAR 0                                   # Anti Air Capable
+TURRETGD 0                                   # Anti Ground Capable
+TURRETCT 0 PILOT                             # Controlled by the pilot
+TURRETRG 0 2500m
+RADARCRS 0.1                  #RADAR CROSS SECTION
+
+REM ClZero,CdZero is fixed by Cruising condition
+REFVCRUS 2.3MACH              #CRUISING SPEED
+REFACRUS 50000ft              #CRUISING ALTITUDE
+REFTCRUS 2.5                  #CRUISING THROTTLE SETTING
+
+REM ClSlope,CdConst is fixed by Landing condition
+REFVLAND 150kt                #LANDING SPEED
+REFAOALD 10deg                #LANDING AOA
+REFLNRWY 1600m                #RUNWAY REQUIRED TO STOP
+REFTHRLD 0.265                  #LANDING THROTTLE SETTING
+
+AUTOCALC

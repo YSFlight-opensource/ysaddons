@@ -1,0 +1,11 @@
+[Kzs]_PR_MainIsland User/Kzs/pr/pr_main.fld User/Kzs/pr/pr_main.stp User/Kzs/pr/pr_main.yfs
+[Kzs]_PR_Float_base User/Kzs/pr/pr_float.fld User/Kzs/pr/pr_float.stp User/Kzs/pr/pr_float.yfs
+[Kzs]_PR_RoverIsland User/Kzs/pr/pr_rover.fld User/Kzs/pr/pr_rover.stp User/Kzs/pr/pr_rover.yfs
+
+※ このdirに在るpr_*.sty/pr_*.yfsファイルは、テスト時の個別実行用の物です。
+   ysf/stpファイルを「User/Kzs/pr/」dirへ移動して、上記の三行をscenery.lstに登録すると、
+   各マップが個別に使用可能になります。
+   管制塔視点はありませんが･･･。
+
+by Kzs on 2004/06/27.Sun.
+/E

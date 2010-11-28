@@ -1,0 +1,33 @@
+REM Instrument Panel Definitoin for Boeing 737
+REM Circular indicators,
+REM   ???????? x y radius
+REM Rectangular indicators
+REM   ???????? x1 y1 x2 y2
+REM   (x1<x2, y1<y2)
+
+PNLRANGE -0.90 -1.0 0.90 -0.2
+
+
+AIRSPEED -0.66 -0.53 0.15
+FLAP____ 0.89 -0.97 0.99 -0.69
+SPOILER_ 0.77 -0.97 0.87 -0.69
+TRNCOORD -0.66 -0.84 0.15
+GEAR____ 0.64 -0.85 0.74 -0.70
+CROSHAIR 0.00 0.00 0.05
+FUEL____ 1.01 -0.97 1.11 -0.69
+ATTITUDE -0.32 -0.47 0.17
+HEADING_ -0.32 -0.82 0.17
+THROTTLE 0.95 -0.53 0.12
+VOR_____ 0.33 -0.84 0.15
+BRAKE___ 0.51 -0.85 0.61 -0.70
+ADF_____ 0.64 -0.53 0.15
+ALTITUDE 0.02 -0.53 0.15
+VERTICAL 0.02 -0.84 0.15
+ILS_____ 0.33 -0.53 0.15
+
+SPEEDRNG 500kt
+SPEEDARC 330deg
+SPEEDVFE 210kt
+SPEEDVNE 484kt
+SPEEDMCH TRUE
+SPEEDVNO 467kt

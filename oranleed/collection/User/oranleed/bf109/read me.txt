@@ -1,0 +1,13 @@
+メッサーシュミット　Bf109G6戦闘機＋G10
+全長:  9.02m
+全幅:  9.92m
+全高:  3.04m
+自重: 2,670kg
+最高速度:621km/h
+武装:13mm機銃2 20mm機関砲2 30mm機関砲1
+生産機数　約33,000機
+
+aircraftフォルダの中のaircraft.lstに次の一行を追加して、上書き保存してください。
+user/oranleed/bf109/bf109g6.dat user/oranleed/bf109/bf109g6.dnm user/oranleed/bf109/bf109coll.srf user/oranleed/bf109/bf109cockpit.srf user/oranleed/bf109/bf109g6coarse.dnm
+user/oranleed/bf109/bf109g10.dat user/oranleed/bf109/bf109g10.dnm user/oranleed/bf109/bf109coll.srf user/oranleed/bf109/bf109cockpit.srf user/oranleed/bf109/bf109g10coarse.dnm
+

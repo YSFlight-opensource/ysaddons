@@ -1,0 +1,23 @@
+DYNAMODEL
+DNMVER 1
+SRF "0001"
+FIL tajima_tarminal.srf
+CLA 0
+NST 1
+STA 0.0 0.0 0.0 0 0 0 1
+POS 0.0 0.0 0.0 0 0 0 1
+CNT 0.0 0.0 0.0
+REL DEP
+NCH 0
+END
+SRF "0002"
+FIL tajima_tarminal2.srf
+CLA 0
+NST 1
+STA 0.0 0.0 0.0 0 0 0 1
+POS 0.0 0.0 0.0 0 0 0 1
+CNT 0.0 0.0 0.0
+REL DEP
+NCH 0
+END
+END

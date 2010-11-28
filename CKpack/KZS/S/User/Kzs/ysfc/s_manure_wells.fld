@@ -1,0 +1,19 @@
+FIELD
+SKY 37 123 209
+GND 2 34 185
+
+PC2
+FIL s_manure_wells.pc2
+POS 0.00 0.00 0.00 0 0 0
+END
+
+PLT
+FIL s_manure_wells_b.pc2
+POS 0.00 0.00 0.00 -16384 0 0
+END
+PLT
+FIL s_manure_wells_r.pc2
+POS 0.00 0.00 -1.00 0 -8192 0
+END
+
+ENDF

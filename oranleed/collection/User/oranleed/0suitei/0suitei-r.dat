@@ -1,0 +1,119 @@
+REM 0sikisuitei
+IDENTIFY "0SUITEI-R(e14Y)"
+CATEGORY UTILITY
+AFTBURNR FALSE                   #HAVE AFTERBURNER?
+PROPELLR 300HP                   #PROPELLER ENGINE
+WEIGHCLN  1.12t                  #WEIGHT CLEAN
+WEIGFUEL  0.2t                   #WEIGHT OF FUEL
+WEIGLOAD  0.1t                   #WEIGHT OF PAYLOAD
+FUELMILI 0.03kg                  #FUEL CONSUMPTION AT MILITARY POWER
+
+COCKPITP  0.00m  0.72m -0.28m    #COCKPIT POSITION
+INSTPANL user/oranleed/0suitei/0suitei.ist
+LEFTGEAR -1.21m -1.98m  1.88m    #LEFT LANDING GEAR POSITION
+RIGHGEAR  1.21m -1.98m  1.88m    #RIGHT LANDING GEAR POSITION
+WHELGEAR  0.00m -1.61m -2.14m    #WHEEL POSITION
+GUNSIGHT FALSE
+SMOKEGEN  0.00m  0.00m -3.60m    #SMOKE GENERATOR POSITION
+VAPORPO0 -5.46m -0.14m -0.62m    #VAPOR POSITION (Wings Swept Back or no-VGW)
+VAPORPO1  5.46m -0.14m -0.62m    #VAPOR POSITION (Wings Spread)
+HTRADIUS  7.0m                   #OUTSIDE SPHERE RADIUS
+
+TRIGGER1 GUN
+TRIGGER2 AAM
+TRIGGER3 AGM
+TRIGGER4 SMK
+
+STRENGTH 3
+
+CRITAOAP 13deg                   #CRITICAL AOA POSITIVE
+CRITAOAM -10deg                  #CRITICAL AOA NEGATIVE
+
+CRITSPED 300km/h                 #CRITICAL SPEED
+MAXSPEED 246km/h                 #MAXIMUM SPEED
+
+HASSPOIL FALSE                   #HAS SPOILER?
+RETRGEAR FALSE                   #HAS RETRACTABLE LANDING GEAR?
+VARGEOMW FALSE                   #HAS VARIABLE GEOMETRY WING?
+
+CLVARGEO 0.0                     #EFFECT OF VARIABLE GEOMETRY WING FOR Cl
+CDVARGEO 0.0                     #EFFECT OF VARIABLE GEOMETRY WING FOR Cd
+CLBYFLAP 0.2                     #EFFECT OF FLAP FOR Cl
+CDBYFLAP 0.3                     #EFFECT OF FLAP FOR Cd
+CDBYGEAR 0.0                     #EFFECT OF GEAR FOR Cd
+CDSPOILR 0.0                     #EFFECT OF SPOILER FOR Cd
+
+WINGAREA 19m^2                   #WING AREA
+
+MXIPTAOA 15.0deg                 #MAX INPUT AOA
+MXIPTSSA 5.0deg                  #MAX INPUT SSA
+MXIPTROL 50.0deg                 #MAX INPUT ROLL
+
+REM CPITMANE corresponds to Spring Constant K
+REM CPITSTAB corresponds to Damper Constant B
+REM To be critically damped, B=2*sqrt(K)
+REM 2% Settling Time=??
+
+MANESPD1 40kt                 #MINIMUM MANEUVABLE SPEED
+MANESPD2 65kt                 #FULLY MANEUVABLE SPEED
+CPITMANE 7.0                  #PITCH MANEUVERBILITY CONSTANT
+CPITSTAB 3.0                  #PITCH STABILITY CONSTANT
+CYAWMANE 5.0                  #YAW MANEUVABILITY CONSTANT
+CYAWSTAB 3.0                  #YAW STABILITY CONSTANT
+CROLLMAN 2.0                  #ROLL MANEUVABILITY CONSTANT
+
+CTLLDGEA TRUE                 #CONTROL LANDINGGEAR
+CTLBRAKE FALSE                #CONTROL BRAKE
+CTLSPOIL 0.0                  #CONTROL SPOILER
+CTLABRNR FALSE                #CONTROL AFTERBURNER
+CTLTHROT 0.0                  #CONTROL THRUST
+CTLIFLAP 0.0                  #CONTROL FLAP
+CTLINVGW 0.0                  #CONTROL VARIABLE GEOMETRY WING
+CTLATVGW FALSE                #CONTROL AUTO VARIABLE GEOMETRY WING
+VGWSPED1 90kt
+VGWSPED2 300kt
+
+
+POSITION 0m 3ft 0m            #POSITION
+ATTITUDE 45deg 15deg 0deg     #ATTITUDE
+INITFUEL 75%                  #INITIAL FUEL
+INITLOAD 0.0t                 #INITIAL PAYLOAD
+INITSPED 0.0MACH              #INITIAL SPEED
+WEAPONCH GUN
+
+
+HRDPOINT -2.25m -0.72m -0.24m B250
+HRDPOINT  2.25m -0.72m -0.24m B250
+LMTBYHDP TRUE                 #Limit Max Num Weapon by Hardpoint
+
+INITIGUN 0                    #INITIAL GUN
+INITIAAM 0                    #INITIAL AAM
+INITIAGM 0                    #INITIAL AGM
+INITBOMB 0                    #INITIAL BOM
+MAXNBOMB 2
+
+NMTURRET 1
+TURRETPO 0 0m 0.79m -1.68m 180deg 9deg 0deg    # Number x y z h p b
+TURRETPT 0   0deg 60deg 0deg                   # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 0 -25deg 25deg 0deg                   # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 0 1000                                # Ammo
+TURRETIV 0 0.3sec                              # Number ShootingInterval
+TURRETNM 0 0021                                # DNM Node Name
+TURRETAR 0                                     # Anti Air Capable
+TURRETCT 0 GUNNER                              # Controlled by PILOT or GUNNER
+TURRETRG 0 1000m
+
+RADARCRS 0.001
+
+REM ClZero,CdZero is fixed by Cruising condition
+REFVCRUS 220km/h                #CRUISING SPEED(*1.2
+REFACRUS 13000ft                #CRUISING ALTITUDE
+REFTCRUS 0.8                    #CRUISING THROTTLE SETTING
+
+REM ClSlope,CdConst is fixed by Landing condition
+REFVLAND 60kt                   #LANDING SPEED
+REFAOALD 9deg                   #LANDING AOA
+REFLNRWY 200m                   #RUNWAY REQUIRED TO STOP
+REFTHRLD 0.45                   #LANDING THROTTLE SETTING
+
+AUTOCALC

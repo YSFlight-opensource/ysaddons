@@ -1,0 +1,10 @@
+ground/null.srf
+ground/null.srf
+ground/null.srf
+ground/null.srf
+ILS 12.0m -1.0m -20m 180deg 5deg 0deg 6000m
+VIEWPOINT TRUE
+ARRESTINGWIRE 1.0m 0.5m -1.0m -1.0m 0.5m -1.0m
+BRIDGEPOS 0.0m 1.4m -18.0m
+
+REM ACP File Aircraft Carrier Property

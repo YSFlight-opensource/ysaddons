@@ -1,0 +1,12 @@
+グラマン　F8F-1B ベアキャット艦上戦闘機
+全長: 8.61m
+全幅:10.92m
+全高: 4.22m
+自重:3,210kg
+最高速度:678km/h
+武装:20mm機関砲4
+生産機数1266機
+
+aircraftフォルダの中のaircraft.lstに次の一行を追加して、上書き保存してください。
+
+user/oranleed/F8F/f8f.dat user/oranleed/F8F/f8f.dnm user/oranleed/F8F/f8fcoll.srf user/oranleed/F8F/f8fcockpit.srf user/oranleed/F8F/f8fcoarse.dnm

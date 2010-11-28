@@ -1,0 +1,178 @@
+FIELD
+SKY 32 180 180
+GND 0 0 255
+PC2
+FIL rikuhyy.pc2
+POS 0.00 0.00 0.00 0 0 0
+END
+SRF
+FIL qudditch_wall_sp.srf
+ID 0
+TAG ""
+POS -2523.03 0.00 -2151.57 0 0 0
+END
+SRF
+FIL qudditch_wall_sp.srf
+ID 0
+TAG ""
+POS 2801.72 0.00 -2199.45 0 0 0
+END
+SRF
+FIL qudditch_wall_blue.srf
+ID 0
+TAG ""
+POS 1508.75 0.00 -2206.40 0 0 0
+END
+SRF
+FIL qudditch_wall_red.srf
+ID 0
+TAG ""
+POS 139.71 0.00 -2213.75 0 0 0
+END
+SRF
+FIL qudditch_wall_sun.srf
+ID 0
+TAG ""
+POS -1305.78 0.00 -2145.48 0 0 0
+END
+SRF
+FIL qudditch_wall_sp.srf
+ID 0
+TAG ""
+POS 2950.44 0.00 -446.47 0 0 0
+END
+SRF
+FIL qudditch_wall_red-blue.srf
+ID 0
+TAG ""
+POS 2957.14 0.00 -1742.59 0 0 0
+END
+SRF
+FIL qudditch_wall_sp.srf
+ID 0
+TAG ""
+POS 2321.86 0.00 2152.75 0 0 0
+END
+SRF
+FIL qudditch_wall_sun.srf
+ID 0
+TAG ""
+POS 1395.92 0.00 2147.01 0 0 0
+END
+SRF
+FIL qudditch_wall_blue.srf
+ID 0
+TAG ""
+POS 91.52 0.00 2216.04 0 0 0
+END
+SRF
+FIL qudditch_wall_red-blue.srf
+ID 0
+TAG ""
+POS -1360.64 0.00 2164.17 0 0 0
+END
+SRF
+FIL qudditch_wall_sp.srf
+ID 0
+TAG ""
+POS -2649.28 0.00 2086.29 0 0 0
+END
+SRF
+FIL qudditch_wall_sun.srf
+ID 0
+TAG ""
+POS -2905.17 0.00 1767.68 0 0 0
+END
+SRF
+FIL qudditch_wall_red.srf
+ID 0
+TAG ""
+POS -2906.97 0.00 -1358.86 0 0 0
+END
+SRF
+FIL qudditch_wall_sp.srf
+ID 0
+TAG ""
+POS -2905.96 0.00 409.08 0 0 0
+END
+SRF
+FIL qudditch_wall_blue.srf
+ID 0
+TAG ""
+POS 3109.05 0.00 1285.92 0 0 0
+END
+PC2
+FIL hyqtrw_01.pc2
+POS -37385.21 0.00 -14199.13 0 0 0
+END
+RGN
+ID 1
+TAG "harry_quidditch_FLD"
+ARE -3030.21 -2072.80 3030.21 2072.80
+POS 131.06 0.00 -50.98 0 0 0
+END
+RGN
+ID 1
+TAG "harry_sea_rw01"
+ARE -15.11 -578.18 15.11 578.18
+POS -37396.07 0.00 -14177.86 0 0 0
+END
+RGN
+ID 1
+TAG "harry_sea_wing"
+ARE -51.44 -129.01 51.44 129.01
+POS -37304.52 0.00 -14186.68 0 0 0
+END
+RGN
+ID 1
+TAG "conect_sea_rw01"
+ARE -14.40 -29.14 14.40 29.14
+POS -37368.52 0.00 -14167.49 0 0 0
+END
+TER
+FIL harry_mt_tonn.ter
+ID 0
+TAG ""
+POS 6736.93 0.00 -2318.72 0 0 0
+END
+TER
+FIL harry_honnmt.ter
+ID 0
+TAG ""
+POS 13468.91 0.00 -7360.26 0 0 0
+END
+PC2
+FIL hy_s-row_01.pc2
+POS -25890.39 0.00 -10100.55 0 0 0
+END
+RGN
+ID 1
+TAG "hy-sai"
+ARE -702.70 -217.74 702.70 217.74
+POS -25832.99 0.00 -9791.76 0 0 0
+END
+RGN
+ID 1
+TAG "hy-sai"
+ARE -704.68 -184.09 704.68 184.09
+POS -25850.80 0.00 -10399.45 0 0 0
+END
+RGN
+ID 1
+TAG "hy-sai"
+ARE -512.68 -158.36 512.68 158.36
+POS -26011.14 0.00 -10092.63 0 0 0
+END
+RGN
+ID 1
+TAG "Bal_Box"
+ARE -1916.63 -1444.18 1916.64 1444.18
+POS -126177.50 0.00 -14493.31 0 0 0
+END
+RGN
+ID 1
+TAG "tan_btl"
+ARE -2025.37 -1618.06 2025.37 1618.06
+POS 19983.62 0.00 -9666.51 0 0 0
+END
+ENDF

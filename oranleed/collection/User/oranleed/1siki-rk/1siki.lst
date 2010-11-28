@@ -1,0 +1,11 @@
+三菱　一式陸上攻撃機11型(G4M1)
+全長: 19.94m
+全幅: 24.88m
+全高:  4.90m
+自重: 7,000kg
+最高速度:426km/h
+武装:20mm機関砲1 7.7mm機銃4
+生産機数　2416機
+
+aircraftフォルダの中のaircraft.lstに次の一行を追加して、上書き保存してください。
+user/oranleed/1siki-rk/1siki-rk.dat user/oranleed/1siki-rk/1siki-rk.dnm user/oranleed/1siki-rk/1siki-rkcoll.srf user/oranleed/1siki-rk/1siki-rkcockpit.srf user/oranleed/1siki-rk/1siki-rkcoarse.dnm

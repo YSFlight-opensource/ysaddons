@@ -1,0 +1,52 @@
+Scenery:
+LAST_ACT user/fufanl/berlin/berlin.fld user/fufanl/berlin/berlin.stp 
+THE_END user/fufanl/berlin/berlino.fld user/fufanl/berlin/berlin.stp user/fufanl/berlin/berlin.yfs
+
+ground:
+
+User/fufanl/berlin/ground/b17.dat User/fufanl/berlin/ground/b17.srf User/fufanl/berlin/ground/b17.srf
+User/fufanl/berlin/ground/bf109.dat User/fufanl/berlin/ground/bf109.srf User/fufanl/berlin/ground/bf109.srf
+User/fufanl/berlin/ground/fw190.dat User/fufanl/berlin/ground/fw190.srf User/fufanl/berlin/ground/fw190.srf
+User/fufanl/berlin/ground/me262.dat User/fufanl/berlin/ground/me262.srf User/fufanl/berlin/ground/me262.srf
+User/fufanl/berlin/ground/me262ruot.dat User/fufanl/berlin/ground/me262ruot.srf User/fufanl/berlin/ground/me262ruot.srf
+User/fufanl/berlin/ground/me262ruot1.dat User/fufanl/berlin/ground/me262ruot1.srf User/fufanl/berlin/ground/me262ruot1.srf
+User/fufanl/berlin/ground/38mmr.dat User/fufanl/berlin/ground/38mmr.srf User/fufanl/berlin/ground/38mmr.srf
+User/fufanl/berlin/ground/60mmr.dat User/fufanl/berlin/ground/60mmr.srf User/fufanl/berlin/ground/60mmr.srf
+User/fufanl/berlin/ground/203mm_howitzer.dat User/fufanl/berlin/ground/203mm_howitzer.srf User/fufanl/berlin/ground/203mm_howitzer.srf
+User/fufanl/berlin/ground/cannone_r152mm.dat User/fufanl/berlin/ground/cannone_r152mm.srf User/fufanl/berlin/ground/cannone_r152mm.srf
+User/fufanl/berlin/ground/comet.dat User/fufanl/berlin/ground/comet.srf User/fufanl/berlin/ground/comet.srf
+User/fufanl/berlin/ground/flak88.dat User/fufanl/berlin/ground/flak88.srf User/fufanl/berlin/ground/flak88.srf
+User/fufanl/berlin/ground/flak88_sh.dat User/fufanl/berlin/ground/flak88_sh.srf User/fufanl/berlin/ground/flak88_sh.srf
+User/fufanl/berlin/ground/hangar_fu.dat User/fufanl/berlin/ground/hangar_fu.srf User/fufanl/berlin/ground/hangar_fu.srf
+User/fufanl/berlin/ground/hangar_fu1.dat User/fufanl/berlin/ground/hangar_fu1.srf User/fufanl/berlin/ground/hangar_fu1.srf
+User/fufanl/berlin/ground/hangar_sov.dat User/fufanl/berlin/ground/hangar_sov.srf User/fufanl/berlin/ground/hangar_sov.srf
+User/fufanl/berlin/ground/hangar_sov1.dat User/fufanl/berlin/ground/hangar_sov1.srf User/fufanl/berlin/ground/hangar_sov1.srf
+User/fufanl/berlin/ground/hummel.dat User/fufanl/berlin/ground/hummel.srf User/fufanl/berlin/ground/hummel.srf
+User/fufanl/berlin/ground/jagdpanther.dat User/fufanl/berlin/ground/jagdpanther.srf User/fufanl/berlin/ground/jagdpanther.srf
+User/fufanl/berlin/ground/jgpz4_h.dat User/fufanl/berlin/ground/jgpz4_h.srf User/fufanl/berlin/ground/jgpz4_h.srf
+User/fufanl/berlin/ground/kw2.dat User/fufanl/berlin/ground/kw2.srf User/fufanl/berlin/ground/kw2.srf
+User/fufanl/berlin/ground/long_tom.dat User/fufanl/berlin/ground/long_tom.srf User/fufanl/berlin/ground/long_tom.srf
+User/fufanl/berlin/ground/m4a3e8.dat User/fufanl/berlin/ground/m4a3e8.srf User/fufanl/berlin/ground/m4a3e8.srf
+User/fufanl/berlin/ground/m16_aa.dat User/fufanl/berlin/ground/m16_aa.srf User/fufanl/berlin/ground/m16_aa.srf
+User/fufanl/berlin/ground/mobelwagen37.dat User/fufanl/berlin/ground/mobelwagen37.srf User/fufanl/berlin/ground/mobelwagen37.srf
+User/fufanl/berlin/ground/nashorn.dat User/fufanl/berlin/ground/nashorn.srf User/fufanl/berlin/ground/nashorn.srf
+User/fufanl/berlin/ground/obice31-203.dat User/fufanl/berlin/ground/obice31-203.srf User/fufanl/berlin/ground/obice31-203.srf
+User/fufanl/berlin/ground/ostwind.dat User/fufanl/berlin/ground/ostwind.srf User/fufanl/berlin/ground/ostwind.srf
+User/fufanl/berlin/ground/panther.dat User/fufanl/berlin/ground/panther.srf User/fufanl/berlin/ground/panther.srf
+User/fufanl/berlin/ground/sdkfz251b.dat User/fufanl/berlin/ground/sdkfz251b.srf User/fufanl/berlin/ground/sdkfz251b.srf
+User/fufanl/berlin/ground/su100.dat User/fufanl/berlin/ground/su100.srf User/fufanl/berlin/ground/su100.srf
+User/fufanl/berlin/ground/t34_85.dat User/fufanl/berlin/ground/t34_85.srf User/fufanl/berlin/ground/t34_85.srf
+User/fufanl/berlin/ground/tiger1.dat User/fufanl/berlin/ground/tiger1.srf User/fufanl/berlin/ground/tiger1.srf
+User/fufanl/berlin/ground/tower_d1.dat User/fufanl/berlin/ground/tower_d1.srf User/fufanl/berlin/ground/tower_d1.srf
+User/fufanl/berlin/ground/ushangar.dat User/fufanl/berlin/ground/ushangar.srf User/fufanl/berlin/ground/ushangar.srf
+User/fufanl/berlin/ground/ushangar1.dat User/fufanl/berlin/ground/ushangar1.srf User/fufanl/berlin/ground/ushangar1.srf
+User/fufanl/berlin/ground/ushangarbig.dat User/fufanl/berlin/ground/ushangarbig.srf User/fufanl/berlin/ground/ushangarbig.srf
+User/fufanl/berlin/ground/katyusha.dat User/fufanl/berlin/ground/katyusha.srf User/fufanl/berlin/ground/katyusha.srf
+User/fufanl/berlin/ground/me163.dat User/fufanl/berlin/ground/me163.srf User/fufanl/berlin/ground/me163.srf
+User/fufanl/berlin/ground/secretbase.dat User/fufanl/berlin/ground/secretbase.srf User/fufanl/berlin/ground/secretbase.srf
+User/fufanl/berlin/ground/sdkfz251_20mm.dat User/fufanl/berlin/ground/sdkfz251_20mm.srf User/fufanl/berlin/ground/sdkfz251_20mm.srf
+User/fufanl/berlin/ground/sdkfz251_20mmaa.dat User/fufanl/berlin/ground/sdkfz251_20mmaa.srf User/fufanl/berlin/ground/sdkfz251_20mmaa.srf
+
+
+
+

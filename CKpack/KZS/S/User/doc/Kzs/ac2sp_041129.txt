@@ -1,0 +1,186 @@
+***senery.lst
+[Kzs]_AC2SP/RedClossDiver User/Kzs/ac2sp/ac2sp.fld User/Kzs/ac2sp/ac2sp.stp User/Kzs/ac2sp/ac2sp.yfs
+[Kzs]_AC2SP/RedClossDiver(NA) User/Kzs/ac2sp/ac2sp.fld User/Kzs/ac2sp/ac2sp.stp User/Kzs/ac2sp/ac2sp(na).yfs
+[Kzs]_AC2SP/R(no-obj) User/Kzs/ac2sp/ac2sp.fld User/Kzs/ac2sp/ac2sp.stp User/Kzs/ac2sp/ac2sp(no-obj).yfs
+[Kzs]_AC2SP/LawrencePlains User/Kzs/ac2sp/ac2sp(d).fld User/Kzs/ac2sp/ac2sp(d).stp User/Kzs/ac2sp/ac2sp(d).yfs
+[Kzs]_AC2SP/LawrencePlains(NA) User/Kzs/ac2sp/ac2sp(d).fld User/Kzs/ac2sp/ac2sp(d).stp User/Kzs/ac2sp/ac2sp(d)(na).yfs
+[Kzs]_AC2SP/L(no-obj) User/Kzs/ac2sp/ac2sp(d).fld User/Kzs/ac2sp/ac2sp(d).stp User/Kzs/ac2sp/ac2sp(d)(no-obj).yfs
+[Kzs]_AC2SP/UmberVillage User/Kzs/ac2sp/ac2sp(v).fld User/Kzs/ac2sp/ac2sp(v).stp User/Kzs/ac2sp/ac2sp(v).yfs
+[Kzs]_AC2SP/UmberVillage(NA) User/Kzs/ac2sp/ac2sp(v).fld User/Kzs/ac2sp/ac2sp(v).stp User/Kzs/ac2sp/ac2sp(v)(na).yfs
+[Kzs]_AC2SP/U(no-obj) User/Kzs/ac2sp/ac2sp(v).fld User/Kzs/ac2sp/ac2sp(v).stp User/Kzs/ac2sp/ac2sp(v)(no-obj).yfs
+
+
+
+※ 以下の物が別途必要です。
+    Kzs Pack/S
+    patch_S_040603.cab
+    pack_s_more_040731.cab
+    patch_S_041129.cab 中の obj_update.cab
+
+
+
+データ一覧:
+    
+    初心に戻ってシンプル(な地面)で負荷の軽い、ミッション主体のマップにしたいと
+    思って作成しました。
+    一応、元ネタ･･･古いフライトシム(MI-C.A.D.O.3が登場した奴)･･･があるんですが、
+    それのマップデータをYSに移植しようとしてデータの解析を試みるも、途中で挫折
+    したため、似たような雰囲気のマップ & ミッションとしての創作ですw。
+                  (･･･一旦創作となったら、全速で元ネタから遠ざかってますが･･･)
+    (･･･歳とるとどうも頭が硬くなっていけませんねぇ･･･20代の頃ならムキになって解析したものですけどw)
+    (名前が紛らわしいですが「A○eC○mb○t」とは全く関係ありません)
+    
+    
+    
+    ※ ファイル名に関しての注意事項･･･と言うか言い訳
+        当初、マップ名称未定のまま作成を続けていた為、マップ名称とファイル名が
+        ミスマッチしていますm(_ _)m。
+        (名称決定後、ファイル名を修正するのが面倒だったんで(汗)
+        
+        対応は 
+            ac2sp*.*    → [Kzs]_AC2SP/RedClossDiver
+            ac2sp(d)*.* → [Kzs]_AC2SP/LawrencePlains
+            ac2sp(v)*.* → [Kzs]_AC2SP/UmberVillage
+        の様になっていますのでご注意願います。
+        
+        これらのマップ名称(RedCloss/Lawrence)の決定に、oranleed氏のご協力を得ました。
+        この場を借りてお礼申し上げますm(_ _)m。
+    
+    
+    
+    ○ マップ
+        1) [Kzs]_AC2SP/RedClossDiver, [Kzs]_AC2SP/RedClossDiver(NA), [Kzs]_AC2SP/R(no-obj)
+            どこかの国の地峡部のようなマップ。(･･･モデルがあるわけではない･･･)
+            中央部に街、街の東西にはそれぞれ谷があります。
+            
+            ･[Kzs]_AC2SP/RedClossDiver
+                ノーマル版。敵オブジェクトも配置されていて、一応対地攻撃可です。
+                (ミッションの攻撃目標と同じ物(橋と発電所)が配置されているだけなんですが･･･)
+            ･[Kzs]_AC2SP/RedClossDiver(NA)
+                ノーマル版から敵対空兵器を除去した物。
+                ･･･いらないと言えばいらないエントリなんですけど･･･
+            ･[Kzs]_AC2SP/R(no-obj)
+                ミッション用の最小構成版。
+        
+        2) [Kzs]_AC2SP/LawrencePlains, [Kzs]_AC2SP/LawrencePlains(NA), [Kzs]_AC2SP/L(no-obj)
+            某国(エ○プト)をモデルにした砂漠系マップ。
+            基本的に平坦です。
+            
+            ･[Kzs]_AC2SP/LawrencePlains
+                ノーマル版。
+                一応、敵オブジェクトも配置されていますが以下同文。
+            ･[Kzs]_AC2SP/LawrencePlains(NA)
+                ノーマル版から敵対空兵器を除去した物。
+                ･･･いらないと言えば 以下同文
+            ･[Kzs]_AC2SP/L(no-obj)
+                ミッション用の最小構成版。
+        
+        3) [Kzs]_AC2SP/UmberVillage, [Kzs]_AC2SP/UmberVillage(NA), [Kzs]_AC2SP/U(no-obj)
+            岩場(?)というか、モニュメントバレーもどき。
+            メサの土台(傾斜の緩い)部分と垂直に切り立った台状の部分を二つのterを組み
+            合わせたら作れるんじゃないかと、いくつか試作してみたんですが、非常に
+            不自然な物しかできなかったので、組み技はあきらめて通常のter配置方法で
+            創作です(^^。
+            何となくモニュメントバレーにレイアウトが似ている･･･はずだったんですが、
+            山を配置している内にかなり異なった形になっちゃいました。
+            このマップはミッション用ではなくフリーフライト用で、建物も少なめですが、
+            一応、申し訳程度に敵オブジェクトも配置してあります。
+            
+            ･[Kzs]_AC2SP/UmberVillage
+                ノーマル版。
+                一応、敵オブジェクトも 以下同文。
+            ･[Kzs]_AC2SP/UmberVillage(NA)
+                ノーマル版から 以下同文
+            ･[Kzs]_AC2SP/U(no-obj)
+                ミッション用の最小構成版。
+        
+        4) スタート位置
+            位置名称の付け方はいつもの通りです。
+                ･「RW～」 : 滑走路
+                ･「AR～」 : 滑走路上空20000ft
+                ･「ON_～」: 空母/橋
+            今回、エプロンからのスタート位置はありません。
+            
+        5) 着陸可能なエリア:
+            滑走路 & エプロンのみ。
+            今回は道路や川には接地できません。
+        
+        6) VOR
+            一応、(Umber～以外)マップ自体はすべて「適地」と言う設定なので
+            VORは配置してありませんが、必要だと言う方は「_appendix/__add_vor.txt」を
+            参照してください。
+            (IFF 1のオブジェクトは民間/中立/非攻撃対象w)
+            (因みに、マップ/ミッション共に、敵のIFFは 2 になってます)
+    
+    
+    
+    ○ オブジェクト:
+        橋は、吊り橋の白いのと赤いの、200mの小さいの、鉄橋(赤い･･･)の四種類を
+        使っていますが、着陸できるのは吊り橋の白いやつだけです。
+        参考までに、
+        私の作った橋オブジェクトで、着陸可能なのは、"手すり"の様な物や"やぐら"の
+        様な物がついていて、且つ、赤く"ない"物です。
+        "手すり"の無いちょっと色黒な方の橋は、紛らわしいんですが着陸不可なのです^^。
+        
+        オブジェクト名で言うと、着陸可能なのは
+            「[Kzs]_GATE_BRIDGE*」  ･･･ "やぐら"の様な物がついている奴。500m/1000m
+            「[Kzs]_N_BRIDGE*」     ･･･ "手すり"の様な物がついている奴。100m/200m/500m/1000m
+            「[Kzs]_H_BRIDGE*」     ･･･ 白い吊り橋。800m/1500m
+        で、着陸不可の物が
+            「[Kzs]_S_BRIDGE*」     ･･･ "手すり"が無い色黒。100m/200m/500m/1000m
+            「[Kzs]_I_BRIDGE*」     ･･･ 赤い吊り橋。800m/1500m
+            「[Kzs]_R_BRIDGE*」     ･･･ 赤い鉄橋。500m/1000m/1500m
+        です。
+        
+        戦車([Kzs]_S-TANK,[Kzs]_T-TANK,[Kzs]_V-TANK)は、いままで「v-tank.srf」を
+        ビジュアルにしてたんですが、
+        武装ありの奴([Kzs]_S-TANKと[Kzs]_V-TANK)はdnmにすることもできます。
+        (･･･砲塔が旋回するだけですけどね･･･)
+        ground.lst中の
+        「User/Kzs/ground/s-tank.dat ～」と「User/Kzs/ground/v-tank.dat ～」の
+        ビジュアルの指定を「v-tank.srf」から「v-tank.dnm」に書き換えてください。
+    
+    
+    
+    ○ ミッション:
+        「x_mission.yfs/」下のファイルがこのマップのミッションファイルです。
+            yfsファイル → 「x_mission.yfs/ac2sp/*.yfs」、
+            説明書      → 「x_mission.yfs/ac2sp_mission.txt」
+        
+        説明書は実戦部隊のミッションブリーフィング風な感じに脳内変換してくださいw。
+        ミッション説明が不十分でなんすが･･･ご容赦願いますm(_ _)m。
+        
+        付属の地図(「_appendix/*.png」)のグリッド座標の読み方は、左→右/下→上と
+        たどってください。
+        [1-A]が左下、[10-J]が右上となります。
+        (米軍方式のまねのつもり･･･アルファベットは使わず両方とも数字が本当らしいですが、混乱しそうなので･)
+        
+        説明文中、「移動している～」と書いてある物が有りますが、実際には移動し
+        てないのが殆どです。(一部動く奴も混じってますが･･･>船)
+        ま･これは雰囲気の為と、負荷軽減の為ということで(^^)。
+        また「敵の攻撃ヘリ～」というのはオブジェクトで配置されています(空中砲台w)。
+        
+        そんなに難しくは無いと思いますが、バランスの悪いところがあるかも知れません･･･。
+        レーダー上の敵オブジェクトは必ずしも全部破壊する必要は無いでしょう(て言うか、無理)。
+        かなり数がある･･･私作にしては･･･ので、無駄弾を使ってしまうと確実にAGMや
+        BOMBが足りなくなりますw。
+        A-10の場合は機銃で全部破壊できちゃうんですけどね･･･。
+        全部破壊するのは不可能なのも有りますし、頑張ってやろうとするとかなり時間が掛かるかも。
+        目標を強襲してさっさと引き上げる･･･という感じでしょうかw。
+    
+    
+    
+    ○ おまけ
+        「User/Kzs/_appendx.yfs/」内のファイルは、ミッションと同じオブジェクト配置の
+        lst登録用のyfsファイルです。
+        「対地攻撃はしたいけど、敵機はいらない」と言う場合にでもご利用くださいw。
+        登録方法は同ディレクトリ内の「_ac2sp_other_entrys.txt」を参照してください。
+
+
+
+このデータ(cabファイル)の再配布は自由です。
+改造･流用等は、KzsPack同梱のreadmeに記載してある条件を尊重していただければ
+事前許諾無しに自由にして頂いてかまいません。
+
+by Kzs on 2004/11/29.
+/E

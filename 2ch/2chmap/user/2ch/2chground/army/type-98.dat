@@ -1,0 +1,35 @@
+IDENTIFY EAST_TYPE-98
+HTRADIUS 11m
+STRENGTH 50
+INITIGUN 9999999999
+INITCANO 0
+INITISAM 0
+MAXSPEED 80km/h
+MAXROTAT 45deg
+ANTIGRND TRUE
+HUGROUND TRUE
+MINIDAMG 0
+GRNDTYPE TANK
+
+AIMROTAT 60deg
+AIMPITCH 60deg
+
+GUNRANGE 400m
+AAAMINPI -10deg
+AAAMAXPI 60deg
+AAAMOUNT 0.0000m 1.50m 0.00m
+
+NMTURRET 1
+TURRETPO 0 0m 4m 0m 0deg 0deg 0deg   # Number x y z h p b
+TURRETPT 0 -0.1deg 0.1deg 0deg           # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 0 -180deg 180deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 0 999999999999                              # Ammo
+TURRETIV 0 3sec                              # Number ShootingInterval
+TURRETNH 0 TURRET
+TURRETAR 0
+TURRETGD 0
+TURRETCT 0 GUNNER                            # Controlled by PILOT or GUNNER
+TURRETRG 0 1900m
+TURRETPW 0 50
+
+USEAIMAT 0m 2m 0m

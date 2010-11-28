@@ -1,0 +1,43 @@
+FIELD
+SKY 37 123 209
+GND 2 34 185
+
+RGN
+ID 2
+TAG "BEACH"
+ARE -1050.77 -685.47 1050.77 685.47
+POS -6480.49 0.00 2373.49 0 0 0
+END
+
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS -6805.97 0.00 2416.97 0 0 0
+END
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS -6809.16 0.00 2574.48 0 0 0
+END
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS -6945.98 0.00 2634.94 0 0 0
+END
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS -7039.85 0.00 2512.43 0 0 0
+END
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS -6955.53 0.00 2381.97 0 0 0
+END
+
+ENDF

@@ -1,0 +1,20 @@
+FIELD
+SKY 37 123 209
+GND 2 34 185
+FLD
+FIL fence(0x10)_spa_mbx.fld
+POS 0.00 0.00 0.00 0 0 0
+END
+FLD
+FIL fence(1x15)_spa_mbx.fld
+POS 0.00 0.00 0.00 0 0 0
+END
+FLD
+FIL fence(2x20)_spa_mbx.fld
+POS 0.00 0.00 0.00 0 0 0
+END
+PLT
+FIL arrow.pc2
+POS 171.13 0.00 81.56 0 0 0
+END
+ENDF

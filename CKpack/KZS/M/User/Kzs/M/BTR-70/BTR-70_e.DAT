@@ -1,0 +1,141 @@
+IDENTIFY "BTR-70(w_equipment)"
+CATEGORY UTILITY
+AFTBURNR FALSE              #HAVE AFTERBURNER?
+PROPELLR 240HP             #PROPELLER ENGINE
+PROPEFCY 2              #Propeller efficiency
+WEIGHCLN 11t             #WEIGHT CLEAN
+WEIGFUEL 343kg             #WEIGHT OF FUEL
+WEIGLOAD 1t                #WEIGHT OF PAYLOAD
+FUELMILI 0.06kg             #FUEL CONSUMPTION AT MILITARY POWER
+GUNSIGHT FALSE
+THRSTREV 0.6                 #EFFICIENCY OF THRUST REVERSER
+
+COCKPITP  -0.39m  1.47m 1.78m 
+EXCAMERA  "rightside" 0.39m  1.47m 1.78m 0deg 0deg 0deg INSIDE
+EXCAMERA  "hatiopen_l" -0.39m  2m 1.78m 0deg 0deg 0deg INSIDE
+EXCAMERA  "hatiopen_r" 0.39m  2m 1.78m 0deg 0deg 0deg INSIDE
+EXCAMERA  "hatiopen" 0m  2.5m -0.19m 0deg 0deg 0deg INSIDE
+EXCAMERA  "satuei" 4m 2.5m 5m 0deg 0deg 0deg INSIDE
+LEFTGEAR  -1.38m -0.15m -2.65m
+RIGHGEAR  1.38m -0.15m -2.65m 
+WHELGEAR  0.0m -0.15m  2.11m
+ARRESTER  0.0m 0m 0m
+GUNDIREC  0.0m 0.0m 0.0m     #MACHINE GUN DIRECTION
+SMOKEGEN 0.00m 0m -0m  #SMOKE GENERATOR POSITION
+VAPORPO0  0m  0m 0m  #VAPOR POSITION (Wings Swept Back or no-VGW)
+VAPORPO1  0m  0m 0m  #VAPOR POSITION (Wings Spread)
+HTRADIUS  6m                #OUTSIDE SPHERE RADIUS
+RADARCRS 0.7
+
+TRIGGER1 GUN
+TRIGGER2 AAM
+TRIGGER3 AGM
+TRIGGER4 SMK
+STRENGTH 13
+
+CRITAOAP 0deg 
+CRITAOAM 0deg
+  
+CRITSPED 65km/h
+MAXSPEED 80km/h
+
+HASSPOIL TRUE                 #HAS SPOILER?
+RETRGEAR FALSE                 #HAS RETRACTABLE LANDING GEAR?
+VARGEOMW FALSE                #HAS VARIABLE GEOMETRY WING?
+
+CLVARGEO 0                  #EFFECT OF VARIABLE GEOMETRY WING FOR Cl
+CDVARGEO 0                  #EFFECT OF VARIABLE GEOMETRY WING FOR Cd
+CLBYFLAP 0                  #EFFECT OF FLAP FOR Cl
+CDBYFLAP 0                  #EFFECT OF FLAP FOR Cd
+CDBYGEAR 0                  #EFFECT OF GEAR FOR Cd
+CDSPOILR 0                  #EFFECT OF SPOILER FOR Cd
+
+WINGAREA 1m^2                #WING AREA
+
+MXIPTAOA 1deg  
+MXIPTSSA 5.0deg
+MXIPTROL 1deg
+
+REM CPITMANE corresponds to Spring Constant K
+REM CPITSTAB corresponds to Damper Constant B
+REM To be critically damped, B=2*sqrt(K)
+REM 2% Settling Time=??
+
+MANESPD1 40km/h
+MANESPD2 55km/h  
+CPITMANE 0
+CPITSTAB 50
+CYAWMANE 8 
+CYAWSTAB 6.2 
+CROLLMAN 40
+
+CTLLDGEA TRUE              
+CTLBRAKE FALSE
+CTLSPOIL 0.5
+CTLABRNR FALSE    
+CTLTHROT 0.0      
+CTLIFLAP 0.0       
+CTLINVGW 1.0        
+CTLATVGW FALSE
+
+POSITION 0m 3ft 0m           #POSITION
+ATTITUDE 45deg 0deg 0deg      #ATTITUDE
+INITFUEL 100%                  #INITIAL FUEL
+INITLOAD 0.0t                 #INITIAL PAYLOAD
+INITSPED 0.0MACH              #INITIAL SPEED
+
+HRDPOINT 0m 2.43m 1.3m RKT
+HRDPOINT 0m 2.43m 1.3m RKT
+
+GUNPOWER 1
+INITIGUN 0                 #INITIAL GUN
+INITIAAM 0                    #INITIAL AAM
+INITIAGM 0                    #INITIAL AGM
+INITRCKT 29
+LOADWEPN RKT 29
+
+RKTVISIB FALSE
+
+NMTURRET 3
+
+TURRETPO 0 0m 1.92m 0.725m 0deg 0deg 0deg
+TURRETPT 0 -5deg 60deg 0deg               
+TURRETHD 0 -180deg 180deg 0deg              
+TURRETAM 0 500                       
+TURRETIV 0 0.1sec
+TURRETNP 0 0009
+TURRETNH 0 0007          
+TURRETAR 0                                           
+TURRETCT 0 PILOT                  
+TURRETRG 0 1200m
+
+TURRETPO 1 0m 1.92m 0.725m 0deg 0deg 0deg
+TURRETPT 1 -5deg 60deg 0deg               
+TURRETHD 1 -180deg 180deg 0deg              
+TURRETAM 1 500                       
+TURRETIV 1 0.1sec        
+TURRETAR 1                                           
+TURRETCT 1 PILOT                  
+TURRETRG 1 1200m
+
+TURRETPO 2 0m 1.92m 0.725m 0deg 0deg 0deg
+TURRETPT 2 -5deg 60deg 0deg               
+TURRETHD 2 -180deg 180deg 0deg              
+TURRETAM 2 2000                       
+TURRETIV 2 0.092sec        
+TURRETAR 2                                           
+TURRETCT 2 PILOT                  
+TURRETRG 2 1000m
+
+REM ClZero,CdZero is fixed by Cruising condition
+REFVCRUS 60km/h              #CRUISING SPEED
+REFACRUS 100ft              #CRUISING ALTITUDE
+REFTCRUS 0.5                  #CRUISING THROTTLE SETTING
+
+REM ClSlope,CdConst is fixed by Landing condition
+REFVLAND 50km/h                #LANDING SPEED
+REFAOALD 10deg                #LANDING AOA
+REFLNRWY 50m                #RUNWAY REQUIRED TO STOP
+REFTHRLD 0.4                  #LANDING THROTTLE SETTING
+
+AUTOCALC

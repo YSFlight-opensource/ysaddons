@@ -1,0 +1,8 @@
+USER/KZS/area88/ground/p4_g-carrier_deck.srf
+USER/KZS/area88/ground/p4_g-carrier_wire.srf
+USER/KZS/area88/ground/p4_g-carrier_catapult.srf
+USER/KZS/area88/ground/p4_g-carrier_bridge.srf
+
+ILS 0m 11.20m -125.80m  180deg 5deg 0deg 6000m
+
+REM ACP File for Project-4 Ground Carrier

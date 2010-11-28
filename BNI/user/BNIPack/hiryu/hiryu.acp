@@ -1,0 +1,10 @@
+user/BNIPack/hiryu/hiryu_deck.srf
+user/BNIPack/hiryu/hiryu_deck.srf
+user/BNIPack/hiryu/hiryu_deck.srf
+ground/null.srf
+ILS 0m -21.82m -44.48m 0deg 0deg 0deg 6000m
+VIEWPOINT TRUE
+ARRESTINGWIRE -21.97m -21.85m 11.54m 21.97m -21.85m 11.54m
+BRIDGEPOS 27.5m 61.0m -69.8m
+
+REM ACP File Aircraft Carrier Property

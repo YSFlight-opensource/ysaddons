@@ -1,0 +1,14 @@
+When copying the stock ground objects into your ground folder, this will 
+overwrite the existing stock objects and you will LOSE those!
+
+Please make sure you make a back-up folder with the original files in case
+you do not want the change to be permanent.
+
+The stock objects have been repainted into more subdued colours and in some 
+cases the file size has decreased.
+
+Credits go to Soji Yamakawa aka CaptainYS for well, everything...
+
+YS Major
+Shanghai, China
+

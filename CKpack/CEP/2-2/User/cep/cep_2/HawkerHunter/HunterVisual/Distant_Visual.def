@@ -1,0 +1,30 @@
+DYNAMODEL
+
+PCK null.srf 2
+SURF
+END
+
+# Coarse Model
+SRF "0000"
+FIL Fixed/CoarseFuselage.srf
+CLA 0
+NST 1
+STA 0.00 0.00 0.00 0 0 0 1
+POS 0.00 0.00 0.00 0 0 0 1
+CNT 0.00 0.00 0.00
+REL DEP
+NCH 0
+END
+SRF "0001"
+FIL Gears/CoarseGear.srf
+CLA 0
+NST 1
+STA 0.00 0.00 0.00 0 0 0 0
+STA 0.00 0.00 0.00 0 0 0 1
+POS 0.00 0.00 0.00 0 0 0 1
+CNT 0.00 0.00 0.00
+REL DEP
+NCH 0
+END
+
+END

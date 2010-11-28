@@ -1,0 +1,139 @@
+REM Aermacchi M-346(Yak/AEM-130)
+
+REM "m346_kz_at.dat/m346_kz_at.dnm/m346_kz_cockpit.srf/m346_kz_coll.srf/m346_kz_at_coarse.dnm"
+REM    were Created by Kzs.(kazu3613@dc.mbn.or.jp)
+REM Copyright 2001-2003 Kzs(kazu3613@dc.mbn.or.jp) all rights reserved.
+
+IDENTIFY "[Kzs] M-346 AT"
+CATEGORY TRAINER
+
+REM
+REM If You want real setting, please replace these values with value included in each comment.
+REM     values : AFTBURNR,THRAFTBN,THRMILIT,FUELABRN,REFVCRUS
+REM
+
+AFTBURNR  TRUE                #HAVE AFTERBURNER?                       [FALSE]
+THRAFTBN  5.70t               #THRUST WITH AFTERBURNER                 [0.00t]
+THRMILIT  4.56t               #THRUST AT MILITARY POWER                [5.70t]
+WEIGHCLN  4.63t               #WEIGHT CLEAN
+WEIGFUEL  1.95t               #WEIGHT OF FUEL
+WEIGLOAD  3.00t               #WEIGHT OF PAYLOAD
+FUELABRN  0.30kg              #FUEL CONSUMPTION WHEN USING AFTERBURNER [0.00kg]
+FUELMILI  0.25kg              #FUEL CONSUMPTION AT MILITARY POWER
+
+COCKPITP  0.00m  0.55m  3.25m #COCKPIT POSITION
+REM COCKPITP  0.00m  0.85m  1.80m #COCKPIT POSITION(rear)
+
+LEFTGEAR -1.15m -1.70m -0.40m #LEFT LANDING GEAR POSITION
+RIGHGEAR  1.15m -1.70m -0.40m #RIGHT LANDING GEAR POSITION
+WHELGEAR  0.00m -1.70m  3.00m #WHEEL POSITION
+ARRESTER  0.00m -1.65m -4.30m #ARRESTING HOOK POSITION
+MACHNGUN  0.00m -1.25m  1.88m #MACHINE GUN POSITION
+SMOKEGEN  0.00m -0.63m -4.00m #SMOKE GENERATOR POSITION
+VAPORPO0  4.85m  0.00m -2.50m #VAPOR POSITION (Wings Swept Back or no-VGW)
+VAPORPO1  4.85m  0.00m -2.50m #VAPOR POSITION (Wings Spread)
+HTRADIUS  8.00m               #OUTSIDE SPHERE RADIUS
+
+STRENGTH 6
+
+CRITAOAP  40deg               #CRITICAL AOA POSITIVE
+CRITAOAM -20deg               #CRITICAL AOA NEGATIVE
+
+CRITSPED 480kt                #CRITICAL SPEED
+MAXSPEED 585kt                #MAXIMUM SPEED
+
+HASSPOIL TRUE                 #HAS SPOILER?
+RETRGEAR TRUE                 #HAS RETRACTABLE LANDING GEAR?
+VARGEOMW TRUE                 #HAS VARIABLE GEOMETRY WING?
+
+VGWSPED1  90kt
+VGWSPED2 200kt
+
+CLVARGEO 0.1                  #EFFECT OF VARIABLE GEOMETRY WING FOR Cl
+CDVARGEO 0.05                 #EFFECT OF VARIABLE GEOMETRY WING FOR Cd
+CLBYFLAP 0.1                  #EFFECT OF FLAP FOR Cl
+CDBYFLAP 0.2                  #EFFECT OF FLAP FOR Cd
+CDBYGEAR 0.5                  #EFFECT OF GEAR FOR Cd
+CDSPOILR 2.0                  #EFFECT OF SPOILER FOR Cd
+
+WINGAREA 23.52m^2              #WING AREA
+
+MXIPTAOA  23.0deg             #MAX INPUT AOA
+MXIPTSSA   5.0deg             #MAX INPUT SSA
+MXIPTROL 360.0deg             #MAX INPUT ROLL
+
+REM CPITMANE corresponds to Spring Constant K
+REM CPITSTAB corresponds to Damper Constant B
+REM To be critically damped, B=2*sqrt(K)
+REM 2% Settling Time=??
+
+MANESPD1  90kt                #MINIMUM MANEUVABLE SPEED
+MANESPD2 100kt                #FULLY MANEUVABLE SPEED
+CPITMANE 8.0                  #PITCH MANEUVERBILITY CONSTANT
+CPITSTAB 1.0                  #PITCH STABILITY CONSTANT
+CYAWMANE 5.0                  #YAW MANEUVABILITY CONSTANT
+CYAWSTAB 3.0                  #YAW STABILITY CONSTANT
+CROLLMAN 3.0                  #ROLL MANEUVABILITY CONSTANT
+
+CTLLDGEA TRUE                 #CONTROL LANDINGGEAR
+CTLBRAKE FALSE                #CONTROL BRAKE
+CTLSPOIL 0.0                  #CONTROL SPOILER
+CTLABRNR FALSE                #CONTROL AFTERBURNER
+CTLTHROT 0.0                  #CONTROL THRUST
+CTLIFLAP 0.0                  #CONTROL FLAP
+CTLINVGW 1.0                  #CONTROL VARIABLE GEOMETRY WING
+CTLATVGW TRUE                 #CONTROL AUTO VARIABLE GEOMETRY WING
+
+POSITION 0m 3ft 0m            #POSITION
+ATTITUDE 45deg 0deg 0deg      #ATTITUDE
+INITFUEL 100%                 #INITIAL FUEL
+INITLOAD 0.0t                 #INITIAL PAYLOAD
+INITSPED 0.0MACH              #INITIAL SPEED
+
+GUNPOWER 1
+
+INITIGUN 0                    #INITIAL GUN
+INITIAAM 0                    #INITIAL AAM
+INITIAGM 0                    #INITIAL AGM
+INITBOMB 0                    #INITIAL BOM
+INITRCKT 0                    #INITIAL ROCKET (10kg/each)
+
+MAXNMAAM 0
+MAXNMAGM 0
+MAXNBOMB 0
+MAXNMRKT 0
+
+REM AAMSLOT_  4.85m -0.35m -1.60m
+REM AAMSLOT_ -4.85m -0.35m -1.60m
+REM AAMSLOT_  4.30m -0.35m -1.60m
+REM AAMSLOT_ -4.30m -0.35m -1.60m
+
+REM AGMSLOT_  2.70m -0.40m -1.40m
+REM AGMSLOT_ -2.70m -0.40m -1.40m
+REM AGMSLOT_  2.20m -0.40m -1.40m
+REM AGMSLOT_ -2.20m -0.40m -1.40m
+
+REM BOMBSLOT  1.47m -0.70m -1.00m
+REM BOMBSLOT -1.47m -0.70m -1.00m
+REM BOMBSLOT  1.65m -0.40m -1.00m
+REM BOMBSLOT -1.65m -0.40m -1.00m
+REM BOMBSLOT  1.30m -0.40m -1.00m
+REM BOMBSLOT -1.30m -0.40m -1.00m
+
+REM RKTSLOT_  3.50m -0.50m -1.25m
+REM RKTSLOT_ -3.50m -0.50m -1.25m
+
+REM RADARCRS 0.5                  #RADAR CROSS SECTION
+
+REM ClZero,CdZero is fixed by Cruising condition
+REFVCRUS 560kt                #CRUISING SPEED                          [575kt]
+REFACRUS 5000ft               #CRUISING ALTITUDE
+REFTCRUS 0.8                  #CRUISING THROTTLE SETTING
+
+REM ClSlope,CdConst is fixed by Landing condition
+REFVLAND 90kt                 #LANDING SPEED
+REFAOALD 10deg                #LANDING AOA
+REFLNRWY 590m                 #RUNWAY REQUIRED TO STOP
+REFTHRLD 0.30                 #LANDING THROTTLE SETTING
+
+AUTOCALC

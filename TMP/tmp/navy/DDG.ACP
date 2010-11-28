@@ -1,0 +1,7 @@
+ground/carrier_deck.srf
+ground/carrier_wire.srf
+ground/carrier_catapult.srf
+tmp/navy/ddg_base.srf
+ILS 0.0m 0.0m 0m 0deg 0deg 0deg 0m
+
+REM ACP File Aircraft Carrier Property

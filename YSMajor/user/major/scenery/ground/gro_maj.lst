@@ -1,0 +1,46 @@
+User/major/scenery/ground/aa1.dat user/major/scenery/ground/aa1.srf user/major/scenery/ground/aa1.srf
+User/major/scenery/ground/aa2.dat user/major/scenery/ground/aa2.srf user/major/scenery/ground/aa2.srf
+User/major/scenery/ground/aa3.dat user/major/scenery/ground/aa3.srf user/major/scenery/ground/aa3.srf
+User/major/scenery/ground/alert2.dat user/major/scenery/ground/alert2.srf user/major/scenery/ground/alert2.srf
+User/major/scenery/ground/bunker.dat user/major/scenery/ground/bunker.srf user/major/scenery/ground/bunker.srf
+User/major/scenery/ground/bunker2.dat user/major/scenery/ground/bunker2.srf user/major/scenery/ground/bunker2.srf
+User/major/scenery/ground/ctrltwr.dat user/major/scenery/ground/ctrltwr.srf user/major/scenery/ground/ctrltwr.srf
+User/major/scenery/ground/guardtwr.dat user/major/scenery/ground/guardtwr.srf user/major/scenery/ground/guardtwr.srf
+User/major/scenery/ground/hangwat2.dat user/major/scenery/ground/hangwat2.srf user/major/scenery/ground/hangwat2.srf "" user/major/scenery/ground/hangwat2crs.srf
+user/major/scenery/ground/hang_br_2.dat user/major/scenery/ground/hang_br_2.srf user/major/scenery/ground/hang_br_2.srf 
+user/major/scenery/ground/hang_br_o.dat user/major/scenery/ground/hang_br_o.srf user/major/scenery/ground/hang_br_o.srf
+user/major/scenery/ground/hang_gr_o.dat user/major/scenery/ground/hang_gr_o.srf user/major/scenery/ground/hang_gr_o.srf 
+user/major/scenery/ground/hang_fld.dat user/major/scenery/ground/hang_fld.srf user/major/scenery/ground/hang_fld.srf 
+user/major/scenery/ground/lilboat.dat user/major/scenery/ground/lilboat.srf user/major/scenery/ground/lilboatcl.srf
+user/major/scenery/ground/palm1.dat user/major/scenery/ground/palm1.srf user/major/scenery/ground/palm1.srf
+user/major/scenery/ground/palm2.dat user/major/scenery/ground/palm2.srf user/major/scenery/ground/palm2.srf
+user/major/scenery/ground/lighthouse.dat user/major/scenery/ground/lighthouse.dnm user/major/scenery/ground/lighthousecl.srf "" user/major/scenery/ground/lhcrs.dnm
+user/major/scenery/ground/mark1.dat user/major/scenery/ground/mark1.srf user/major/scenery/ground/null.srf "" user/major/scenery/ground/mark1crs.srf
+user/major/scenery/ground/mark2.dat user/major/scenery/ground/mark2.srf user/major/scenery/ground/null.srf
+
+user/major/scenery/ground/sea.dat user/major/scenery/ground/sea.dnm user/major/scenery/ground/null.srf
+user/major/scenery/ground/mine100.dat user/major/scenery/ground/mine100.srf user/major/scenery/ground/minecoll.srf
+user/major/scenery/ground/mine75.dat user/major/scenery/ground/mine75.srf user/major/scenery/ground/minecoll.srf
+user/major/scenery/ground/mine50.dat user/major/scenery/ground/mine50.srf user/major/scenery/ground/minecoll.srf
+
+user/major/scenery/ground/jp_carr.dat user/major/scenery/ground/jp_carr.dnm user/major/scenery/ground/jp_carrcoll.srf "" user/major/scenery/ground/jp_carrcrs.srf
+user/major/scenery/ground/jp_batt.dat user/major/scenery/ground/jp_batt.dnm user/major/scenery/ground/jp_battcoll.srf "" user/major/scenery/ground/jp_battcrs.srf
+user/major/scenery/ground/jp_cruis.dat user/major/scenery/ground/jp_cruis.dnm user/major/scenery/ground/jp_cruiscoll.srf "" user/major/scenery/ground/jp_cruiscrs.srf
+user/major/scenery/ground/us_carr.dat user/major/scenery/ground/us_carr.dnm user/major/scenery/ground/us_carrcoll.srf "" user/major/scenery/ground/us_carrcrs.srf
+user/major/scenery/ground/us_cruis.dat user/major/scenery/ground/us_cruis.dnm user/major/scenery/ground/us_cruiscoll.srf "" user/major/scenery/ground/us_cruiscrs.srf
+user/major/scenery/ground/radio.dat user/major/scenery/ground/radio.srf user/major/scenery/ground/radio.srf
+
+user/major/scenery/ground/hellcat.dat user/major/scenery/ground/hellcat.dnm user/major/scenery/ground/hellcatcoll.srf
+user/major/scenery/ground/corsair.dat user/major/scenery/ground/corsair.dnm user/major/scenery/ground/corsaircoll.srf
+user/major/scenery/ground/zero.dat user/major/scenery/ground/zero.dnm user/major/scenery/ground/zerocoll.srf
+user/major/scenery/ground/99.dat user/major/scenery/ground/99.dnm user/major/scenery/ground/99coll.srf
+
+user/major/scenery/ground/whale.dat user/major/scenery/ground/whale.dnm user/major/scenery/ground/whalecoll.srf
+user/major/scenery/ground/dolphins.dat user/major/scenery/ground/dolphins.dnm user/major/scenery/ground/dolphcoll.srf
+user/major/scenery/ground/turtle.dat user/major/scenery/ground/turtle.srf user/major/scenery/ground/turtlecoll.srf
+user/major/scenery/ground/fish.dat user/major/scenery/ground/fish.srf user/major/scenery/ground/null.srf 
+user/major/scenery/ground/shark.dat user/major/scenery/ground/shark.srf user/major/scenery/ground/sharkcoll.srf
+user/major/scenery/ground/wreck.dat user/major/scenery/ground/wreck.dnm user/major/scenery/ground/wreckcoll.srf 
+
+user/major/scenery/ground/herc_flying.dat user/major/scenery/ground/herc_flying.dnm user/major/scenery/ground/herc_coll.srf "" user/major/scenery/ground/herc_flcrs.dnm 
+user/major/scenery/ground/herc_ground.dat user/major/scenery/ground/herc_ground.dnm user/major/scenery/ground/herc_coll.srf "" user/major/scenery/ground/herc_gdcrs.dnm 

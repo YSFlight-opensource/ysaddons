@@ -1,0 +1,65 @@
+IDENTIFY S_jp_battleship
+HTRADIUS 120m
+STRENGTH 15
+INITIGUN 0
+INITISAM 0
+MAXSPEED 20kt
+MAXROTAT 5deg
+MINAIMPI 20deg
+MAXAIMPI 85deg
+AIMROTAT 18deg
+AIMPITCH 18deg
+GUNRANGE 3300ft
+MINIDAMG 11
+GRNDTYPE NAVYSHIP
+
+NMTURRET 5
+TURRETPO 0 12.00m 15.50m 0.00m 90deg 0deg 0deg   # Number x y z h p b
+TURRETPT 0 25deg 90deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 0 -60deg 60deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 0 10000                              # Ammo
+TURRETIV 0 3.00sec                              # Number ShootingInterval
+TURRETAR 0                                   # Anti Air Capable
+TURRETCT 0 GUNNER                            # Controlled by PILOT or GUNNER
+TURRETRG 0 7300m
+TURRETPW 0 40
+
+TURRETPO 1 -12.00m 15.50m 0.00m -90deg 0deg 0deg   # Number x y z h p b
+TURRETPT 1 25deg 90deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 1 -60deg 60deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 1 10000                              # Ammo
+TURRETIV 1 3.00sec                              # Number ShootingInterval
+TURRETAR 1                                   # Anti Air Capable
+TURRETCT 1 GUNNER                            # Controlled by PILOT or GUNNER
+TURRETRG 1 7300m
+TURRETPW 1 40
+
+TURRETPO 2 0.00m 7.00m -97.50m 180deg 0deg 0deg   # Number x y z h p b
+TURRETPT 2 25deg 85deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 2 -120deg 120deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 2 10000                              # Ammo
+TURRETIV 2 0.2sec                              # Number ShootingInterval
+TURRETAR 2                                   # Anti Air Capable
+TURRETCT 2 GUNNER                            # Controlled by PILOT or GUNNER
+TURRETRG 2 800m
+TURRETPW 2 1
+
+TURRETPO 3 -0m 11.00m 97.50m 0deg 0deg 0deg   # Number x y z h p b
+TURRETPT 3 25deg 85deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 3 -120deg 120deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 3 10000                              # Ammo
+TURRETIV 3 0.2sec                              # Number ShootingInterval
+TURRETAR 3                                   # Anti Air Capable
+TURRETCT 3 GUNNER                            # Controlled by PILOT or GUNNER
+TURRETRG 3 800m
+TURRETPW 3 1
+
+TURRETPO 4 0.00m 18.50m 16.00m -0deg 0deg 0deg   # Number x y z h p b
+TURRETPT 4 25deg 85deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 4 -180deg 180deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 4 10000                              # Ammo
+TURRETIV 4 0.2sec                              # Number ShootingInterval
+TURRETAR 4                                   # Anti Air Capable
+TURRETCT 4 GUNNER                            # Controlled by PILOT or GUNNER
+TURRETRG 4 800m
+TURRETPW 4 1

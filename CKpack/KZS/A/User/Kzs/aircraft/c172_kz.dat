@@ -1,0 +1,116 @@
+REM Cessna Model-172 Skyhawk
+
+REM "c172_kz.dat/c172_kz.dnm/c172_kz_cockpit.srf/c172_kz_coll.srf/c172_kz_coarse.dnm"
+REM    were Created by Kzs.(kazu3613@dc.mbn.or.jp)
+REM Copyright 2001-2003 Kzs(kazu3613@dc.mbn.or.jp) all rights reserved.
+
+IDENTIFY "[Kzs]_Cessna_Model-172_Skyhawk"
+CATEGORY NORMAL
+
+AFTBURNR FALSE                 #HAVE AFTERBURNER?
+PROPELLR 160HP                 #PROPELLER ENGINE
+WEIGHCLN 0.75t                 #WEIGHT CLEAN
+WEIGFUEL 0.20t                 #WEIGHT OF FUEL
+WEIGLOAD 0.38t                 #WEIGHT OF PAYLOAD
+FUELMILI 0.04kg                #FUEL CONSUMPTION AT MILITARY POWER
+
+COCKPITP -0.27m  0.95m  1.90m  #COCKPIT POSITION
+LEFTGEAR -1.14m -0.88m  0.93m  #LEFT LANDING GEAR POSITION
+RIGHGEAR  1.14m -0.88m  0.93m  #RIGHT LANDING GEAR POSITION
+WHELGEAR  0.00m -0.88m  3.00m  #WHEEL POSITION
+ARRESTER  0.00m -0.83m -2.20m  #ARRESTING HOOK POSITION
+MACHNGUN  0.00m -0.05m  3.50m  #MACHINE GUN POSITION
+SMOKEGEN  0.00m  0.37m -3.81m  #SMOKE GENERATOR POSITION
+VAPORPO0  5.51m  1.25m  0.90m  #VAPOR POSITION (Wings Swept Back or no-VGW)
+VAPORPO1  5.51m  1.25m  0.90m  #VAPOR POSITION (Wings Spread)
+HTRADIUS  8.00m                #OUTSIDE SPHERE RADIUS
+
+STRENGTH 4
+
+CRITAOAP  20deg                #CRITICAL AOA POSITIVE
+CRITAOAM -15deg                #CRITICAL AOA NEGATIVE
+
+CRITSPED 100kt                 #CRITICAL SPEED
+MAXSPEED 128kt                 #MAXIMUM SPEED
+
+HASSPOIL FALSE                 #HAS SPOILER?
+RETRGEAR FALSE                 #HAS RETRACTABLE LANDING GEAR?
+VARGEOMW FALSE                 #HAS VARIABLE GEOMETRY WING?
+
+REM VGWSPED1 10kt
+REM VGWSPED2 90kt
+
+CLVARGEO 0.0                   #EFFECT OF VARIABLE GEOMETRY WING FOR Cl
+CDVARGEO 0.0                   #EFFECT OF VARIABLE GEOMETRY WING FOR Cd
+CLBYFLAP 0.2                   #EFFECT OF FLAP FOR Cl
+CDBYFLAP 0.1                   #EFFECT OF FLAP FOR Cd
+CDBYGEAR 0.0                   #EFFECT OF GEAR FOR Cd
+CDSPOILR 2.0                   #EFFECT OF SPOILER FOR Cd
+
+WINGAREA 16.2m^2               #WING AREA
+
+MXIPTAOA  16.0deg              #MAX INPUT AOA
+MXIPTSSA   5.0deg              #MAX INPUT SSA
+MXIPTROL 110.0deg              #MAX INPUT ROLL
+
+REM CPITMANE corresponds to Spring Constant K
+REM CPITSTAB corresponds to Damper Constant B
+REM To be critically damped, B=2*sqrt(K)
+REM 2% Settling Time=??
+
+MANESPD1 30kt                  #MINIMUM MANEUVABLE SPEED
+MANESPD2 40kt                  #FULLY MANEUVABLE SPEED
+CPITMANE 6.5                   #PITCH MANEUVERBILITY CONSTANT
+CPITSTAB 2.0                   #PITCH STABILITY CONSTANT
+CYAWMANE 5.0                   #YAW MANEUVABILITY CONSTANT
+CYAWSTAB 3.0                   #YAW STABILITY CONSTANT
+CROLLMAN 2.0                   #ROLL MANEUVABILITY CONSTANT
+
+CTLLDGEA TRUE                  #CONTROL LANDINGGEAR
+CTLBRAKE FALSE                 #CONTROL BRAKE
+CTLSPOIL 0.0                   #CONTROL SPOILER
+CTLABRNR FALSE                 #CONTROL AFTERBURNER
+CTLTHROT 0.0                   #CONTROL THRUST
+CTLIFLAP 0.0                   #CONTROL FLAP
+CTLINVGW 0.0                   #CONTROL VARIABLE GEOMETRY WING
+CTLATVGW FALSE                 #CONTROL AUTO VARIABLE GEOMETRY WING
+
+POSITION 0m 3ft 0m             #POSITION
+ATTITUDE 45deg 0deg 0deg       #ATTITUDE
+INITFUEL 100%                  #INITIAL FUEL
+INITLOAD 0.0t                  #INITIAL PAYLOAD
+INITSPED 0.0MACH               #INITIAL SPEED
+
+INITIGUN 0                     #INITIAL GUN
+INITIAAM 0                     #INITIAL AAM
+INITIAGM 0                     #INITIAL AGM
+INITBOMB 0                     #INITIAL BOMB
+INITRCKT 0                     #INITIAL ROCKET (10kg/each)
+
+MAXNMAAM 0
+MAXNMAGM 0
+MAXNBOMB 0
+MAXNMRKT 0
+
+REM BOMBSLOT  3.35m  1.00m 1.30m
+REM BOMBSLOT -3.35m  1.00m 1.30m
+
+REM RKTSLOT_  2.85m  1.00m 1.40m
+REM RKTSLOT_ -2.85m  1.00m 1.40m
+
+
+
+RADARCRS 0.001
+
+REM ClZero,CdZero is fixed by Cruising condition
+REFVCRUS 122kt                 #CRUISING SPEED
+REFACRUS 8000ft                #CRUISING ALTITUDE
+REFTCRUS 0.8                   #CRUISING THROTTLE SETTING
+
+REM ClSlope,CdConst is fixed by Landing condition
+REFVLAND 80kt                  #LANDING SPEED
+REFAOALD 10deg                 #LANDING AOA
+REFLNRWY 500m                  #RUNWAY REQUIRED TO STOP
+REFTHRLD 0.5                   #LANDING THROTTLE SETTING
+
+AUTOCALC

@@ -1,0 +1,68 @@
+Aircraft
+User/fufanl/dardanelli/ground/ferryboat.dat User/fufanl/dardanelli/ground/ferryboat.srf User/fufanl/dardanelli/ground/ferry_coll.srf User/fufanl/dardanelli/ground/ferryboat_cockpit.srf
+User/fufanl/dardanelli/ground/Turkbb1.dat User/fufanl/dardanelli/ground/Turkbb1.srf User/fufanl/dardanelli/ground/Turkbb1_coll.srf User/fufanl/dardanelli/ground/Turkbb1_cockpit.srf
+User/fufanl/dardanelli/ground/sciabecco.dat User/fufanl/dardanelli/ground/sciabecco.srf User/fufanl/dardanelli/ground/sciabecco_coll.srf User/fufanl/dardanelli/ground/sciabecco_cockpit.srf
+
+Ground
+
+User/fufanl/dardanelli/ground/camionspa.dat User/fufanl/dardanelli/ground/camionspa.srf User/fufanl/dardanelli/ground/camionspa.srf
+User/fufanl/dardanelli/ground/cannon_7.dat User/fufanl/dardanelli/ground/cannon_7.srf User/fufanl/dardanelli/ground/cannon_7.srf
+User/fufanl/dardanelli/ground/cannone_cost283.dat User/fufanl/dardanelli/ground/cannone_cost283.srf User/fufanl/dardanelli/ground/cannone_cost283.srf
+User/fufanl/dardanelli/ground/cannone_costfl.dat User/fufanl/dardanelli/ground/cannone_costfl.srf User/fufanl/dardanelli/ground/cannone_costfl.srf
+User/fufanl/dardanelli/ground/cassafok.dat User/fufanl/dardanelli/ground/cassafok.srf User/fufanl/dardanelli/ground/cassafok.srf
+User/fufanl/dardanelli/ground/cassafok1.dat User/fufanl/dardanelli/ground/cassafok1.srf User/fufanl/dardanelli/ground/cassafok1.srf
+User/fufanl/dardanelli/ground/charlemagne.dat User/fufanl/dardanelli/ground/charlemagne.srf User/fufanl/dardanelli/ground/charlemagne.srf
+User/fufanl/dardanelli/ground/entrecasteaux.dat User/fufanl/dardanelli/ground/entrecasteaux.srf User/fufanl/dardanelli/ground/entrecasteaux.srf
+User/fufanl/dardanelli/ground/fortezza2.dat User/fufanl/dardanelli/ground/fortezza2.srf User/fufanl/dardanelli/ground/fortezza2.srf
+User/fufanl/dardanelli/ground/frangiflutti.dat User/fufanl/dardanelli/ground/frangiflutti.srf User/fufanl/dardanelli/ground/frangiflutti.srf
+User/fufanl/dardanelli/ground/hangar_field.dat User/fufanl/dardanelli/ground/hangar_field.srf User/fufanl/dardanelli/ground/hangar_field.srf
+User/fufanl/dardanelli/ground/hangar_field1.dat User/fufanl/dardanelli/ground/hangar_field1.srf User/fufanl/dardanelli/ground/hangar_field1.srf
+User/fufanl/dardanelli/ground/hangar_t.dat User/fufanl/dardanelli/ground/hangar_t.srf User/fufanl/dardanelli/ground/hangar_t.srf
+User/fufanl/dardanelli/ground/hangar_t1.dat User/fufanl/dardanelli/ground/hangar_t1.srf User/fufanl/dardanelli/ground/hangar_t1.srf
+User/fufanl/dardanelli/ground/hangar_t2.dat User/fufanl/dardanelli/ground/hangar_t2.srf User/fufanl/dardanelli/ground/hangar_t2.srf
+User/fufanl/dardanelli/ground/hangar_t3.dat User/fufanl/dardanelli/ground/hangar_t3.srf User/fufanl/dardanelli/ground/hangar_t3.srf
+User/fufanl/dardanelli/ground/lanchester.dat User/fufanl/dardanelli/ground/lanchester.srf User/fufanl/dardanelli/ground/lanchester.srf
+User/fufanl/dardanelli/ground/lordnelson.dat User/fufanl/dardanelli/ground/lordnelson.srf User/fufanl/dardanelli/ground/lordnelson.srf
+User/fufanl/dardanelli/ground/mitr.dat User/fufanl/dardanelli/ground/mitr.srf User/fufanl/dardanelli/ground/mitr.srf
+User/fufanl/dardanelli/ground/mitr1.dat User/fufanl/dardanelli/ground/mitr1.srf User/fufanl/dardanelli/ground/mitr1.srf
+User/fufanl/dardanelli/ground/moletto.dat User/fufanl/dardanelli/ground/moletto.srf User/fufanl/dardanelli/ground/moletto.srf
+User/fufanl/dardanelli/ground/muro.dat User/fufanl/dardanelli/ground/muro.srf User/fufanl/dardanelli/ground/muro.srf
+User/fufanl/dardanelli/ground/molo.dat User/fufanl/dardanelli/ground/molo.srf User/fufanl/dardanelli/ground/molo.srf
+User/fufanl/dardanelli/ground/obice_cost305.dat User/fufanl/dardanelli/ground/obice_cost305.srf User/fufanl/dardanelli/ground/obice_cost305.srf
+User/fufanl/dardanelli/ground/obice6in.dat User/fufanl/dardanelli/ground/obice6in.srf User/fufanl/dardanelli/ground/obice6in.srf
+User/fufanl/dardanelli/ground/obice6in_30.dat User/fufanl/dardanelli/ground/obice6in_30.srf User/fufanl/dardanelli/ground/obice6in_30.srf
+User/fufanl/dardanelli/ground/obice8in.dat User/fufanl/dardanelli/ground/obice8in.srf User/fufanl/dardanelli/ground/obice8in.srf
+User/fufanl/dardanelli/ground/officina.dat User/fufanl/dardanelli/ground/officina.srf User/fufanl/dardanelli/ground/officina.srf
+User/fufanl/dardanelli/ground/oldship.dat User/fufanl/dardanelli/ground/oldship.srf User/fufanl/dardanelli/ground/oldship.srf
+User/fufanl/dardanelli/ground/oldship1.dat User/fufanl/dardanelli/ground/oldship1.srf User/fufanl/dardanelli/ground/oldship1.srf
+User/fufanl/dardanelli/ground/ponteold.dat User/fufanl/dardanelli/ground/ponteold.srf User/fufanl/dardanelli/ground/ponteold.srf
+User/fufanl/dardanelli/ground/ponteold1.dat User/fufanl/dardanelli/ground/ponteold1.srf User/fufanl/dardanelli/ground/ponteold1.srf
+User/fufanl/dardanelli/ground/porthanturk.dat User/fufanl/dardanelli/ground/porthanturk.srf User/fufanl/dardanelli/ground/porthanturk.srf
+User/fufanl/dardanelli/ground/porthanturk1.dat User/fufanl/dardanelli/ground/porthanturk1.srf User/fufanl/dardanelli/ground/porthanturk1.srf
+User/fufanl/dardanelli/ground/porthanturk2.dat User/fufanl/dardanelli/ground/porthanturk2.srf User/fufanl/dardanelli/ground/porthanturk2.srf
+User/fufanl/dardanelli/ground/porto.dat User/fufanl/dardanelli/ground/porto.srf User/fufanl/dardanelli/ground/porto.srf
+User/fufanl/dardanelli/ground/porto1.dat User/fufanl/dardanelli/ground/porto1.srf User/fufanl/dardanelli/ground/porto1.srf
+User/fufanl/dardanelli/ground/power.dat User/fufanl/dardanelli/ground/power.srf User/fufanl/dardanelli/ground/power.srf
+User/fufanl/dardanelli/ground/queen.dat User/fufanl/dardanelli/ground/queen.srf User/fufanl/dardanelli/ground/queen.srf
+User/fufanl/dardanelli/ground/sciab.dat User/fufanl/dardanelli/ground/sciab.srf User/fufanl/dardanelli/ground/sciab.srf
+User/fufanl/dardanelli/ground/sciab1.dat User/fufanl/dardanelli/ground/sciab1.srf User/fufanl/dardanelli/ground/sciab1.srf
+User/fufanl/dardanelli/ground/sciab2.dat User/fufanl/dardanelli/ground/sciab2.srf User/fufanl/dardanelli/ground/sciab2.srf
+User/fufanl/dardanelli/ground/scialuppaonsea.dat User/fufanl/dardanelli/ground/scialuppaonsea.srf User/fufanl/dardanelli/ground/scialuppaonsea.srf
+User/fufanl/dardanelli/ground/scialuppasb.dat User/fufanl/dardanelli/ground/scialuppasb.srf User/fufanl/dardanelli/ground/scialuppasb.srf
+User/fufanl/dardanelli/ground/sold_a.dat User/fufanl/dardanelli/ground/sold_a.srf User/fufanl/dardanelli/ground/sold_a.srf 
+User/fufanl/dardanelli/ground/sold_a1.dat User/fufanl/dardanelli/ground/sold_a1.srf User/fufanl/dardanelli/ground/sold_a1.srf 
+User/fufanl/dardanelli/ground/sold_lw.dat User/fufanl/dardanelli/ground/sold_lw.srf User/fufanl/dardanelli/ground/sold_lw.srf 
+User/fufanl/dardanelli/ground/sold_t.dat User/fufanl/dardanelli/ground/sold_t.srf User/fufanl/dardanelli/ground/sold_t.srf 
+User/fufanl/dardanelli/ground/sviatoyeustafi.dat User/fufanl/dardanelli/ground/sviatoyeustafi.srf User/fufanl/dardanelli/ground/sviatoyeustafi.srf
+User/fufanl/dardanelli/ground/swzlose.dat User/fufanl/dardanelli/ground/swzlose.srf User/fufanl/dardanelli/ground/swzlose.srf
+User/fufanl/dardanelli/ground/swzlose1.dat User/fufanl/dardanelli/ground/swzlose1.srf User/fufanl/dardanelli/ground/swzlose1.srf
+User/fufanl/dardanelli/ground/swzlosesm.dat User/fufanl/dardanelli/ground/swzlosesm.srf User/fufanl/dardanelli/ground/swzlosesm.srf
+User/fufanl/dardanelli/ground/taube.dat User/fufanl/dardanelli/ground/taube.srf User/fufanl/dardanelli/ground/taube_coll.srf
+User/fufanl/dardanelli/ground/taubehang.dat User/fufanl/dardanelli/ground/taubehang.srf User/fufanl/dardanelli/ground/taubehang.srf
+User/fufanl/dardanelli/ground/tendaturk.dat User/fufanl/dardanelli/ground/tendaturk.srf User/fufanl/dardanelli/ground/tendaturk.srf
+User/fufanl/dardanelli/ground/tendaturk1.dat User/fufanl/dardanelli/ground/tendaturk1.srf User/fufanl/dardanelli/ground/tendaturk1.srf
+User/fufanl/dardanelli/ground/trincea.dat User/fufanl/dardanelli/ground/trincea.srf User/fufanl/dardanelli/ground/trincea.srf
+User/fufanl/dardanelli/ground/turk_bb.dat User/fufanl/dardanelli/ground/turk_bb.srf User/fufanl/dardanelli/ground/turk_bb.srf
+
+Scenery
+FORCED_STRAIT User/fufanl/dardanelli/dardan.fld User/fufanl/dardanelli/dardan.stp User/fufanl/dardanelli/dardan.yfs 

@@ -1,0 +1,27 @@
+※ 同名のミッションをシーナリ登録する為のyfsデータです。
+※ 自機･com機の設定を削除(& no-obj版のオブジェクトを補填)しただけで、敵オブジェクトの配置は全く同じです。
+※ 使用するには以下の登録行をscenery.lstへ追加してください。
+
+*** scenery.lst
+[Kzs]_AC2SP/R(AttackCanyon1) User/Kzs/ac2sp/ac2sp.fld User/Kzs/ac2sp/ac2sp.stp User/Kzs/_appendx.yfs/ac2sp(ac1).yfs
+[Kzs]_AC2SP/R(AttackCanyon2) User/Kzs/ac2sp/ac2sp.fld User/Kzs/ac2sp/ac2sp.stp User/Kzs/_appendx.yfs/ac2sp(ac2).yfs
+[Kzs]_AC2SP/R(AttackCanyon3) User/Kzs/ac2sp/ac2sp.fld User/Kzs/ac2sp/ac2sp.stp User/Kzs/_appendx.yfs/ac2sp(ac3).yfs
+[Kzs]_AC2SP/R(AttackCanyon4) User/Kzs/ac2sp/ac2sp.fld User/Kzs/ac2sp/ac2sp.stp User/Kzs/_appendx.yfs/ac2sp(ac4).yfs
+[Kzs]_AC2SP/R(AttackCanyon5) User/Kzs/ac2sp/ac2sp.fld User/Kzs/ac2sp/ac2sp.stp User/Kzs/_appendx.yfs/ac2sp(ac5).yfs
+[Kzs]_AC2SP/R(SweepInfantry1) User/Kzs/ac2sp/ac2sp.fld User/Kzs/ac2sp/ac2sp.stp User/Kzs/_appendx.yfs/ac2sp(si1).yfs
+[Kzs]_AC2SP/R(AttackBay1) User/Kzs/ac2sp/ac2sp.fld User/Kzs/ac2sp/ac2sp.stp User/Kzs/_appendx.yfs/ac2sp(ab1).yfs
+[Kzs]_AC2SP/R(AttackBay2) User/Kzs/ac2sp/ac2sp.fld User/Kzs/ac2sp/ac2sp.stp User/Kzs/_appendx.yfs/ac2sp(ab2).yfs
+[Kzs]_AC2SP/R(AttackBay3) User/Kzs/ac2sp/ac2sp.fld User/Kzs/ac2sp/ac2sp.stp User/Kzs/_appendx.yfs/ac2sp(ab3).yfs
+
+[Kzs]_AC2SP/L(StrikeCanal) User/Kzs/ac2sp/ac2sp(d).fld User/Kzs/ac2sp/ac2sp(d).stp User/Kzs/_appendx.yfs/ac2sp(d)(sc1).yfs
+[Kzs]_AC2SP/L(DestroyRadar1) User/Kzs/ac2sp/ac2sp(d).fld User/Kzs/ac2sp/ac2sp(d).stp User/Kzs/_appendx.yfs/ac2sp(d)(dr1).yfs
+[Kzs]_AC2SP/L(DestroyAfv1) User/Kzs/ac2sp/ac2sp(d).fld User/Kzs/ac2sp/ac2sp(d).stp User/Kzs/_appendx.yfs/ac2sp(d)(da1).yfs
+[Kzs]_AC2SP/L(DestroyPlant1) User/Kzs/ac2sp/ac2sp(d).fld User/Kzs/ac2sp/ac2sp(d).stp User/Kzs/_appendx.yfs/ac2sp(d)(dp1).yfs
+[Kzs]_AC2SP/L(DestroyAfv2) User/Kzs/ac2sp/ac2sp(d).fld User/Kzs/ac2sp/ac2sp(d).stp User/Kzs/_appendx.yfs/ac2sp(d)(da2).yfs
+
+[Kzs]_AC2SP/U(DestroyAfv1) User/Kzs/ac2sp/ac2sp(v).fld User/Kzs/ac2sp/ac2sp(v).stp User/Kzs/_appendx.yfs/ac2sp(v)(da1).yfs
+[Kzs]_AC2SP/U(GunShoot1) User/Kzs/ac2sp/ac2sp(v).fld User/Kzs/ac2sp/ac2sp(v).stp User/Kzs/_appendx.yfs/ac2sp(v)(gs1).yfs
+
+
+
+/E

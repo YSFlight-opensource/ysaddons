@@ -1,0 +1,15 @@
+メッサーシュミット　Me262A-1a戦闘機
+全長: 10.58m
+全幅: 12.50m
+全高:  3.83m
+自重: 3,795kg
+最高速度:870km/h
+武装:30mm機関砲4
+生産機数1,433機
+
+aircraftフォルダの中のaircraft.lstに次の一行を追加して、上書き保存してください。
+
+user/oranleed/me262/me262a.dat user/oranleed/me262/me262a.dnm user/oranleed/me262/me262coll.srf user/oranleed/me262/me262cockpit.srf user/oranleed/me262/me262coarse.dnm
+user/oranleed/me262/me262a(cmg).dat user/oranleed/me262/me262a(cmg).dnm user/oranleed/me262/me262coll.srf user/oranleed/me262/me262cockpit.srf user/oranleed/me262/me262(cmg)coarse.dnm
+user/oranleed/me262/me262b.dat user/oranleed/me262/me262b.dnm user/oranleed/me262/me262coll.srf user/oranleed/me262/me262cockpit.srf user/oranleed/me262/me262bcoarse.dnm
+user/oranleed/me262/me262b(cmg).dat user/oranleed/me262/me262b(cmg).dnm user/oranleed/me262/me262coll.srf user/oranleed/me262/me262cockpit.srf user/oranleed/me262/me262b(cmg)coarse.dnm

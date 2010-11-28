@@ -1,0 +1,40 @@
+FIELD
+GND 34 52 72
+SKY 68 104 145
+RGN
+ARE -200000.000000 -200000.000000 200000.000000 200000.000000
+POS 0.00 0.00 0.00 0.00 0.00 0.00
+ID 0
+TAG "yokubari"
+END
+
+FLD
+FIL ground/ground.fld
+POS 0 0 0 0 0 0
+END
+
+FLD
+FIL canyon/canyon.fld
+POS -2770.59 0.00 -114963.64 3640.89 0.00 -0.00
+END
+
+FLD
+FIL canyon/mountain.fld
+POS -40612.50 0.00 -72937.50 5716.20 0.00 -0.00
+END
+
+FLD
+FIL canyon/race-airport.fld
+POS 21834.73 0.00 -72136.03 16384.00 0.00 0.00
+END
+
+FLD
+FIL canyon/race-airport.fld
+POS -10442.96 -0.00 -119447.55 -8410.45 0.00 0.00
+END
+
+FLD
+FIL canyon/race-course.fld
+POS 7300.69 0.00 -105430.93 0.00 0.00 0.00
+END
+

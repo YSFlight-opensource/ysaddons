@@ -1,0 +1,5 @@
+IDENTIFY Bridge2_WAR
+HTRADIUS 360m
+STRENGTH 100
+MINIDAMG 1
+CARRIER user/yuichi/ground/bridge2.acp

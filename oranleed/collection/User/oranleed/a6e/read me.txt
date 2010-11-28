@@ -1,0 +1,4 @@
+user/oranleed/a6e/a6e.dat user/oranleed/a6e/a6e.dnm user/oranleed/a6e/a6ecoll.srf user/oranleed/a6e/a6ecockpit.srf user/oranleed/a6e/a6ecoarse.dnm
+
+主翼折りたたみと、キャノピーはpg up, pg downで作動。
+着艦フックはgear downの状態でBキー（ブレーキ）で作動。

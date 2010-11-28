@@ -1,0 +1,27 @@
+***aircraft.lst
+User/hangar/yf16ccv/yf16_kz_ccv.dat User/hangar/yf16ccv/yf16_kz_ccv.dnm User/hangar/yf16ccv/f16c_kz_coll.srf User/hangar/yf16ccv/f16c_kz_cockpit.srf User/hangar/yf16ccv/yf16_kz_ccv_coarse.dnm
+
+
+kzsさんの製作になる機体をoranleedが部品透明化など手を加えたものです。
+
+
+データ一覧:
+    YF-16 初号機改造の CCV です。
+        ※ CCV : Control Configured Vehicle(操縦性優先形態機)
+    
+    拙作 F-16A FSD #1 からのコンバージョンです。
+    機首形状はYF-16に見えるように修正しましたが、surfviewで眺めていて違和感は感
+    じなかったので、主翼･水平尾翼･ベントラルフィンの大きさは修正してありません。
+    そのためちょっと翼面積が大き過ぎます･･･。
+    
+    カナードを取り去って FSD #1から垂直尾翼をコンバート、インテイク脇に小さな
+    水平フィンを追加して、主脚ドアのちょっと上付近にスパロー用のランチャーをつ
+    ければ、デビュー時の形態になったりしますねw。
+    (垂直尾翼の文字は途中でYF-16に変更されたんだと思う･･･)
+
+このデータ(cabファイル)の再配布は自由です。
+改造･流用等は、KzsPack同梱のreadmeに記載してある条件を尊重していただければ
+事前許諾無しに自由にして頂いてかまいません。
+
+by Kzs on 2005/01/30.
+/E

@@ -1,0 +1,21 @@
+登録行:
+User/Kzs/aircraft/tgt/target_kz(b).dat User/Kzs/aircraft/tgt/target_kz(b).dnm User/Kzs/aircraft/tgt/target_kz(b)_coll.srf User/Kzs/aircraft/tgt/target_kz_cockpit.srf
+User/Kzs/aircraft/tgt/target_kz(d).dat User/Kzs/aircraft/tgt/target_kz(d).dnm User/Kzs/aircraft/tgt/target_kz(d)_coll.srf User/Kzs/aircraft/tgt/target_kz_cockpit.srf
+User/Kzs/aircraft/tgt/target_kz(ds).dat User/Kzs/aircraft/tgt/target_kz(ds).dnm User/Kzs/aircraft/tgt/target_kz(ds)_coll.srf User/Kzs/aircraft/tgt/target_kz_cockpit.srf
+
+※旧版データ(Pack/S収録バージョン)と内容は ほぼ同じですが、ディレクトリ構成を
+  変更したので、旧データ(x_misshon.yfs/*.yfs;*.txt)は一旦削除してからインストー
+  ルして下さい。
+
+変更点:
+    ･マップデータの微修正に合わせてスタート位置名･オブジェクト名を修正。
+    ･新規追加のミッションが幾つか･･･。
+    ･ターゲット(ダート･バルーン)の機体データを同梱。
+
+免責･利用条件等等等:
+    このデータ(cabファイル)の再配布は自由です。
+    改造･流用等は、KzsPack同梱のreadmeに記載してある条件を尊重していただければ
+    事前許諾無しに自由にして頂いてかまいません。
+
+by Kzs on 2004/05/31.
+/E

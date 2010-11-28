@@ -1,0 +1,20 @@
+FIELD
+SKY 37 123 209
+GND 2 34 185
+
+PC2
+FIL lakeba.pc2
+POS 0.00 0.00 0.00 0 0 0
+END
+
+FLD
+FIL as_18k.fld
+POS -20900.00 0.00 14260.00 614 0 0
+END
+
+FLD
+FIL lakeba_beach.fld
+POS 0.00 0.00 0.00 0 0 0
+END
+
+ENDF

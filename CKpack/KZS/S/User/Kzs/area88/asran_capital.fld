@@ -1,0 +1,190 @@
+FIELD
+SKY 32 180 180
+GND 32 128 32
+PC2
+FIL asran_capital.pc2
+POS 0.00 0.00 0.00 0 0 0
+END
+
+SRF
+FIL _t_build01.srf
+ID 0
+TAG ""
+POS -2145.55 0.00 -463.43 0 0 0
+END
+SRF
+FIL _t_build02.srf
+ID 0
+TAG ""
+POS 1041.74 0.00 -492.98 0 0 0
+END
+SRF
+FIL _t_build06.srf
+ID 0
+TAG ""
+POS -1861.84 0.00 -1623.38 0 0 0
+END
+SRF
+FIL _t_build12.srf
+ID 0
+TAG ""
+POS -1485.04 0.00 -677.69 0 0 0
+END
+SRF
+FIL _t_build15_l.srf
+ID 0
+TAG ""
+POS 0.00 0.00 482.27 0 0 0
+END
+SRF
+FIL _t_build15_l.srf
+ID 0
+TAG ""
+POS -428.52 0.00 -3463.06 0 0 0
+END
+SRF
+FIL _t_build15_l.srf
+ID 0
+TAG ""
+POS -1241.23 0.00 -810.68 -16128 0 0
+END
+SRF
+FIL _t_build15_l.srf
+ID 0
+TAG ""
+POS 709.27 0.00 -2546.92 16512 0 0
+END
+SRF
+FIL _t_build15_l.srf
+ID 0
+TAG ""
+POS 1263.39 0.00 -1172.70 0 0 0
+END
+SRF
+FIL _t_build12.srf
+ID 0
+TAG ""
+POS -96.05 0.00 -3307.91 0 0 0
+END
+SRF
+FIL _t_build12.srf
+ID 0
+TAG ""
+POS 458.07 0.00 -3285.74 0 0 0
+END
+SRF
+FIL _t_build12.srf
+ID 0
+TAG ""
+POS -1204.28 0.00 -1224.42 0 0 0
+END
+SRF
+FIL _t_build12.srf
+ID 0
+TAG ""
+POS 576.28 0.00 231.07 0 0 0
+END
+SRF
+FIL _t_build12.srf
+ID 0
+TAG ""
+POS 1854.45 0.00 -1401.74 0 0 0
+END
+SRF
+FIL _t_build12.srf
+ID 0
+TAG ""
+POS 1189.51 0.00 -1002.77 0 0 0
+END
+SRF
+FIL _t_build06.srf
+ID 0
+TAG ""
+POS 650.17 0.00 -2879.39 0 0 0
+END
+SRF
+FIL _t_build06.srf
+ID 0
+TAG ""
+POS 96.05 0.00 -3285.74 0 0 0
+END
+SRF
+FIL _t_build06.srf
+ID 0
+TAG ""
+POS 472.85 0.00 -3477.83 0 0 0
+END
+SRF
+FIL _t_build06.srf
+ID 0
+TAG ""
+POS 2807.53 0.00 -1106.21 0 0 0
+END
+SRF
+FIL _t_build06.srf
+ID 0
+TAG ""
+POS 1603.25 0.00 -729.41 0 0 0
+END
+SRF
+FIL _t_build06.srf
+ID 0
+TAG ""
+POS -1374.21 0.00 -1084.04 0 0 0
+END
+SRF
+FIL _t_build06.srf
+ID 0
+TAG ""
+POS -280.75 0.00 482.27 0 0 0
+END
+SRF
+FIL _t_build01.srf
+ID 0
+TAG ""
+POS 2083.49 0.00 458.62 0 0 0
+END
+SRF
+FIL _t_build01.srf
+ID 0
+TAG ""
+POS 1972.66 0.00 -707.24 0 0 0
+END
+SRF
+FIL _t_build01.srf
+ID 0
+TAG ""
+POS -1071.30 0.00 -2480.42 0 0 0
+END
+SRF
+FIL _t_build01.srf
+ID 0
+TAG ""
+POS 1381.60 0.00 171.96 0 0 0
+END
+SRF
+FIL _t_build02.srf
+ID 0
+TAG ""
+POS -1049.13 0.00 275.40 0 0 0
+END
+SRF
+FIL _t_build02.srf
+ID 0
+TAG ""
+POS -672.33 0.00 -2842.45 0 0 0
+END
+SRF
+FIL _t_build02.srf
+ID 0
+TAG ""
+POS -258.59 0.00 -4017.18 0 0 0
+END
+SRF
+FIL _t_build02.srf
+ID 0
+TAG ""
+POS -990.03 0.00 -1918.91 0 0 0
+END
+
+ENDF

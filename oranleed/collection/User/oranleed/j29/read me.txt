@@ -1,0 +1,2 @@
+aircraftフォルダの中のaircraft.lstに次の一行を追加して、上書き保存してください。
+user/oranleed/j29/j29.dat user/oranleed/j29/j29.dnm user/oranleed/j29/j29coll.srf user/oranleed/j29/j29cockpit.srf user/oranleed/j29/j29coarse.dnm

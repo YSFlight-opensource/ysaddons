@@ -1,0 +1,90 @@
+REM S.P.A.D. 
+REM Long:6.3m Width:8.2m Height:2.42m
+IDENTIFY "SPAD XIII fr"
+CATEGORY WW2FIGHTER
+AFTBURNR FALSE                   #HAVE AFTERBURNER?
+PROPELLR 235HP              
+WEIGHCLN  0.6t                
+WEIGFUEL  0.2t               
+WEIGLOAD  0.05t               
+REM FUELABRN  0.0kg              
+FUELMILI  0.08kg    
+         
+COCKPITP  0.00m  0.57m -0.82m    #COCKPIT POSITION
+INSTPANL user/oranleed/spad13/spad13.ist
+LEFTGEAR -0.77m -1.56m  0.48m    #LEFT LANDING GEAR POSITION
+RIGHGEAR  0.77m -1.56m  0.48m    #RIGHT LANDING GEAR POSITION
+WHELGEAR  0.00m -0.58m -4.17m    #WHEEL POSITION
+GUNSIGHT FALSE
+SMOKEGEN  0.00m  -0.62m -1.16m    #SMOKE GENERATOR POSITION
+VAPORPO0  4.06m 0.68m -0.96m    #VAPOR POSITION (Wings Swept Back or no-VGW)
+VAPORPO1  4.06m 0.68m -0.96m    #VAPOR POSITION (Wings Spread)
+HTRADIUS  7.0m                   #OUTSIDE SPHERE RADIUS
+GUNINTVL 0.13
+
+MACHNGUN  0.17m 0.50m  0.55m  #MACHINE GUN POSITION
+MACHNGN2 -0.17m 0.50m  0.55m  #MACHINE GUN POSITION
+
+STRENGTH 6                  
+CRITAOAP  13deg                
+CRITAOAM -10deg               
+
+CRITSPED 250km/h              
+MAXSPEED 222km/h   
+            
+HASSPOIL FALSE                   #HAS SPOILER?
+RETRGEAR FALSE                   #HAS RETRACTABLE LANDING GEAR?
+VARGEOMW FALSE                   #HAS VARIABLE GEOMETRY WING?
+
+CLVARGEO 0.0                     #EFFECT OF VARIABLE GEOMETRY WING FOR Cl
+CDVARGEO 0.0                     #EFFECT OF VARIABLE GEOMETRY WING FOR Cd
+CLBYFLAP 0.0                     #EFFECT OF FLAP FOR Cl
+CDBYFLAP 0.0                     #EFFECT OF FLAP FOR Cd
+CDBYGEAR 0.0                     #EFFECT OF GEAR FOR Cd
+CDSPOILR 0.0                     #EFFECT OF SPOILER FOR Cd
+
+WINGAREA 21.1m^2            
+
+MXIPTAOA 14.0deg                 #MAX INPUT AOA
+MXIPTSSA 5.0deg                  #MAX INPUT SSA
+MXIPTROL 55.0deg                 #MAX INPUT ROLL
+
+MANESPD1 40km/h                
+MANESPD2 75km/h                
+CPITMANE 7.0                  #PITCH MANEUVERBILITY CONSTANT
+CPITSTAB 2.0                  #PITCH STABILITY CONSTANT
+CYAWMANE 5.0                  #YAW MANEUVABILITY CONSTANT
+CYAWSTAB 3.0                  #YAW STABILITY CONSTANT
+CROLLMAN 3.0                  #ROLL MANEUVABILITY CONSTANT
+
+CTLLDGEA TRUE                 #CONTROL LANDINGGEAR
+CTLBRAKE FALSE                #CONTROL BRAKE
+CTLSPOIL 0.0                  #CONTROL SPOILER
+CTLABRNR FALSE                #CONTROL AFTERBURNER
+CTLTHROT 0.0                  #CONTROL THRUST
+CTLIFLAP 0.0                  #CONTROL FLAP
+CTLINVGW 0.0                  #CONTROL VARIABLE GEOMETRY WING
+CTLATVGW FALSE                #CONTROL AUTO VARIABLE GEOMETRY WING
+
+POSITION 0m 3ft 0m            #POSITION
+ATTITUDE 45deg 15deg 0deg     #ATTITUDE
+INITFUEL 75%                  #INITIAL FUEL
+INITLOAD 0.0t                 #INITIAL PAYLOAD
+INITSPED 0.0MACH              #INITIAL SPEED
+WEAPONCH GUN
+
+INITIGUN 1000 
+
+RADARCRS 0.001
+
+REFVCRUS 212km/h               
+REFACRUS 6000ft               
+REFTCRUS 0.75                   
+
+
+REFVLAND 80km/h               
+REFAOALD 8.5deg              
+REFLNRWY 800m              
+REFTHRLD 0.45                  
+
+AUTOCALC

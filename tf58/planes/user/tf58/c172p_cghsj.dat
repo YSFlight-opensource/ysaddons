@@ -1,0 +1,125 @@
+REM --------======== Original REM notes from KZS ========--------
+REM Cessna Model-172R Skyhawk
+REM "c172r_kz.dat/c172r_kz.dnm/c172r_kz_cockpit.srf/c172r_kz_coll.srf/c172r_kz_coarse.dnm"
+REM    were Created by Kzs.(kazu3613@dc.mbn.or.jp)
+REM Copyright 2001-2003,2004 Kzs(kazu3613@dc.mbn.or.jp) all rights reserved.
+REM --------======== ########################### ========--------
+REM
+REM COMM/NAV STACK FRQ:
+REM
+REM COMM1 123.30 (CNC3 MF) / 119.30 (YYZ TERM) NAV1 112.15 DME CH58 (YYZ VOR)
+REM COMM2 126.70 (ENROUTE VFR) / 121.50  NAV2 112.80 DME CH725 (YEE VOR)
+REM ADF 272 (YQA NDB) / 326 (WIARTON NDB)
+REM XPDR 1200 (VFR)
+REM DME [DIST] 112.15 (YYZ VOR)
+REM
+
+IDENTIFY "Cessna_172P_C-GHSJ_{kzs/tf58}"
+CATEGORY TRAINER
+
+AFTBURNR FALSE                 #HAVE AFTERBURNER?
+PROPEFCY 0.65                 #Propeller efficiency
+PROPELLR 160HP                 #PROPELLER ENGINE [160HP]
+WEIGHCLN 1433lb                #WEIGHT CLEAN [0.743t]
+WEIGFUEL 240lb                #WEIGHT OF FUEL
+WEIGLOAD 974lb                 #WEIGHT OF PAYLOAD
+FUELMILI 0.0107lb                #FUEL CONSUMPTION AT MILITARY POWER
+
+COCKPITP -0.27m  0.57m  0.15m  #COCKPIT POSITION
+EXCAMERA "INSTRUCTOR" 0.27m  0.578m  0.15m  0deg 0deg 0deg INSIDE
+INSTPANL user/tf58/c172.ist
+LEFTGEAR -1.34m -1.15m -0.20m  #LEFT LANDING GEAR POSITION
+RIGHGEAR  1.34m -1.15m -0.20m  #RIGHT LANDING GEAR POSITION
+WHELGEAR  0.00m -1.26m  1.35m  #WHEEL POSITION
+ARRESTER  0.00m -0.75m -3.80m  #ARRESTING HOOK POSITION
+MACHNGUN -0.27m -0.34m  1.99m  #MACHINE GUN POSITION
+MACHNGN2  0.27m -0.34m  1.99m  #MACHINE GUN POSITION
+SMOKEGEN  0.00m -0.64m  0.00m  #SMOKE GENERATOR POSITION
+VAPORPO0  5.48m  0.72m -0.64m  #VAPOR POSITION (Wings Swept Back or no-VGW)
+VAPORPO1  5.48m  0.72m -0.64m  #VAPOR POSITION (Wings Spread)
+HTRADIUS  6.50m                #OUTSIDE SPHERE RADIUS
+
+STRENGTH 4
+
+CRITAOAP  16deg                #CRITICAL AOA POSITIVE
+CRITAOAM -10deg                #CRITICAL AOA NEGATIVE
+
+CRITSPED 120kt                 #CRITICAL SPEED                  [122kt]
+MAXSPEED 135kt                 #MAXIMUM SPEED                   [123kt]
+
+HASSPOIL FALSE                 #HAS SPOILER?
+RETRGEAR FALSE                 #HAS RETRACTABLE LANDING GEAR?
+VARGEOMW TRUE                 #HAS VARIABLE GEOMETRY WING?
+
+VGWSPED1 68kt
+VGWSPED2 72kt
+
+CLVARGEO 0.0                   #EFFECT OF VARIABLE GEOMETRY WING FOR Cl
+CDVARGEO 0.0                   #EFFECT OF VARIABLE GEOMETRY WING FOR Cd
+CLBYFLAP 0.25                   #EFFECT OF FLAP FOR Cl
+CDBYFLAP 0.60                   #EFFECT OF FLAP FOR Cd
+CDBYGEAR 0.0                   #EFFECT OF GEAR FOR Cd
+CDSPOILR 0.0                   #EFFECT OF SPOILER FOR Cd
+
+WINGAREA 15.98m^2               #WING AREA
+
+MXIPTAOA  16.0deg              #MAX INPUT AOA
+MXIPTSSA   5.0deg              #MAX INPUT SSA
+MXIPTROL  80.0deg              #MAX INPUT ROLL
+
+REM CPITMANE corresponds to Spring Constant K
+REM CPITSTAB corresponds to Damper Constant B
+REM To be critically damped, B=2*sqrt(K)
+REM 2% Settling Time=??
+
+MANESPD1 51kt                  #MINIMUM MANEUVABLE SPEED
+MANESPD2 60kt                  #FULLY MANEUVABLE SPEED
+CPITMANE 6.5                   #PITCH MANEUVERBILITY CONSTANT
+CPITSTAB 2.5                   #PITCH STABILITY CONSTANT
+CYAWMANE 6.0                   #YAW MANEUVABILITY CONSTANT
+CYAWSTAB 4.5                   #YAW STABILITY CONSTANT
+CROLLMAN 7.0                   #ROLL MANEUVABILITY CONSTANT
+
+CTLLDGEA TRUE                  #CONTROL LANDINGGEAR
+CTLBRAKE FALSE                 #CONTROL BRAKE
+CTLSPOIL 0.0                   #CONTROL SPOILER
+CTLABRNR FALSE                 #CONTROL AFTERBURNER
+CTLTHROT 0.0                   #CONTROL THRUST
+CTLIFLAP 0.0                   #CONTROL FLAP
+CTLINVGW 0.0                   #CONTROL VARIABLE GEOMETRY WING
+CTLATVGW FALSE                 #CONTROL AUTO VARIABLE GEOMETRY WING
+
+POSITION 0m 3ft 0m             #POSITION
+ATTITUDE 45deg 0deg 0deg       #ATTITUDE
+INITFUEL 100%                  #INITIAL FUEL
+INITSPED 0.0MACH               #INITIAL SPEED
+
+INITLOAD 200lb                 #INITIAL PAYLOAD
+INITIGUN 0                     #INITIAL GUN
+INITIAAM 0                     #INITIAL AAM
+INITIAGM 0                     #INITIAL AGM
+INITBOMB 0                     #INITIAL BOMB
+INITRCKT 0                     #INITIAL ROCKET (10kg/each)
+
+SMOKEOIL 25.0kg
+WEAPONCH SMK
+
+MAXNMAAM 0
+MAXNMAGM 0
+MAXNBOMB 0
+MAXNMRKT 0
+
+RADARCRS 0.001
+
+REM ClZero,CdZero is fixed by Cruising condition
+REFVCRUS 101kt                 #CRUISING SPEED
+REFACRUS 6000ft                #CRUISING ALTITUDE
+REFTCRUS 0.75                   #CRUISING THROTTLE SETTING
+
+REM ClSlope,CdConst is fixed by Landing condition
+REFVLAND 60kt                  #LANDING SPEED
+REFAOALD 8.0deg               #LANDING AOA                             [TailStrikeAngle:14.79deg]
+REFLNRWY 225m                  #RUNWAY REQUIRED TO STOP         [168m]
+REFTHRLD 0.45                   #LANDING THROTTLE SETTING
+
+AUTOCALC

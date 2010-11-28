@@ -1,0 +1,3 @@
+user/oranleed/mig23k/mig23k.dat user/oranleed/mig23k/mig23k.dnm user/oranleed/mig23k/mig23kcoll.srf user/oranleed/mig23k/mig23kcockpit.srf user/oranleed/mig23k/mig23kcoarse.dnm
+
+non-GL専用で使用する場合はcockpitファイルをnon-GL用cockpitに差し替えた上でpage downキーを押して使用してください。

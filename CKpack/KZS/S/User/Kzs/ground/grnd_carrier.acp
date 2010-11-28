@@ -1,0 +1,8 @@
+User/Kzs/ground/grnd_carrier_deck.srf
+User/Kzs/ground/grnd_carrier_wire.srf
+User/Kzs/ground/grnd_carrier_catapult.srf
+User/Kzs/ground/grnd_carrier_bridge.srf
+ILS 0.00m 30.00m -185.00m 180deg 5deg 0deg 6000m
+ARRESTINGWIRE -20.000m 30.5m -170.00m 20.000m 30.5m -170.00m
+
+REM ACP File Aircraft Carrier Property

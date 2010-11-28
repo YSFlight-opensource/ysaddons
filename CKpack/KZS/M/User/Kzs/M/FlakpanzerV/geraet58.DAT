@@ -1,0 +1,206 @@
+IDENTIFY "FLAKPANZER_V[GERAET58](Rheinmetall)"
+CATEGORY UTILITY
+AFTBURNR FALSE              #HAVE AFTERBURNER?
+PROPELLR 700HP             #PROPELLER ENGINE
+PROPEFCY 1             #Propeller efficiency
+WEIGHCLN 45t             #WEIGHT CLEAN
+WEIGFUEL 343kg             #WEIGHT OF FUEL
+WEIGLOAD 1t                #WEIGHT OF PAYLOAD
+FUELMILI 0.06kg             #FUEL CONSUMPTION AT MILITARY POWER
+GUNSIGHT FALSE
+THRSTREV 0.4                 #EFFICIENCY OF THRUST REVERSER
+
+COCKPITP  -0.58m  0.19m 1.6m 
+EXCAMERA  "driver" -0.58m  0.64m 1.6m 0deg 0deg 0deg INSIDE
+EXCAMERA  "co" 0.65m  1.89m -0.36m 0deg 0deg 0deg INSIDE
+LEFTGEAR  -1.38m -1.46m -2.65m
+RIGHGEAR  1.38m -1.46m -2.65m 
+WHELGEAR  0.0m -1.46m  2.11m
+ARRESTER  0.0m 0m 0m
+GUNDIREC  0.0m 0.0m 0.0m     #MACHINE GUN DIRECTION
+SMOKEGEN 0.00m 0m -0m  #SMOKE GENERATOR POSITION
+VAPORPO0  0m  0m 0m  #VAPOR POSITION (Wings Swept Back or no-VGW)
+VAPORPO1  0m  0m 0m  #VAPOR POSITION (Wings Spread)
+HTRADIUS  6m                #OUTSIDE SPHERE RADIUS
+RADARCRS 0.7
+
+TRIGGER1 GUN
+TRIGGER2 AAM
+TRIGGER3 AGM
+TRIGGER4 SMK
+STRENGTH 18
+
+CRITAOAP 0deg 
+CRITAOAM 0deg
+  
+CRITSPED 33km/h
+MAXSPEED 55km/h
+
+HASSPOIL TRUE                 #HAS SPOILER?
+RETRGEAR FALSE                 #HAS RETRACTABLE LANDING GEAR?
+VARGEOMW FALSE                #HAS VARIABLE GEOMETRY WING?
+
+CLVARGEO 0                  #EFFECT OF VARIABLE GEOMETRY WING FOR Cl
+CDVARGEO 0                  #EFFECT OF VARIABLE GEOMETRY WING FOR Cd
+CLBYFLAP 0                  #EFFECT OF FLAP FOR Cl
+CDBYFLAP 0                  #EFFECT OF FLAP FOR Cd
+CDBYGEAR 0                  #EFFECT OF GEAR FOR Cd
+CDSPOILR 0                  #EFFECT OF SPOILER FOR Cd
+
+WINGAREA 1m^2                #WING AREA
+
+MXIPTAOA 1deg  
+MXIPTSSA 5.0deg
+MXIPTROL 1deg
+
+REM CPITMANE corresponds to Spring Constant K
+REM CPITSTAB corresponds to Damper Constant B
+REM To be critically damped, B=2*sqrt(K)
+REM 2% Settling Time=??
+
+MANESPD1 40km/h
+MANESPD2 55km/h  
+CPITMANE 0
+CPITSTAB 50
+CYAWMANE 8 
+CYAWSTAB 6.2 
+CROLLMAN 40
+
+CTLLDGEA TRUE              
+CTLBRAKE FALSE
+CTLSPOIL 0.5
+CTLABRNR FALSE    
+CTLTHROT 0.0      
+CTLIFLAP 0.0       
+CTLINVGW 1.0        
+CTLATVGW FALSE
+
+POSITION 0m 3ft 0m           #POSITION
+ATTITUDE 45deg 0deg 0deg      #ATTITUDE
+INITFUEL 100%                  #INITIAL FUEL
+INITLOAD 0.0t                 #INITIAL PAYLOAD
+INITSPED 0.0MACH              #INITIAL SPEED
+
+GUNPOWER 1
+INITIGUN 0                 #INITIAL GUN
+INITIAAM 0                    #INITIAL AAM
+INITIAGM 0                    #INITIAL AGM
+
+RKTVISIB FALSE
+
+NMTURRET 11
+
+TURRETPO 0 0m 0.96m -0.13m 0deg 0deg 0deg
+TURRETPT 0 -5deg 85deg 0deg               
+TURRETHD 0 -180deg 180deg 0deg              
+TURRETAM 0 600                       
+TURRETIV 0 0.38sec
+TURRETNP 0 0008
+TURRETNH 0 0004          
+TURRETAR 0                                           
+TURRETCT 0 PILOT                  
+TURRETRG 0 1900m
+
+TURRETPO 1 0m 0.96m -0.13m 0deg 0deg 0deg
+TURRETPT 1 -5deg 85deg 0deg               
+TURRETHD 1 -180deg 180deg 0deg              
+TURRETAM 1 600                       
+TURRETIV 1 0.38sec        
+TURRETAR 1                                           
+TURRETCT 1 PILOT                  
+TURRETRG 1 1900m
+
+TURRETPO 2 0m 0.96m -0.13m 0deg 0deg 0deg
+TURRETPT 2 -5deg 85deg 0deg               
+TURRETHD 2 -180deg 180deg 0deg              
+TURRETAM 2 600                       
+TURRETIV 2 0.38sec        
+TURRETAR 2                                           
+TURRETCT 2 PILOT                  
+TURRETRG 2 1900m
+
+TURRETPO 3 0m 0.96m -0.13m 0deg 0deg 0deg
+TURRETPT 3 -5deg 85deg 0deg               
+TURRETHD 3 -180deg 180deg 0deg              
+TURRETAM 3 600                       
+TURRETIV 3 0.38sec        
+TURRETAR 3                                           
+TURRETCT 3 PILOT                  
+TURRETRG 3 1900m
+
+TURRETPO 4 0m 0.96m -0.13m 0deg 0deg 0deg
+TURRETPT 4 -5deg 85deg 0deg               
+TURRETHD 4 -180deg 180deg 0deg              
+TURRETAM 4 600                       
+TURRETIV 4 0.38sec        
+TURRETAR 4                                           
+TURRETCT 4 PILOT                  
+TURRETRG 4 1900m
+
+TURRETPO 5 0m 0.96m -0.13m 0deg 0deg 0deg
+TURRETPT 5 -5deg 85deg 0deg               
+TURRETHD 5 -180deg 180deg 0deg              
+TURRETAM 5 600                       
+TURRETIV 5 0.38sec        
+TURRETAR 5                                           
+TURRETCT 5 PILOT                  
+TURRETRG 5 1900m
+
+TURRETPO 6 0.56m 0.125m 2.58m 0deg 0deg 0deg
+TURRETPT 6 -5deg 10deg 0deg               
+TURRETHD 6 -20deg 45deg 0deg              
+TURRETAM 6 4200                       
+TURRETIV 6 0.1sec
+TURRETNM 6 0012       
+TURRETAR 6                                           
+TURRETCT 6 GUNNER                  
+TURRETRG 6 1500m
+
+TURRETPO 7 0m 0.96m -0.13m 0deg 0deg 0deg
+TURRETPT 7 -5deg 85deg 0deg               
+TURRETHD 7 -180deg 180deg 0deg              
+TURRETAM 7 600                       
+TURRETIV 7 0.38sec        
+TURRETAR 7                                           
+TURRETCT 7 PILOT                  
+TURRETRG 7 1900m
+
+TURRETPO 8 0m 0.96m -0.13m 0deg 0deg 0deg
+TURRETPT 8 -5deg 85deg 0deg               
+TURRETHD 8 -180deg 180deg 0deg              
+TURRETAM 8 600                       
+TURRETIV 8 0.38sec        
+TURRETAR 8                                           
+TURRETCT 8 PILOT                  
+TURRETRG 8 1900m
+
+TURRETPO 9 0m 0.96m -0.13m 0deg 0deg 0deg
+TURRETPT 9 -5deg 85deg 0deg               
+TURRETHD 9 -180deg 180deg 0deg              
+TURRETAM 9 600                       
+TURRETIV 9 0.38sec        
+TURRETAR 9                                           
+TURRETCT 9 PILOT                  
+TURRETRG 9 1900m
+
+TURRETPO 10 0m 0.96m -0.13m 0deg 0deg 0deg
+TURRETPT 10 -5deg 85deg 0deg               
+TURRETHD 10 -180deg 180deg 0deg              
+TURRETAM 10 600                       
+TURRETIV 10 0.38sec        
+TURRETAR 10                                           
+TURRETCT 10 PILOT                  
+TURRETRG 10 1900m
+
+REM ClZero,CdZero is fixed by Cruising condition
+REFVCRUS 50km/h              #CRUISING SPEED
+REFACRUS 100ft              #CRUISING ALTITUDE
+REFTCRUS 0.9                  #CRUISING THROTTLE SETTING
+
+REM ClSlope,CdConst is fixed by Landing condition
+REFVLAND 40km/h                #LANDING SPEED
+REFAOALD 10deg                #LANDING AOA
+REFLNRWY 25m                #RUNWAY REQUIRED TO STOP
+REFTHRLD 0.7                 #LANDING THROTTLE SETTING
+
+AUTOCALC

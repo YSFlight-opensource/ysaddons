@@ -1,0 +1,74 @@
+FIELD
+SKY 32 180 180
+GND 32 128 32
+PC2
+FIL area88_base03.pc2
+POS 0.00 0.00 0.00 0 0 0
+END
+PC2
+FIL area88_mark01.pc2
+POS 0.00 0.00 1550.00 32768 0 0
+END
+PC2
+FIL area88_mark01.pc2
+POS -1650.00 0.00 0.00 -16384 0 0
+END
+TER
+FIL mr_3x5_04x07_02.ter
+ID 0
+TAG ""
+POS -482.49 0.00 -909.40 7422 0 0
+END
+TER
+FIL mr_3x5_06x10_02.ter
+ID 0
+TAG ""
+POS -274.92 0.00 -944.66 -2562 0 0
+END
+TER
+FIL mr_3x3_03x03_03.ter
+ID 0
+TAG ""
+POS 305.16 0.00 126.46 -52 0 0
+END
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS -65.67 0.00 820.92 0 0 0
+END
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS -976.89 0.00 98.51 0 0 0
+END
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS -431.84 0.00 -188.13 0 0 0
+END
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS -861.96 0.00 1375.03 0 0 0
+END
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS -1797.81 0.00 -90.30 0 0 0
+END
+SRF
+FIL _t_coconut_tree.srf
+ID 0
+TAG ""
+POS 123.99 0.00 -102.61 0 0 0
+END
+PLT
+FIL area88_base03_net.pc2
+POS -274.38 80.00 -376.83 0 -16384 0
+END
+ENDF

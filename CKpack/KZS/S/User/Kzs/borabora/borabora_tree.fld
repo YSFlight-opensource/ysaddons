@@ -1,0 +1,72 @@
+FIELD
+SKY 37 123 209
+GND 2 34 185
+
+SRF
+FIL _t_coconut_tree_s.srf
+ID 0
+TAG ""
+POS -1229.39 0.00 3584.09 0 0 0
+END
+SRF
+FIL _t_coconut_tree_s.srf
+ID 0
+TAG ""
+POS -1083.40 0.00 3620.85 0 0 0
+END
+SRF
+FIL _t_coconut_tree_s.srf
+ID 0
+TAG ""
+POS -3796.87 0.00 1993.89 0 0 0
+END
+SRF
+FIL _t_coconut_tree_s.srf
+ID 0
+TAG ""
+POS -1809.37 0.00 1411.82 0 0 0
+END
+SRF
+FIL _t_coconut_tree_s.srf
+ID 0
+TAG ""
+POS 1354.93 0.00 -1548.80 0 0 0
+END
+SRF
+FIL _t_coconut_tree_s.srf
+ID 0
+TAG ""
+POS 187.25 0.00 735.19 0 0 0
+END
+SRF
+FIL _t_coconut_tree_s.srf
+ID 0
+TAG ""
+POS 2038.37 0.00 -149.37 0 0 0
+END
+SRF
+FIL _t_coconut_tree_s.srf
+ID 0
+TAG ""
+POS 3620.55 0.00 -2236.92 0 0 0
+END
+SRF
+FIL _t_coconut_tree_s.srf
+ID 0
+TAG ""
+POS -2446.28 0.00 -3115.28 0 0 0
+END
+SRF
+FIL _t_coconut_tree_s.srf
+ID 0
+TAG ""
+POS 3756.16 0.00 1129.95 0 0 0
+END
+SRF
+FIL _t_coconut_tree_s.srf
+ID 0
+TAG ""
+POS 1897.87 0.00 2250.60 0 0 0
+END
+
+ENDF

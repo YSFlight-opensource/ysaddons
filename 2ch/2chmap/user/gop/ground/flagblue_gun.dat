@@ -1,0 +1,24 @@
+IDENTIFY [GOP]FLAG_BLUE[GUN]
+HTRADIUS 150m
+STRENGTH 1
+INITIGUN 0
+INITISAM 0
+INITCANO 0
+MAXSPEED 0kt
+MAXROTAT 3deg
+MINAIMPI 0deg
+MAXAIMPI 0deg
+MINIDAMG 0
+NOSHADOW TRUE
+
+NMTURRET 1
+TURRETPO 0 0m 170m 200m 0deg -90deg 0deg   # Number x y z h p b
+TURRETPT 0 -5deg 5deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 0 -5deg 5deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 0 999999999999                              # Ammo
+TURRETIV 0 1sec                              # Number ShootingInterval
+TURRETAR 0
+TURRETCT 0 GUNNER                            # Controlled by PILOT or GUNNER
+TURRETRG 0 300m
+TURRETWP 0 AGM65
+TURRETPW 0 1000

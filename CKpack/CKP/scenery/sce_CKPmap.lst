@@ -1,0 +1,43 @@
+YORK_VALLEY        User/Makoto/yokubari/yokubari.fld   User/Makoto/yokubari/yokubari.stp
+[Y.V.]_AIRPORT     User/Makoto/yokubari/yv-airport.fld User/Makoto/yokubari/yv-airport.stp
+[Y.V.]_CENTRAL     User/Makoto/yokubari/yv-central.fld User/Makoto/yokubari/yv-central.stp
+[Y.V.]_FOREST      User/Makoto/yokubari/yv-forest.fld  User/Makoto/yokubari/yv-forest.stp
+[Y.V.]_DESERT      User/Makoto/yokubari/yv-desert.fld  User/Makoto/yokubari/yv-desert.stp
+[Y.V.]_WHITE-LAND  User/Makoto/yokubari/yv-white.fld   User/Makoto/yokubari/yv-white.stp
+[Y.V.]_VALLEY      User/Makoto/yokubari/yv-valley.fld  User/Makoto/yokubari/yv-valley.stp
+[Y.V.]_COMBAT      User/Makoto/yokubari/yv-combat.fld  User/Makoto/yokubari/yv-combat.stp
+[Y.V.]_CANYON-RACE User/Makoto/yokubari/yv-race.fld    User/Makoto/yokubari/yv-race.stp
+XEVIOUS            User/Makoto/yokubari/xe/xevious.fld User/Makoto/yokubari/xe/xevious.stp
+
+
+White_Night User/Makoto/whitenight/whitenight.fld User/Makoto/whitenight/whitenight.stp
+White_Night(Snowfall) User/Makoto/whitenight/whitenight-s.fld User/Makoto/whitenight/whitenight.stp
+
+Island_Campaign User/Makoto/Campaign/campaign.fld User/Makoto/Campaign/campaign.stp
+
+
+Resort_Island User/Makoto/resort/resort.fld User/Makoto/resort/resort.stp
+Resort_Island(Updraft_1m/s) User/Makoto/resort/resort.fld User/Makoto/resort/resort.stp User/Makoto/resort/resort_u1.yfs
+Resort_Island(Updraft_2m/s) User/Makoto/resort/resort.fld User/Makoto/resort/resort.stp User/Makoto/resort/resort_u2.yfs
+
+
+TAJIMA User/impulse/tajima_airport/tajima.fld User/impulse/tajima_airport/tajima.stp User/impulse/tajima_airport/tajima.yfs
+
+
+[eee]_EL_DORADO User/eee/scenary/eldorado/eldorado.fld User/eee/scenary/eldorado/eldorado.stp User/eee/scenary/eldorado/eldorado.yfs
+[eee]_EL_DORADO_NIGHT User/eee/scenary/eldorado/elnight.fld User/eee/scenary/eldorado/elnight.stp User/eee/scenary/eldorado/elnight.yfs
+[eee]_AQUA User/eee/scenary/aqua/aqua.fld User/eee/scenary/aqua/aqua.stp User/eee/scenary/aqua/aqua.yfs
+[eee]_AQUA(light) User/eee/scenary/aqua/aqua.fld User/eee/scenary/aqua/aqua.stp User/eee/scenary/aqua/aqual.yfs
+[eee]_UTOPIA User/eee/scenary/utopia/utopia.fld User/eee/scenary/utopia/utopia.stp User/eee/scenary/utopia/utopia.yfs
+[eee]_UTOPIA(light) User/eee/scenary/utopia/utopial.fld User/eee/scenary/utopia/utopia.stp User/eee/scenary/utopia/utopia.yfs
+
+
+Operation_Long_Pat User/rar/olp/olp.fld User/rar/olp/olp.stp User/rar/olp/olp.yfs
+Operation_Long_Pat[lite] User/rar/olp/olp.fld User/rar/olp/olp.stp User/rar/olp/olp_lite.yfs
+Operation_Long_Pat[noncombat] User/rar/olp/olp2.fld User/rar/olp/olp.stp User/rar/olp/olp_2.yfs
+
+ORANGE_BEE2 User/rar/ob2/ob.fld User/rar/ob2/ob.stp User/rar/ob2/ob.yfs
+
+
+[WAIESU]HARRY_POTTER_QUIDDITCH User/Waiesu/Harry_Potter/scenary/hyqt.fld User/Waiesu/Harry_Potter/scenary/hyqt.stp User/Waiesu/Harry_Potter/scenary/hyqt.yfs
+

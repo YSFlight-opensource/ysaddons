@@ -1,0 +1,8 @@
+tmp/navy/wasp_deck.srf
+tmp/navy/wasp_elevator.srf
+tmp/navy/wasp_elevator.srf
+tmp/navy/wasp_bridge.srf
+ILS -7.6m 20.26m -120m 180deg 5deg 0deg 6000m
+VIEWPOINT TRUE
+
+REM ACP File Aircraft Carrier Property

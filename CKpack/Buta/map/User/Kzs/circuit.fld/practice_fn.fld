@@ -1,0 +1,211 @@
+FIELD
+SKY 37 123 209
+GND 102 153 51
+
+FLD
+FIL fence(0x10)_prc.fld
+POS 0.00 0.00 0.00 0 0 0
+END
+FLD
+FIL fence(1x15)_prc.fld
+POS 0.00 0.00 0.00 0 0 0
+END
+FLD
+FIL fence(2x20)_prc.fld
+POS 0.00 0.00 0.00 0 0 0
+END
+
+PLT
+FIL stop.pc2
+POS 219.50 0.00 380.50 0 0 0
+END
+PC2
+FIL practice_mk7.pc2
+POS 225.00 0.00 386.00 32768 0 0
+END
+
+PC2
+FIL practice_z10.pc2
+POS 225.00 0.00 365.00 0 0 0
+END
+PC2
+FIL practice_z15.pc2
+POS 115.00 0.00 -125.00 16384 0 0
+END
+FLD
+FIL practice_z10_15.fld
+POS -125.00 0.00 125.00 0 0 0
+END
+PC2
+FIL practice_mk0.pc2
+POS -125.00 0.00 125.00 0 0 0
+END
+PC2
+FIL practice_mk0.pc2
+POS 250.00 0.00 0.00 0 0 0
+END
+FLD
+FIL practice_z15_15.fld
+POS -125.00 0.00 -125.00 0 0 0
+END
+PC2
+FIL practice_mk0.pc2
+POS -125.00 0.00 -125.00 0 0 0
+END
+PC2
+FIL practice_mk1.pc2
+POS -125.00 0.00 -500.00 0 0 0
+END
+PC2
+FIL practice_mk1.pc2
+POS 250.00 0.00 -125.28 -1024 0 0
+END
+PC2
+FIL practice_mk1.pc2
+POS -125.00 0.00 470.00 32768 0 0
+END
+PC2
+FIL practice_mk0.pc2
+POS -125.00 0.00 375.00 0 0 0
+END
+PC2
+FIL practice_mk3.pc2
+POS 125.00 0.00 375.00 32768 0 0
+END
+PC2
+FIL practice_mk3.pc2
+POS -375.00 0.00 310.00 -16384 0 0
+END
+PC2
+FIL practice_mk0.pc2
+POS -125.00 0.00 250.00 0 0 0
+END
+PC2
+FIL practice_mk0.pc2
+POS 125.00 0.00 250.00 0 0 0
+END
+PC2
+FIL practice_mk2.pc2
+POS 125.00 0.00 125.00 0 0 0
+END
+PC2
+FIL practice_mk2.pc2
+POS -250.00 0.00 125.00 0 0 0
+END
+PC2
+FIL practice_mk3.pc2
+POS -60.00 0.00 125.00 32768 0 0
+END
+PC2
+FIL practice_mk3.pc2
+POS 60.00 0.00 0.00 0 0 0
+END
+PC2
+FIL practice_mk0.pc2
+POS 250.00 0.00 125.00 0 0 0
+END
+PC2
+FIL practice_mk2.pc2
+POS 125.00 0.00 0.00 0 0 0
+END
+PC2
+FIL practice_mk1.pc2
+POS -125.00 0.00 0.00 -16384 0 0
+END
+PC2
+FIL practice_mk1.pc2
+POS -125.00 0.00 -55.00 16384 0 0
+END
+PC2
+FIL practice_mk1.pc2
+POS -125.00 0.00 -60.00 -16384 0 0
+END
+PC2
+FIL practice_mk3.pc2
+POS 125.00 0.00 -185.00 -16384 0 0
+END
+PC2
+FIL practice_mk3.pc2
+POS 125.00 0.00 -190.00 16384 0 0
+END
+PC2
+FIL practice_mk3.pc2
+POS 190.00 0.00 -185.00 32768 0 0
+END
+PC2
+FIL practice_mk2.pc2
+POS 125.00 0.00 -125.00 0 0 0
+END
+
+PC2
+FIL practice_mk4.pc2
+POS 125.00 0.00 185.00 0 0 0
+END
+PC2
+FIL practice_mk5.pc2
+POS 0.00 0.00 -125.00 -16384 0 0
+END
+PC2
+FIL practice_mk6.pc2
+POS -250.00 0.00 139.00 0 0 0
+END
+PC2
+FIL practice_mk6.pc2
+POS 266.00 0.00 125.00 -16384 0 0
+END
+PC2
+FIL practice_mk7.pc2
+POS 254.00 0.00 -112.50 32768 0 0
+END
+PC2
+FIL practice_mk7.pc2
+POS -121.25 0.00 -486.50 32768 0 0
+END
+PC2
+FIL practice_mk7.pc2
+POS -111.25 0.00 246.00 16384 0 0
+END
+PC2
+FIL practice_mk7.pc2
+POS 198.23 0.00 -439.71 -33996 0 0
+END
+PC2
+FIL practice_mk7.pc2
+POS 80.71 0.00 -322.07 -53042 0 0
+END
+PC2
+FIL practice_mk7.pc2
+POS -385.51 0.00 195.16 -70038 0 0
+END
+PC2
+FIL practice_mk6.pc2
+POS 232.50 0.00 0.00 16384 0 0
+END
+
+PLT
+FIL stop.pc2
+POS 130.50 0.00 130.50 -16384 0 0
+END
+PLT
+FIL stop.pc2
+POS 119.50 0.00 -5.50 -16384 0 0
+END
+PLT
+FIL stop.pc2
+POS -248.95 0.00 -133.11 4504 0 0
+END
+
+PLT
+FIL gran_ma.pc2
+POS 115.00 0.00 -132.75 -16384 0 0
+END
+PLT
+FIL policeman.pc2
+POS -133.00 0.00 255.50 8192 0 0
+END
+PLT
+FIL female.pc2
+POS -455.50 0.00 -306.50 8192 0 0
+END
+
+ENDF

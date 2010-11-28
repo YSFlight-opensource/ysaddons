@@ -1,0 +1,21 @@
+REM Instrument Panel Definitoin for Concorde
+REM Circular indicators,
+REM   ???????? x y radius
+REM Rectangular indicators
+REM   ???????? x1 y1 x2 y2
+REM   (x1<x2, y1<y2)
+
+PNLRANGE -0.80 -1.0 0.80 -0.37
+
+
+AIRSPEED 0.50 -0.80 0.15
+THROTTLE 0.80 -0.80 0.15
+FUEL____ 1.00 -0.99 1.10 -0.69
+BRAKE___ 1.00 -0.69 1.10 -0.66
+AMMO____ 0.65 -0.65 0.06
+
+SPEEDVFE 20kt
+SPEEDVNO 68kt
+SPEEDVNE 70kt
+SPEEDRNG 90kt
+SPEEDARC 280deg

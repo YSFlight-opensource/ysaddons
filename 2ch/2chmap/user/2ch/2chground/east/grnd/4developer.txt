@@ -1,0 +1,37 @@
+
+地上オブジェクト
+
+北朝鮮総参謀偵察局 海上処所属（推定） 特殊政治活動用船舶
+
+Created By Masa-AT
+
+--------------------------------------------
+Notes for developer
+
+オブジェクトID			: Fushinsen
+
+グラフィカルオブジェクトファイルサイズ	: 3.95kb [ disc 4.0kb ]
+
+航行速度設定値			: 53km
+
+システム上耐久度			: 30
+
+--------------------------------------------
+
+武装
+			:
+ZPU-2
+14.5mm Anti-Aircraft-Arttillary
+ammunition loads is 10000
+Shooting-range is 100m
+
+
+SA-16
+Portable-Anti-Aircraft-Missile-System
+ammunition loads is 10
+Shooting-range is 5km [ 5000m ]
+
+--------------------------------------------
+
+インストール　リスト追加分 User/2ch/Ground/ へインストールした場合
+user/2ch/ground/spyship.dat user/2ch/ground/spyship.srf user/2ch/ground/spyship-cls.srf

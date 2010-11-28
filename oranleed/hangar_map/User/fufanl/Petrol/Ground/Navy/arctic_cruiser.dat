@@ -1,0 +1,180 @@
+REM shp
+IDENTIFY "ARCTIC CRUISER"
+CATEGORY NORMAL
+AFTBURNR FALSE 
+WEIGHCLN 12000.0t                #WEIGHT CLEAN
+WEIGFUEL 1750.0t                #WEIGHT OF FUEL
+WEIGLOAD 1200.0t               #WEIGHT OF PAYLOAD
+PROPELLR 152000hp
+FUELMILI 1.0kg               #FUEL CONSUMPTION AT MILITARY POWER
+
+COCKPITP  0.26m  25.30m  -41.41m  #COCKPIT POSITION
+LEFTGEAR  -8.0m -0.1m -99.00m  #LEFT LANDING GEAR POSITION
+RIGHGEAR  8.0m -0.1m -99.00m  #RIGHT LANDING GEAR POSITION
+WHELGEAR  0.0m -0.1m 90.00m  #WHEEL POSITION
+ARRESTER  0.0m -1.62m -7.28m
+MACHNGUN  2.49m 8.56m 25.29m  #MACHINE GUN POSITION
+MACHNGN2  -2.49m 8.56m 25.29m  #MACHINE2 GUN POSITION
+SMOKEGEN  0.0m -0.0m  -90.00m  #SMOKE GENERATOR POSITION
+VAPORPO0  6.3m  0.60m -5.60m  #VAPOR POSITION (Wings Swept Back or no-VGW)
+VAPORPO1  6.3m  0.60m -5.60m  #VAPOR POSITION (Wings Spread)
+HTRADIUS  50.0m               #OUTSIDE SPHERE RADIUS
+
+TRIGGER1 GUN
+TRIGGER2 SMK
+TRIGGER3 NON
+TRIGGER4 NON
+
+STRENGTH 200
+
+CRITAOAP 0.0deg
+CRITAOAM -0.0deg
+
+CRITSPED 42kt
+MAXSPEED 50kt
+
+HASSPOIL TRUE
+RETRGEAR FALSE
+VARGEOMW FALSE
+
+CLVARGEO 0.0
+CDVARGEO 0.0
+CLBYFLAP 0.0
+CDBYFLAP 0.0
+CDBYGEAR 0.0
+CDSPOILR 5.0
+
+WINGAREA 2.0m^2
+
+MXIPTAOA 0.0deg
+MXIPTSSA 5.0deg
+MXIPTROL 0.0deg
+
+MANESPD1 4kt
+MANESPD2 7kt
+CPITMANE 0.0
+CPITSTAB 99999.0
+CYAWMANE 11.0
+CYAWSTAB 11.0
+CROLLMAN 0.0
+
+CTLLDGEA TRUE
+CTLBRAKE FALSE
+CTLSPOIL 0.0
+CTLABRNR FALSE
+CTLTHROT 0.0
+CTLIFLAP 0.0
+CTLINVGW 1.0
+CTLATVGW TRUE
+
+POSITION 0m 30ft 0m
+ATTITUDE 45deg 0deg 0deg
+INITFUEL 100%
+INITLOAD 0.0t
+INITSPED 0.0MACH
+
+GUNPOWER 8
+INITIGUN 0                    #INITIAL GUN
+INITIAAM 20                    #INITIAL AAM
+INITIAGM 40                    #INITIAL AGM
+INITBOMB 0
+INITRCKT 0                   #INITIAL ROCKET (10kg/each)
+
+AAMSLOT_ 0m 22.24m -31.90m
+AAMVISIB FALSE
+
+AGMSLOT_ 3.48m 9.24m -23.47m
+AGMSLOT_ 1.53m 9.24m -23.47m
+AGMSLOT_ -3.48m 9.24m -23.47m
+AGMSLOT_ -1.53m 9.24m -23.47m
+AGMSLOT_ 3.48m 9.24m 18.76m
+AGMSLOT_ 1.53m 9.24m 18.76m 
+AGMSLOT_ -3.48m 9.24m 18.76m
+AGMSLOT_ -1.53m 9.24m 18.76m 
+AGMVISIB FALSE
+
+RKTSLOT_ 0m 16.19m 61.66m
+RKTSLOT_ 0m 16.19m 61.66m
+RKTVISIB FALSE
+
+SMOKEOIL 1000.0kg
+
+NMTURRET 6
+
+TURRETPO 0 2.49m 8.56m 24.79m 0deg 0deg 0deg      # Number x y z h p b
+TURRETPT 0 -5deg 50deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 0 -90deg 90deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 0 50000                              # Ammo
+TURRETIV 0 0.10sec                            # Number ShootingInterval
+TURRETAR 0                                  # Anti Air Capable
+REM TURRETGD 0                                   # Anti Ground Capable
+TURRETCT 0 PILOT                            # Controlled by PILOT or GUNNER
+TURRETRG 0 18000m
+
+TURRETPO 1 2.49m 8.56m 24.79m 0deg 0deg 0deg      # Number x y z h p b
+TURRETPT 1 0deg 0deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 1 -90deg 90deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 1 0                              # Ammo
+TURRETIV 1 1.0sec                            # Number ShootingInterval
+TURRETNM 1 0011                            # DNM Node Name
+TURRETAR 1                                  # Anti Air Capable
+REM TURRETGD 1                                   # Anti Ground Capable
+TURRETCT 1 PILOT                            # Controlled by PILOT or GUNNER
+TURRETRG 1 18000m
+
+TURRETPO 2 2.49m 8.56m 24.79m 0deg 0deg 0deg      # Number x y z h p b
+TURRETPT 2 -5deg 50deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 2 0deg 0deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 2 0                              # Ammo
+TURRETIV 2 0.10sec                            # Number ShootingInterval
+TURRETNM 2 0012                            # DNM Node Name
+TURRETAR 2                                  # Anti Air Capable
+REM TURRETGD 2                                   # Anti Ground Capable
+TURRETCT 2 PILOT                            # Controlled by PILOT or GUNNER
+TURRETRG 2 18000m
+
+TURRETPO 3 -2.49m 8.56m 24.79m 0deg 0deg 0deg      # Number x y z h p b
+TURRETPT 3 -5deg 50deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 3 -90deg 90deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 3 50000                              # Ammo
+TURRETIV 3 0.10sec                            # Number ShootingInterval
+TURRETAR 3                                  # Anti Air Capable
+REM TURRETGD 3                                   # Anti Ground Capable
+TURRETCT 3 PILOT                            # Controlled by PILOT or GUNNER
+TURRETRG 3 18000m
+
+TURRETPO 4 -2.49m 8.56m 24.79m 0deg 0deg 0deg      # Number x y z h p b
+TURRETPT 4 0deg 0deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 4 -90deg 90deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 4 0                              # Ammo
+TURRETIV 4 1.0sec                            # Number ShootingInterval
+TURRETNM 4 0013                            # DNM Node Name
+TURRETAR 4                                  # Anti Air Capable
+REM TURRETGD 4                                   # Anti Ground Capable
+TURRETCT 4 PILOT                            # Controlled by PILOT or GUNNER
+TURRETRG 4 18000m
+
+TURRETPO 5 -2.49m 8.56m 24.79m 0deg 0deg 0deg      # Number x y z h p b
+TURRETPT 5 -5deg 50deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 5 0deg 0deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 5 0                              # Ammo
+TURRETIV 5 0.10sec                            # Number ShootingInterval
+TURRETNM 5 0014                            # DNM Node Name
+TURRETAR 5                                  # Anti Air Capable
+REM TURRETGD 5                                   # Anti Ground Capable
+TURRETCT 5 PILOT                            # Controlled by PILOT or GUNNER
+TURRETRG 5 18000m
+
+RADARCRS 1                  #RADAR CROSS SECTION
+
+REM ClZero,CdZero is fixed by Cruising condition
+REFVCRUS 47kt                 #CRUISING SPEED
+REFACRUS 1000ft
+REFTCRUS 0.6
+
+REFVLAND 10kt
+REFAOALD 5deg
+REFLNRWY 70m
+REFTHRLD 0.4
+
+AUTOCALC

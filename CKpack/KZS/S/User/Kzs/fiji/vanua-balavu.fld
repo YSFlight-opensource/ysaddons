@@ -1,0 +1,20 @@
+FIELD
+SKY 37 123 209
+GND 2 34 185
+
+PC2
+FIL vanua-balavu.pc2
+POS 0.00 0.00 0.00 0 0 0
+END
+
+FLD
+FIL aw_25k.fld
+POS 14460.00 0.00 -2378.00 20684 0 0
+END
+
+FLD
+FIL vanua-balavu_beach.fld
+POS 0.00 0.00 0.00 0 0 0
+END
+
+ENDF

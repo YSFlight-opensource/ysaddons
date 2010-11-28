@@ -1,0 +1,44 @@
+IDENTIFY [GOP]M-6_LINEBACKER
+HTRADIUS 5m
+STRENGTH 9
+INITIGUN 0
+INITISAM 999999999
+MAXSPEED 80km/h
+MAXROTAT 180deg
+AIMROTAT 60deg
+AIMPITCH 60deg
+ANTIGRND TRUE
+HUGROUND TRUE
+
+SAMRANGE 2000m
+SAMMINPI 5deg
+SAMMAXPI 80deg
+SAMMOUNT 0.0000m 4m 0m
+SAMRLOAD 1 5
+
+NMTURRET 2
+TURRETPO 0 0m 4m 0m 0deg 0deg 0deg   # Number x y z h p b
+TURRETPT 0 -0.2deg 70deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 0 -180deg 180deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 0 999999999999                              # Ammo
+TURRETIV 0 0.3sec                              # Number ShootingInterval
+TURRETNP 0 GUN                        # DNM Node Name
+TURRETAR 0
+TURRETGD 0
+TURRETCT 0 GUNNER                            # Controlled by PILOT or GUNNER
+TURRETRG 0 1600m
+TURRETPW 0 6
+
+TURRETPO 1 0m 4m 0m 0deg 0deg 0deg   # Number x y z h p b
+TURRETPT 1 5deg 80deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 1 -180deg 180deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 1 999999999999                              # Ammo
+TURRETIV 1 15sec                              # Number ShootingInterval
+TURRETAR 1
+TURRETCT 1 GUNNER                            # Controlled by PILOT or GUNNER
+TURRETRG 1 1500m
+TURRETWP 1 AGM65
+TURRETPW 1 15
+
+
+USEAIMAT 0m 2m 0m

@@ -1,0 +1,93 @@
+DYNAMODEL
+PCK _null.srf 3
+SURF
+V 0.0 0.0 0.0
+E
+SRF "0000"
+FIL hxb_bishop.srf
+CLA 0
+NST 1
+STA 0.0 0.0 0.0 0 0 0 1
+POS 0.0 0.0 0.0 0 0 0 1
+CNT 0.0 0.0 0.0
+REL DEP
+NCH 3
+CLD "0001"
+CLD "0002"
+CLD "0003"
+END
+SRF "0001"
+FIL _null.srf
+CLA 0
+NST 1
+STA 0.0 0.0 0.0 0 0 0 0
+POS 0.0 0.0 -160.0 0 0 0 1
+CNT 0.0 0.0 0.0
+REL DEP
+NCH 2
+CLD "1001"
+CLD "1002"
+END
+SRF "1001"
+FIL hxb_bishop_shield_s.srf
+CLA 0
+NST 1
+STA 0.0 0.0 0.0 0 0 0 1
+POS -65.0 0.0 0.0 0 0 32768 1
+CNT 0.0 0.0 0.0
+REL DEP
+NCH 0
+END
+SRF "1002"
+FIL hxb_bishop_shield_s.srf
+CLA 0
+NST 1
+STA 0.0 0.0 0.0 0 0 0 1
+POS 65.0 0.0 0.0 0 0 0 1
+CNT 0.0 0.0 0.0
+REL DEP
+NCH 0
+END
+SRF "0002"
+FIL hxb_bishop_tank.srf
+CLA 0
+NST 1
+STA 0.0 0.0 0.0 0 0 0 1
+POS 0.0 7.5 0.0 0 0 0 1
+CNT 0.0 0.0 0.0
+REL DEP
+NCH 0
+END
+SRF "0003"
+FIL _null.srf
+CLA 0
+NST 1
+STA 0.0 0.0 0.0 0 0 0 0
+POS 0.0 0.0 150.0 0 32768 0 1
+CNT 0.0 0.0 0.0
+REL DEP
+NCH 2
+CLD "3001"
+CLD "3002"
+END
+SRF "3001"
+FIL hxb_bishop_shield_s.srf
+CLA 0
+NST 1
+STA 0.0 0.0 0.0 0 0 0 1
+POS -65.0 0.0 0.0 0 0 28672 1
+CNT 0.0 0.0 0.0
+REL DEP
+NCH 0
+END
+SRF "3002"
+FIL hxb_bishop_shield_s.srf
+CLA 0
+NST 1
+STA 0.0 0.0 0.0 0 0 0 1
+POS 65.0 0.0 0.0 0 0 4096 1
+CNT 0.0 0.0 0.0
+REL DEP
+NCH 0
+END
+END

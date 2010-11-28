@@ -1,0 +1,30 @@
+FIELD
+SKY 37 123 209
+GND 2 34 185
+
+SRF
+FIL _t_crane.srf
+ID 0
+TAG ""
+POS -2016.72 0.00 -772.17 -24576 0 0
+END
+SRF
+FIL _t_crane.srf
+ID 0
+TAG ""
+POS 3538.73 0.00 -854.73 8192 0 0
+END
+SRF
+FIL _t_crane.srf
+ID 0
+TAG ""
+POS -538.86 0.00 -2457.42 -8192 0 0
+END
+SRF
+FIL _t_crane.srf
+ID 0
+TAG ""
+POS 787.92 0.00 -2330.95 0 0 0
+END
+
+ENDF

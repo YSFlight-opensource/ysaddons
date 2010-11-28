@@ -1,0 +1,7 @@
+YSFS用機体「ＷＦ－０２オプション機」
+
+WF-02のオプション機として、WF-02SとEW-02SCを用意しました。
+リストに下の２行を加えることで追加できます。
+
+User/ipc/WF-02S.dat User/ipc/WF-02S.dnm User/ipc/wf-02_coll.srf User/ipc/wf-02_cockpit.srf User/ipc/WF02A_cs.dnm
+User/ipc/EW-02SC.dat User/ipc/EW-02SC.dnm User/ipc/ew-02_coll.srf User/ipc/ew-02sc_cockpit.srf User/ipc/WF02A_cs.dnm

@@ -1,0 +1,9 @@
+user/yuichi/ground/wasp_deck.srf
+user/yuichi/ground/wasp_wire.srf
+ground/null.srf
+ground/null.srf
+ILS 2.10m 23.45m -78.15m 180deg 5deg 0deg 6000m
+ARRESTINGWIRE -26.27m 23.43m -78.15m 30.44m 23.43m -78.15m
+VIEWPOINT TRUE
+
+REM ACP File Aircraft Carrier Property

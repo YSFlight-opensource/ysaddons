@@ -1,0 +1,3 @@
+user/oranleed/mrg_f1(cmg2)/mrg_f1(cmg2).dat user/oranleed/mrg_f1(cmg2)/mrg_f1(cmg2).dnm user/oranleed/mrg_f1(cmg2)/mrg_f1coll.srf user/oranleed/mrg_f1(cmg2)/mrg_f1cockpit.srf user/oranleed/mrg_f1(cmg2)/mrg_f1(cmg2)coarse.dnm
+
+non-GL専用で使用する場合はcockpitファイルをnon-GL用cockpitに差し替えた上でpage downキーを押して使用してください。

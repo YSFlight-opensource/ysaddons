@@ -1,0 +1,49 @@
+FIELD
+SKY 0 80 196
+GND 204 204 102
+
+SRF
+FIL _t_tunnel2_side_l.srf
+ID 0
+TAG ""
+POS 65.00 0.00 0.00 0 0 0
+END
+SRF
+FIL _t_tunnel2_side_l.srf
+ID 0
+TAG ""
+POS -65.00 0.00 0.00 32768 0 0
+END
+
+SRF
+FIL _t_tunnel2_top.srf
+ID 0
+TAG ""
+POS 0.00 38.00 237.50 0 0 0
+END
+SRF
+FIL _t_tunnel2_top.srf
+ID 0
+TAG ""
+POS 0.00 38.00 125.00 0 0 0
+END
+SRF
+FIL _t_tunnel2_top.srf
+ID 0
+TAG ""
+POS 0.00 38.00 0.00 0 0 0
+END
+SRF
+FIL _t_tunnel2_top.srf
+ID 0
+TAG ""
+POS 0.00 38.00 -125.00 0 0 0
+END
+SRF
+FIL _t_tunnel2_top.srf
+ID 0
+TAG ""
+POS 0.00 38.00 -237.50 0 0 0
+END
+
+ENDF

@@ -1,0 +1,8 @@
+User/oranleed/tenzan/tenzan(T).dat User/oranleed/tenzan/tenzan.dnm User/oranleed/tenzan/tenzancoll.srf User/oranleed/tenzan/tenzancockpit.srf User/oranleed/tenzan/tenzancoarse.dnm
+User/oranleed/tenzan/tenzan(B).dat User/oranleed/tenzan/tenzanB.dnm User/oranleed/tenzan/tenzancoll.srf User/oranleed/tenzan/tenzancockpit.srf User/oranleed/tenzan/tenzancoarse.dnm
+
+OHPに収録されているイングラムさんの魚雷を天山に合うように少しサイズを調整して、AGMとしたものを同梱しました。
+これを使用して雷撃にお使いください。
+爆弾の方もイングラムさんの日本軍250k爆弾に合わせてあります。
+
+pg up/pg dnでキャノピー開閉、1キーで機銃が格納状態になります。

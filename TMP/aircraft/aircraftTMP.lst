@@ -1,0 +1,100 @@
+tmp/aircraft/a10t.dat tmp/aircraft/a10t.dnm aircraft/a10coll.srf tmp/aircraft/a10tcockpit.srf
+tmp/aircraft/a12.dat tmp/aircraft/a12.dnm tmp/aircraft/a12coll.srf tmp/aircraft/a12cockpit.srf
+tmp/aircraft/av8r.dat tmp/aircraft/av8r.dnm aircraft/a4coll.srf aircraft/a4cockpit.srf
+tmp/aircraft/an225buran.dat tmp/aircraft/an225buran.dnm tmp/aircraft/an225coll.srf tmp/aircraft/an225cockpit.srf
+tmp/aircraft/xb-35.dat tmp/aircraft/xb-35.dnm aircraft/b2coll.srf tmp/aircraft/xb-35.srf
+tmp/aircraft/xb70.dat tmp/aircraft/xb70.dnm tmp/aircraft/xb70coll.srf tmp/aircraft/xb70cockpit.srf
+tmp/aircraft/xb70ft.dat tmp/aircraft/xb70ft.dnm tmp/aircraft/xb70ftcoll.srf tmp/aircraft/xb70ftcock.srf 
+tmp/aircraft/ef2000.dat tmp/aircraft/ef2000.dnm tmp/aircraft/ef2000coll.srf tmp/aircraft/ef2000cockpit.srf
+tmp/aircraft/f-1_tech.dat tmp/aircraft/f-1_tech.dnm tmp/aircraft/t2_tech/t-2_techcoll.srf tmp/aircraft/f-1_techcockpit.srf
+tmp/aircraft/f2t.dat tmp/aircraft/f2t.dnm tmp/aircraft/f2tcoll.srf tmp/aircraft/f2tcockpit.srf
+tmp/aircraft/f2t2.dat tmp/aircraft/f2t2.dnm tmp/aircraft/f2tcoll.srf tmp/aircraft/f2tcockpit.srf
+tmp/aircraft/rf4e_tech.dat tmp/aircraft/rf4e_tech.dnm tmp/aircraft/f4_tech_coll.srf tmp/aircraft/f4_tech_cockpit.srf
+tmp/aircraft/f4ej_302_tech.dat tmp/aircraft/f4ej_302_tech.dnm tmp/aircraft/f4_tech_coll.srf tmp/aircraft/f4_tech_cockpit.srf
+tmp/aircraft/f4ej_8_tech.dat tmp/aircraft/f4ej_8_tech.dnm tmp/aircraft/f4_tech_coll.srf tmp/aircraft/f4_tech_cockpit.srf
+tmp/aircraft/f4vf96.dat tmp/aircraft/f4vf96.dnm aircraft/f4coll.srf aircraft/f4cockpit.srf
+tmp/aircraft/f5t.dat tmp/aircraft/f5t.dnm aircraft/f5coll.srf tmp/aircraft/f5tcock.srf
+tmp/aircraft/f9f.dat tmp/aircraft/f9f.dnm tmp/aircraft/f9fcoll.srf tmp/aircraft/f9fcockpit.srf
+tmp/aircraft/f14t.dat tmp/aircraft/f14t.dnm tmp/aircraft/f14tcoll.srf tmp/aircraft/f14tcockpit.srf
+tmp/aircraft/f15c.dat tmp/aircraft/f15c.dnm aircraft/f15coll.srf tmp/aircraft/f15tcockpit.srf
+tmp/aircraft/f15e.dat tmp/aircraft/f15e.dnm aircraft/f15coll.srf tmp/aircraft/f15tcockpit.srf
+tmp/aircraft/f15s.dat tmp/aircraft/f15s.dnm aircraft/f15coll.srf tmp/aircraft/f15tcockpit.srf
+tmp/aircraft/f16t.dat tmp/aircraft/f16t.dnm tmp/aircraft/f16tcoll.srf tmp/aircraft/f16tcockpit.srf
+tmp/aircraft/f16x.dat tmp/aircraft/f16x.dnm tmp/aircraft/f16xcoll.srf tmp/aircraft/f16xcockpit.srf
+tmp/aircraft/f22f.dat tmp/aircraft/f22f.dnm tmp/aircraft/f22f_coll.srf tmp/aircraft/f22f_cockpit.srf tmp/aircraft/f22f_coarse.dnm
+tmp/aircraft/f22t.dat tmp/aircraft/f22t.dnm aircraft/f22coll.srf tmp/aircraft/f22tcockpit.srf
+tmp/aircraft/f117t.dat tmp/aircraft/f117t.dnm tmp/aircraft/f117tcoll.srf tmp/aircraft/f117tcockpit.srf
+tmp/aircraft/fx_na.dat tmp/aircraft/fx_na.dnm tmp/aircraft/fx_nacoll.srf tmp/aircraft/fx_nacockpit.srf
+tmp/aircraft/gripen.dat tmp/aircraft/gripen.dnm tmp/aircraft/gripencoll.srf tmp/aircraft/gripencockpit.srf
+tmp/aircraft/hermes.dat tmp/aircraft/hermes.dnm tmp/aircraft/hermescoll.srf tmp/aircraft/hermescockpit.srf
+tmp/aircraft/hopex.dat tmp/aircraft/hopex.dnm tmp/aircraft/hopexcoll.srf tmp/aircraft/hopexcockpit.srf
+tmp/aircraft/lavi.dat tmp/aircraft/lavi.dnm tmp/aircraft/lavicoll.srf tmp/aircraft/lavicockpit.srf
+tmp/aircraft/mi24.dat tmp/aircraft/mi24.dnm tmp/aircraft/mi24coll.srf tmp/aircraft/mi24cockpit.srf tmp/aircraft/mi24c.dnm
+tmp/aircraft/mig25b.dat tmp/aircraft/mig25b.dnm tmp/aircraft/mig25bcoll.srf tmp/aircraft/mig25bcockpit.srf tmp/aircraft/mig25bcoll.srf
+tmp/aircraft/mig29sc.dat tmp/aircraft/mig29sc.dnm aircraft/mig29coll.srf aircraft/mig29cockpit.srf
+tmp/aircraft/mig1.44.dat tmp/aircraft/mig1.44.dnm tmp/aircraft/mig1.44coll.srf tmp/aircraft/mig1.44cockpit.srf
+tmp/aircraft/s37.dat tmp/aircraft/s37.dnm tmp/aircraft/s37coll.srf tmp/aircraft/s37cockpit.srf
+tmp/aircraft/su25.dat tmp/aircraft/su25.dnm tmp/aircraft/su25coll.srf tmp/aircraft/su25cock.srf tmp/aircraft/su25coarse.srf
+tmp/aircraft/su27b.dat tmp/aircraft/su27b.dnm aircraft/su27coll.srf aircraft/su27cockpit.srf
+tmp/aircraft/su27t.dat tmp/aircraft/su27t.dnm tmp/aircraft/su27tcoll.srf tmp/aircraft/su27tcockpit.srf
+tmp/aircraft/su34.dat tmp/aircraft/su34.dnm tmp/aircraft/su34_coll.srf tmp/aircraft/su34_cockpit.srf tmp/aircraft/su34_coarse.dnm
+tmp/aircraft/su-37.dat tmp/aircraft/su37yellow.dnm aircraft/su27coll.srf aircraft/su27cockpit.srf
+tmp/aircraft/shuttle.dat tmp/aircraft/shuttle.dnm tmp/aircraft/shuttlecoll.srf tmp/aircraft/shuttlecockpit.srf
+tmp/aircraft/sr71t.dat tmp/aircraft/sr71t.dnm tmp/aircraft/sr71tcoll.srf tmp/aircraft/sr71tcock.srf
+tmp/aircraft/superetendard.dat tmp/aircraft/superetendard.dnm tmp/aircraft/superetendardcoll.srf tmp/aircraft/superetendardcockpit.srf
+tmp/aircraft/t2_tech/t-2bi_tech01.dat tmp/aircraft/t2_tech/t-2bi_tech01.dnm tmp/aircraft/t2_tech/t-2_techcoll.srf tmp/aircraft/t2_tech/t-2_techcockpit.srf
+tmp/aircraft/t2_tech/t-2bi_tech02.dat tmp/aircraft/t2_tech/t-2bi_tech02.dnm tmp/aircraft/t2_tech/t-2_techcoll.srf tmp/aircraft/t2_tech/t-2_techcockpit.srf
+tmp/aircraft/t2_tech/t-2bi_tech03.dat tmp/aircraft/t2_tech/t-2bi_tech03.dnm tmp/aircraft/t2_tech/t-2_techcoll.srf tmp/aircraft/t2_tech/t-2_techcockpit.srf
+tmp/aircraft/t2_tech/t-2bi_tech04.dat tmp/aircraft/t2_tech/t-2bi_tech04.dnm tmp/aircraft/t2_tech/t-2_techcoll.srf tmp/aircraft/t2_tech/t-2_techcockpit.srf
+tmp/aircraft/t2_tech/t-2bi_tech05.dat tmp/aircraft/t2_tech/t-2bi_tech05.dnm tmp/aircraft/t2_tech/t-2_techcoll.srf tmp/aircraft/t2_tech/t-2_techcockpit.srf
+tmp/aircraft/t2_tech/t-2bi_tech06.dat tmp/aircraft/t2_tech/t-2bi_tech06.dnm tmp/aircraft/t2_tech/t-2_techcoll.srf tmp/aircraft/t2_tech/t-2_techcockpit.srf
+tmp/aircraft/t-2ccv_tech.dat tmp/aircraft/t-2ccv_tech.dnm tmp/aircraft/t-2ccv_techcoll.srf tmp/aircraft/t2_tech/t-2_techcockpit.srf
+tmp/aircraft/tu95.dat tmp/aircraft/tu95.dnm tmp/aircraft/tu95coll.srf tmp/aircraft/tu95cockpit.srf
+tmp/aircraft/tu-160.dat tmp/aircraft/tu-160.dnm aircraft/tu160coll.srf tmp/aircraft/tu-160cockpit.srf
+tmp/aircraft/x-15.dat tmp/aircraft/x-15.dnm tmp/aircraft/x-15_coll.srf tmp/aircraft/x-15_cockpit.srf
+tmp/aircraft/x29.dat tmp/aircraft/x29.dnm tmp/aircraft/x29coll.srf tmp/aircraft/x29cockpit.srf
+tmp/aircraft/x31.dat tmp/aircraft/x31.dnm tmp/aircraft/x31_coll.srf tmp/aircraft/x31_cockpit.srf
+tmp/aircraft/x32.dat tmp/aircraft/x32.dnm tmp/aircraft/x32coll.srf tmp/aircraft/x32cockpit.srf
+tmp/aircraft/x34.dat tmp/aircraft/x34.dnm tmp/aircraft/x34coll.srf tmp/aircraft/x34null.srf
+tmp/aircraft/x35.dat tmp/aircraft/x35.dnm tmp/aircraft/x35coll.srf tmp/aircraft/x35cockpit.srf
+tmp/aircraft/x47.dat tmp/aircraft/x47.dnm tmp/aircraft/x47coll.srf tmp/aircraft/x47cockpit.srf
+tmp/aircraft/xf85.dat tmp/aircraft/xf-85.dnm tmp/aircraft/xf-85coll.srf tmp/aircraft/xf-85cockpit.srf
+tmp/aircraft/yf16ccv.dat tmp/aircraft/yf16ccv.dnm tmp/aircraft/f16tcoll.srf tmp/aircraft/f16tcockpit.srf
+
+tmp/aircraft/ww2/99.dat tmp/aircraft/ww2/99.dnm tmp/aircraft/ww2/99.srf tmp/aircraft/ww2/99cockpit.srf
+tmp/aircraft/ww2/raiden.dat tmp/aircraft/ww2/raiden.dnm tmp/aircraft/ww2/raidencoll.srf tmp/aircraft/ww2/raidencockpit.srf
+tmp/aircraft/ww2/shinden.dat tmp/aircraft/ww2/shinden.dnm tmp/aircraft/ww2/shindencoll.srf tmp/aircraft/ww2/hiencockpit.srf
+tmp/aircraft/ww2/hien.dat tmp/aircraft/ww2/hien.dnm tmp/aircraft/ww2/hiencoll.srf tmp/aircraft/ww2/hiencockpit.srf
+tmp/aircraft/ww2/kawasaki_type5.dat tmp/aircraft/ww2/type5.dnm tmp/aircraft/ww2/hiencoll.srf tmp/aircraft/ww2/hiencockpit.srf
+tmp/aircraft/ww2/zero.dat tmp/aircraft/ww2/zero.dnm tmp/aircraft/ww2/zorocoll.srf tmp/aircraft/ww2/zerocockpit.srf
+tmp/aircraft/ww2/zero54.dat tmp/aircraft/ww2/zero54.dnm tmp/aircraft/ww2/zorocoll.srf tmp/aircraft/ww2/zerocockpit.srf
+tmp/aircraft/ww2/raiden-f.dat tmp/aircraft/ww2/raiden-f.dnm tmp/aircraft/ww2/raiden-f_coll.srf tmp/aircraft/ww2/raiden-f_cockpit.srf tmp/aircraft/ww2/raiden-f_coarse.dnm
+tmp/aircraft/ww2/b17.dat tmp/aircraft/ww2/b17.dnm tmp/aircraft/ww2/b17coll.srf tmp/aircraft/ww2/b17cockpit.srf
+tmp/aircraft/ww2/b25.dat tmp/aircraft/ww2/b25.dnm aircraft/e2ccoll.srf aircraft/e2ccockpit.srf
+tmp/aircraft/ww2/p47d.dat tmp/aircraft/ww2/p47d.dnm tmp/aircraft/ww2/p47coll.srf tmp/aircraft/ww2/p47dcockpit.srf
+tmp/aircraft/ww2/p47n.dat tmp/aircraft/ww2/p47n.dnm tmp/aircraft/ww2/p47coll.srf tmp/aircraft/ww2/p47ncockpit.srf
+tmp/aircraft/ww2/p51.dat tmp/aircraft/ww2/p51.dnm tmp/aircraft/ww2/p51coll.srf tmp/aircraft/ww2/p51cockpit.srf
+tmp/aircraft/ww2/xp56.dat tmp/aircraft/ww2/xp56.dnm tmp/aircraft/ww2/xp56coll.srf tmp/aircraft/ww2/xp56cockpit.srf
+tmp/aircraft/ww2/f4u.dat tmp/aircraft/ww2/f4u.dnm tmp/aircraft/ww2/f4ucoll.srf tmp/aircraft/ww2/f4ucockpit.srf
+tmp/aircraft/ww2/xf5u.dat tmp/aircraft/ww2/xf5u.dnm tmp/aircraft/ww2/xf5u_coll.srf tmp/aircraft/ww2/xf5u_cockpit.srf tmp/aircraft/ww2/xf5u_coarse.dnm
+tmp/aircraft/ww2/bf109.dat tmp/aircraft/ww2/bf109.dnm tmp/aircraft/ww2/bf109coll.srf tmp/aircraft/ww2/bf109cockpit.srf
+tmp/aircraft/ww2/ju87.dat tmp/aircraft/ww2/ju87.dnm tmp/aircraft/ww2/ju87coll.srf tmp/aircraft/ww2/ju87cockpit.srf
+tmp/aircraft/ww2/ju87g.dat tmp/aircraft/ww2/ju87g.dnm tmp/aircraft/ww2/ju87coll.srf tmp/aircraft/ww2/ju87gcockpit.srf
+tmp/aircraft/ww2/me262.dat tmp/aircraft/ww2/me262.dnm tmp/aircraft/ww2/me262coll.srf tmp/aircraft/ww2/me262cockpit.srf
+tmp/aircraft/ww2/fokkerdr1.dat tmp/aircraft/ww2/fokkerdr1.dnm tmp/aircraft/ww2/fokkerdr1coll.srf tmp/aircraft/ww2/fokkerdr1cookpit.srf tmp/aircraft/ww2/fokkerdr1coarse.dnm
+tmp/aircraft/ww2/hurricane.dat tmp/aircraft/ww2/hurricane.dnm tmp/aircraft/ww2/hurricanecoll.srf tmp/aircraft/ww2/hurricanecockpit.srf
+tmp/aircraft/ww2/spitfire.dat tmp/aircraft/ww2/spitfire.dnm tmp/aircraft/ww2/spitfirecoll.srf tmp/aircraft/ww2/spitfirecockpit.srf
+tmp/aircraft/ww2/typhoon.dat tmp/aircraft/ww2/typhoon.dnm tmp/aircraft/ww2/typhooncoll.srf tmp/aircraft/ww2/typhooncockpit.srf
+tmp/aircraft/ww2/tempest.dat tmp/aircraft/ww2/tempest.dnm tmp/aircraft/ww2/typhooncoll.srf tmp/aircraft/ww2/typhooncockpit.srf
+tmp/aircraft/ww2/mosquito.dat tmp/aircraft/ww2/mosquito.dnm tmp/aircraft/ww2/mosquito_coll.srf tmp/aircraft/ww2/mosquito_cockpit.srf
+tmp/aircraft/ww2/g55.dat tmp/aircraft/ww2/g55.dnm tmp/aircraft/ww2/g55coll.srf tmp/aircraft/ww2/g55cockpit.srf
+tmp/aircraft/ww2/i5.dat tmp/aircraft/ww2/i5.dnm tmp/aircraft/ww2/i5coll.srf tmp/aircraft/ww2/i5cockpit.srf
+
+tmp/tank/a7v.dat tmp/tank/a7v.dnm tmp/tank/a7vco.srf tmp/tank/a7vco.srf
+tmp/tank/jagdpanther.dat tmp/tank/jagdpanther.dnm tmp/tank/jagdpanthercoll.srf tmp/tank/jagdpanthercoll.srf tmp/tank/jagdpanthercoarse.srf
+tmp/tank/geparddt.nzm tmp/tank/gepardmd.nzm tmp/tank/gprdcoll.srf tmp/tank/cockpit.srf
+tmp/tank/hmmwvg.dat tmp/tank/hmmwvg.dnm tmp/tank/hmmwvcoll.srf tmp/tank/hmcockpit.srf
+tmp/tank/t2000.dat tmp/tank/t2000.dnm tmp/tank/t2000coll.srf tmp/tank/t2000cockpit.srf tmp/tank/t2000c.dnm
+tmp/tank/hohei.dat tmp/tank/hohei.dnm tmp/tank/hoheicoll.srf tmp/tank/hoheicockpit.srf
+
+tmp/aircraft/oni_papa.dat tmp/aircraft/oni_papa.dnm tmp/aircraft/oni_papacoll.srf tmp/aircraft/oni_papacockpit.srf

@@ -1,0 +1,122 @@
+IDENTIFY "Pz.Kpfw.II_Ausf.C(female_commander)"
+CATEGORY UTILITY
+AFTBURNR FALSE              #HAVE AFTERBURNER?
+PROPELLR 140HP             #PROPELLER ENGINE
+PROPEFCY 1.0           #Propeller efficiency
+WEIGHCLN 8.9t             #WEIGHT CLEAN
+WEIGFUEL 600kg             #WEIGHT OF FUEL
+WEIGLOAD 3t                #WEIGHT OF PAYLOAD
+FUELMILI 0.02kg             #FUEL CONSUMPTION AT MILITARY POWER
+GUNSIGHT FALSE
+THRSTREV 0.4                 #EFFICIENCY OF THRUST REVERSER
+
+COCKPITP  -0.25m 0.26m 1.13m
+EXCAMERA  "comander" -0.11m  1.46m 0.14m 0deg 0deg 0deg INSIDE
+LEFTGEAR  -1.14m -1.00m -1.36m
+RIGHGEAR  1.14m -1.00m -1.36m 
+WHELGEAR  0.0m -1.00m  1.29m
+ARRESTER  0.0m 0m 0m
+GUNDIREC  0.0m 0.0m 0.0m     #MACHINE GUN DIRECTION
+SMOKEGEN 0.00m 0m -0m  #SMOKE GENERATOR POSITION
+VAPORPO0  0m  0m 0m  #VAPOR POSITION (Wings Swept Back or no-VGW)
+VAPORPO1  0m  0m 0m  #VAPOR POSITION (Wings Spread)
+HTRADIUS  4m                #OUTSIDE SPHERE RADIUS
+
+TRIGGER1 GUN
+TRIGGER2 AAM
+TRIGGER3 AGM
+TRIGGER4 SMK
+STRENGTH 12
+
+CRITAOAP 0deg 
+CRITAOAM 0deg
+  
+CRITSPED 20km/h
+MAXSPEED 40km/h
+
+HASSPOIL TRUE                 #HAS SPOILER?
+RETRGEAR FALSE                 #HAS RETRACTABLE LANDING GEAR?
+VARGEOMW FALSE               #HAS VARIABLE GEOMETRY WING?
+
+CLVARGEO 0                  #EFFECT OF VARIABLE GEOMETRY WING FOR Cl
+CDVARGEO 0                  #EFFECT OF VARIABLE GEOMETRY WING FOR Cd
+CLBYFLAP 0                  #EFFECT OF FLAP FOR Cl
+CDBYFLAP 0                  #EFFECT OF FLAP FOR Cd
+CDBYGEAR 0                  #EFFECT OF GEAR FOR Cd
+CDSPOILR 0                  #EFFECT OF SPOILER FOR Cd
+
+WINGAREA 1m^2                #WING AREA
+
+MXIPTAOA 1deg  
+MXIPTSSA 5.0deg
+MXIPTROL 1deg
+
+REM CPITMANE corresponds to Spring Constant K
+REM CPITSTAB corresponds to Damper Constant B
+REM To be critically damped, B=2*sqrt(K)
+REM 2% Settling Time=??
+
+MANESPD1 30km/h
+MANESPD2 20km/h  
+CPITMANE 0
+CPITSTAB 40
+CYAWMANE 12 
+CYAWSTAB 6.2 
+CROLLMAN 40
+
+CTLLDGEA TRUE              
+CTLBRAKE FALSE
+CTLSPOIL 0.0
+CTLABRNR FALSE    
+CTLTHROT 0.0      
+CTLIFLAP 0.0       
+CTLINVGW 1.0        
+CTLATVGW FALSE
+
+POSITION 0m 3ft 0m           #POSITION
+ATTITUDE 45deg 0deg 0deg      #ATTITUDE
+INITFUEL 100%                  #INITIAL FUEL
+INITLOAD 0.0t                 #INITIAL PAYLOAD
+INITSPED 0.0MACH              #INITIAL SPEED
+
+GUNPOWER 1
+INITIGUN 0                 #INITIAL GUN
+INITIAAM 0                    #INITIAL AAM
+INITIAGM 0                    #INITIAL AGM
+
+RKTVISIB FALSE
+
+NMTURRET 2
+
+TURRETPO 0 -0.19m 0.69m 0.280m 0deg 0deg 0deg
+TURRETPT 0 -4deg 30deg 0deg               
+TURRETHD 0 -180deg 180deg 0deg              
+TURRETAM 0 180                       
+TURRETIV 0 0.14sec
+TURRETNP 0 0006
+TURRETNH 0 0004          
+TURRETAR 0                                           
+TURRETCT 0 PILOT                  
+TURRETRG 0 800m
+
+TURRETPO 1 -0.19m 0.69m 0.280m 0deg 0deg 0deg
+TURRETPT 1 -4deg 30deg 0deg               
+TURRETHD 1 -180deg 180deg 0deg              
+TURRETAM 1 180                       
+TURRETIV 1 0.14sec          
+TURRETAR 1                                           
+TURRETCT 1 PILOT                  
+TURRETRG 1 800m
+
+REM ClZero,CdZero is fixed by Cruising condition
+REFVCRUS 40km/h              #CRUISING SPEED
+REFACRUS 10ft              #CRUISING ALTITUDE
+REFTCRUS 1.0                  #CRUISING THROTTLE SETTING
+
+REM ClSlope,CdConst is fixed by Landing condition
+REFVLAND 10km/h                #LANDING SPEED
+REFAOALD 10deg                #LANDING AOA
+REFLNRWY 1.2m                #RUNWAY REQUIRED TO STOP
+REFTHRLD 0.4               #LANDING THROTTLE SETTING
+
+AUTOCALC

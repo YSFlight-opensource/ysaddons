@@ -1,0 +1,40 @@
+FIELD
+SKY 51 51 51
+GND 80 80 80
+PLT
+FIL rw_light2.pc2
+POS 0.00 0.01 -1300.00 0 0 0
+END
+PLT
+FIL rw_light2.pc2
+POS 0.00 0.01 -900.00 0 0 0
+END
+PLT
+FIL rw_light2.pc2
+POS 0.00 0.01 -500.00 0 0 0
+END
+PLT
+FIL rw_light2.pc2
+POS 0.00 0.01 -100.00 0 0 0
+END
+PC2
+FIL rw_60wl3k_l.pc2
+POS 0.00 0.00 0.00 0 0 0
+END
+PLT
+FIL rw_light.pc2
+POS 0.00 0.00 300.00 0 0 0
+END
+PLT
+FIL rw_light.pc2
+POS 0.00 0.00 700.00 0 0 0
+END
+PLT
+FIL rw_light.pc2
+POS 0.00 0.00 1100.00 0 0 0
+END
+PLT
+FIL rw_light.pc2
+POS 0.00 0.00 1500.00 0 0 0
+END
+ENDF

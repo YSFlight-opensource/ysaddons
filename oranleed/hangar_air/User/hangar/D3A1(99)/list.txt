@@ -1,0 +1,2 @@
+
+user/hangar/D3A1(99)/99b.dat user/hangar/D3A1(99)/99b.dnm user/hangar/D3A1(99)/99coll.srf user/hangar/D3A1(99)/99cockpit.srf user/hangar/D3A1(99)/99coarse.dnm

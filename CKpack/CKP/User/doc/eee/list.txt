@@ -1,0 +1,75 @@
+éüÇÃçÄñ⁄Çscenary.lstÇ…í«â¡ÇµÇƒÇ≠ÇæÇ≥Ç¢ÅB
+[eee]_EL_DORADO User/eee/scenary/eldorado/eldorado.fld User/eee/scenary/eldorado/eldorado.stp User/eee/scenary/eldorado/eldorado.yfs
+[eee]_EL_DORADO_NIGHT User/eee/scenary/eldorado/elnight.fld User/eee/scenary/eldorado/elnight.stp User/eee/scenary/eldorado/elnight.yfs
+[eee]_AQUA User/eee/scenary/aqua/aqua.fld User/eee/scenary/aqua/aqua.stp User/eee/scenary/aqua/aqua.yfs
+[eee]_AQUA(light) User/eee/scenary/aqua/aqua.fld User/eee/scenary/aqua/aqua.stp User/eee/scenary/aqua/aqual.yfs
+[eee]_UTOPIA User/eee/scenary/utopia/utopia.fld User/eee/scenary/utopia/utopia.stp User/eee/scenary/utopia/utopia.yfs
+[eee]_UTOPIA(light) User/eee/scenary/utopia/utopial.fld User/eee/scenary/utopia/utopia.stp User/eee/scenary/utopia/utopia.yfs
+
+
+éüÇÃçÄñ⁄Çground.lstÇ…í«â¡ÇµÇƒÇ≠ÇæÇ≥Ç¢ÅB
+User/eee/ground/megafloat.dat User/eee/ground/megafloat.srf User/eee/ground/megafloat.srf
+User/eee/ground/megafloatn.dat User/eee/ground/megafloatn.srf User/eee/ground/megafloatn.srf
+User/eee/ground/shutter.dat User/eee/ground/shutter.srf User/eee/ground/shuttercoll.srf
+User/eee/ground/grid.dat User/eee/ground/grid.srf User/eee/ground/gridcoll.srf
+User/eee/ground/gridn.dat User/eee/ground/gridn.srf User/eee/ground/gridcoll.srf
+User/eee/ground/core.dat User/eee/ground/core.srf User/eee/ground/core.srf
+User/eee/ground/s_sam.dat User/eee/ground/s_sam.srf User/eee/ground/s_sam.srf
+User/eee/ground/s_aaa.dat User/eee/ground/s_aaa.srf User/eee/ground/s_aaa.srf
+User/eee/ground2/exbridge.dat User/eee/ground2/exbridge.srf User/eee/ground2/bridgecoll.srf
+User/eee/ground2/exbridgen.dat User/eee/ground2/exbridgen.srf User/eee/ground2/bridgecoll.srf
+User/eee/ground2/exslope.dat User/eee/ground2/exslope.srf User/eee/ground2/slopecoll.srf
+User/eee/ground2/exslopen.dat User/eee/ground2/exslopen.srf User/eee/ground2/slopecoll.srf
+User/eee/ground/airbuild.dat User/eee/ground/airbuild.srf User/eee/ground/airbcoll.srf
+User/eee/ground/airbuildn.dat User/eee/ground/airbuildn.srf User/eee/ground/airbcoll.srf
+User/eee/ground/cargo.dat User/eee/ground/cargo.srf User/eee/ground/cargocoll.srf
+User/eee/ground/cargon.dat User/eee/ground/cargon.srf User/eee/ground/cargocoll.srf
+User/eee/ground/hangerc.dat User/eee/ground/hangerc.srf User/eee/ground/hangerc.srf
+User/eee/ground/hangercn.dat User/eee/ground/hangercn.srf User/eee/ground/hangercn.srf
+User/eee/ground/hangerm.dat User/eee/ground/hangerm.srf User/eee/ground/hangerm.srf
+User/eee/ground/hangermn.dat User/eee/ground/hangermn.srf User/eee/ground/hangermn.srf
+User/eee/ground/oiltank.dat User/eee/ground/oiltank.srf User/eee/ground/oiltank.srf
+User/eee/ground/oiltankn.dat User/eee/ground/oiltankn.srf User/eee/ground/oiltankn.srf
+User/eee/ground/oiltanks.dat User/eee/ground/oiltanks.srf User/eee/ground/oiltanks.srf
+User/eee/ground/depart.dat User/eee/ground/depart.srf User/eee/ground/departcoll.srf
+User/eee/ground/departn.dat User/eee/ground/departn.srf User/eee/ground/departcoll.srf
+User/eee/ground/hotel.dat User/eee/ground/hotel.srf User/eee/ground/hotelcoll.srf
+User/eee/ground/hoteln.dat User/eee/ground/hoteln.srf User/eee/ground/hotelcoll.srf
+User/eee/ground/build.dat User/eee/ground/build.srf User/eee/ground/bcoll.srf
+User/eee/ground/buildn.dat User/eee/ground/buildn.srf User/eee/ground/bcoll.srf
+User/eee/ground/builds.dat User/eee/ground/builds.srf User/eee/ground/bcoll.srf
+User/eee/ground/2build.dat User/eee/ground/2build.srf User/eee/ground/2bcoll.srf
+User/eee/ground/2buildn.dat User/eee/ground/2buildn.srf User/eee/ground/2bcoll.srf
+User/eee/ground/2builds.dat User/eee/ground/2builds.srf User/eee/ground/2bcoll.srf
+User/eee/ground/3build.dat User/eee/ground/3build.srf User/eee/ground/3bcoll.srf
+User/eee/ground/3buildn.dat User/eee/ground/3buildn.srf User/eee/ground/3bcoll.srf
+User/eee/ground/3builds.dat User/eee/ground/3builds.srf User/eee/ground/3bcoll.srf
+User/eee/ground/stadium.dat User/eee/ground/stadium.srf User/eee/ground/stcoll.srf
+User/eee/ground/stadiumn.dat User/eee/ground/stadiumn.srf User/eee/ground/stcoll.srf
+User/eee/ground/house.dat User/eee/ground/house.srf User/eee/ground/housecoll.srf
+User/eee/ground/housen.dat User/eee/ground/housen.srf User/eee/ground/housecoll.srf
+User/eee/ground/apart.dat User/eee/ground/apart.srf User/eee/ground/apartcoll.srf
+User/eee/ground/apartn.dat User/eee/ground/apartn.srf User/eee/ground/apartcoll.srf
+User/eee/ground2/tunnel.dat User/eee/ground2/tunnel.srf User/eee/ground2/tuncoll.srf
+User/eee/ground2/tunneln.dat User/eee/ground2/tunneln.srf User/eee/ground2/tuncoll.srf
+User/eee/ground/aquabase.dat User/eee/ground/aquabase.srf User/eee/ground/aquabase.srf
+User/eee/ground/aquaobject.dat User/eee/ground/aquaobject.srf User/eee/ground/aquaobject.srf
+User/eee/ground/pyramid.dat User/eee/ground/pyramid.srf User/eee/ground/pyrcoll.srf
+User/eee/ground/pyramids.dat User/eee/ground/pyramids.srf User/eee/ground/pyrcoll.srf
+User/eee/ground2/starfish.dat User/eee/ground2/starfish.srf User/eee/ground2/starfish.srf
+User/eee/ground2/jellyfish.dat User/eee/ground2/jellyfish.srf User/eee/ground2/jellyfish.srf
+User/eee/ground2/anemone.dat User/eee/ground2/anemone.srf User/eee/ground2/anemone.srf
+User/eee/ground2/shark.dat User/eee/ground2/shark.srf User/eee/ground2/shark.srf
+User/eee/ground2/pgrotes.dat User/eee/ground2/pgrotes.dnm User/eee/ground2/pgrocoll.srf
+User/eee/ground2/vgrotes.dat User/eee/ground2/vgrotes.dnm User/eee/ground2/vgrocoll.srf
+User/eee/ground2/fountain.dat User/eee/ground2/fountain.srf User/eee/ground2/fountcoll.srf
+User/eee/ground/bighouse.dat User/eee/ground/bighouse.srf User/eee/ground/bigcoll.srf
+User/eee/ground/church.dat User/eee/ground/church.srf User/eee/ground/churcoll.srf
+User/eee/ground/temple.dat User/eee/ground/temple.srf User/eee/ground/temple.srf
+User/eee/ground2/floatrock.dat User/eee/ground2/floatrock.srf User/eee/ground2/floatrock.srf
+User/eee/ground/obelisk.dat User/eee/ground/obelisk.srf User/eee/ground/obelisk.srf
+User/eee/ground2/cristalb.dat User/eee/ground2/cristalb.srf User/eee/ground2/cristalb.srf
+User/eee/ground2/cristalg.dat User/eee/ground2/cristalg.srf User/eee/ground2/cristalg.srf
+User/eee/ground2/cristalr.dat User/eee/ground2/cristalr.srf User/eee/ground2/cristalr.srf
+User/eee/ground2/cristaly.dat User/eee/ground2/cristaly.srf User/eee/ground2/cristaly.srf
+User/eee/ground2/yggdrasill.dat User/eee/ground2/yggdrasill.srf User/eee/ground2/yggdrasill.srf

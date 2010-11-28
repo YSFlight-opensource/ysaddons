@@ -1,0 +1,76 @@
+***************************
+*** MODDING INFORMATION ***
+***************************
+
+
+The F-32 Bullshark is a fictional plane I have remodelled from the GAC F-35.
+I was inspired by the Boeing X-32 as a competitor to the F-35.
+
+I wanted to make the most detailed aircraft I could possibly make at this time, and so I have used the most detailed items I could find in other airplanes.
+I have used: 
+- The revolving smoke on 49th pack's F-35B by Makoto.
+- The thrust vectoring nozzle and afterburner from the Raven-B of 49th pack.
+- The pilot and cockpit of the Leliel of 49th pack.
+
+Thanks and credits to all modders that have helped create those models. I'm not sure who exactly you are but some names I have to mention are:
+CEP, Oranleed, WFTC, Bucknasty, Squadron Leader Chunder, and Littlepetslinki. (info from release txt in 49th pack, if your name should be on here too, please contact me)
+I hope my F-32 Bullshark will be worthy of a YS squadron repaint as well.
+
+I have intentionally made a plane capable of carrier operations for this reason, since I know many squadrons like to be a VFA.
+The F-32's DAT is modified from the Leliel's DAT of the 49th. I have adjusted some values, but the F-32 is still extremely maneuverable and fast.
+The shortcomings of the F-32 would be its light weapon load and limited range. 
+The external fueltanks on the Air Force version extend its range a bit, but make it lose its stealthy characteristics.
+
+Thank you for your download and best wishes for 2009!
+
+YS Major
+Auckland, December 30th 2008.
+
+http://ysmajor.blogspot.com
+roeltheworld@yahoo.co.uk
+
+
+****************************
+*** AIRCRAFT INFORMATION ***
+****************************
+
+
+The F-32 Bullshark was developed as a competitor to the F-35 Lightning II.
+It's slightly smaller than the F-35, and carries a light load in internal weapon bays.
+It is very stealthy, and highly maneuverable. 
+The HDU (Helmet Display Unit) makes the cockpit very 'clean' lacking a HUD, giving the pilot night vision, and 360 degrees information.
+
+It has vectoring thrust, and strenghtened landing gear for carrier operations.
+Both the Navy as well as the Air Force operate F-32's. 
+It is the principal fighter/attacker operating from the new super-carrier USS Obama, where strike fighter squadron VFA 28 'The Bullsharks' is based. 
+
+The F-32 can be armed with Aim-9, Aim-120, 250 Lbs bombs, 500 Lbs bombs, and AGM-65's.
+It is equiped with a 25mm gatling gun in the left leading edge extension, but has limited ammunitions of only 250 rounds.
+
+For air-superiority missions there are also 2 versions with hardpoints attached to the wings.
+This makes the planes less stealthy, but its superior maneuverability always gives the Bullshark the edge.
+
+Operation manual:
+
+Bomb bay 	- opens weapon bays
+Flap		- toggles flap and slats
+Spoiler		- extends brakes and tailhook
+Thrust Reverser - extends refueling probe (only on Navy versions)
+Thrust vector 	- folds wings, opens canopy
+Elevator down	- when thrust vector is on will move right arm and thumbs up
+Gear		- extends landing gear and moves gear doors
+Elevator	- moves pilot head up and down, controls elevators and nozzle
+Ailerons	- moves pilot head left and right, controls ailerons
+Rudder		- controls front gear and nozzle
+Afterburner	- ignites afterburner
+Thrust		- at 1/3rds of throttle power smoke will appear behind the nozzle
+Elevator up	- at speeds higher than 200 kts a vapor cloud will appear on wing surface when turning
+
+
+Have a safe flight and happy hunting!
+
+YS Major
+Auckland, December 30th 2008.
+
+http://ysmajor.blogspot.com
+roeltheworld@yahoo.co.uk

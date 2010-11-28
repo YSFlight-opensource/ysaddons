@@ -1,0 +1,212 @@
+User/major/scenery/ground/aa1.dat user/major/scenery/ground/aa1.srf user/major/scenery/ground/aa1.srf
+User/major/scenery/ground/aa2.dat user/major/scenery/ground/aa2.srf user/major/scenery/ground/aa2.srf
+User/major/scenery/ground/aa3.dat user/major/scenery/ground/aa3.srf user/major/scenery/ground/aa3.srf
+User/major/scenery/ground/alert2.dat user/major/scenery/ground/alert2.srf user/major/scenery/ground/alert2.srf
+User/major/scenery/ground/bunker.dat user/major/scenery/ground/bunker.srf user/major/scenery/ground/bunker.srf
+User/major/scenery/ground/bunker2.dat user/major/scenery/ground/bunker2.srf user/major/scenery/ground/bunker2.srf
+User/major/scenery/ground/ctrltwr.dat user/major/scenery/ground/ctrltwr.srf user/major/scenery/ground/ctrltwr.srf
+User/major/scenery/ground/guardtwr.dat user/major/scenery/ground/guardtwr.srf user/major/scenery/ground/guardtwr.srf
+User/major/scenery/ground/hangwat2.dat user/major/scenery/ground/hangwat2.srf user/major/scenery/ground/hangwat2.srf "" user/major/scenery/ground/hangwat2crs.srf
+user/major/scenery/ground/hang_br_2.dat user/major/scenery/ground/hang_br_2.srf user/major/scenery/ground/hang_br_2.srf 
+user/major/scenery/ground/hang_br_o.dat user/major/scenery/ground/hang_br_o.srf user/major/scenery/ground/hang_br_o.srf
+user/major/scenery/ground/hang_gr_o.dat user/major/scenery/ground/hang_gr_o.srf user/major/scenery/ground/hang_gr_o.srf 
+user/major/scenery/ground/hang_fld.dat user/major/scenery/ground/hang_fld.srf user/major/scenery/ground/hang_fld.srf 
+user/major/scenery/ground/lilboat.dat user/major/scenery/ground/lilboat.srf user/major/scenery/ground/lilboatcl.srf
+user/major/scenery/ground/palm1.dat user/major/scenery/ground/palm1.srf user/major/scenery/ground/palm1.srf
+user/major/scenery/ground/palm2.dat user/major/scenery/ground/palm2.srf user/major/scenery/ground/palm2.srf
+user/major/scenery/ground/lighthouse.dat user/major/scenery/ground/lighthouse.dnm user/major/scenery/ground/lighthousecl.srf "" user/major/scenery/ground/lhcrs.dnm
+user/major/scenery/ground/mark1.dat user/major/scenery/ground/mark1.srf user/major/scenery/ground/null.srf "" user/major/scenery/ground/mark1crs.srf
+user/major/scenery/ground/mark2.dat user/major/scenery/ground/mark2.srf user/major/scenery/ground/null.srf
+user/major/scenery/ground/sea.dat user/major/scenery/ground/sea.dnm user/major/scenery/ground/null.srf
+user/major/scenery/ground/mine100.dat user/major/scenery/ground/mine100.srf user/major/scenery/ground/minecoll.srf
+user/major/scenery/ground/mine75.dat user/major/scenery/ground/mine75.srf user/major/scenery/ground/minecoll.srf
+user/major/scenery/ground/mine50.dat user/major/scenery/ground/mine50.srf user/major/scenery/ground/minecoll.srf
+user/major/scenery/ground/jp_carr.dat user/major/scenery/ground/jp_carr.dnm user/major/scenery/ground/jp_carrcoll.srf "" user/major/scenery/ground/jp_carrcrs.srf
+user/major/scenery/ground/jp_batt.dat user/major/scenery/ground/jp_batt.dnm user/major/scenery/ground/jp_battcoll.srf "" user/major/scenery/ground/jp_battcrs.srf
+user/major/scenery/ground/jp_cruis.dat user/major/scenery/ground/jp_cruis.dnm user/major/scenery/ground/jp_cruiscoll.srf "" user/major/scenery/ground/jp_cruiscrs.srf
+user/major/scenery/ground/us_carr.dat user/major/scenery/ground/us_carr.dnm user/major/scenery/ground/us_carrcoll.srf "" user/major/scenery/ground/us_carrcrs.srf
+user/major/scenery/ground/us_cruis.dat user/major/scenery/ground/us_cruis.dnm user/major/scenery/ground/us_cruiscoll.srf "" user/major/scenery/ground/us_cruiscrs.srf
+user/major/scenery/ground/radio.dat user/major/scenery/ground/radio.srf user/major/scenery/ground/radio.srf
+user/major/scenery/ground/hellcat.dat user/major/scenery/ground/hellcat.dnm user/major/scenery/ground/hellcatcoll.srf
+user/major/scenery/ground/corsair.dat user/major/scenery/ground/corsair.dnm user/major/scenery/ground/corsaircoll.srf
+user/major/scenery/ground/zero.dat user/major/scenery/ground/zero.dnm user/major/scenery/ground/zerocoll.srf
+user/major/scenery/ground/99.dat user/major/scenery/ground/99.dnm user/major/scenery/ground/99coll.srf
+user/major/scenery/ground/whale.dat user/major/scenery/ground/whale.dnm user/major/scenery/ground/whalecoll.srf
+user/major/scenery/ground/dolphins.dat user/major/scenery/ground/dolphins.dnm user/major/scenery/ground/dolphcoll.srf
+user/major/scenery/ground/turtle.dat user/major/scenery/ground/turtle.srf user/major/scenery/ground/turtlecoll.srf
+user/major/scenery/ground/fish.dat user/major/scenery/ground/fish.srf user/major/scenery/ground/null.srf 
+user/major/scenery/ground/shark.dat user/major/scenery/ground/shark.srf user/major/scenery/ground/sharkcoll.srf
+user/major/scenery/ground/wreck.dat user/major/scenery/ground/wreck.dnm user/major/scenery/ground/wreckcoll.srf  
+user/major/scenery/ground/herc_flying.dat user/major/scenery/ground/herc_flying.dnm user/major/scenery/ground/herc_coll.srf "" user/major/scenery/ground/herc_flcrs.dnm 
+user/major/scenery/ground/herc_ground.dat user/major/scenery/ground/herc_ground.dnm user/major/scenery/ground/herc_coll.srf "" user/major/scenery/ground/herc_gdcrs.dnm 
+
+user/major/island/hut1.dat user/major/island/hut1.srf user/major/island/hut1.srf 
+user/major/island/palmtrees.dat user/major/island/palmtrees.srf user/major/island/palmtrees.srf 
+user/major/island/palmtrees2.dat user/major/island/palmtrees2.srf user/major/island/palmtrees2.srf 
+user/major/pirates/1/shipfight1.dat user/major/pirates/1/shipfight.dnm user/major/pirates/1/shipcoll1.srf
+user/major/pirates/1/shipmoored.dat user/major/pirates/1/shipmoored.dnm user/major/pirates/1/shipcoll1.srf
+user/major/island/bush2.dat user/major/island/bush2.srf user/major/island/null.srf
+user/major/island/woods.dat user/major/island/woods.srf user/major/island/null.srf
+user/major/island/woods2.dat user/major/island/woods2.srf user/major/island/null.srf
+user/major/island/woods3.dat user/major/island/woods3.srf user/major/island/null.srf
+
+user/major/formulays/ground/pole.dat user/major/formulays/ground/pole.srf user/major/formulays/ground/null.srf
+user/major/formulays/ground/flags.dat user/major/formulays/ground/flags.srf user/major/formulays/ground/null.srf
+user/major/formulays/ground/tunnellong.dat user/major/formulays/ground/tunnellong.srf user/major/formulays/ground/tunnellong.srf
+user/major/formulays/ground/gate.dat user/major/formulays/ground/gate.srf user/major/formulays/ground/gate_coll.srf
+user/major/formulays/ground/endblock.dat user/major/formulays/ground/endblock.srf user/major/formulays/ground/endblock.srf
+user/major/formulays/ground/tunnelbend.dat user/major/formulays/ground/tunnelbend.srf user/major/formulays/ground/tunnelbend.srf
+user/major/formulays/ground/stand.dat user/major/formulays/ground/stand.srf user/major/formulays/ground/stand_coll.srf
+user/major/formulays/ground/tunnel.dat user/major/formulays/ground/tunnel.srf user/major/formulays/ground/tunnel_coll.srf
+user/major/formulays/ground/polebig.dat user/major/formulays/ground/polebig.srf user/major/formulays/ground/polebig.srf
+user/major/formulays/ground/plane.dat user/major/formulays/ground/plane.srf user/major/formulays/ground/plane_coll.srf
+user/major/formulays/ground/lights.dat user/major/formulays/ground/lights.srf user/major/formulays/ground/lights_coll.srf
+user/major/formulays/ground/ab.dat user/major/formulays/ground/ab.srf user/major/formulays/ground/ab_coll.srf
+user/major/formulays/ground/noab.dat user/major/formulays/ground/noab.srf user/major/formulays/ground/noab_coll.srf
+user/major/formulays/ground/barrier.dat user/major/formulays/ground/barrier.srf user/major/formulays/ground/barrier_coll.srf
+user/major/formulays/ground/standshort.dat user/major/formulays/ground/standshort.srf user/major/formulays/ground/standshort_coll.srf
+
+user/battle/ground/bds1.dat user/battle/ground/bds1.srf user/battle/ground/bds1.srf
+user/battle/ground/bds2.dat user/battle/ground/bds2.srf user/battle/ground/bds2.srf
+user/battle/ground/bds3.dat user/battle/ground/bds3.srf user/battle/ground/bds3.srf
+user/battle/ground/bdb30.dat user/battle/ground/bdb30.srf user/battle/ground/bdb30.srf
+user/battle/ground/bdb60.dat user/battle/ground/bdb60.srf user/battle/ground/bdb60.srf
+user/battle/ground/bdb602.dat user/battle/ground/bdb602.srf user/battle/ground/bdb602.srf
+user/battle/ground/bdb90.dat user/battle/ground/bdb90.srf user/battle/ground/bdb90.srf
+user/battle/ground/hs1.dat user/battle/ground/hs1.srf user/battle/ground/hs1.srf
+user/battle/ground/hb2.dat user/battle/ground/hb2.srf user/battle/ground/hb2.srf
+user/battle/ground/hb1.dat user/battle/ground/hb1.srf user/battle/ground/hb1.srf
+user/battle/ground/tank1.dat user/battle/ground/tank1.dnm user/battle/ground/tankcoll.srf
+user/battle/ground/tank80.dat user/battle/ground/tank80.dnm user/battle/ground/tankcoll.srf
+User/battle/ground/oiltnk.dat User/battle/ground/oiltnk_main.srf User/battle/ground/oiltnk_coll.srf
+User/battle/ground/fuel_tank.dat User/battle/ground/fuel_tank.srf User/battle/ground/fueltank_coll.srf "" User/battle/ground/fueltank_crs.srf
+user/battle/ground/tankship1.dat user/battle/ground/tankship1.srf user/battle/ground/tankship_coll.srf 
+user/battle/ground/tankship.dat user/battle/ground/tankship.srf user/battle/ground/tankship_coll.srf
+user/battle/ground/pipe1k.dat user/battle/ground/pipe1k.srf user/battle/ground/pipe1k_coll.srf "" user/battle/ground/pipe1k_crs.srf 
+user/battle/ground/oilpump.dat user/battle/ground/oilpump.srf user/battle/ground/oilpump.srf 
+user/battle/ground/oilpump2.dat user/battle/ground/oilpump2.srf user/battle/ground/oilpump2.srf 
+user/battle/ground/oilrig.dat user/battle/ground/oilrig.dnm user/battle/ground/oilrig_coll.srf
+user/battle/ground/cloudsmall.dat user/battle/ground/cloudsmall.dnm user/battle/ground/cloudcoll.srf
+user/battle/ground/cloudmed.dat user/battle/ground/cloudmed.dnm user/battle/ground/cloudcoll.srf
+user/battle/ground/cloudbig.dat user/battle/ground/cloudbig.dnm user/battle/ground/cloudcoll.srf
+user/battle/ground/cloudverybig.dat user/battle/ground/cloudverybig.srf user/battle/ground/cloudcoll.srf
+user/battle/ground/cloud1med.dat user/battle/ground/cloud1med.srf user/battle/ground/cloudcoll.srf
+user/battle/ground/cloud1big.dat user/battle/ground/cloud1big.srf user/battle/ground/cloudcoll.srf
+user/battle/ground/cloudhuge.dat user/battle/ground/cloudhuge.srf user/battle/ground/cloudcoll.srf
+user/battle/ground/cloud2med.dat user/battle/ground/cloud2med.srf user/battle/ground/cloudcoll.srf
+user/battle/ground/cloud2big.dat user/battle/ground/cloud2big.srf user/battle/ground/cloudcoll.srf
+user/battle/ground/cloud1black.dat user/battle/ground/cloud1black.srf user/battle/ground/cloudcoll.srf
+user/battle/ground/cloud2black.dat user/battle/ground/cloud2black.srf user/battle/ground/cloudcoll.srf
+user/battle/ground/cloud3black.dat user/battle/ground/cloud3black.srf user/battle/ground/cloudcoll.srf
+user/battle/ground/smoke.dat user/battle/ground/smoke.dnm user/battle/ground/smokecoll.srf
+user/battle/ground/highcirrus.dat user/battle/ground/highcirrus.dnm user/battle/ground/cloudcoll.srf "" user/battle/ground/highcirrus_crs.dnm 
+user/battle/ground/shipr1.dat user/battle/ground/shipr1.srf user/battle/ground/shipcoll.srf
+user/battle/ground/shipr2.dat user/battle/ground/shipr2.srf user/battle/ground/shipcoll.srf
+user/battle/ground/shipb1.dat user/battle/ground/shipb1.srf user/battle/ground/shipcoll.srf
+user/battle/ground/shipb2.dat user/battle/ground/shipb2.srf user/battle/ground/shipcoll.srf
+user/battle/ground/runway.dat user/battle/ground/runway.srf user/battle/ground/rw_coll.srf
+user/battle/ground/tico.dat user/battle/ground/tico_visual.dnm user/battle/ground/tico_coll.srf
+user/battle/ground/cloudv1.dat user/battle/ground/cloudv1.srf user/battle/ground/cloudcoll.srf
+user/battle/ground/cloudv2.dat user/battle/ground/cloudv2.srf user/battle/ground/cloudcoll.srf
+user/battle/ground/orange.dat user/battle/ground/orange.dnm user/battle/ground/null.srf
+user/battle/ground/gipow.dat user/battle/ground/gipow.dnm user/battle/ground/mancoll.srf
+user/battle/ground/farmer.dat user/battle/ground/farmer.dnm user/battle/ground/mancoll.srf
+user/battle/ground/buffalo.dat user/battle/ground/buffalo.srf user/battle/ground/buffalocoll.srf
+user/battle/ground/vcbody.dat user/battle/ground/vcbody.dnm user/battle/ground/mancoll.srf
+user/battle/ground/vcstand.dat user/battle/ground/vcstand.dnm user/battle/ground/mancoll.srf
+user/battle/ground/gi_m60.dat user/battle/ground/gi_m60.dnm user/battle/ground/mancoll.srf
+user/battle/ground/gi_m16.dat user/battle/ground/gi_m16.dnm user/battle/ground/mancoll.srf
+user/battle/ground/viethut1.dat user/battle/ground/viethut1.srf user/battle/ground/viethutcoll.srf
+user/battle/ground/viethut2.dat user/battle/ground/viethut2.srf user/battle/ground/viethutcoll.srf
+user/battle/ground/palms1.dat user/battle/ground/palms1.srf user/battle/ground/palms1.srf
+user/battle/ground/palms2.dat user/battle/ground/palms2.srf user/battle/ground/palms2.srf
+user/battle/ground/huey.dat user/battle/ground/huey.srf user/battle/ground/hueycoll.srf
+
+User/major/vietnam/ground/kc130.dat User/major/vietnam/ground/kc130.dnm User/major/vietnam/ground/c130cl.srf "" User/major/vietnam/ground/kc130crs.srf
+User/major/vietnam/ground/ka3b.dat User/major/vietnam/ground/ka3b.srf User/major/vietnam/ground/ka3bcl.srf "" User/major/vietnam/ground/ka3bcrs.srf
+User/major/vietnam/ground/aaanull.dat User/major/vietnam/ground/aaanull.srf User/major/vietnam/ground/coll.srf
+User/major/vietnam/ground/samnull.dat User/major/vietnam/ground/samnull.srf User/major/vietnam/ground/coll.srf
+User/major/vietnam/ground/loc.dat User/major/vietnam/ground/loc.srf User/major/vietnam/ground/loccoll.srf
+User/major/vietnam/ground/wagon.dat User/major/vietnam/ground/wagon.srf User/major/vietnam/ground/wagoncoll.srf
+User/major/vietnam/ground/wagon2.dat User/major/vietnam/ground/wagon2.srf User/major/vietnam/ground/wagoncoll.srf
+
+User/major/afghanistan/groundafgh/shop_evil.dat User/major/afghanistan/groundafgh/shop_evil.srf User/major/afghanistan/groundafgh/shop_evil.srf
+User/major/afghanistan/groundafgh/sfc_evil.dat User/major/afghanistan/groundafgh/sfc_evil.srf User/major/afghanistan/groundafgh/sfc_evil.srf
+User/major/afghanistan/groundafgh/parked_ah64.dat User/major/afghanistan/groundafgh/parked_ah64.dnm User/major/afghanistan/groundafgh/parked_ah64coll.srf
+User/major/afghanistan/groundafgh/su24.dat User/major/afghanistan/groundafgh/su24.dnm User/major/afghanistan/groundafgh/su24cl.srf 
+User/major/afghanistan/groundafgh/su25.dat User/major/afghanistan/groundafgh/su25.dnm User/major/afghanistan/groundafgh/su25coll.srf
+User/major/afghanistan/groundafgh/mi24.dat User/major/afghanistan/groundafgh/mi24p.dnm User/major/afghanistan/groundafgh/mi24coll.srf
+user/major/afghanistan/groundafgh/tf58/parked_c130.dat user/major/afghanistan/groundafgh/tf58/parked_c130.srf user/major/afghanistan/groundafgh/tf58/parked_c130coll.srf
+user/major/afghanistan/groundafgh/tf58/parked_f16.dat user/major/afghanistan/groundafgh/tf58/parked_f16.srf user/major/afghanistan/groundafgh/tf58/parked_f16coll.srf
+User/major/afghanistan/groundafgh/2chGAC/Il-76MD_RUSSIA.dat User/major/afghanistan/groundafgh/2chGAC/Il-76MD_RUSSIA.dnm User/major/afghanistan/groundafgh/2chGAC/a50cl.srf
+User/major/afghanistan/groundafgh/2chGAC/APC_BMP-3_RUSSIA.dat User/major/afghanistan/groundafgh/2chGAC/APC_BMP-3_RUSSIA.dnm User/major/afghanistan/groundafgh/2chGAC/bmp3cl.srf 
+User/major/afghanistan/groundafgh/2chGAC/APC_BTR-80A_RUSSIA.dat User/major/afghanistan/groundafgh/2chGAC/APC_BTR-80A_RUSSIA.dnm User/major/afghanistan/groundafgh/2chGAC/btr80cl.srf 
+User/major/afghanistan/groundafgh/2chGAC/APC_M2A2_USA.dat User/major/afghanistan/groundafgh/2chGAC/APC_M2A2_USA.dnm User/major/afghanistan/groundafgh/2chGAC/m2a2cl.srf
+User/major/afghanistan/groundafgh/2chGAC/SP_HMMWV_USA.dat User/major/afghanistan/groundafgh/2chGAC/SP_HMMWV_USA.dnm User/major/afghanistan/groundafgh/2chGAC/hmvcl.srf 
+User/major/afghanistan/groundafgh/2chGAC/Tu-154M_CIV.dat User/major/afghanistan/groundafgh/2chGAC/Tu-154M_CIV.dnm User/major/afghanistan/groundafgh/2chGAC/tu154cl.srf
+User/major/afghanistan/groundafgh/maru/sol_sovi.dat User/major/afghanistan/groundafgh/maru/sol_sovi.dnm User/major/afghanistan/groundafgh/maru/sol_coll.srf 
+User/major/afghanistan/groundafgh/maru/sol_army1.dat User/major/afghanistan/groundafgh/maru/sol_army1.dnm User/major/afghanistan/groundafgh/maru/sol_coll.srf 
+User/major/afghanistan/groundafgh/maru/sol_army2.dat User/major/afghanistan/groundafgh/maru/sol_army2.dnm User/major/afghanistan/groundafgh/maru/sol_coll.srf 
+User/major/afghanistan/groundafgh/maru/sol_army3.dat User/major/afghanistan/groundafgh/maru/sol_army3.dnm User/major/afghanistan/groundafgh/maru/sol_coll.srf 
+User/major/afghanistan/groundafgh/maru/sol_army4.dat User/major/afghanistan/groundafgh/maru/sol_army4.dnm User/major/afghanistan/groundafgh/maru/sol_coll.srf
+User/major/afghanistan/groundafgh/maru/sol_jgsdf.dat User/major/afghanistan/groundafgh/maru/sol_jgsdf.dnm User/major/afghanistan/groundafgh/maru/sol_coll.srf 
+User/major/afghanistan/groundafgh/maru/sol_jgsdf_at.dat User/major/afghanistan/groundafgh/maru/sol_jgsdf_at.dnm User/major/afghanistan/groundafgh/maru/sol_coll.srf
+User/major/afghanistan/groundafgh/maru/sol_vet.dat User/major/afghanistan/groundafgh/maru/sol_vet.dnm User/major/afghanistan/groundafgh/maru/sol_coll.srf 
+
+user/major/challenge/ground/fufanl/torreww1al.dat user/major/challenge/ground/fufanl/torreww1al.srf user/major/challenge/ground/fufanl/torreww1al.srf
+user/major/challenge/ground/fufanl/bunker.dat user/major/challenge/ground/fufanl/bunker.srf user/major/challenge/ground/fufanl/bunker.srf
+user/major/challenge/ground/fufanl/hangard_1.dat user/major/challenge/ground/fufanl/hangard_1.srf user/major/challenge/ground/fufanl/hangard_1.srf
+user/major/challenge/ground/fufanl/hangard_2.dat user/major/challenge/ground/fufanl/hangard_2.srf user/major/challenge/ground/fufanl/hangard_2.srf
+user/major/challenge/ground/fufanl/can_contr2.dat user/major/challenge/ground/fufanl/can_contr2.srf user/major/challenge/ground/fufanl/can_contr.srf
+User/major/challenge/ground/shop_evil.dat User/major/challenge/ground/shop_evil.srf User/major/challenge/ground/shop_evil.srf
+User/major/challenge/ground/sfc_evil.dat User/major/challenge/ground/sfc_evil.srf User/major/challenge/ground/sfc_evil.srf
+User/major/challenge/ground/oh6black.dat User/major/challenge/ground/oh6black.dnm User/major/challenge/ground/oh6_coll.srf 
+User/major/challenge/ground/realism/mi24.dat User/major/challenge/ground/realism/mi24p.dnm User/major/challenge/ground/realism/mi24coll.srf
+User/major/challenge/ground/realism/av8b.dat User/major/ground/realism/av8b.dnm User/major/challenge/ground/realism/av8b_coll.srf 
+User/major/challenge/ground/hang1.dat User/major/challenge/ground/hang1.srf User/major/challenge/ground/hang1.srf "" user/major/challenge/ground/hang1_coarse.srf
+User/major/challenge/ground/hang2.dat User/major/challenge/ground/hang2.srf User/major/challenge/ground/hang2.srf 
+User/major/challenge/ground/hang3.dat User/major/challenge/ground/hang3.srf User/major/challenge/ground/hang3.srf "" user/major/challenge/ground/hang3_coarse.srf
+User/major/challenge/ground/hang4.dat User/major/challenge/ground/hang4.srf User/major/challenge/ground/hang4.srf 
+User/major/challenge/ground/hang.dat User/major/challenge/ground/hang.srf User/major/challenge/ground/hang.srf "" user/major/challenge/ground/hang_coarse.srf
+User/major/challenge/ground/hng01.dat User/major/challenge/ground/hng01.srf User/major/challenge/ground/hng01.srf "" user/major/challenge/ground/hng01_coarse.srf
+User/major/challenge/ground/hang1_2.dat User/major/challenge/ground/hang1_2.srf User/major/challenge/ground/hang1_2.srf
+User/major/challenge/ground/hng02.dat User/major/challenge/ground/hng02.srf User/major/challenge/ground/hng02.srf "" user/major/challenge/ground/hng02_coarse.srf
+User/major/challenge/ground/towr1.dat User/major/challenge/ground/towr1.srf User/major/challenge/ground/towr1.srf 
+User/major/challenge/ground/hrdshelter.dat User/major/challenge/ground/hrdshelter.srf User/major/challenge/ground/hrdshelter.srf
+
+user/major/iwo_jima/iwoground/tf58/m4a1.dat user/major/iwo_jima/iwoground/tf58/m4a1.dnm user/major/iwo_jima/iwoground/tf58/m4a3_coll.srf user/major/iwo_jima/iwoground/tf58/blank.srf
+user/major/iwo_jima/iwoground/2ch/fence.dat user/major/iwo_jima/iwoground/2ch/fence_main.srf user/major/iwo_jima/iwoground/2ch/fence_coll.srf "" user/major/iwo_jima/iwoground/2ch/fence_coarse.srf
+user/major/iwo_jima/iwoground/fufanl/torreww1al.dat user/major/iwo_jima/iwoground/fufanl/torreww1al.srf user/major/iwo_jima/iwoground/fufanl/torreww1al.srf
+user/major/iwo_jima/iwoground/fufanl/garage01.dat user/major/iwo_jima/iwoground/fufanl/garage01.srf user/major/iwo_jima/iwoground/fufanl/garage01.srf
+user/major/iwo_jima/iwoground/fufanl/bunker.dat user/major/iwo_jima/iwoground/fufanl/bunker.srf user/major/iwo_jima/iwoground/fufanl/bunker.srf
+user/major/iwo_jima/iwoground/fufanl/bunker_c.dat user/major/iwo_jima/iwoground/fufanl/bunker_c.srf user/major/iwo_jima/iwoground/fufanl//bunker_c.srf
+user/major/iwo_jima/iwoground/fufanl/hangard_1.dat user/major/iwo_jima/iwoground/fufanl/hangard_1.srf user/major/iwo_jima/iwoground/fufanl/hangard_1.srf
+user/major/iwo_jima/iwoground/fufanl/hangard_2.dat user/major/iwo_jima/iwoground/fufanl/hangard_2.srf user/major/iwo_jima/iwoground/fufanl/hangard_2.srf
+user/major/iwo_jima/iwoground/fufanl/contr1.dat user/major/iwo_jima/iwoground/fufanl/contr1.srf user/major/iwo_jima/iwoground/fufanl/contr1.srf
+user/major/iwo_jima/iwoground/fufanl/can_contr.dat user/major/iwo_jima/iwoground/fufanl/can_contr.srf user/major/iwo_jima/iwoground/fufanl/can_contr.srf
+user/major/iwo_jima/iwoground/fufanl/can_contr1.dat user/major/iwo_jima/iwoground/fufanl/can_contr1.srf user/major/iwo_jima/iwoground/fufanl/can_contr.srf
+user/major/iwo_jima/iwoground/fufanl/can_contr2.dat user/major/iwo_jima/iwoground/fufanl/can_contr2.srf user/major/iwo_jima/iwoground/fufanl/can_contr.srf
+
+user/major/naval/kzs/kuznetsov.dat user/major/naval/kzs/kuznetsov.dnm user/major/naval/kzs/kuznetsov_coll.srf ** user/major/naval/kzs/kuznetsov_co.dnm
+user/major/naval/2ch/parked_mh60.dat user/major/naval/2ch/parked_mh60.dnm user/major/naval/2ch/uh60cl.srf 
+user/major/naval/2ch/flying_mh60.dat user/major/naval/2ch/flying_mh60.dnm user/major/naval/2ch/uh60cl.srf 
+user/major/naval/2ch/parked_ea6b.dat user/major/naval/2ch/parked_ea6b.dnm user/major/naval/2ch/ea6bcl.srf 
+user/major/naval/2ch/parked_f18e.dat user/major/naval/2ch/parked_f18e.dnm user/major/naval/2ch/f18ecl.srf 
+user/major/naval/2ch/parked_e2c.dat user/major/naval/2ch/parked_e2c.dnm user/major/naval/2ch/e2cl.srf 
+user/major/naval/2ch/parked_mig29k.dat user/major/naval/2ch/parked_mig29k.dnm user/major/naval/2ch/mig29coll.srf 
+user/major/naval/2ch/parked_su33.dat user/major/naval/2ch/parked_su33.dnm user/major/naval/2ch/su27coll.srf 
+user/major/naval/2ch/parked_su39.dat user/major/naval/2ch/parked_su39.dnm user/major/naval/2ch/su25coll.srf 
+user/major/naval/2ch/parked_ka29.dat user/major/naval/2ch/parked_ka29.dnm user/major/naval/2ch/ka29coll.srf 
+user/major/naval/2ch/flying_ka29.dat user/major/naval/2ch/flying_ka29.dnm user/major/naval/2ch/ka29coll.srf 
+user/major/naval/drums.dat user/major/naval/drums.srf user/major/naval/drumscoll.srf 
+user/major/naval/ground/airstrip.dat user/major/naval/ground/airstrip.srf user/major/naval/ground//airstripcoll.srf 
+user/major/naval/ground/pad.dat user/major/naval/ground/pad.srf user/major/naval/ground/padcoll.srf 
+user/major/naval/tent1.dat user/major/naval/tent1.dnm user/major/naval/tent1coll.srf 
+user/major/naval/tent2.dat user/major/naval/tent2.srf user/major/naval/tent2coll.srf 
+user/major/naval/radio.dat user/major/naval/radio.srf user/major/naval/radio.srf 
+user/major/naval/flag.dat user/major/naval/flag.dnm user/major/naval/flagcoll.srf 
+user/major/naval/ground/shipr1.dat user/major/naval/ground/shipr1.dnm user/major/naval/ground/shipcoll.srf 
+user/major/naval/ground/shipb1.dat user/major/naval/ground/shipb1.dnm user/major/naval/ground/shipcoll.srf 
+user/major/naval/2ch/navalsam.dat user/major/naval/2ch/navalsam.dnm user/major/naval/2ch/navalsamcl.srf 
+user/major/naval/2ch/navalaaa.dat user/major/naval/2ch/navalaaa.dnm user/major/naval/2ch/navalaaacl.srf 
+user/major/naval/2ch/radardome.dat user/major/naval/2ch/radardome.dnm user/major/naval/2ch/radardomecl.srf 

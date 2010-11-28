@@ -1,0 +1,12 @@
+三菱キ83試作戦闘機
+全長:12.50m
+全幅:15.50m
+全高: 4.60m
+自重:5,980kg
+最高速度:704km/h
+武装:30mm及び20mm機関砲各2
+生産機数4機(試作機のみ)
+
+aircraftフォルダの中のaircraft.lstに次の一行を追加して、上書き保存してください。
+
+user/oranleed/ki83/ki83.dat user/oranleed/ki83/ki83.dnm user/oranleed/ki83/ki83coll.srf user/oranleed/ki83/ki83cockpit.srf user/oranleed/ki83/ki83coarse.dnm

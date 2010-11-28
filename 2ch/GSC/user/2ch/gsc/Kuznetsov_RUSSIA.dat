@@ -1,0 +1,478 @@
+REM GACGLIMT 10
+REM GACRADRG 200
+REM GACRADCS 2
+REM GACECMRG 0
+REM GACAEWTR 0
+REM GACAEWRC 1
+REM GACLNDNV 2
+REM GACLIMIT 2
+REM GACSNDCH 0
+REM GACRCVCH 3 4 7 8
+REM GACRADSD 3.14
+REM GACRADEL 1
+
+IDENTIFY "RU_Admiral_Kuznetsov"
+CATEGORY UTILITY
+AFTBURNR FALSE              #HAVE AFTERBURNER?
+PROPELLR 100000HP             #PROPELLER ENGINE
+PROPEFCY 0.15                #Propeller efficiency
+WEIGHCLN 10000t             #WEIGHT CLEAN
+WEIGFUEL  0.1t                #WEIGHT OF FUEL
+WEIGLOAD  10000000000.0t               #WEIGHT OF PAYLOAD
+FUELABRN 0.00001kg                #FUEL CONSUMPTION WHEN USING AFTERBURNER
+FUELMILI 0.00001kg                #FUEL CONSUMPTION AT MILITARY POWER
+GUNSIGHT FALSE
+THRSTREV 0.6                 #EFFICIENCY OF THRUST REVERSER
+
+COCKPITP 23.17m 19.11m 6.33m  
+EXCAMERA "SSM" 0m  400m  10000m 0deg -90deg 0deg OUTSIDE
+LEFTGEAR -15.0m -5.1m -15.0m    
+RIGHGEAR  15.0m -5.1m -15.0m     
+WHELGEAR  0.0m -5.1m 15.0m
+ARRESTER  0.0m 0m 0m
+GUNDIREC  0.0m 0.0m 0.0m     #MACHINE GUN DIRECTION
+SMOKEGEN 0.00m 0m -0m  #SMOKE GENERATOR POSITION
+VAPORPO0  0m  0m 0m  #VAPOR POSITION (Wings Swept Back or no-VGW)
+VAPORPO1  0m  0m 0m  #VAPOR POSITION (Wings Spread)
+HTRADIUS  170m                #OUTSIDE SPHERE RADIUS
+RADARCRS 2
+
+TRIGGER1 GUN
+TRIGGER2 AAM
+TRIGGER3 AGM
+TRIGGER4 SMK
+STRENGTH 360
+
+CRITAOAP 0deg 
+CRITAOAM 0deg
+  
+CRITSPED 16kt
+MAXSPEED 29kt
+
+HASSPOIL FALSE                 #HAS SPOILER?
+RETRGEAR FALSE                 #HAS RETRACTABLE LANDING GEAR?
+VARGEOMW FALSE                #HAS VARIABLE GEOMETRY WING?
+
+CLVARGEO 0                  #EFFECT OF VARIABLE GEOMETRY WING FOR Cl
+CDVARGEO 0                  #EFFECT OF VARIABLE GEOMETRY WING FOR Cd
+CLBYFLAP 0                  #EFFECT OF FLAP FOR Cl
+CDBYFLAP 0                  #EFFECT OF FLAP FOR Cd
+CDBYGEAR 0                  #EFFECT OF GEAR FOR Cd
+CDSPOILR 0                  #EFFECT OF SPOILER FOR Cd
+
+WINGAREA 1m^2                #WING AREA
+
+MXIPTAOA 0.01deg  
+MXIPTSSA 5deg
+MXIPTROL 0.01deg
+
+BMBAYRCS 1.0
+BOMINBAY FALSE
+
+REM CPITMANE corresponds to Spring Constant K
+REM CPITSTAB corresponds to Damper Constant B
+REM To be critically damped, B=2*sqrt(K)
+REM 2% Settling Time=??
+
+MANESPD1 15kt
+MANESPD2 29kt  
+CPITMANE 0
+CPITSTAB 60  
+CYAWMANE 0.9 
+CYAWSTAB 6.2 
+CROLLMAN 50
+
+CTLLDGEA FALSE              
+CTLBRAKE FALSE
+CTLSPOIL 0.0
+CTLABRNR FALSE    
+CTLTHROT 0.0      
+CTLIFLAP 0.0       
+CTLINVGW 0.0        
+CTLATVGW FALSE
+
+POSITION 0m 3ft 0m           #POSITION
+ATTITUDE 45deg 0deg 0deg      #ATTITUDE
+INITFUEL 75%                  #INITIAL FUEL
+INITLOAD 0.0t                 #INITIAL PAYLOAD
+INITSPED 0.0MACH              #INITIAL SPEED
+
+HRDPOINT 0m 1000m 30000m B500
+HRDPOINT 0m 1000m 30000m B500
+HRDPOINT 0m 1000m 30000m B500
+HRDPOINT 0m 1000m 30000m B500
+HRDPOINT 0m 1000m 30000m B500
+HRDPOINT 0m 1000m 30000m B500
+HRDPOINT 0m 1000m 30000m B500
+HRDPOINT 0m 1000m 30000m B500
+HRDPOINT 0m 1000m 30000m B500
+HRDPOINT 0m 1000m 30000m B500
+HRDPOINT 0m 1000m 30000m B500
+HRDPOINT 0m 1000m 30000m B500
+
+HRDPOINT 18.43e9m -7.41e9m -68.93e9m AIM120
+HRDPOINT -18.43e9m -7.41e9m -68.41e9m AIM120
+HRDPOINT 20.52e9m -7.41e9m -67.63e9m AIM120
+HRDPOINT -20.39e9m -7.41e9m -67.11e9m AIM120
+HRDPOINT 18.43e9m -7.41e9m -65.69e9m AIM120
+HRDPOINT -18.53e9m -7.41e9m -65.84e9m AIM120
+HRDPOINT 20.52e9m -7.41e9m -64.24e9m AIM120
+HRDPOINT -20.39e9m -7.41e9m -64.57e9m AIM120
+HRDPOINT 18.51e9m -7.41e9m -63.83e9m AIM120
+HRDPOINT -18.38e9m -7.41e9m -63.16e9m AIM120
+HRDPOINT 20.52e9m -7.41e9m -62.49e9m AIM120
+HRDPOINT -20.47e9m -7.41e9m -62.47e9m AIM120
+HRDPOINT 25.63e9m -7.41e9m 107.47e9m AIM120
+HRDPOINT -24.37e9m -7.41e9m 107.47e9m AIM120
+HRDPOINT 23.66e9m -7.41e9m 108.72e9m AIM120
+HRDPOINT -22.4e9m -7.41e9m 108.72e9m AIM120
+HRDPOINT 25.63e9m -7.41e9m 110.07e9m AIM120
+HRDPOINT -24.37e9m -7.41e9m 110.07e9m AIM120
+HRDPOINT 23.66e9m -7.41e9m 111.41e9m AIM120
+HRDPOINT -22.4e9m -7.41e9m 111.41e9m AIM120
+HRDPOINT 25.63e9m -7.41e9m 112.58e9m AIM120
+HRDPOINT -24.37e9m -7.41e9m 112.58e9m AIM120
+HRDPOINT 23.66e9m -7.41e9m 114.01e9m AIM120
+HRDPOINT -22.4e9m -7.41e9m 114.01e9m AIM120
+
+HRDPOINT 18.43e9m -7.41e9m -68.93e9m AIM120
+HRDPOINT -18.43e9m -7.41e9m -68.41e9m AIM120
+HRDPOINT 20.52e9m -7.41e9m -67.63e9m AIM120
+HRDPOINT -20.39e9m -7.41e9m -67.11e9m AIM120
+HRDPOINT 18.43e9m -7.41e9m -65.69e9m AIM120
+HRDPOINT -18.53e9m -7.41e9m -65.84e9m AIM120
+HRDPOINT 20.52e9m -7.41e9m -64.24e9m AIM120
+HRDPOINT -20.39e9m -7.41e9m -64.57e9m AIM120
+HRDPOINT 18.51e9m -7.41e9m -63.83e9m AIM120
+HRDPOINT -18.38e9m -7.41e9m -63.16e9m AIM120
+HRDPOINT 20.52e9m -7.41e9m -62.49e9m AIM120
+HRDPOINT -20.47e9m -7.41e9m -62.47e9m AIM120
+HRDPOINT 25.63e9m -7.41e9m 107.47e9m AIM120
+HRDPOINT -24.37e9m -7.41e9m 107.47e9m AIM120
+HRDPOINT 23.66e9m -7.41e9m 108.72e9m AIM120
+HRDPOINT -22.4e9m -7.41e9m 108.72e9m AIM120
+HRDPOINT 25.63e9m -7.41e9m 110.07e9m AIM120
+HRDPOINT -24.37e9m -7.41e9m 110.07e9m AIM120
+HRDPOINT 23.66e9m -7.41e9m 111.41e9m AIM120
+HRDPOINT -22.4e9m -7.41e9m 111.41e9m AIM120
+HRDPOINT 25.63e9m -7.41e9m 112.58e9m AIM120
+HRDPOINT -24.37e9m -7.41e9m 112.58e9m AIM120
+HRDPOINT 23.66e9m -7.41e9m 114.01e9m AIM120
+HRDPOINT -22.4e9m -7.41e9m 114.01e9m AIM120
+
+HRDPOINT 18.43e9m -7.41e9m -68.93e9m AIM120
+HRDPOINT -18.43e9m -7.41e9m -68.41e9m AIM120
+HRDPOINT 20.52e9m -7.41e9m -67.63e9m AIM120
+HRDPOINT -20.39e9m -7.41e9m -67.11e9m AIM120
+HRDPOINT 18.43e9m -7.41e9m -65.69e9m AIM120
+HRDPOINT -18.53e9m -7.41e9m -65.84e9m AIM120
+HRDPOINT 20.52e9m -7.41e9m -64.24e9m AIM120
+HRDPOINT -20.39e9m -7.41e9m -64.57e9m AIM120
+HRDPOINT 18.51e9m -7.41e9m -63.83e9m AIM120
+HRDPOINT -18.38e9m -7.41e9m -63.16e9m AIM120
+HRDPOINT 20.52e9m -7.41e9m -62.49e9m AIM120
+HRDPOINT -20.47e9m -7.41e9m -62.47e9m AIM120
+HRDPOINT 25.63e9m -7.41e9m 107.47e9m AIM120
+HRDPOINT -24.37e9m -7.41e9m 107.47e9m AIM120
+HRDPOINT 23.66e9m -7.41e9m 108.72e9m AIM120
+HRDPOINT -22.4e9m -7.41e9m 108.72e9m AIM120
+HRDPOINT 25.63e9m -7.41e9m 110.07e9m AIM120
+HRDPOINT -24.37e9m -7.41e9m 110.07e9m AIM120
+HRDPOINT 23.66e9m -7.41e9m 111.41e9m AIM120
+HRDPOINT -22.4e9m -7.41e9m 111.41e9m AIM120
+HRDPOINT 25.63e9m -7.41e9m 112.58e9m AIM120
+HRDPOINT -24.37e9m -7.41e9m 112.58e9m AIM120
+HRDPOINT 23.66e9m -7.41e9m 114.01e9m AIM120
+HRDPOINT -22.4e9m -7.41e9m 114.01e9m AIM120
+
+HRDPOINT 18.43e9m -7.41e9m -68.93e9m AIM120
+HRDPOINT -18.43e9m -7.41e9m -68.41e9m AIM120
+HRDPOINT 20.52e9m -7.41e9m -67.63e9m AIM120
+HRDPOINT -20.39e9m -7.41e9m -67.11e9m AIM120
+HRDPOINT 18.43e9m -7.41e9m -65.69e9m AIM120
+HRDPOINT -18.53e9m -7.41e9m -65.84e9m AIM120
+HRDPOINT 20.52e9m -7.41e9m -64.24e9m AIM120
+HRDPOINT -20.39e9m -7.41e9m -64.57e9m AIM120
+HRDPOINT 18.51e9m -7.41e9m -63.83e9m AIM120
+HRDPOINT -18.38e9m -7.41e9m -63.16e9m AIM120
+HRDPOINT 20.52e9m -7.41e9m -62.49e9m AIM120
+HRDPOINT -20.47e9m -7.41e9m -62.47e9m AIM120
+HRDPOINT 25.63e9m -7.41e9m 107.47e9m AIM120
+HRDPOINT -24.37e9m -7.41e9m 107.47e9m AIM120
+HRDPOINT 23.66e9m -7.41e9m 108.72e9m AIM120
+HRDPOINT -22.4e9m -7.41e9m 108.72e9m AIM120
+HRDPOINT 25.63e9m -7.41e9m 110.07e9m AIM120
+HRDPOINT -24.37e9m -7.41e9m 110.07e9m AIM120
+HRDPOINT 23.66e9m -7.41e9m 111.41e9m AIM120
+HRDPOINT -22.4e9m -7.41e9m 111.41e9m AIM120
+HRDPOINT 25.63e9m -7.41e9m 112.58e9m AIM120
+HRDPOINT -24.37e9m -7.41e9m 112.58e9m AIM120
+HRDPOINT 23.66e9m -7.41e9m 114.01e9m AIM120
+HRDPOINT -22.4e9m -7.41e9m 114.01e9m AIM120
+
+HRDPOINT 18.43e9m -7.41e9m -68.93e9m AIM120
+HRDPOINT -18.43e9m -7.41e9m -68.41e9m AIM120
+HRDPOINT 20.52e9m -7.41e9m -67.63e9m AIM120
+HRDPOINT -20.39e9m -7.41e9m -67.11e9m AIM120
+HRDPOINT 18.43e9m -7.41e9m -65.69e9m AIM120
+HRDPOINT -18.53e9m -7.41e9m -65.84e9m AIM120
+HRDPOINT 20.52e9m -7.41e9m -64.24e9m AIM120
+HRDPOINT -20.39e9m -7.41e9m -64.57e9m AIM120
+HRDPOINT 18.51e9m -7.41e9m -63.83e9m AIM120
+HRDPOINT -18.38e9m -7.41e9m -63.16e9m AIM120
+HRDPOINT 20.52e9m -7.41e9m -62.49e9m AIM120
+HRDPOINT -20.47e9m -7.41e9m -62.47e9m AIM120
+HRDPOINT 25.63e9m -7.41e9m 107.47e9m AIM120
+HRDPOINT -24.37e9m -7.41e9m 107.47e9m AIM120
+HRDPOINT 23.66e9m -7.41e9m 108.72e9m AIM120
+HRDPOINT -22.4e9m -7.41e9m 108.72e9m AIM120
+HRDPOINT 25.63e9m -7.41e9m 110.07e9m AIM120
+HRDPOINT -24.37e9m -7.41e9m 110.07e9m AIM120
+HRDPOINT 23.66e9m -7.41e9m 111.41e9m AIM120
+HRDPOINT -22.4e9m -7.41e9m 111.41e9m AIM120
+HRDPOINT 25.63e9m -7.41e9m 112.58e9m AIM120
+HRDPOINT -24.37e9m -7.41e9m 112.58e9m AIM120
+HRDPOINT 23.66e9m -7.41e9m 114.01e9m AIM120
+HRDPOINT -22.4e9m -7.41e9m 114.01e9m AIM120
+
+HRDPOINT 18.43e9m -7.41e9m -68.93e9m AIM120
+HRDPOINT -18.43e9m -7.41e9m -68.41e9m AIM120
+HRDPOINT 20.52e9m -7.41e9m -67.63e9m AIM120
+HRDPOINT -20.39e9m -7.41e9m -67.11e9m AIM120
+HRDPOINT 18.43e9m -7.41e9m -65.69e9m AIM120
+HRDPOINT -18.53e9m -7.41e9m -65.84e9m AIM120
+HRDPOINT 20.52e9m -7.41e9m -64.24e9m AIM120
+HRDPOINT -20.39e9m -7.41e9m -64.57e9m AIM120
+HRDPOINT 18.51e9m -7.41e9m -63.83e9m AIM120
+HRDPOINT -18.38e9m -7.41e9m -63.16e9m AIM120
+HRDPOINT 20.52e9m -7.41e9m -62.49e9m AIM120
+HRDPOINT -20.47e9m -7.41e9m -62.47e9m AIM120
+HRDPOINT 25.63e9m -7.41e9m 107.47e9m AIM120
+HRDPOINT -24.37e9m -7.41e9m 107.47e9m AIM120
+HRDPOINT 23.66e9m -7.41e9m 108.72e9m AIM120
+HRDPOINT -22.4e9m -7.41e9m 108.72e9m AIM120
+HRDPOINT 25.63e9m -7.41e9m 110.07e9m AIM120
+HRDPOINT -24.37e9m -7.41e9m 110.07e9m AIM120
+HRDPOINT 23.66e9m -7.41e9m 111.41e9m AIM120
+HRDPOINT -22.4e9m -7.41e9m 111.41e9m AIM120
+HRDPOINT 25.63e9m -7.41e9m 112.58e9m AIM120
+HRDPOINT -24.37e9m -7.41e9m 112.58e9m AIM120
+HRDPOINT 23.66e9m -7.41e9m 114.01e9m AIM120
+HRDPOINT -22.4e9m -7.41e9m 114.01e9m AIM120
+
+HRDPOINT 18.43e9m -7.41e9m -68.93e9m AIM120
+HRDPOINT -18.43e9m -7.41e9m -68.41e9m AIM120
+HRDPOINT 20.52e9m -7.41e9m -67.63e9m AIM120
+HRDPOINT -20.39e9m -7.41e9m -67.11e9m AIM120
+HRDPOINT 18.43e9m -7.41e9m -65.69e9m AIM120
+HRDPOINT -18.53e9m -7.41e9m -65.84e9m AIM120
+HRDPOINT 20.52e9m -7.41e9m -64.24e9m AIM120
+HRDPOINT -20.39e9m -7.41e9m -64.57e9m AIM120
+HRDPOINT 18.51e9m -7.41e9m -63.83e9m AIM120
+HRDPOINT -18.38e9m -7.41e9m -63.16e9m AIM120
+HRDPOINT 20.52e9m -7.41e9m -62.49e9m AIM120
+HRDPOINT -20.47e9m -7.41e9m -62.47e9m AIM120
+HRDPOINT 25.63e9m -7.41e9m 107.47e9m AIM120
+HRDPOINT -24.37e9m -7.41e9m 107.47e9m AIM120
+HRDPOINT 23.66e9m -7.41e9m 108.72e9m AIM120
+HRDPOINT -22.4e9m -7.41e9m 108.72e9m AIM120
+HRDPOINT 25.63e9m -7.41e9m 110.07e9m AIM120
+HRDPOINT -24.37e9m -7.41e9m 110.07e9m AIM120
+HRDPOINT 23.66e9m -7.41e9m 111.41e9m AIM120
+HRDPOINT -22.4e9m -7.41e9m 111.41e9m AIM120
+HRDPOINT 25.63e9m -7.41e9m 112.58e9m AIM120
+HRDPOINT -24.37e9m -7.41e9m 112.58e9m AIM120
+HRDPOINT 23.66e9m -7.41e9m 114.01e9m AIM120
+HRDPOINT -22.4e9m -7.41e9m 114.01e9m AIM120
+
+
+MAXNMRKT 0
+LMTBYHDP TRUE
+INITIGUN 0
+LOADWEPN AIM120 192
+LOADWEPN B500 12
+LOADWEPN RKT 0
+
+AAMVISIB FALSE
+AGMVISIB FALSE
+RKTVISIB FALSE
+BOMVISIB FALSE
+
+NMTURRET 14
+REM GSCRAMAM 0 48
+REM GSCRAMAM 1 48
+REM GSCRAMAM 2 48
+REM GSCRAMAM 3 48
+REM GSCRAMAM 4 48
+REM GSCRAMAM 5 48
+REM GSCRAMAM 6 48
+REM GSCRAMAM 7 48
+
+TURRETPO 0 -18.93m 8.2m 80.5m 90deg 0deg 0deg      # Number x y z h p b
+TURRETPT 0 -5deg 89deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 0 -96deg 26deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 0 100000                              # Ammo
+TURRETIV 0 0.01sec                           # Number ShootingInterval
+TURRETNP 0 00061
+TURRETNH 0 00051 
+TURRETAR 0                                   # Anti Air Capable
+TURRETCT 0 GUNNER                             # Controlled by the pilot
+TURRETRG 0 2500m
+
+TURRETPO 1 -18.93m 8.2m 73.37m 90deg 0deg 0deg      # Number x y z h p b
+TURRETPT 1 -5deg 89deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 1 -38deg 38deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 1 100000                              # Ammo
+TURRETIV 1 0.01sec                           # Number ShootingInterval
+TURRETNP 1 00062
+TURRETNH 1 00052 
+TURRETAR 1                                   # Anti Air Capable
+TURRETCT 1 GUNNER                             # Controlled by the pilot
+TURRETRG 1 2500m
+
+TURRETPO 2 -24.18m 8.2m -119.97m 90deg 0deg 0deg      # Number x y z h p b
+TURRETPT 2 -5deg 89deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 2 -38deg 38deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 2 100000                              # Ammo
+TURRETIV 2 0.01sec                           # Number ShootingInterval
+TURRETNP 2 00063
+TURRETNH 2 00053 
+TURRETAR 2                                   # Anti Air Capable
+TURRETCT 2 GUNNER                             # Controlled by the pilot
+TURRETRG 2 2500m
+
+TURRETPO 3 -24.18m 8.2m -127.18m 90deg 0deg 0deg      # Number x y z h p b
+TURRETPT 3 -5deg 89deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 3 -38deg 90deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 3 100000                              # Ammo
+TURRETIV 3 0.01sec                           # Number ShootingInterval
+TURRETNP 3 00064
+TURRETNH 3 00054 
+TURRETAR 3                                   # Anti Air Capable
+TURRETCT 3 GUNNER                             # Controlled by the pilot
+TURRETRG 3 2500m
+
+TURRETPO 4 18.93m 8.2m 80.56m -90deg 0deg 0deg      # Number x y z h p b
+TURRETPT 4 -5deg 89deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 4 -26deg 96deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 4 100000                              # Ammo
+TURRETIV 4 0.01sec                           # Number ShootingInterval
+TURRETNP 4 00065
+TURRETNH 4 00055 
+TURRETAR 4                                   # Anti Air Capable
+TURRETCT 4 GUNNER                             # Controlled by the pilot
+TURRETRG 4 2500m
+
+TURRETPO 5 18.93m 8.2m 73.37m -90deg 0deg 0deg      # Number x y z h p b
+TURRETPT 5 -5deg 89deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 5 -38deg 38deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 5 100000                              # Ammo
+TURRETIV 5 0.01sec                           # Number ShootingInterval
+TURRETNP 5 00066
+TURRETNH 5 00056 
+TURRETAR 5                                   # Anti Air Capable
+TURRETCT 5 GUNNER                             # Controlled by the pilot
+TURRETRG 5 2500m
+
+TURRETPO 6 23.22m 8.2m -120.35m -90deg 0deg 0deg      # Number x y z h p b
+TURRETPT 6 -5deg 89deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 6 -38deg 38deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 6 100000                              # Ammo
+TURRETIV 6 0.01sec                           # Number ShootingInterval
+TURRETNP 6 00067
+TURRETNH 6 00057 
+TURRETAR 6                                   # Anti Air Capable
+TURRETCT 6 GUNNER                             # Controlled by the pilot
+TURRETRG 6 2500m
+
+TURRETPO 7 23.22m 8.2m -127.18m -90deg 0deg 0deg      # Number x y z h p b
+TURRETPT 7 -5deg 89deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 7 -90deg 38deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 7 100000                              # Ammo
+TURRETIV 7 0.01sec                           # Number ShootingInterval
+TURRETNP 7 00068
+TURRETNH 7 00058 
+TURRETAR 7                                   # Anti Air Capable
+TURRETCT 7 GUNNER                             # Controlled by the pilot
+TURRETRG 7 2500m
+
+TURRETPO 8 -36.56m 9.64m 0.29m 90deg 0deg 0deg      # Number x y z h p b
+TURRETPT 8 -12deg 88deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 8 -86deg 58deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 8 100000                              # Ammo
+TURRETIV 8 0.02sec                           # Number ShootingInterval
+TURRETNP 8 00081
+TURRETNH 8 00071 
+TURRETAR 8                                   # Anti Air Capable
+TURRETCT 8 GUNNER                             # Controlled by the pilot
+TURRETRG 8 2000m
+
+TURRETPO 9 -36.56m 9.64m -4.12m 90deg 0deg 0deg      # Number x y z h p b
+TURRETPT 9 -12deg 88deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 9 -58deg 90deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 9 100000                              # Ammo
+TURRETIV 9 0.02sec                           # Number ShootingInterval
+TURRETNP 9 00082
+TURRETNH 9 00072 
+TURRETAR 9                                   # Anti Air Capable
+TURRETCT 9 GUNNER                             # Controlled by the pilot
+TURRETRG 9 2000m
+
+TURRETPO 10 -23.56m 4.7m -142.01m 90deg 0deg 0deg      # Number x y z h p b
+TURRETPT 10 -12deg 88deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 10 -21deg 90deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 10 100000                              # Ammo
+TURRETIV 10 0.02sec                           # Number ShootingInterval
+TURRETNP 10 00083
+TURRETNH 10 00073 
+TURRETAR 10                                   # Anti Air Capable
+TURRETCT 10 GUNNER                             # Controlled by the pilot
+TURRETRG 10 2000m
+
+TURRETPO 11 29.57m 10.20m -2.86m -90deg 0deg 0deg      # Number x y z h p b
+TURRETPT 11 -12deg 88deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 11 -58deg 90deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 11 100000                              # Ammo
+TURRETIV 11 0.02sec                           # Number ShootingInterval
+TURRETNP 11 00084
+TURRETNH 11 00074 
+TURRETAR 11                                   # Anti Air Capable
+TURRETCT 11 GUNNER                             # Controlled by the pilot
+TURRETRG 11 2000m
+
+TURRETPO 12 29.57m 10.20m -6.89m -90deg 0deg 0deg      # Number x y z h p b
+TURRETPT 12 -12deg 88deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 12 -90deg 58deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 12 100000                              # Ammo
+TURRETIV 12 0.02sec                           # Number ShootingInterval
+TURRETNP 12 00085
+TURRETNH 12 00075 
+TURRETAR 12                                   # Anti Air Capable
+TURRETCT 12 GUNNER                             # Controlled by the pilot
+TURRETRG 12 2000m
+
+TURRETPO 13 21.34m 4.7m -142.01m -90deg 0deg 0deg      # Number x y z h p b
+TURRETPT 13 -12deg 88deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 13 -90deg 21deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 13 100000                              # Ammo
+TURRETIV 13 0.02sec                           # Number ShootingInterval
+TURRETNP 13 00086
+TURRETNH 13 00076 
+TURRETAR 13                                   # Anti Air Capable
+TURRETCT 13 GUNNER                             # Controlled by the pilot
+TURRETRG 13 2000m
+
+
+
+REM ClZero,CdZero is fixed by Cruising condition
+REFVCRUS 25kt              #CRUISING SPEED
+REFACRUS 50ft              #CRUISING ALTITUDE
+REFTCRUS 0.0                  #CRUISING THROTTLE SETTING
+
+REM ClSlope,CdConst is fixed by Landing condition
+REFVLAND 18kt                #LANDING SPEED
+REFAOALD 10deg                #LANDING AOA
+REFLNRWY 150m                #RUNWAY REQUIRED TO STOP
+REFTHRLD 0.0                  #LANDING THROTTLE SETTING
+
+AUTOCALC

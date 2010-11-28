@@ -1,0 +1,120 @@
+REM Fokker Dr.1
+REM Long:5.77m Width:7.19m Height:2.95m
+IDENTIFY "Germany FOKKER DR.1 [Triplane]"
+CATEGORY FIGHTER
+AFTBURNR FALSE                 #アフターバーナ
+REM THRAFTBN  0.0t                #ジェットの推進力(アフターバーナーあり)
+REM THRMILIT  1.4t                #ジェットの推進力
+PROPELLR 110HP                 #プロペラ機の馬力
+WEIGHCLN  0.4t                 #運用自重
+WEIGFUEL  0.2t                 #最大燃料搭載量
+WEIGLOAD  0.1t                 #最大荷物重(仮)
+REM FUELABRN  0.0kg               #燃料消費量(アフターバーナーあり)
+FUELMILI  0.08kg               #燃料消費量(仮)
+
+COCKPITP  0.00m  0.65m -1.30m  #操縦者視点
+LEFTGEAR -0.70m -1.55m  0.00m  #左車輪下の座標
+RIGHGEAR  0.70m -1.55m  0.00m  #右車輪下の座標
+WHELGEAR  0.00m -0.41m -4.23m  #中央車輪下の座標
+MACHNGUN  0.15m  0.62m  0.02m  #機銃口の位置１
+MACHNGN2 -0.15m  0.62m  0.02m  #機銃口の位置２
+SMOKEGEN  0.00m  0.53m -1.14m  #スモーク
+VAPORPO0 -3.60m  1.19m -0.91m  #ベーパー位置１
+VAPORPO1  3.60m  1.19m -0.91m  #ベーパー位置２
+HTRADIUS  5.00m                #機外カメラとの距離
+
+TRIGGER1 GUN
+TRIGGER2 AAM
+TRIGGER3 AGM
+TRIGGER4 SMK
+
+STRENGTH 6                     #機体の強さ
+
+CRITAOAP  28deg                #機首上げ限界角(仮)
+CRITAOAM -23deg                #機首下げ限界角(仮)
+
+CRITSPED 165km/h               #巡航速度
+MAXSPEED 185km/h               #最大速度
+
+HASSPOIL FALSE                 #スポイラー
+RETRGEAR FALSE                 #引き込み脚
+VARGEOMW FALSE                 #可変翼
+
+CLVARGEO 0.0                   #EFFECT OF VARIABLE GEOMETRY WING FOR Cl
+CDVARGEO 0.0                   #EFFECT OF VARIABLE GEOMETRY WING FOR Cd
+CLBYFLAP 0.1                   #フラップの揚力(仮)
+CDBYFLAP 0.2                   #フラップの空気抵抗(仮)
+CDBYGEAR 0.0                   #引き込み脚空気抵抗
+CDSPOILR 0.0                   #スポイラー空気抵抗
+
+WINGAREA 18.66m^2              #主翼総面積
+
+MXIPTAOA  35.0deg              #最大ピッチ角／毎秒(仮)
+MXIPTSSA  10.0deg              #最大ヨー角／毎秒(仮)
+MXIPTROL 200.0deg              #最大ロール角／毎秒(仮)
+
+REM CPITMANE corresponds to Spring Constant K
+REM CPITSTAB corresponds to Damper Constant B
+REM To be critically damped, B=2*sqrt(K)
+REM 2% Settling Time=??
+
+MANESPD1 45km/h                #操縦可能最小速度(仮)
+MANESPD2 64km/h                #機動可能最小速度
+CPITMANE 8.0                   #ピッチ操作に対するモーメント(仮)
+CPITSTAB 2.0                   #ピッチ操作に対する安定性係数(仮)
+CYAWMANE 5.0                   #ヨー操作に対するモーメント(仮)
+CYAWSTAB 3.0                   #ヨー操作に対する安定性係数(仮)
+CROLLMAN 3.0                   #ロール操作に対するモーメント(仮)
+
+CTLLDGEA FALSE                 #引き込み脚を出して開始
+CTLBRAKE FALSE                 #ブレーキをかけて開始
+CTLSPOIL FALSE                 #スポイラーを展開して開始
+CTLABRNR FALSE                 #アフターバーナ点火して開始
+CTLTHROT 0.0                   #スロットル
+CTLIFLAP 0.0                   #フラップ展開割合
+CTLINVGW 0.0                   #可変翼展開割合
+CTLATVGW FALSE                 #可変翼自動
+
+POSITION 0m 3ft 0m             #(不明)
+ATTITUDE 45deg 0deg 0deg       #(不明)
+INITFUEL 75%                   #開始時燃料量
+INITLOAD 0.0t                  #開始時荷物量
+INITSPED 0.0MACH               #(不明)
+
+WEAPONCH GUN
+REM GUNPOWER 2
+
+INITIGUN 1000                  #開始時 GUM
+INITIAAM 0                     #開始時 AAM
+INITIAGM 0                     #開始時 AGM
+INITBOMB 0                     #開始時 BOMB
+
+RADARCRS 0.001                 #ロックオン距離(通常１)
+
+REM REM ClZero,CdZero is fixed by Cruising condition
+REFVCRUS 165km/h               #巡航速度(*1.2
+REFACRUS 13120ft               #巡航高度
+REFTCRUS 1.0                   #巡航スロットル
+
+REM REM ClSlope,CdConst is fixed by Landing condition
+REFVLAND 64km/h                #着陸速度
+REFAOALD 20deg                 #着陸時機首上げ角度(仮)
+REFLNRWY 1200m                 #着陸滑走距離(仮)
+REFTHRLD 0.5                   #着陸時スロットル
+
+REM SMOKEOIL 0
+REM MAXNMGUN 1000
+REM MAXNMAAM 0
+REM MAXNMAGM 0
+REM MAXNBOMB 0
+REM MAXNMRKT 0
+REM AAMSLOT  0.0m 0.0m 0.0m
+REM AGMSLOT  0.0m 0.0m 0.0m
+REM BOMBSLOT 0.0m 0.0m 0.0m
+REM RKTSLOT  0.0m 0.0m 0.0m
+REM AAMVISIB FALSE
+REM AGMVISIB FALSE
+REM BOMVISIB FALSE
+REM RKTVISIB FALSE
+
+AUTOCALC

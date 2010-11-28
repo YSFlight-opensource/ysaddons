@@ -1,0 +1,41 @@
+IDENTIFY PMNVAIRCRAFTCARRIER
+HTRADIUS 300m
+STRENGTH 100
+INITIGUN 5000
+INITISAM 100
+INITCANO 500
+MAXSPEED 30kt
+MAXROTAT 30deg
+MINAIMPI 0deg
+MAXAIMPI 0deg
+CARRIER user/neocon/ground/carrier/carrier.acp
+MINIDAMG 1
+GRNDTYPE NAVYSHIP
+
+SPLYFUEL TRUE
+SPLYAMMO TRUE
+
+ANTIGRND TRUE
+
+AIMROTAT 240deg
+AIMPITCH 240deg
+
+SAMRANGE 8000m
+SAMMINPI 10deg
+SAMMAXPI 90deg
+SAMMOUNT 34.1m 40.0m -71.0m
+SAMRLOAD 12 60
+
+NMTURRET 1
+TURRETPO 0 34.1m 41.8m -58.26m 180deg 0deg 0deg   # Number x y z h p b
+TURRETPT 0 -5deg 80deg 0deg                 # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 0 -130deg 130deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 0 5000                              # Ammo
+TURRETIV 0 0.1sec                            # Number ShootingInterval
+TURRETNP 0 CANNON                            # DNM Node Name
+TURRETNH 0 TURRET                            # DNM Node Name (Heading Rotation)
+TURRETAR 0                                   # Anti Air Capable
+TURRETCT 0 GUNNER                            # Controlled by PILOT or GUNNER
+TURRETRG 0 5000m
+
+USEAIMAT 0m 5m 0m

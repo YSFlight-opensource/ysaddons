@@ -1,0 +1,70 @@
+FIELD
+SKY 32 180 180
+GND 32 128 32
+
+
+
+TER
+FIL mrv_3x5_15x25_l4.ter
+ID 0
+TAG ""
+POS -1750.00 0.00 1250.0 0 0 0
+END
+TER
+FIL mrv_3x5_15x25_r4.ter
+ID 0
+TAG ""
+POS 250.00 0.00 1250.0 0 0 0
+END
+TER
+FIL mrx_5x5_05x25_4.ter
+ID 0
+TAG ""
+POS -250.00 0.00 1250.0 0 0 0
+END
+
+
+
+TER
+FIL mrv_3x5_15x25_l1.ter
+ID 0
+TAG ""
+POS -1750.00 0.00 -1250.0 0 0 0
+END
+TER
+FIL mrv_3x5_15x25_r1.ter
+ID 0
+TAG ""
+POS 250.00 0.00 -1250.0 0 0 0
+END
+TER
+FIL mrx_5x5_05x25_3.ter
+ID 0
+TAG ""
+POS -250.00 0.00 -1250.0 0 0 0
+END
+
+
+
+TER
+FIL mrv_3x5_15x25_l0.ter
+ID 0
+TAG ""
+POS -1750.00 0.00 -3750.00 0 0 0
+END
+TER
+FIL mrv_3x5_15x25_r0.ter
+ID 0
+TAG ""
+POS 250.00 0.00 -3750.00 0 0 0
+END
+TER
+FIL mrx_5x5_05x25_0.ter
+ID 0
+TAG ""
+POS -250.00 0.00 -3750.00 0 0 0
+END
+
+
+
+ENDF

@@ -1,0 +1,10 @@
+user/battle/ground/tico_deck.srf
+user/battle/ground/tico_wire.srf
+user/battle/ground/tico_catapult.srf
+user/battle/ground/null.srf
+ILS -6.5m 20.5m -100m 190deg 5deg 0deg 6000m
+VIEWPOINT TRUE
+ARRESTINGWIRE -13.5m 21.0m -76.5m 7.5m 21.0m -70.0m
+BRIDGEPOS 16.5m 33.30m 32.0m
+
+REM ACP File Aircraft Carrier Property

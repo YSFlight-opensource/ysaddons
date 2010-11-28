@@ -1,0 +1,40 @@
+FIELD
+SKY 37 123 209
+GND 2 34 185
+
+SRF
+FIL _t_shaft.srf
+ID 0
+TAG ""
+POS 0.00 150.00 0.00 0 4369 0
+END
+
+SRF
+FIL _t_shaft.srf
+ID 0
+TAG ""
+POS 0.00 300.00 0.00 32768 8738 0
+END
+
+SRF
+FIL _t_shaft.srf
+ID 0
+TAG ""
+POS 0.00 450.00 0.00 0 13107 0
+END
+
+SRF
+FIL _t_shaft.srf
+ID 0
+TAG ""
+POS 0.00 600.00 0.00 32768 17476 0
+END
+
+SRF
+FIL _t_shaft.srf
+ID 0
+TAG ""
+POS 0.00 750.00 0.00 0 0 0
+END
+
+ENDF

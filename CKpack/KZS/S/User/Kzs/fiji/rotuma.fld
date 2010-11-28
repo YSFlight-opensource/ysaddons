@@ -1,0 +1,20 @@
+FIELD
+SKY 37 123 209
+GND 2 34 185
+
+PC2
+FIL rotuma.pc2
+POS 0.00 0.00 0.00 0 0 0
+END
+
+FLD
+FIL as_25k.fld
+POS 1650.00 0.00 310.00 -28058 0 0
+END
+
+FLD
+FIL rotuma_beach.fld
+POS 0.00 0.00 0.00 0 0 0
+END
+
+ENDF

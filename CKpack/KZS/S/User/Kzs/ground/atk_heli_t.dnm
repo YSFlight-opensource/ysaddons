@@ -1,0 +1,40 @@
+DYNAMODEL
+
+
+
+SRF "0000"
+FIL atk_heli_body.srf
+CLA 0
+NST 1
+STA 0.00 0.00 0.00  0 0 0 1
+POS 0.00 0.00 0.00  0 0 0 1
+CNT 0.00 0.00 0.00
+REL DEP
+NCH 2
+CLD "0001"
+CLD "0002"
+END
+
+SRF "0001"
+FIL atk_heli_roter_m.srf 
+CLA 0
+NST 1
+STA 0.00 0.00 0.00  0 0 0 1
+POS 0.00 2.50 0.00  0 0 0 1
+CNT 0.00 2.50 0.00
+REL DEP
+NCH 0
+END
+
+SRF "0002"
+FIL atk_heli_roter_t.srf 
+CLA 0
+NST 1
+STA 0.00 0.00 0.00  0 0 0 1
+POS -0.35 2.50 -10.875  0 0 0 1
+CNT -0.35 2.50 -10.875
+REL DEP
+NCH 0
+END
+
+END

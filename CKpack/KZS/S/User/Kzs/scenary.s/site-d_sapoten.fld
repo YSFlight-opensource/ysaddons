@@ -1,0 +1,49 @@
+FIELD
+SKY 0 80 196
+GND 204 204 102
+
+SRF
+FIL _t_sapoten.srf
+ID 0
+TAG "BASE"
+POS -426.62 0.00 603.83 -8192 0 0
+END
+SRF
+FIL _t_sapoten.srf
+ID 0
+TAG "BASE"
+POS 886.84 0.00 -1185.77 -12244 0 0
+END
+
+SRF
+FIL _t_sapoten.srf
+ID 0
+TAG ""
+POS 17710.95 0.00 -9772.19 0 0 0
+END
+SRF
+FIL _t_sapoten.srf
+ID 0
+TAG ""
+POS 10517.69 0.00 17929.52 0 0 0
+END
+SRF
+FIL _t_sapoten.srf
+ID 0
+TAG ""
+POS -30116.60 0.00 -6864.28 0 0 0
+END
+SRF
+FIL _t_sapoten.srf
+ID 0
+TAG ""
+POS -9378.57 0.00 -19567.27 0 0 0
+END
+SRF
+FIL _t_sapoten.srf
+ID 0
+TAG ""
+POS -10824.03 0.00 9558.64 0 0 0
+END
+
+ENDF

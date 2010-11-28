@@ -1,0 +1,27 @@
+FIELD
+SKY 0 80 196
+GND 204 204 102
+
+PC2
+FIL site-d_t-zone.pc2
+POS 0.00 0.00 0.00 0 0 0
+END
+
+FLD
+FIL _t_tunnel.fld
+POS -332.55 0.00 332.55 7576 0 0
+END
+FLD
+FIL _t_tunnel2.fld
+POS 304.04 0.00 313.54 -7986 0 0
+END
+FLD
+FIL _t_tunnel2_l.fld
+POS -304.04 0.00 -403.81 -5734 0 0
+END
+FLD
+FIL _t_tunnel_l.fld
+POS 403.81 0.00 -251.79 10444 0 0
+END
+
+ENDF

@@ -1,0 +1,36 @@
+IDENTIFY [GOP]ADMIRAL-GORSHKOV
+HTRADIUS 273.1m
+STRENGTH 500
+INITIGUN 9999999999
+INITISAM 0
+MAXSPEED 0kt
+MAXROTAT 90deg
+MINAIMPI 5deg
+MAXAIMPI 80deg
+AIMROTAT 180deg
+AIMPITCH 180deg
+HUGROUND TRUE
+CARRIER User/gop/CV/baku.acp
+SAMRANGE 3000m
+GUNRANGE 1000m
+MINIDAMG 11
+SPLYFUEL TRUE
+SPLYAMMO TRUE
+
+GUNRANGE 1500m
+AAAMINPI -30deg
+AAAMAXPI 80deg
+AAAMOUNT 0m 25.6m -10m
+
+NMTURRET 1
+TURRETPO 0 12.2m 18.35m 54.6m 0deg 0deg 0deg   # Number x y z h p b
+TURRETPT 0 -30deg 80deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 0 -180deg 180deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 0 999999999999                              # Ammo
+TURRETIV 0 0.5sec                              # Number ShootingInterval
+TURRETAR 0
+TURRETCT 0 GUNNER                            # Controlled by PILOT or GUNNER
+TURRETRG 0 10000m
+TURRETPW 0 20
+
+USEAIMAT 0m 3m 0m

@@ -1,0 +1,8 @@
+tmp/navy/inv_deck_main.srf
+tmp/navy/inv_null.srf
+tmp/navy/inv_null.srf
+tmp/navy/inv_bridge.srf
+ILS -9.24m 14.70m -97.65m 180deg 5deg 0deg 6000m
+VIEWPOINT TRUE
+
+REM ACP File Aircraft Carrier Property

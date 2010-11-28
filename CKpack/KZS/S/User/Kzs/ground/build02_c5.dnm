@@ -1,0 +1,62 @@
+DYNAMODEL
+
+SRF "0000"
+FIL build02.srf
+CLA 0
+NST 1
+STA 0.0 0.0 0.0  0 0 0 1
+POS 0.0 0.0 0.0  0 0 0 1
+CNT 0.0 0.0 0.0
+REL DEP
+NCH 4
+CLD "T"
+CLD "B"
+CLD "L"
+CLD "R"
+END
+
+SRF "T"
+FIL build01.srf
+CLA 0
+NST 1
+STA 0.0 0.0 0.0  0 0 0 1
+POS -2.0 0.0 100.0  -8192 0 0 1
+CNT 0.0 0.0 0.0
+REL DEP
+NCH 0
+END
+
+SRF "B"
+FIL build01(2).srf
+CLA 0
+NST 1
+STA 0.0 0.0 0.0  0 0 0 1
+POS -105.0 0.0 -10.0  0 0 0 1
+CNT 0.0 0.0 0.0
+REL DEP
+NCH 0
+END
+
+SRF "L"
+FIL build01.srf
+CLA 0
+NST 1
+STA 0.0 0.0 0.0  0 0 0 1
+POS -100.0 0.0 -50.0  0 0 0 1
+CNT 0.0 0.0 0.0
+REL DEP
+NCH 0
+END
+
+SRF "R"
+FIL build01.srf
+CLA 0
+NST 1
+STA 0.0 0.0 0.0  0 0 0 1
+POS 80.0 0.0 -45.0  16384 0 0 1
+CNT 0.0 0.0 0.0
+REL DEP
+NCH 0
+END
+
+END

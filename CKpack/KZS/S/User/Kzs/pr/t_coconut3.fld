@@ -1,0 +1,22 @@
+FIELD
+SKY 37 123 209
+GND 2 34 185
+
+PC2
+FIL t_coconut_x.pc2
+POS 0.00 0.00 0.00 0 0 0
+END
+PLT
+FIL t_coconut_l.pc2
+POS 0.00 0.00 2.50 -16384 0 0
+END
+PLT
+FIL t_coconut_s.pc2
+POS -2.50 0.00 0.00 -8192 0 0
+END
+PLT
+FIL t_coconut_m.pc2
+POS 2.50 0.00 0.00 -24576 0 0
+END
+
+ENDF

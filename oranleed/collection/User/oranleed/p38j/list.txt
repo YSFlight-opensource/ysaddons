@@ -1,0 +1,3 @@
+user/oranleed/p38j/p38j.dat user/oranleed/p38j/p38j.dnm user/oranleed/p38j/p38coll.srf user/oranleed/p38j/p38jcockpit.srf user/oranleed/p38j/p38jcoarse.dnm
+user/oranleed/p38j/p38j(cmg).dat user/oranleed/p38j/p38j(cmg).dnm user/oranleed/p38j/p38coll.srf user/oranleed/p38j/p38jcockpit.srf user/oranleed/p38j/p38j(cmg)coarse.dnm
+user/oranleed/p38j/p38j(sl).dat user/oranleed/p38j/p38j(sl).dnm user/oranleed/p38j/p38coll.srf user/oranleed/p38j/p38jcockpit.srf user/oranleed/p38j/p38j(sl)coarse.dnm

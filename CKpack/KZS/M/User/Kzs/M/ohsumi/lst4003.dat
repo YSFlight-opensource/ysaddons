@@ -1,0 +1,140 @@
+IDENTIFY "JMSDF_LST4003_KUNISAKI"
+CATEGORY UTILITY
+AFTBURNR FALSE                #HAVE AFTERBURNER?
+PROPELLR 40000HP                #PROPELLER ENGINE
+THRSTREV  1.0                 #EFFICIENCY OF THRUST REVERSER
+WEIGHCLN 9000.0t                #WEIGHT CLEAN
+WEIGFUEL  10.4t                #WEIGHT OF FUEL
+WEIGLOAD  16.0t                #WEIGHT OF PAYLOAD
+FUELMILI 0.07kg             #FUEL CONSUMPTION AT MILITARY POWER
+
+COCKPITP 5.2m 22.2m 15.34m     #COCKPIT POSITION
+EXCAMERA "clane" 1.28m  18.55m  -16.72m 90deg 0deg 0deg INSIDE
+LEFTGEAR -6.3m -0.1m -78.2m     #LEFT LANDING GEAR POSITION
+RIGHGEAR  6.3m -0.1m -78.2m     #RIGHT LANDING GEAR POSITION
+WHELGEAR  0.0m -0.1m 61.5m    #WHEEL POSITION
+
+
+SMOKEGEN 0m 4m 0m             #SMOKE GENERATOR POSITION
+VAPORPO0  0m  0m 0m           #VAPOR POSITION (Wings Swept Back or no-VGW)
+VAPORPO1  0m  0m 0m           #VAPOR POSITION (Wings Spread)
+HTRADIUS  120.0m               #OUTSIDE SPHERE RADIUS
+RADARCRS 0.1                  #RADAR CROSS SECTION
+
+TRIGGER1 GUN
+TRIGGER2 AAM
+TRIGGER3 AGM
+TRIGGER4 SMK
+STRENGTH 600
+
+CRITAOAP  0deg               #CRITICAL AOA POSITIVE
+CRITAOAM 0deg               #CRITICAL AOA NEGATIVE
+
+CRITSPED 10kt              #CRITICAL SPEED
+MAXSPEED 22kt              #MAXIMUM SPEED
+
+HASSPOIL FALSE                 #HAS SPOILER?
+RETRGEAR FALSE                 #HAS RETRACTABLE LANDING GEAR?
+VARGEOMW FALSE                #HAS VARIABLE GEOMETRY WING?
+
+
+CLVARGEO 0.0                  #EFFECT OF VARIABLE GEOMETRY WING FOR Cl
+CDVARGEO 0.0                  #EFFECT OF VARIABLE GEOMETRY WING FOR Cd
+CLBYFLAP 0.1                  #EFFECT OF FLAP FOR Cl
+CDBYFLAP 0.2                  #EFFECT OF FLAP FOR Cd
+CDBYGEAR 0.5                  #EFFECT OF GEAR FOR Cd
+CDSPOILR 2.0                  #EFFECT OF SPOILER FOR Cd
+
+WINGAREA 1m^2                #WING AREA
+
+MXIPTAOA 0.01deg              #MAX INPUT AOA
+MXIPTSSA 5.0deg               #MAX INPUT SSA
+MXIPTROL 0.01deg             #MAX INPUT ROLL
+
+REM CPITMANE corresponds to Spring Constant K
+REM CPITSTAB corresponds to Damper Constant B
+REM To be critically damped, B=2*sqrt(K)
+REM 2% Settling Time=??
+
+MANESPD1 10km/h               #MINIMUM MANEUVABLE SPEED
+MANESPD2 40km/h               #FULLY MANEUVABLE SPEED
+CPITMANE 0.0                  #PITCH MANEUVERBILITY CONSTANT
+CPITSTAB 0.1                  #PITCH STABILITY CONSTANT
+CYAWMANE 0.1                  #YAW MANEUVABILITY CONSTANT
+CYAWSTAB 0.9                  #YAW STABILITY CONSTANT
+CROLLMAN 1.5                  #ROLL MANEUVABILITY CONSTANT
+
+CTLLDGEA TRUE                 #CONTROL LANDINGGEAR
+CTLBRAKE FALSE                #CONTROL BRAKE
+CTLSPOIL 0.0                  #CONTROL SPOILER
+CTLABRNR FALSE                #CONTROL AFTERBURNER
+CTLTHROT 0.0                  #CONTROL THRUST
+CTLIFLAP 0.0                  #CONTROL FLAP
+CTLINVGW 0.0                  #CONTROL VARIABLE GEOMETRY WING
+CTLATVGW FALSE                #CONTROL AUTO VARIABLE GEOMETRY WING
+
+POSITION 0m 3ft 0m           #POSITION
+ATTITUDE 45deg 0deg 0deg      #ATTITUDE
+INITFUEL 75%                  #INITIAL FUEL
+INITLOAD 0.0t                 #INITIAL PAYLOAD
+INITSPED 0.0MACH              #INITIAL SPEED
+
+GUNPOWER 3
+INITIGUN 0                 #INITIAL GUN
+INITIAAM 0                    #INITIAL AAM
+INITIAGM 0                    #INITIAL AGM
+INITRCKT 0
+
+NMTURRET 4
+TURRETPO 0 5.4m 16m 21m 0deg 0deg 0deg      # Number x y z h p b
+TURRETPT 0 0deg 90deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 0 -110deg 110deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 0 10000                              # Ammo
+TURRETIV 0 0.04sec                            # Number ShootingInterval
+TURRETNM 0 CIWS1                           # DNM Node Name
+TURRETAR 0                                   # Anti Air Capable
+TURRETCT 0 GUNNER                            # Controlled by PILOT or GUNNER
+TURRETRG 0 1500m
+
+TURRETPO 1 5.4m 16m -22m 180deg 0deg 0deg      # Number x y z h p b
+TURRETPT 1 -10deg 100deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 1 -110deg 110deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 1 10000                              # Ammo
+TURRETIV 1 0.04sec                            # Number ShootingInterval
+TURRETNM 1 CIWS2                          # DNM Node Name
+TURRETAR 1                                   # Anti Air Capable
+TURRETCT 1 GUNNER                            # Controlled by PILOT or GUNNER
+TURRETRG 1 1500m
+
+TURRETPO 2 5.4m 16m 21m 0deg 0deg 0deg      # Number x y z h p b
+TURRETPT 2 0deg 0deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 2 -110deg 110deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 2 0                              # Ammo
+TURRETIV 2 0.04sec                            # Number ShootingInterval
+TURRETNM 2 CIWS1BASE                           # DNM Node Name
+TURRETAR 2                                   # Anti Air Capable
+TURRETCT 2 GUNNER                            # Controlled by PILOT or GUNNER
+TURRETRG 2 1500m
+
+TURRETPO 3 5.4m 16m -22m 180deg 0deg 0deg      # Number x y z h p b
+TURRETPT 3 0deg 0deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 3 -110deg 110deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 3 0                              # Ammo
+TURRETIV 3 0.04sec                            # Number ShootingInterval
+TURRETNM 3 CIWS2BASE                          # DNM Node Name
+TURRETAR 3                                   # Anti Air Capable
+TURRETCT 3 GUNNER                            # Controlled by PILOT or GUNNER
+TURRETRG 3 1500m
+
+REM ClZero,CdZero is fixed by Cruising condition
+REFVCRUS 22km/h              #CRUISING SPEED
+REFACRUS 100ft              #CRUISING ALTITUDE
+REFTCRUS 0.9                 #CRUISING THROTTLE SETTING
+
+REM ClSlope,CdConst is fixed by Landing condition
+REFVLAND 15km/h                #LANDING SPEED
+REFAOALD 10deg                #LANDING AOA
+REFLNRWY 15m                #RUNWAY REQUIRED TO STOP
+REFTHRLD 0.8                  #LANDING THROTTLE SETTING
+
+AUTOCALC

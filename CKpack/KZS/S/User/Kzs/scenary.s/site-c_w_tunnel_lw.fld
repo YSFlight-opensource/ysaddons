@@ -1,0 +1,17 @@
+FIELD
+SKY 37 123 209
+GND 2 34 185
+
+SRF
+FIL _t_wall_top.srf
+ID 0
+TAG ""
+POS 0.00 240.00 0.00 0 0 0
+END
+
+FLD
+FIL site-c_wall_lw.fld
+POS 0.00 0.00 0.00 0 0 0
+END
+
+ENDF

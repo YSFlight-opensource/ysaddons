@@ -1,0 +1,20 @@
+FIELD
+SKY 37 123 209
+GND 2 34 185
+
+PC2
+FIL moala_toyoya.pc2
+POS 0.00 0.00 0.00 0 0 0
+END
+
+FLD
+FIL as_25k.fld
+POS -13325.00 0.00 -20365.00 9624 0 0
+END
+
+FLD
+FIL moala_toyoya_beach.fld
+POS 0.00 0.00 0.00 0 0 0
+END
+
+ENDF

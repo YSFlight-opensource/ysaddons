@@ -1,0 +1,36 @@
+FIELD
+SKY 0 80 196
+GND 204 204 102
+
+SRF
+FIL _t_hanger_l.srf
+ID 0
+TAG ""
+POS 392.98 0.00 585.06 16384 0 0
+END
+SRF
+FIL _t_hanger_l3.srf
+ID 0
+TAG ""
+POS 700.00 0.00 -125.00 16384 0 0
+END
+SRF
+FIL _t_build12.srf
+ID 0
+TAG ""
+POS -850.00 0.00 -50.00 0 0 0
+END
+SRF
+FIL _t_hanger_st3.srf
+ID 0
+TAG ""
+POS -750.00 0.00 -100.00 0 0 0
+END
+SRF
+FIL _t_hanger_s3.srf
+ID 0
+TAG ""
+POS 412.50 0.00 -650.00 0 0 0
+END
+
+ENDF

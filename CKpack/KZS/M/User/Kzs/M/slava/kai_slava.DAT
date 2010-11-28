@@ -1,0 +1,490 @@
+IDENTIFY "kai_slava_class"
+CATEGORY UTILITY
+AFTBURNR FALSE              #HAVE AFTERBURNER?
+PROPELLR 110000HP             #PROPELLER ENGINE
+PROPEFCY 1                #Propeller efficiency
+WEIGHCLN 9800t             #WEIGHT CLEAN
+WEIGFUEL 1190t             #WEIGHT OF FUEL
+WEIGLOAD 1500t                #WEIGHT OF PAYLOAD
+FUELMILI 0.5kg             #FUEL CONSUMPTION AT MILITARY POWER
+GUNSIGHT FALSE
+THRSTREV 0.6                 #EFFICIENCY OF THRUST REVERSER
+
+COCKPITP 0m 5.2m 34m  
+EXCAMERA "helipad" 4.1m  -6m  -70.26m 180deg 0deg 0deg INSIDE
+LEFTGEAR -15.0m -13.54m -150.0m    
+RIGHGEAR  15.0m -13.54m -150.0m     
+WHELGEAR  0.0m -13.54m 150.0m
+ARRESTER  0.0m 0m 0m
+GUNDIREC  0.0m 0.0m 0.0m     #MACHINE GUN DIRECTION
+SMOKEGEN 0.00m 0m -0m  #SMOKE GENERATOR POSITION
+VAPORPO0  0m  0m 0m  #VAPOR POSITION (Wings Swept Back or no-VGW)
+VAPORPO1  0m  0m 0m  #VAPOR POSITION (Wings Spread)
+HTRADIUS  100m                #OUTSIDE SPHERE RADIUS
+RADARCRS 0.7
+
+TRIGGER1 GUN
+TRIGGER2 AAM
+TRIGGER3 AGM
+TRIGGER4 SMK
+STRENGTH 740
+
+CRITAOAP 0deg 
+CRITAOAM 0deg
+  
+CRITSPED 18kt
+MAXSPEED 34kt
+
+HASSPOIL FALSE                 #HAS SPOILER?
+RETRGEAR FALSE                 #HAS RETRACTABLE LANDING GEAR?
+VARGEOMW FALSE                #HAS VARIABLE GEOMETRY WING?
+
+CLVARGEO 0                  #EFFECT OF VARIABLE GEOMETRY WING FOR Cl
+CDVARGEO 0                  #EFFECT OF VARIABLE GEOMETRY WING FOR Cd
+CLBYFLAP 0                  #EFFECT OF FLAP FOR Cl
+CDBYFLAP 0                  #EFFECT OF FLAP FOR Cd
+CDBYGEAR 0                  #EFFECT OF GEAR FOR Cd
+CDSPOILR 0                  #EFFECT OF SPOILER FOR Cd
+
+WINGAREA 1m^2                #WING AREA
+
+MXIPTAOA 0.01deg  
+MXIPTSSA 5deg
+MXIPTROL 0.01deg
+
+REM CPITMANE corresponds to Spring Constant K
+REM CPITSTAB corresponds to Damper Constant B
+REM To be critically damped, B=2*sqrt(K)
+REM 2% Settling Time=??
+
+MANESPD1 17kt
+MANESPD2 28kt 
+CPITMANE 0
+CPITSTAB 0.1  
+CYAWMANE 0.6 
+CYAWSTAB 2 
+CROLLMAN 2
+
+CTLLDGEA FALSE              
+CTLBRAKE FALSE
+CTLSPOIL 0.0
+CTLABRNR FALSE    
+CTLTHROT 0.0      
+CTLIFLAP 0.0       
+CTLINVGW 0.0        
+CTLATVGW FALSE
+
+POSITION 0m 3ft 0m           #POSITION
+ATTITUDE 45deg 0deg 0deg      #ATTITUDE
+INITFUEL 75%                  #INITIAL FUEL
+INITLOAD 0.0t                 #INITIAL PAYLOAD
+INITSPED 0.0MACH              #INITIAL SPEED
+
+HRDPOINT 5.25m -5.13m -66.43m AIM9
+HRDPOINT -5.25m -5.13m -66.43m AIM9
+HRDPOINT 5.25m -5.13m -66.43m AIM9
+HRDPOINT -5.25m -5.13m -66.43m AIM9
+HRDPOINT 5.25m -5.13m -66.43m AIM9
+HRDPOINT -5.25m -5.13m -66.43m AIM9
+HRDPOINT 5.25m -5.13m -66.43m AIM9
+HRDPOINT -5.25m -5.13m -66.43m AIM9
+HRDPOINT -2.82m 40m -28.67m AIM120
+HRDPOINT -3.77m 40m -29.11m AIM120
+HRDPOINT -4.15m 40m -30.04m AIM120
+HRDPOINT -3.73m 40m -30.96m AIM120
+HRDPOINT -2.82m 40m -31.37m AIM120
+HRDPOINT -1.89m 40m -30.99m AIM120
+HRDPOINT -1.49m 40m -30.04m AIM120
+HRDPOINT -1.87m 40m -29.10m AIM120
+HRDPOINT -2.82m 40m -32.81m AIM120
+HRDPOINT -3.77m 40m -33.25m AIM120
+HRDPOINT -4.15m 40m -34.18m AIM120
+HRDPOINT -3.73m 40m -35.10m AIM120
+HRDPOINT -2.82m 40m -35.51m AIM120
+HRDPOINT -1.89m 40m -35.13m AIM120
+HRDPOINT -1.49m 40m -34.18m AIM120
+HRDPOINT -1.87m 40m -33.24m AIM120
+HRDPOINT -2.82m 40m -36.90m AIM120
+HRDPOINT -3.77m 40m -37.33m AIM120
+HRDPOINT -4.15m 40m -38.26m AIM120
+HRDPOINT -3.73m 40m -39.18m AIM120
+HRDPOINT -2.82m 40m -39.60m AIM120
+HRDPOINT -1.89m 40m -39.22m AIM120
+HRDPOINT -1.49m 40m -38.26m AIM120
+HRDPOINT -1.87m 40m -37.32m AIM120
+HRDPOINT -2.82m 40m -40.96m AIM120
+HRDPOINT -3.77m 40m -41.39m AIM120
+HRDPOINT -4.15m 40m -42.32m AIM120
+HRDPOINT -3.73m 40m -43.24m AIM120
+HRDPOINT -2.82m 40m -43.66m AIM120
+HRDPOINT -1.89m 40m -43.28m AIM120
+HRDPOINT -1.49m 40m -42.32m AIM120
+HRDPOINT -1.87m 40m -41.38m AIM120
+HRDPOINT 2.82m 40m -28.67m AIM120
+HRDPOINT 3.77m 40m -29.11m AIM120
+HRDPOINT 4.15m 40m -30.04m AIM120
+HRDPOINT 3.73m 40m -30.96m AIM120
+HRDPOINT 2.82m 40m -31.37m AIM120
+HRDPOINT 1.89m 40m -30.99m AIM120
+HRDPOINT 1.49m 40m -30.04m AIM120
+HRDPOINT 1.87m 40m -29.10m AIM120
+HRDPOINT 2.82m 40m -32.81m AIM120
+HRDPOINT 3.77m 40m -33.25m AIM120
+HRDPOINT 4.15m 40m -34.18m AIM120
+HRDPOINT 3.73m 40m -35.10m AIM120
+HRDPOINT 2.82m 40m -35.51m AIM120
+HRDPOINT 1.89m 40m -35.13m AIM120
+HRDPOINT 1.49m 40m -34.18m AIM120
+HRDPOINT 1.87m 40m -33.24m AIM120
+HRDPOINT 2.82m 40m -36.90m AIM120
+HRDPOINT 3.77m 40m -37.33m AIM120
+HRDPOINT 4.15m 40m -38.26m AIM120
+HRDPOINT 3.73m 40m -39.18m AIM120
+HRDPOINT 2.82m 40m -39.60m AIM120
+HRDPOINT 1.89m 40m -39.22m AIM120
+HRDPOINT 1.49m 40m -38.26m AIM120
+HRDPOINT 1.87m 40m -37.32m AIM120
+HRDPOINT 2.82m 40m -40.96m AIM120
+HRDPOINT 3.77m 40m -41.39m AIM120
+HRDPOINT 4.15m 40m -42.32m AIM120
+HRDPOINT 3.73m 40m -43.24m AIM120
+HRDPOINT 2.82m 40m -43.66m AIM120
+HRDPOINT 1.89m 40m -43.28m AIM120
+HRDPOINT 1.49m 40m -42.32m AIM120
+HRDPOINT 1.87m 40m -41.38m AIM120
+HRDPOINT 8.46m -1.56m 58.94m AGM65
+HRDPOINT 8.46m -1.56m 58.94m AGM65
+HRDPOINT -6.02m -1.56m 58.94m AGM65
+HRDPOINT -6.02m -1.56m 58.94m AGM65
+HRDPOINT 6.02m -1.56m 58.94m AGM65
+HRDPOINT 6.02m -1.56m 58.94m AGM65
+HRDPOINT -8.46m -1.56m 58.94m AGM65
+HRDPOINT -8.46m -1.56m 58.94m AGM65
+HRDPOINT 8.46m -1.56m 47.20m AGM65
+HRDPOINT 8.46m -1.56m 47.20m AGM65
+HRDPOINT -6.02m -1.56m 47.20m AGM65
+HRDPOINT -6.02m -1.56m 47.20m AGM65
+HRDPOINT 6.02m -1.56m 47.20m AGM65
+HRDPOINT 6.02m -1.56m 47.20m AGM65
+HRDPOINT -8.46m -1.56m 47.20m AGM65
+HRDPOINT -8.46m -1.56m 47.20m AGM65
+HRDPOINT 8.46m -1.56m 35.70m AGM65
+HRDPOINT 8.46m -1.56m 35.70m AGM65
+HRDPOINT -6.02m -1.56m 35.70m AGM65
+HRDPOINT -6.02m -1.56m 35.70m AGM65
+HRDPOINT 6.02m -1.56m 35.70m AGM65
+HRDPOINT 6.02m -1.56m 35.70m AGM65
+HRDPOINT -8.46m -1.56m 35.70m AGM65
+HRDPOINT -8.46m -1.56m 35.70m AGM65
+HRDPOINT 8.46m -1.56m 23.95m AGM65
+HRDPOINT 8.46m -1.56m 23.95m AGM65
+HRDPOINT -6.02m -1.56m 23.95m AGM65
+HRDPOINT -6.02m -1.56m 23.95m AGM65
+HRDPOINT 6.02m -1.56m 23.95m AGM65
+HRDPOINT 6.02m -1.56m 23.95m AGM65
+HRDPOINT -8.46m -1.56m 23.95m AGM65
+HRDPOINT -8.46m -1.56m 23.95m AGM65
+HRDPOINT -2.26m 0.45m 42.75m RKT
+HRDPOINT 2.26m 0.45m 42.75m RKT
+
+MAXNMRKT 24
+LMTBYHDP TRUE
+INITIGUN 0
+LOADWEPN AIM9 8
+LOADWEPN AIM120 94
+LOADWEPN AGM65 32
+LOADWEPN RKT 24
+
+AAMVISIB FALSE
+AGMVISIB FALSE
+RKTVISIB FALSE
+BOMVISIB FALSE
+
+NMTURRET 27
+
+TURRETPO 0 0m -2.65m 66.905m 0deg 0deg 0deg
+TURRETPT 0 -5deg 80deg 0deg               
+TURRETHD 0 -100deg 100deg 0deg              
+TURRETAM 0 150                        
+TURRETIV 0 0.66sec                              
+TURRETAR 0                          
+REM TURRETGD 0                  
+TURRETCT 0 PILOT                   
+TURRETRG 0 29500m
+
+TURRETPO 1 0m -4.24m 66.905m 0deg 0deg 0deg
+TURRETPT 1 0deg 0deg 0deg               
+TURRETHD 1 -100deg 100deg 0deg              
+TURRETAM 1 0                         
+TURRETIV 1 0.15sec
+TURRETNM 1 tret                                   
+TURRETAR 1                          
+REM TURRETGD 1                  
+TURRETCT 1 PILOT                   
+TURRETRG 1 10m
+
+TURRETPO 2 0m -2.65m 67.44m 0deg 0deg 0deg
+TURRETPT 2 -5deg 80deg 0deg               
+TURRETHD 2 0deg 0deg 0deg              
+TURRETAM 2 0                         
+TURRETIV 2 0.15sec 
+TURRETNM 2 ak130                                 
+TURRETAR 2                          
+REM TURRETGD 2                  
+TURRETCT 2 PILOT                   
+TURRETRG 2 10m
+
+TURRETPO 3 0m -2.65m 66.905m 0deg 0deg 0deg
+TURRETPT 3 -5deg 80deg 0deg               
+TURRETHD 3 -100deg 100deg 0deg              
+TURRETAM 3 150                        
+TURRETIV 3 0.66sec                              
+TURRETAR 3                          
+REM TURRETGD 3                  
+TURRETCT 3 PILOT                   
+TURRETRG 3 29500m
+
+TURRETPO 4 0m -2.65m 66.905m 0deg 0deg 0deg
+TURRETPT 4 -5deg 80deg 0deg               
+TURRETHD 4 -100deg 100deg 0deg              
+TURRETAM 4 150                        
+TURRETIV 4 0.66sec                              
+TURRETAR 4                          
+REM TURRETGD 4                  
+TURRETCT 4 PILOT                   
+TURRETRG 4 29500m
+
+TURRETPO 5 0m -2.65m 66.905m 0deg 0deg 0deg
+TURRETPT 5 -5deg 80deg 0deg               
+TURRETHD 5 -100deg 100deg 0deg              
+TURRETAM 5 150                        
+TURRETIV 5 0.66sec                              
+TURRETAR 5                          
+REM TURRETGD 5                  
+TURRETCT 5 PILOT                   
+TURRETRG 5 29500m
+
+TURRETPO 6 0m -2.65m 66.905m 0deg 0deg 0deg
+TURRETPT 6 -5deg 80deg 0deg               
+TURRETHD 6 -100deg 100deg 0deg              
+TURRETAM 6 150                        
+TURRETIV 6 0.66sec                              
+TURRETAR 6                          
+REM TURRETGD 6                  
+TURRETCT 6 PILOT                   
+TURRETRG 6 29500m
+
+TURRETPO 7 0m -2.65m 66.905m 0deg 0deg 0deg
+TURRETPT 7 -5deg 80deg 0deg               
+TURRETHD 7 -100deg 100deg 0deg              
+TURRETAM 7 150                        
+TURRETIV 7 0.66sec                              
+TURRETAR 7                          
+REM TURRETGD 7                  
+TURRETCT 7 PILOT                   
+TURRETRG 7 29500m
+
+TURRETPO 8 0m -2.65m 66.905m 0deg 0deg 0deg
+TURRETPT 8 -5deg 80deg 0deg               
+TURRETHD 8 -100deg 100deg 0deg              
+TURRETAM 8 150                        
+TURRETIV 8 0.66sec                              
+TURRETAR 8                          
+REM TURRETGD 8                  
+TURRETCT 8 PILOT                   
+TURRETRG 8 29500m
+
+TURRETPO 9 0m -2.65m 66.905m 0deg 0deg 0deg
+TURRETPT 9 -5deg 80deg 0deg               
+TURRETHD 9 -100deg 100deg 0deg              
+TURRETAM 9 150                        
+TURRETIV 9 0.66sec                              
+TURRETAR 9                          
+REM TURRETGD 9                  
+TURRETCT 9 PILOT                   
+TURRETRG 9 29500m
+
+TURRETPO 10 0m -2.65m 66.905m 0deg 0deg 0deg
+TURRETPT 10 -5deg 80deg 0deg               
+TURRETHD 10 -100deg 100deg 0deg              
+TURRETAM 10 150                        
+TURRETIV 10 0.66sec                              
+TURRETAR 10                          
+REM TURRETGD 10                  
+TURRETCT 10 PILOT                   
+TURRETRG 10 29500m
+
+TURRETPO 11 0m -2.65m 66.905m 0deg 0deg 0deg
+TURRETPT 11 -5deg 80deg 0deg               
+TURRETHD 11 -100deg 100deg 0deg              
+TURRETAM 11 150                        
+TURRETIV 11 0.66sec                              
+TURRETAR 11                          
+REM TURRETGD 11                  
+TURRETCT 11 PILOT                   
+TURRETRG 11 29500m
+
+TURRETPO 12 0m 0.18m 58.19m 0deg 0deg 0deg
+TURRETPT 12 -5deg 80deg 0deg               
+TURRETHD 12 -155deg 155deg 0deg              
+TURRETAM 12 2500                        
+TURRETIV 12 0.05sec
+TURRETNM 12 ak630_1_2                                  
+TURRETAR 12                                           
+TURRETCT 12 GUNNER                   
+TURRETRG 12 2500m
+
+TURRETPO 13 0m 1.27m 52.45m 0deg 0deg 0deg
+TURRETPT 13 -5deg 80deg 0deg               
+TURRETHD 13 -155deg 155deg 0deg              
+TURRETAM 13 2500                        
+TURRETIV 13 0.05sec 
+TURRETNM 13 ak630_2_2                                 
+TURRETAR 13                                           
+TURRETCT 13 GUNNER                   
+TURRETRG 13 2500m
+
+TURRETPO 14 -8.58m -3.8m 3.42m 0deg 0deg 0deg
+TURRETPT 14 -5deg 80deg 0deg               
+TURRETHD 14 20deg 160deg 0deg              
+TURRETAM 14 2500                        
+TURRETIV 14 0.05sec
+TURRETNM 14 ak630_3_2                                   
+TURRETAR 14                                           
+TURRETCT 14 GUNNER                   
+TURRETRG 14 2500m
+
+TURRETPO 15 -8.58m -3.8m -3.14m 0deg 0deg 0deg
+TURRETPT 15 -5deg 80deg 0deg               
+TURRETHD 15 20deg 160deg 0deg              
+TURRETAM 15 2500                        
+TURRETIV 15 0.05sec 
+TURRETNM 15 ak630_4_2                                 
+TURRETAR 15                                           
+TURRETCT 15 GUNNER                   
+TURRETRG 15 2500m
+
+TURRETPO 16 8.58m -3.8m 3.42m 0deg 0deg 0deg
+TURRETPT 16 -5deg 80deg 0deg               
+TURRETHD 16 -160deg -20deg 0deg              
+TURRETAM 16 2500                        
+TURRETIV 16 0.05sec  
+TURRETNM 16 ak630_5_2                                
+TURRETAR 16                                           
+TURRETCT 16 GUNNER                   
+TURRETRG 16 2500m
+
+TURRETPO 17 8.58m -3.8m -3.14m 0deg 0deg 0deg
+TURRETPT 17 -5deg 80deg 0deg               
+TURRETHD 17 -160deg -20deg 0deg              
+TURRETAM 17 2500                        
+TURRETIV 17 0.05sec  
+TURRETNM 17 ak630_6_2                                
+TURRETAR 17                                           
+TURRETCT 17 GUNNER                   
+TURRETRG 17 2500m
+
+TURRETPO 18 0m -4.24m 66.905m 0deg 0deg 0deg
+TURRETPT 18 0deg 0deg 0deg               
+TURRETHD 18 -100deg 100deg 0deg              
+TURRETAM 18 0                         
+TURRETIV 18 0.15sec
+TURRETNM 18 kite                                   
+TURRETAR 18                                            
+TURRETCT 18 PILOT                   
+TURRETRG 18 10m
+
+TURRETPO 19 0.0m 1.25m 38.475m 0deg 0deg 0deg
+TURRETPT 19 -90deg 90deg 0deg               
+TURRETHD 19 -160deg 160deg 0deg              
+TURRETAM 19 0                       
+TURRETIV 19 0.02sec
+TURRETNP 19 6301
+TURRETNH 19 630          
+TURRETAR 19                                           
+TURRETCT 19 GUNNER                  
+TURRETRG 19 3500m
+
+TURRETPO 20 0.0m -2.34m -54.46m 180deg 0deg 0deg
+TURRETPT 20 -90deg 90deg 0deg               
+TURRETHD 20 -170deg 170deg 0deg              
+TURRETAM 20 0                       
+TURRETIV 20 0.02sec
+TURRETNP 20 0811
+TURRETNH 20 081         
+TURRETAR 20                                           
+TURRETCT 20 GUNNER                  
+TURRETRG 20 100000m
+
+TURRETPO 21 0m 0.18m 58.19m 0deg 0deg 0deg
+TURRETPT 21 -5deg 80deg 0deg               
+TURRETHD 21 -155deg 155deg 0deg              
+TURRETAM 21 2500                        
+TURRETIV 21 0.05sec 
+TURRETNM 21 ak630_1_2                                
+TURRETAR 21                                           
+TURRETCT 21 GUNNER                   
+TURRETRG 21 2500m
+
+TURRETPO 22 0m 1.27m 52.45m 0deg 0deg 0deg
+TURRETPT 22 -5deg 80deg 0deg               
+TURRETHD 22 -155deg 155deg 0deg              
+TURRETAM 22 2500                        
+TURRETIV 22 0.05sec   
+TURRETNM 22 ak630_2_2                             
+TURRETAR 22                                           
+TURRETCT 22 GUNNER                   
+TURRETRG 22 2500m
+
+TURRETPO 23 -8.58m -3.8m 3.42m 0deg 0deg 0deg
+TURRETPT 23 -5deg 80deg 0deg               
+TURRETHD 23 20deg 160deg 0deg              
+TURRETAM 23 2500                        
+TURRETIV 23 0.05sec  
+TURRETNM 23 ak630_3_2                                
+TURRETAR 23                                           
+TURRETCT 23 GUNNER                   
+TURRETRG 23 2500m
+
+TURRETPO 24 -8.58m -3.8m -3.14m 0deg 0deg 0deg
+TURRETPT 24 -5deg 80deg 0deg               
+TURRETHD 24 20deg 160deg 0deg              
+TURRETAM 24 2500                        
+TURRETIV 24 0.05sec   
+TURRETNM 24 ak630_4_2                              
+TURRETAR 24                                           
+TURRETCT 24 GUNNER                   
+TURRETRG 24 2500m
+
+TURRETPO 25 8.58m -3.8m 3.42m 0deg 0deg 0deg
+TURRETPT 25 -5deg 80deg 0deg               
+TURRETHD 25 -160deg -20deg 0deg              
+TURRETAM 25 2500                        
+TURRETIV 25 0.05sec 
+TURRETNM 25 ak630_5_2                              
+TURRETAR 25                                           
+TURRETCT 25 GUNNER                   
+TURRETRG 25 2500m
+
+TURRETPO 26 8.58m -3.8m -3.14m 0deg 0deg 0deg
+TURRETPT 26 -5deg 80deg 0deg               
+TURRETHD 26 -160deg -20deg 0deg              
+TURRETAM 26 2500                        
+TURRETIV 26 0.05sec 
+TURRETNM 26 ak630_6_2                               
+TURRETAR 26                                           
+TURRETCT 26 GUNNER                   
+TURRETRG 26 2500m
+
+REM ClZero,CdZero is fixed by Cruising condition
+REFVCRUS 25kt              #CRUISING SPEED
+REFACRUS 50ft              #CRUISING ALTITUDE
+REFTCRUS 0.5                  #CRUISING THROTTLE SETTING
+
+REM ClSlope,CdConst is fixed by Landing condition
+REFVLAND 25km/h                #LANDING SPEED
+REFAOALD 10deg                #LANDING AOA
+REFLNRWY 20m                #RUNWAY REQUIRED TO STOP
+REFTHRLD 0.3                  #LANDING THROTTLE SETTING
+
+AUTOCALC

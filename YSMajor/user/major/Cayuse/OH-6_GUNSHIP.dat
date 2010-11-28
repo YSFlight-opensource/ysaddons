@@ -1,0 +1,110 @@
+REM OH-6 modified by Major Major from Jin's OH-6D
+REM cockpit from CEP's AH-6_LITTLEBIRD
+
+IDENTIFY "OH-6C_GUNSHIP"
+CATEGORY ATTACKER
+AIRCLASS HELICOPTER
+
+AFTBURNR FALSE                #HAVE AFTERBURNER?
+PROPELLR 420HP                #PROPELLER ENGINE
+PROPEFCY 0.65                 #Propeller efficiency
+PROPVMIN 20m/s                #Minimum speed that T=P/V becomes valid
+WEIGHCLN  0.6t                #WEIGHT CLEAN
+WEIGFUEL  0.3t                #WEIGHT OF FUEL
+WEIGLOAD  0.6t                #WEIGHT OF PAYLOAD
+FUELMILI 0.02kg               #FUEL CONSUMPTION AT MILITARY POWER
+
+COCKPITP  0.30m  0.45m  0.89m #COCKPIT POSITION
+LEFTGEAR -1.02m -1.00m  1.74m #LEFT LANDING GEAR POSITION
+RIGHGEAR  1.02m -1.00m  1.74m #RIGHT LANDING GEAR POSITION
+WHELGEAR  0.00m -1.00m -0.55m #WHEEL POSITION
+ARRESTER  0.00m -1.00m -0.55m
+MACHNGUN -1.08m -0.30m 0.89m  #MACHINE GUN POSITION
+VAPORPO0 -1.95m 1.63m  -5.64m #VAPOR POSITION (Wings Swept Back or no-VGW)
+HTRADIUS  4.8m                #OUTSIDE SPHERE RADIUS
+
+TRIGGER1 GUN
+TRIGGER2 AAM
+TRIGGER3 AGM
+TRIGGER4 SMK
+
+STRENGTH 3
+
+CRITAOAP  22deg               #CRITICAL AOA POSITIVE
+CRITAOAM -15deg               #CRITICAL AOA NEGATIVE
+
+CRITSPED 153kt                 #CRITICAL SPEED
+MAXSPEED 153kt                #MAXIMUM SPEED
+
+HASSPOIL TRUE                 #HAS SPOILER?
+RETRGEAR TRUE                 #HAS RETRACTABLE LANDING GEAR?
+VARGEOMW FALSE                #HAS VARIABLE GEOMETRY WING?
+
+TRSTDIR0 0.0m 1.0m 0.1m       #Thrust vector 0
+TRSTDIR1 0.0m 1.0m 0.1m       #Thrust vector 1
+PSTMPTCH 40deg                #Post-Stall Maneuver VPitch
+PSTMYAW_ 30deg                #Post-Stall Maneuver VYaw
+PSTMROLL 80deg                #Post-Stall Maneuver VRoll
+
+CLVARGEO 0.0                  #EFFECT OF VARIABLE GEOMETRY WING FOR Cl
+CDVARGEO 0.0                  #EFFECT OF VARIABLE GEOMETRY WING FOR Cd
+CLBYFLAP 0.0                  #EFFECT OF FLAP FOR Cl
+CDBYFLAP 0.0                  #EFFECT OF FLAP FOR Cd
+CDBYGEAR 0.0                  #EFFECT OF GEAR FOR Cd
+CDSPOILR 50.0                 #EFFECT OF SPOILER FOR Cd
+
+WINGAREA 1m^2                 #WING AREA
+
+MXIPTAOA 0.00deg              #MAX INPUT AOA
+MXIPTSSA 0.00deg              #MAX INPUT SSA
+MXIPTROL 0.00deg              #MAX INPUT ROLL
+
+REM CPITMANE corresponds to Spring Constant K
+REM CPITSTAB corresponds to Damper Constant B
+REM To be critically damped, B=2*sqrt(K)
+REM 2% Settling Time=??
+
+MANESPD1 30kt                 #MINIMUM MANEUVABLE SPEED
+MANESPD2 135kt                #FULLY MANEUVABLE SPEED
+CPITMANE 2.0                  #PITCH MANEUVERBILITY CONSTANT
+CPITSTAB 1.5                  #PITCH STABILITY CONSTANT
+CYAWMANE 2.5                  #YAW MANEUVABILITY CONSTANT
+CYAWSTAB 2.0                  #YAW STABILITY CONSTANT
+CROLLMAN 5.0                  #ROLL MANEUVABILITY CONSTANT
+
+CTLLDGEA TRUE                 #CONTROL LANDINGGEAR
+CTLBRAKE FALSE                #CONTROL BRAKE
+CTLSPOIL 0.0                  #CONTROL SPOILER
+CTLABRNR FALSE                #CONTROL AFTERBURNER
+CTLTHROT 0.0                  #CONTROL THRUST
+CTLIFLAP 0.0                  #CONTROL FLAP
+CTLINVGW 0.0                  #CONTROL VARIABLE GEOMETRY WING
+CTLATVGW FALSE                #CONTROL AUTO VARIABLE GEOMETRY WING
+
+GUNPOWER 5
+INITIGUN 2000                    #INITIAL GUN
+INITIAAM 0                    #INITIAL AAM
+INITIAGM 0                    #INITIAL AGM
+INITRCKT 7
+
+RKTSLOT_  1.20m -0.32m -0.40m
+RKTVISIB FALSE
+
+POSITION 0m 3ft 0m            #POSITION
+ATTITUDE 45deg 0deg 0deg      #ATTITUDE
+INITFUEL 80%                  #INITIAL FUEL
+INITLOAD 0.0t                 #INITIAL PAYLOAD
+INITSPED 0.0MACH              #INITIAL SPEED
+
+REM ClZero,CdZero is fixed by Cruising condition
+REFVCRUS 135kt              #CRUISING SPEED
+REFACRUS 3000ft               #CRUISING ALTITUDE
+REFTCRUS 0.8                  #CRUISING THROTTLE SETTING
+
+REM ClSlope,CdConst is fixed by Landing condition
+REFVLAND  0kt                 #LANDING SPEED
+REFAOALD  0deg                #LANDING AOA
+REFLNRWY 20m                  #RUNWAY REQUIRED TO STOP
+REFTHRLD  0                   #LANDING THROTTLE SETTING
+
+AUTOCALC

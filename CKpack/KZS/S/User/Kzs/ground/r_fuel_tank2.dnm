@@ -1,0 +1,26 @@
+DYNAMODEL
+
+SRF "0000"
+FIL r_fuel_tank.srf
+CLA 0
+NST 1
+STA 0.0 0.0 0.0  0 0 0 1
+POS -45.0 0.0 0.0  0 0 0 1
+CNT 0.0 0.0 0.0
+REL DEP
+NCH 1
+CLD "T"
+END
+
+SRF "T"
+FIL r_fuel_tank.srf
+CLA 0
+NST 1
+STA 0.0 0.0 0.0  0 0 0 1
+POS 90.0 0.0 0.0  8192 0 0 1
+CNT 0.0 0.0 0.0
+REL DEP
+NCH 0
+END
+
+END

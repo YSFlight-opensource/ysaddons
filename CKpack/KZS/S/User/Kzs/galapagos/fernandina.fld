@@ -1,0 +1,16 @@
+FIELD
+SKY 37 123 209
+GND 2 34 185
+
+PC2
+FIL fernandina.pc2
+POS 0.00 0.00 0.00 0 0 0
+END
+TER
+FIL vol_la_cumbre.ter
+ID 0
+TAG ""
+POS -8856.45 0.00 1756.65 -10648 0 0
+END
+
+ENDF

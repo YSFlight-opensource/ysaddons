@@ -1,0 +1,123 @@
+REM Airco DH 2
+REM Long:7.68m Width:8.61m Height:2.91m
+IDENTIFY "British Airco D.H.2"
+CATEGORY WW2FIGHTER
+AFTBURNR FALSE                
+REM THRAFTBN  0.0t               
+REM THRMILIT  1.4t               
+PROPELLR 110HP                 
+WEIGHCLN  0.43t                 
+WEIGFUEL  0.13t                 
+WEIGLOAD  0.1t                
+REM FUELABRN  0.0kg               
+FUELMILI  0.04kg               
+
+COCKPITP  0.00m  0.085m  0.743m  
+INSTPANL user/oranleed/airco/aircodh2.ist
+LEFTGEAR  -0.84m  -1.97m 0.2m  
+RIGHGEAR  0.84m  -1.97m 0.2m  
+WHELGEAR  0.00m  -0.82m -4.72m  
+MACHNGUN  0.00m  -0.06m  2.01m  
+REM MACHNGN2 -0.00m  4.83m  4.11m  
+GUNSIGHT FALSE
+SMOKEGEN  0.00m  0.0m -1.14m  
+VAPORPO0  4.29m  0.62m --0.93m  
+VAPORPO1  4.29m  0.62m --0.93m 
+HTRADIUS  7.00m
+GUNINTVL  0.13                
+
+TRIGGER1 GUN
+TRIGGER2 AAM
+TRIGGER3 AGM
+TRIGGER4 SMK
+
+STRENGTH 6                     
+
+CRITAOAP  14deg                
+CRITAOAM -10deg                
+
+CRITSPED 145km/h               
+MAXSPEED 150km/h               
+
+HASSPOIL FALSE                 
+RETRGEAR FALSE                 
+VARGEOMW FALSE                 
+
+CLVARGEO 0.0                   #EFFECT OF VARIABLE GEOMETRY WING FOR Cl
+CDVARGEO 0.0                   #EFFECT OF VARIABLE GEOMETRY WING FOR Cd
+CLBYFLAP 0.0                   
+CDBYFLAP 0.0                   
+CDBYGEAR 0.0                   
+CDSPOILR 0.0                   
+
+WINGAREA 23.13m^2              
+
+MXIPTAOA  15.0deg              
+MXIPTSSA  5.0deg              
+MXIPTROL 40.0deg              
+
+REM CPITMANE corresponds to Spring Constant K
+REM CPITSTAB corresponds to Damper Constant B
+REM To be critically damped, B=2*sqrt(K)
+REM 2% Settling Time=??
+
+MANESPD1 30km/h                
+MANESPD2 55km/h                
+CPITMANE 5.0                   
+CPITSTAB 3.5                   
+CYAWMANE 5.0                   
+CYAWSTAB 2.0                   
+CROLLMAN 2.0                   
+
+CTLLDGEA FALSE                 
+CTLBRAKE FALSE                 
+CTLSPOIL FALSE                 
+CTLABRNR FALSE                 
+CTLTHROT 0.0                   
+CTLIFLAP 0.0                   
+CTLINVGW 0.0                   
+CTLATVGW FALSE                 
+
+POSITION 0m 3ft 0m             
+ATTITUDE 45deg 0deg 0deg       
+INITFUEL 75%                   
+INITLOAD 0.0t                  
+INITSPED 0.0MACH               
+
+WEAPONCH GUN
+REM GUNPOWER 2
+
+INITIGUN 1000                   GUM
+INITIAAM 0                      AAM
+INITIAGM 0                      AGM
+INITBOMB 0                      BOMB
+
+RADARCRS 0.001                 
+
+REM REM ClZero,CdZero is fixed by Cruising condition
+REFVCRUS 140km/h               
+REFACRUS 6000ft               
+REFTCRUS 0.85                   
+
+REM REM ClSlope,CdConst is fixed by Landing condition
+REFVLAND 64km/h                
+REFAOALD 7deg                 
+REFLNRWY 500m                 
+REFTHRLD 0.55                   
+
+REM SMOKEOIL 0
+REM MAXNMGUN 1000
+REM MAXNMAAM 0
+REM MAXNMAGM 0
+REM MAXNBOMB 0
+REM MAXNMRKT 0
+REM AAMSLOT  0.0m 0.0m 0.0m
+REM AGMSLOT  0.0m 0.0m 0.0m
+REM BOMBSLOT 0.0m 0.0m 0.0m
+REM RKTSLOT  0.0m 0.0m 0.0m
+REM AAMVISIB FALSE
+REM AGMVISIB FALSE
+REM BOMVISIB FALSE
+REM RKTVISIB FALSE
+
+AUTOCALC

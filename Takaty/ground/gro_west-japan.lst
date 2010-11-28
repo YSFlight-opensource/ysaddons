@@ -1,0 +1,30 @@
+user/west-japan/ground/t-dme.dat user/west-japan/ground/t-dme.srf user/west-japan/ground/t-dme.srf
+user/west-japan/ground/point.dat user/west-japan/ground/point.srf user/west-japan/ground/point.srf
+user/west-japan/ground/vordme_lng.dat ground/vor.srf ground/vor_coarse.srf ground/vor_coarse.srf
+user/west-japan/ground/vordme_srt.dat ground/vor.srf ground/vor_coarse.srf ground/vor_coarse.srf
+user/west-japan/ground/fukuokatw.dat user/west-japan/ground/fukuokatw.srf user/west-japan/ground/fukuokatw-c.srf user/west-japan/ground/fukuokatw-c.srf
+user/west-japan/ground/ff3ter.dat user/west-japan/ground/ff3ter.srf user/west-japan/ground/ff3ter_c.srf user/west-japan/ground/ff3ter_c.srf
+user/west-japan/ground/ff2ter.dat user/west-japan/ground/ff2ter.srf user/west-japan/ground/ff2ter.srf user/west-japan/ground/ff2ter_c.srf
+user/west-japan/ground/ff1ter.dat user/west-japan/ground/ff1ter.srf user/west-japan/ground/ff1ter.srf
+user/west-japan/ground/rjfk_tower.dat user/west-japan/ground/rjfk_tower.srf user/west-japan/ground/rjfk_tower_coll.srf
+user/west-japan/ground/rjfk_term.dat user/west-japan/ground/rjfk_term.srf user/west-japan/ground/rjfk_term.srf
+user/west-japan/ground/rjfk_jac.dat user/west-japan/ground/rjfk_jac.srf user/west-japan/ground/rjfk_jac.srf
+
+user/west-japan/ground/skybill.dat user/west-japan/ground/skybill.srf user/west-japan/ground/skybill.srf
+user/west-japan/ground/herbisent.dat user/west-japan/ground/herbisent.srf user/west-japan/ground/herbisent.srf
+user/west-japan/ground/osakac.dat user/west-japan/ground/osakac.srf user/west-japan/ground/osakac.srf
+user/west-japan/ground/umedakamotsu.dat user/west-japan/ground/umedakamotsu.srf user/west-japan/ground/umedakamotsu.srf
+user/west-japan/ground/acty.dat user/west-japan/ground/acty.srf user/west-japan/ground/acty.srf
+user/west-japan/ground/rjff_intl.dat user/west-japan/ground/rjff_intl.srf user/west-japan/ground/rjff_intl.srf
+user/west-japan/ground/fukuokatower.dat user/west-japan/ground/fukuokatower.srf user/west-japan/ground/fukuokatower_c.srf user/west-japan/ground/fukuokatower_c.srf
+user/west-japan/ground/rjoo_tower.dat user/west-japan/ground/rjoo_tower.srf user/west-japan/ground/rjoo_tower_c.srf user/west-japan/ground/rjoo_tower_c.srf
+user/west-japan/ground/marubill.dat user/west-japan/ground/marubill.srf user/west-japan/ground/marubill.srf user/west-japan/ground/coarse.srf
+user/west-japan/ground/phoenixtower.dat user/west-japan/ground/phoenixtower.srf user/west-japan/ground/phoenixtower.srf user/west-japan/ground/coarse.srf
+user/west-japan/ground/kankubridge.dat user/west-japan/ground/kankubridge.srf user/west-japan/ground/kankubridge.srf
+
+user/west-japan/ground/ils_right_long.dat user/west-japan/ground/glideslope.srf user/west-japan/ground/glideslope_cl.srf user/west-japan/ground/glideslope_c.srf
+user/west-japan/ground/ils_right.dat user/west-japan/ground/glideslope.srf user/west-japan/ground/glideslope_cl.srf user/west-japan/ground/glideslope_c.srf
+user/west-japan/ground/ils_left_long.dat user/west-japan/ground/glideslope.srf user/west-japan/ground/glideslope_cl.srf user/west-japan/ground/glideslope_c.srf
+user/west-japan/ground/ils_left.dat user/west-japan/ground/glideslope.srf user/west-japan/ground/glideslope_cl.srf user/west-japan/ground/glideslope_c.srf
+user/west-japan/ground/ils_off.dat user/west-japan/ground/glideslope.srf user/west-japan/ground/glideslope_cl.srf user/west-japan/ground/glideslope_c.srf
+user/west-japan/ground/outermarker.dat user/west-japan/ground/outermarker.srf user/west-japan/ground/outermarker_c.srf user/west-japan/ground/outermarker_c.srf

@@ -1,0 +1,18 @@
+DYNAMODEL 
+
+PCK null.srf 2 
+SURF
+E
+
+	
+SRF "0000" 
+FIL null.srf
+CLA 0
+NST 0
+POS 0.00 0.00 0.00 0 0 0 1
+CNT 0.00 0.00 0.00
+REL DEP
+NCH 0
+END
+ 
+END

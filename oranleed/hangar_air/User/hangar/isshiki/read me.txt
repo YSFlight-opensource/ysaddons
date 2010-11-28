@@ -1,0 +1,1 @@
+user/hangar/isshiki/isshiki.dat user/hangar/isshiki/isshiki.dnm user/hangar/isshiki/isshikicoll.srf user/hangar/isshiki/isshikicockpit.srf user/hangar/isshiki/isshikicoarse.dnm

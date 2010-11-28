@@ -1,0 +1,8 @@
+user/tf58/ground/shokaku_deck.srf
+user/tf58/ground/shokaku_arrestor.srf
+user/tf58/ground/blank.srf
+user/tf58/ground/blank.srf
+VIEWPOINT TRUE
+BRIDGEPOS 10.0m 21.7m 35.2m
+ARRESTINGWIRE -11.60m 14.05m -67.00m 11.60m 14.05m -67.00m
+REM ACP File Aircraft Carrier Property

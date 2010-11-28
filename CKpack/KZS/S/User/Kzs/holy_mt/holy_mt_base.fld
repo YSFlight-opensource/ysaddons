@@ -1,0 +1,80 @@
+FIELD
+SKY 32 180 180
+GND 32 128 32
+SRF
+FIL _t_column.srf
+ID 0
+TAG ""
+POS -30.00 0.00 125.00 8192 0 0
+END
+SRF
+FIL _t_column.srf
+ID 0
+TAG ""
+POS -30.00 0.00 62.50 8192 0 0
+END
+SRF
+FIL _t_column_t.srf
+ID 0
+TAG ""
+POS -30.00 0.00 0.00 8192 0 0
+END
+SRF
+FIL _t_column_t.srf
+ID 0
+TAG ""
+POS -30.00 0.00 -62.50 8192 0 0
+END
+SRF
+FIL _t_column_t.srf
+ID 0
+TAG ""
+POS -30.00 0.00 -125.00 8192 0 0
+END
+SRF
+FIL _t_column.srf
+ID 0
+TAG ""
+POS 30.00 0.00 125.00 8192 0 0
+END
+SRF
+FIL _t_column.srf
+ID 0
+TAG ""
+POS 30.00 0.00 62.50 8192 0 0
+END
+SRF
+FIL _t_column_t.srf
+ID 0
+TAG ""
+POS 30.00 0.00 0.00 8192 0 0
+END
+SRF
+FIL _t_column_t.srf
+ID 0
+TAG ""
+POS 30.00 0.00 -62.50 8192 0 0
+END
+SRF
+FIL _t_column_t.srf
+ID 0
+TAG ""
+POS 30.00 0.00 -125.00 8192 0 0
+END
+SRF
+FIL _t_column_b.srf
+ID 0
+TAG ""
+POS 0.00 50.00 -62.50 0 0 0
+END
+SRF
+FIL _t_column_f.srf
+ID 0
+TAG ""
+POS 0.00 64.00 -62.50 0 0 0
+END
+PC2
+FIL rw_60wl3k.pc2
+POS 0.00 0.00 1348.00 0 0 0
+END
+ENDF

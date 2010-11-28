@@ -1,0 +1,87 @@
+
+
+user/BF0610/Shutter/F16C.dat user/BF0610/Shutter/sentientf16.dnm user/BF0610/Shutter/f16cl.srf user/BF0610/Shutter/f16_cpt.dnm user/BF0610/Shutter/F16coarse.dnm
+user/BF0610/Shutter/Su-50-PAKFA.dat user/BF0610/Shutter/ShutterPAKFA.dnm user/BF0610/Shutter/su50cl.srf user/BF0610/Shutter/Su-50-PAKFA.dnm user/BF0610/Shutter/su50coarse.dnm
+
+
+
+user/BF0510/Vandal/j-xx.dat user/BF0510/Vandal/J-xx.dnm user/BF0510/Vandal/jxxcol.srf
+user/BF0410/Vandal/Hawk2010.dat user/BF0410/Vandal/hawk2010.dnm user/BF0410/Vandal/hawk_coll.srf user/BF0410/Vandal/t45_cpt.dnm
+
+user/BF0410/Eagle13/f15e.dat user/BF0410/Eagle13/F-15E.dnm user/BF0410/Eagle13/f15e_coll.srf user/BF0410/Animal/f15e_cpt.dnm
+user/BF0410/Eagle13/f18f.dat user/BF0410/Eagle13/F-18F.dnm user/BF0410/Eagle13/F-18coll.srf user/BF0410/Animal/f18f_cpt.dnm
+user/BF0410/Eagle13/f35a.dat user/BF0410/Eagle13/F-35A.dnm user/BF0410/Eagle13/F-35coll.srf user/BF0410/Animal/f35c_cpt.dnm
+user/BF0410/Animal/f15N_AirSup.dat user/BF0410/Animal/f15N_AirSup.dnm user/BF0410/Animal/f15e_coll.srf user/BF0410/Animal/f15e_cpt.dnm
+user/BF0410/Animal/f15N_AggSand.dat user/BF0410/Animal/f15N_AggSand.dnm user/BF0410/Animal/f15e_coll.srf user/BF0410/Animal/f15e_cpt.dnm
+user/BF0410/Animal/f15N_Egypt.dat user/BF0410/Animal/f15N_Egypt.dnm user/BF0410/Animal/f15e_coll.srf user/BF0410/Animal/f15e_cpt.dnm
+user/BF0410/Animal/f15N_Grape.dat user/BF0410/Animal/f15N_Grape.dnm user/BF0410/Animal/f15e_coll.srf user/BF0410/Animal/f15e_cpt.dnm
+user/BF0410/Animal/f15N_Arctic.dat user/BF0410/Animal/f15N_Arctic.dnm user/BF0410/Animal/f15e_coll.srf user/BF0410/Animal/f15e_cpt.dnm
+user/BF0410/Animal/f15N_Asiaminor.dat user/BF0410/Animal/f15N_Asiaminor.dnm user/BF0410/Animal/f15e_coll.srf user/BF0410/Animal/f15e_cpt.dnm
+user/BF0410/Animal/f15N_Flipper.dat user/BF0410/Animal/f15N_Flipper.dnm user/BF0410/Animal/f15e_coll.srf user/BF0410/Animal/f15e_cpt.dnm
+user/BF0410/Animal/f15N_Peanut.dat user/BF0410/Animal/f15N_Peanut.dnm user/BF0410/Animal/f15e_coll.srf user/BF0410/Animal/f15e_cpt.dnm
+user/BF0410/Animal/f15N_Woodland.dat user/BF0410/Animal/f15N_Woodland.dnm user/BF0410/Animal/f15e_coll.srf user/BF0410/Animal/f15e_cpt.dnm
+user/BF0410/Animal/f15NClimax.dat user/BF0410/Animal/f15NClimax.dnm user/BF0410/Animal/f15e_coll.srf user/BF0410/Animal/f15e_cpt.dnm
+user/BF0410/Animal/F-15Kelly.dat user/BF0410/Animal/F-15Kelly.dnm user/BF0410/Animal/f15e_coll.srf user/BF0410/Animal/f15e_cpt.dnm
+user/BF0410/Animal/F-15Barbie.dat user/BF0410/Animal/F-15Barbie.dnm user/BF0410/Animal/f15e_coll.srf user/BF0410/Animal/F15SC_cpt.dnm
+user/BF0310/Vandal/p51d_raf.dat user/BF0310/Vandal/RAFP51.dnm user/BF0310/Vandal/p51dcl.srf user/BF0310/Vandal/p51dcpt.srf
+user/BF0310/Bombcat/fj-1_seahorse.dat user/BF0310/Bombcat/fj-1_seahorse.dnm user/BF0310/Bombcat/p51bcl.srf user/BF0310/Bombcat/mustangpit001.srf
+user/BF0310/Kurosaki/p51d_Mormon.dat user/BF0310/Kurosaki/p51d_Mormon.dnm user/BF0310/Kurosaki/p51dcl.srf user/BF0310/Kurosaki/p51dcpt.srf
+user/BF0310/DragoonJ2/a-10kh.dat user/BF0310/DragoonJ2/a-10kh.dnm user/BF0310/DragoonJ2/a10cl.srf
+user/BF0210/f-15e_mike/f15e.dat user/BF0210/f-15e_mike/f15e.dnm user/BF0210/f-15e_mike/f15e_coll.srf user/BF0210/f-15e_mike/f15e_cpt.dnm
+user/BF0210/Shutter/f15se.dat user/BF0210/Shutter/f15se.dnm user/BF0210/Shutter/f15e_coll.srf user/BF0210/Shutter/f15e_cpt.dnm
+user/BF0210/kurosaki/f15e.dat user/BF0210/kurosaki/f15e.dnm user/BF0210/kurosaki/f15e_coll.srf user/BF0210/kurosaki/f15e_cpt.dnm
+user/BF0210/iceman/f15se.dat user/BF0210/iceman/f15se.dnm user/BF0210/iceman/f15e_coll.srf user/BF0210/iceman/f15e_cpt.dnm
+user/BF0210/Animal/F15C_RedRacer.dat user/BF0210/Animal/F15C_RedRacer.dnm user/BF0210/Animal/f15e_coll.srf user/BF0210/Animal/F15SC_cpt.dnm
+user/BF0210/Bombcat/F15CP.dat user/BF0210/Bombcat/F15CP.dnm user/BF0210/Bombcat/f15e_coll.srf user/BF0210/Bombcat/F15SC_cpt.dnm
+user/BF0310/Iceman/JAS-39C.DAT user/BF0310/Iceman/JAS-39C.dnm user/BF0310/Iceman/jas39cl.srf user/BF0310/Iceman/JAS-39C_cpt.dnm
+user/BF0310/Iceman/TYPHNF2.DAT user/BF0310/Iceman/TYPHNF2.dnm user/BF0310/Iceman/typcl.srf user/BF0310/Iceman/TYPHNF2_cpt.dnm
+user/BF0210/kurosaki/a4.dat user/BF0210/kurosaki/a4.dnm user/BF0210/kurosaki/a4cl.srf user/BF0210/kurosaki/a4panel.dnm
+user/BF0110/neocon/suf27.dat user/BF0110/neocon/suf27.dnm user/BF0110/neocon/su27cl.srf user/BF0110/neocon/blank.srf
+user/BF0110/bombcat/blackbunny.dat user/BF0110/bombcat/BlackBunny.dnm user/BF0110/bombcat/su33_coll.srf user/BF0110/bombcat/su33_cpt.dnm ""
+user/BF0110/iceman/su27.dat user/BF0110/iceman/su27.dnm user/BF0110/iceman/su27cl.srf user/BF0110/iceman/blank.srf
+user/BF0110/mephitis/su27.dat user/BF0110/mephitis/su27.dnm user/BF0110/mephitis/su27cl.srf user/BF0110/mephitis/blank.srf
+user/BF0110/major/f-18C_tiger.dat user/BF0110/major/f-18C_tigermeet.dnm user/BF0110/major/f18cl.srf user/BF0110/major/blank.srf
+user/BF0110/major/MRG2000Tiger.dat user/BF0110/major/mrg2000tigermeet.dnm user/BF0110/major/mrg3cl.srf user/BF0110/major/blank.srf
+user/BF0110/major/rafale_tiger.dat user/BF0110/major/rafale_tigermeet.dnm user/BF0110/major/rafalecl.srf user/BF0110/major/blank.srf
+user/BF0110/major/MiG-29_SWIFT.dat user/BF0110/major/MiG-29_SWIFT.dnm user/BF0110/major/mig29cl.srf user/BF0110/major/blank.srf
+
+user/BF0710/blanks/F20A.dat user/BF0710/blanks/F20A_Blank.dnm user/BF0710/blanks/F20cl.srf user/BF0710/blanks/F20Acpt.dnm
+user/BF0710/blanks/F20A+.dat user/BF0710/blanks/F20A+_Blank.dnm user/BF0710/blanks/F20cl.srf user/BF0710/blanks/F20Acpt.dnm
+user/BF0710/blanks/TF20A.dat user/BF0710/blanks/TF20A_Blank.dnm user/BF0210/blanks/t38cl.srf user/BF0710/blanks/TF20Acpt.dnm
+user/BF0610/blanks/TNDFRS1.dat user/BF0610/blanks/seatonkaFRS_1.dnm user/BF0610/blanks/seatndcl.srf user/BF0610/blanks/null.srf 
+user/BF0610/blanks/TNDFA2.dat user/BF0610/blanks/seatonkaFA_2.dnm user/BF0610/blanks/seatndcl.srf user/BF0610/blanks/null.srf 
+user/BF0510/Leo/j-xx.dat user/BF0510/Leo/J-xx.dnm user/BF0510/Leo/jxxcol.srf
+user/BF0310/Animal/CFA-28_Bruja.DAT user/BF0310/Animal/CFA-28_Bruja.dnm user/BF0310/Animal/bruja_cl.srf user/BF0310/Animal/CFA-28_Bruja_cpt.dnm
+user/BF0310/DragoonJ2/F14I.dat user/BF0310/DragoonJ2/F14I.dnm user/BF0310/DragoonJ2/f14cl.srf user/BF0310/DragoonJ2/F14I_cfn.dnm
+user/BF0310/blanks/Su-50-PAKFA.DAT user/BF0310/blanks/Su-50-PAKFA.dnm user/BF0310/blanks/su50cl.srf user/BF0310/blanks/Su-50-PAKFA_cpt.dnm
+user/BF0310/blanks/JA-37_Viggen.DAT user/BF0310/blanks/JA-37_Viggen.dnm user/BF0310/blanks/j37cl.srf user/BF0310/blanks/JA-37_Viggen_cpt.dnm
+user/BF0310/blanks/JAS-39C.DAT user/BF0310/blanks/JAS-39C.dnm user/BF0310/blanks/jas39cl.srf user/BF0310/blanks/JAS-39C_cpt.dnm
+user/BF0310/blanks/JAS-39D.DAT user/BF0310/blanks/JAS-39D.dnm user/BF0310/blanks/jas39dcl.srf user/BF0310/blanks/JAS-39D_cpt.dnm
+user/BF0310/blanks/TYPHNF2.DAT user/BF0310/blanks/TYPHNF2.dnm user/BF0310/blanks/typcl.srf user/BF0310/blanks/TYPHNF2_cpt.dnm
+user/BF0310/blanks/TYPHNT1.DAT user/BF0310/blanks/TYPHNT1.dnm user/BF0310/blanks/typcl.srf user/BF0310/blanks/TYPHNF2_cpt.dnm
+user/BF0310/blanks/E-3.DAT user/BF0310/blanks/E-3.dnm user/BF0310/blanks/e3cl.srf user/BF0310/blanks/E-3_cpt.dnm
+user/BF0210/blanks/jl-9.dat user/BF0210/blanks/JL-9.dnm user/BF0210/blanks/j7cl.srf user/BF0210/blanks/jl9panel.dnm
+user/BF0210/blanks/F14AST21.dat user/BF0210/blanks/F14AST21.dnm user/BF0210/blanks/f14cl.srf user/BF0210/blanks/f14d_cpt.dnm
+user/BF0210/blanks/f14d.dat user/BF0210/blanks/F14D.dnm user/BF0210/blanks/f14cl.srf user/BF0210/blanks/f14d_cpt.dnm
+user/BF0210/blanks/F15C.dat user/BF0210/blanks/F15C.dnm user/BF0210/blanks/f15e_coll.srf user/BF0210/blanks/F15SC_cpt.dnm
+user/BF0210/blanks/f18c.dat user/BF0210/blanks/f18c.dnm user/BF0210/blanks/f18c_coll.srf user/BF0210/blanks/f18c_cpt.dnm
+user/BF0210/blanks/f18d.dat user/BF0210/blanks/f18d.dnm user/BF0210/blanks/f18c_coll.srf user/BF0210/blanks/f18c_cpt.dnm
+user/BF0210/blanks/F16C.dat user/BF0210/blanks/f16c.dnm user/BF0210/blanks/f16cl.srf user/BF0210/blanks/f16_cpt.dnm
+user/BF0210/blanks/RafaleM.dat user/BF0210/blanks/RafaleM.dnm user/BF0210/blanks/rafale_coll.srf user/BF0210/blanks/rafale_cpt.dnm
+user/BF0210/blanks/RafaleB.dat user/BF0210/blanks/RafaleB.dnm user/BF0210/blanks/rafale_coll.srf user/BF0210/blanks/rafale_cpt.dnm
+user/BF0210/blanks/T-2.dat user/BF0210/blanks/T-2.dnm user/BF0210/blanks/f1cl.srf user/BF0210/blanks/t2panel.dnm
+user/BF0210/blanks/F-1.dat user/BF0210/blanks/F-1.dnm user/BF0210/blanks/f1cl.srf user/BF0210/blanks/t2panel.dnm
+user/BF0210/blanks/T-38.dat user/BF0210/blanks/T-38.dnm user/BF0210/blanks/t38cl.srf user/BF0210/blanks/t38panel.dnm
+user/BF0210/blanks/T-50.dat user/BF0210/blanks/T-50.dnm user/BF0210/blanks/ta50cl.srf user/BF0210/blanks/t50panel.dnm
+user/BF0210/blanks/a4.dat user/BF0210/blanks/a4.dnm user/BF0210/blanks/a4cl.srf user/BF0210/blanks/a4panel.dnm
+user/BF0210/blanks/ta4.dat user/BF0210/blanks/TA-4.dnm user/BF0210/blanks/ta4cl.srf user/BF0210/blanks/ta4pnl.dnm
+user/BF0210/blanks/l39.DAT user/BF0210/blanks/l39.dnm user/BF0210/blanks/l39cl.srf user/BF0210/blanks/l39panel.dnm
+user/BF0210/blanks/t4.dat user/BF0210/blanks/T-4.dnm user/BF0210/blanks/t4cl.srf user/BF0210/blanks/t4pnl.dnm
+user/BF0210/blanks/amx.dat user/BF0210/blanks/amx.dnm user/BF0210/blanks/amxcl.srf user/BF0210/blanks/amxpnl.dnm
+user/BF0210/blanks/amx-t.dat user/BF0210/blanks/amx-t.dnm user/BF0210/blanks/amxcl.srf user/BF0210/blanks/amxpnl.dnm
+user/BF0210/blanks/alphaj.dat user/BF0210/blanks/ALPHAJ.dnm user/BF0210/blanks/alphajcl.srf user/BF0210/blanks/alphapanel.dnm
+user/BF0210/blanks/T42.dat user/BF0210/blanks/T42.DNM user/BF0210/blanks/baron58cl.srf user/BF0210/blanks/T42cpt.DNM
+user/BF0110/blanks/F15SC.dat user/BF0110/blanks/F15SC.dnm user/BF0110/blanks/f15e_coll.srf user/BF0110/blanks/F15SC_cpt.dnm
+user/BF0110/blanks/f15e.dat user/BF0110/blanks/f15e.dnm user/BF0110/blanks/f15e_coll.srf user/BF0110/blanks/f15e_cpt.dnm
+user/BF0110/blanks/f15se.dat user/BF0110/blanks/f15se.dnm user/BF0110/blanks/f15e_coll.srf user/BF0110/blanks/f15e_cpt.dnm
+user/BF0110/blanks/f15n.dat user/BF0110/blanks/f15N.dnm user/BF0110/blanks/f15e_coll.srf user/BF0110/blanks/f15e_cpt.dnm

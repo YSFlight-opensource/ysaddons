@@ -1,0 +1,126 @@
+REM D3A1(a)
+IDENTIFY "D3A1(a) OCP(Type99 )"
+CATEGORY WW2DIVEBOMBER
+AFTBURNR FALSE                 #HAVE AFTERBURNER?
+PROPELLR 1080HP              #PROPELLER ENGINE
+WEIGHCLN  2.39t                #WEIGHT CLEAN
+WEIGFUEL  0.5t                #WEIGHT OF FUEL
+WEIGLOAD  0.8t                #WEIGHT OF PAYLOAD
+FUELMILI 0.1kg               #FUEL CONSUMPTION AT MILITARY POWER
+
+COCKPITP  0.00m  0.88m -0.07m    #COCKPIT POSITION
+INSTPANL user/oranleed/D3A1(99)/99a.ist
+LEFTGEAR  -1.58m -2.11m  0.81m   #LEFT LANDING GEAR POSITION
+RIGHGEAR  1.58m -2.11m  0.81m    #RIGHT LANDING GEAR POSITION
+WHELGEAR  0.00m -0.47m -6.35m    #WHEEL POSITION
+ARRESTER  0.00m -0.51m -5.66m    #Arresting hook position
+MACHNGUN  0.25m  0.58m  2.61m   #MACHINE GUN POSITION
+MACHNGN2  -0.25m  0.58m  2.61m  #MACHINE GUN POSITION
+SMOKEGEN  0.0m   0.00m -6.00m    #SMOKE GENERATOR POSITION
+VAPORPO0 -7.18m   0.16m  0.07m   #VAPOR POSITION (Wings Swept Back or no-VGW)
+VAPORPO1  7.18m   0.16m  0.07m   #VAPOR POSITION (Wings Spread)
+HTRADIUS  8.0m                   #OUTSIDE SPHERE RADIUS
+
+GUNSIGHT FALSE
+
+TRIGGER1 GUN
+TRIGGER2 AAM
+TRIGGER3 AGM
+TRIGGER4 SMK
+
+STRENGTH 4
+
+CRITAOAP 16deg               #CRITICAL AOA POSITIVE
+CRITAOAM -10deg               #CRITICAL AOA NEGATIVE
+
+CRITSPED 520km/h            #CRITICAL SPEED
+MAXSPEED 382km/h             #MAXIMUM SPEED
+
+HASSPOIL TRUE                 #HAS SPOILER?
+RETRGEAR FALSE                 #HAS RETRACTABLE LANDING GEAR?
+VARGEOMW FALSE               #HAS VARIABLE GEOMETRY WING?
+
+VGWSPED1 170kt
+VGWSPED2 190kt
+
+
+CLVARGEO 0.0                 #EFFECT OF VARIABLE GEOMETRY WING FOR Cl
+CDVARGEO 0.0                  #EFFECT OF VARIABLE GEOMETRY WING FOR Cd
+CLBYFLAP 0.1                  #EFFECT OF FLAP FOR Cl
+CDBYFLAP 0.2                  #EFFECT OF FLAP FOR Cd
+CDBYGEAR 0.0                  #EFFECT OF GEAR FOR Cd
+CDSPOILR 0.5                  #EFFECT OF SPOILER FOR Cd
+
+WINGAREA 34.9m^2                #WING AREA
+
+MXIPTAOA 17.0deg              #MAX INPUT AOA
+MXIPTSSA 8.0deg               #MAX INPUT SSA
+MXIPTROL 50.0deg             #MAX INPUT ROLL
+
+REM CPITMANE corresponds to Spring Constant K
+REM CPITSTAB corresponds to Damper Constant B
+REM To be critically damped, B=2*sqrt(K)
+REM 2% Settling Time=??
+
+MANESPD1 35kt                 #MINIMUM MANEUVABLE SPEED
+MANESPD2 60kt                 #FULLY MANEUVABLE SPEED
+CPITMANE 6.0                  #PITCH MANEUVERBILITY CONSTANT
+CPITSTAB 3.0                  #PITCH STABILITY CONSTANT
+CYAWMANE 5.0                  #YAW MANEUVABILITY CONSTANT
+CYAWSTAB 3.0                  #YAW STABILITY CONSTANT
+CROLLMAN 3.0                  #ROLL MANEUVABILITY CONSTANT
+
+CTLLDGEA TRUE                 #CONTROL LANDINGGEAR
+CTLBRAKE FALSE                #CONTROL BRAKE
+CTLSPOIL 0.0                  #CONTROL SPOILER
+CTLABRNR FALSE                #CONTROL AFTERBURNER
+CTLTHROT 0.0                  #CONTROL THRUST
+CTLIFLAP 0.0                  #CONTROL FLAP
+CTLINVGW 0.0                  #CONTROL VARIABLE GEOMETRY WING
+CTLATVGW FALSE               #CONTROL AUTO VARIABLE GEOMETRY WING
+
+
+
+POSITION 0m 3ft 0m           #POSITION
+ATTITUDE 45deg 15deg 0deg      #ATTITUDE
+INITFUEL 75%                 #INITIAL FUEL
+INITLOAD 0.0t                 #INITIAL PAYLOAD
+INITSPED 0.0MACH              #INITIAL SPEED
+WEAPONCH GUN
+GUNPOWER 1
+INITIGUN 2000                  #INITIAL GUN
+INITIAAM 0                    #INITIAL AAM
+INITIAGM 0                    #INITIAL AGM
+INITBOMB 3                    #INITIAL BOM
+MAXNBOMB 3
+
+
+BOMBSLOT 0.00m -1.04m 0.23m
+BOMBSLOT -4.40m -0.67m 0.27m
+BOMBSLOT 4.40m -0.67m 0.27m
+
+NMTURRET 1
+TURRETPO 0 0m 0.71m -2.09m 180deg 5deg 0deg      # Number x y z h p b
+TURRETPT 0 -5deg 55deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 0 -30deg 30deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 0 2000                              # Ammo
+TURRETIV 0 0.2sec                            # Number ShootingInterval
+TURRETNM 0 0004                           # DNM Node Name
+TURRETAR 0                                   # Anti Air Capable
+TURRETCT 0 GUNNER                            # Controlled by PILOT or GUNNER
+TURRETRG 0 1000m
+
+RADARCRS 0.001
+
+REM ClZero,CdZero is fixed by Cruising condition
+REFVCRUS 352km/h              #CRUISING SPEED(*1.2
+REFACRUS 13000ft              #CRUISING ALTITUDE
+REFTCRUS 0.8               #CRUISING THROTTLE SETTING
+
+REM ClSlope,CdConst is fixed by Landing condition
+REFVLAND 65kt                 #LANDING SPEED
+REFAOALD 8deg                #LANDING AOA
+REFLNRWY 500m                #RUNWAY REQUIRED TO STOP
+REFTHRLD 0.4                 #LANDING THROTTLE SETTING
+
+AUTOCALC

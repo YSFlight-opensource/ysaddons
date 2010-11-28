@@ -1,0 +1,29 @@
+FIELD
+SKY 37 123 209
+GND 2 34 185
+
+PC2
+FIL shikinejima.pc2
+POS 0.00 0.00 0.00 0 0 0
+END
+FLD
+FIL shikinejima_road.fld
+POS 0.00 0.00 0.00 0 0 0
+END
+FLD
+FIL heliport.fld
+POS -20.00 0.00 980.00 -2555 0 0
+END
+FLD
+FIL rw_port30wl10k.fld
+POS 950.00 0.00 1270.00 -11878 0 0
+END
+
+RGN
+ID 2
+TAG "PORT:Shikinejima"
+ARE -150.00 -180.00 150.00 180.00
+POS 504.01 0.00 1138.55 -12286 0 0
+END
+
+ENDF

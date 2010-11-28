@@ -1,0 +1,26 @@
+FIELD
+SKY 37 123 209
+GND 2 34 185
+
+FLD
+FIL t_coconut3.fld
+POS -120.00 0.00 0.00 8192 0 0
+END
+FLD
+FIL t_coconut3.fld
+POS -60.00 0.00 0.00 4096 0 0
+END
+FLD
+FIL t_coconut3.fld
+POS 0.00 0.00 0.00 0 0 0
+END
+FLD
+FIL t_coconut3.fld
+POS 60.00 0.00 0.00 -4096 0 0
+END
+FLD
+FIL t_coconut3.fld
+POS 120.00 0.00 0.00 -8192 0 0
+END
+
+ENDF

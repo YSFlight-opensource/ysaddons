@@ -1,0 +1,2 @@
+User/oranleed/su7/su7.dat User/oranleed/su7/su7.dnm User/oranleed/su7/su7coll.srf User/oranleed/su7/cockpit.srf User/oranleed/su7/su7coarse.dnm
+User/oranleed/su7/su7BMK(egy).dat User/oranleed/su7/su7BMK(egy).dnm User/oranleed/su7/su7coll.srf User/oranleed/su7/cockpit.srf User/oranleed/su7/su7bmkcoarse.dnm

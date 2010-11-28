@@ -1,0 +1,129 @@
+REM LohNER L
+IDENTIFY "LohNER L"
+CATEGORY WW2BOMBER
+AFTBURNR FALSE                         
+PROPELLR 160HP                 
+WEIGHCLN  1.2t                 
+WEIGFUEL  0.2t                 
+WEIGLOAD  0.3t                
+REM FUELABRN  0.0kg               
+FUELMILI  0.07kg               
+
+COCKPITP  -0.24m  -1.21m  0.35m  
+EXCAMERA "CO-PILOT" 0.24m  -1.21m  0.35m  0deg 0deg 0deg INSIDE
+INSTPANL user/oranleed/lohnerl/lohnerl.ist
+LEFTGEAR  -0.39m -2.34m -2.08m  
+RIGHGEAR  0.39m -2.34m -2.08m  
+WHELGEAR  0.00m  -2.34m 2.00m  
+SMOKEGEN  0.51m  -1.38m -0.38m  
+VAPORPO0  8.11m  0.81m -1.55m  
+VAPORPO1  8.11m  0.81m -1.55m   
+HTRADIUS  8.00m                
+
+TRIGGER1 GUN
+TRIGGER2 AAM
+TRIGGER3 AGM
+TRIGGER4 SMK
+
+STRENGTH 15                     
+
+CRITAOAP  13deg                
+CRITAOAM -10deg                
+
+CRITSPED 100km/h               
+MAXSPEED 105km/h               
+
+HASSPOIL FALSE                 
+RETRGEAR FALSE                 
+VARGEOMW FALSE                 
+
+CLVARGEO 0.0                   #EFFECT OF VARIABLE GEOMETRY WING FOR Cl
+CDVARGEO 0.0                   #EFFECT OF VARIABLE GEOMETRY WING FOR Cd
+CLBYFLAP 0.0                   
+CDBYFLAP 0.0                   
+CDBYGEAR 0.0                   
+CDSPOILR 0.0                   
+
+WINGAREA 53.0m^2              
+
+MXIPTAOA  14.0deg              
+MXIPTSSA  5.0deg              
+MXIPTROL 40.0deg              
+
+REM CPITMANE corresponds to Spring Constant K
+REM CPITSTAB corresponds to Damper Constant B
+REM To be critically damped, B=2*sqrt(K)
+REM 2% Settling Time=??
+
+MANESPD1 30km/h                
+MANESPD2 60km/h                
+CPITMANE 5.0                   
+CPITSTAB 7.0                   
+CYAWMANE 5.0                   
+CYAWSTAB 4.0                   
+CROLLMAN 3.0                   
+
+CTLLDGEA FALSE                 
+CTLBRAKE FALSE                 
+CTLSPOIL FALSE                 
+CTLABRNR FALSE                 
+CTLTHROT 0.0                   
+CTLIFLAP 0.0                   
+CTLINVGW 0.0                   
+CTLATVGW FALSE                 
+
+POSITION 0m 3ft 0m             
+ATTITUDE 45deg 0deg 0deg       
+INITFUEL 75%                   
+INITLOAD 0.0t                  
+INITSPED 0.0MACH               
+
+NMTURRET 1
+TURRETPO 0 0.3m -1.12m 0.83m 0deg 0deg 0deg      # Number x y z h p b
+TURRETPT 0 -35deg 70deg 0deg                  # Number MinPitch MaxPitch NeutralPitch
+TURRETHD 0 -50deg 70deg 0deg               # Number MinHdg MaxHdg NeutralHdg
+TURRETAM 0 1000                              # Ammo
+TURRETIV 0 0.13sec                           # Number ShootingInterval
+TURRETNM 0 0012                               # DNM Node Name
+REM TURRETAR 0                                   # Anti Air Capable
+REM TURRETGD 0                                   # Anti Ground Capable
+TURRETCT 0 PILOT                             # Controlled by the pilot
+
+HRDPOINT 0.74m -1.73m 0.37m B250
+HRDPOINT 0.74m -1.73m 0.37m B250
+BOMVISIB FALSE
+LMTBYHDP TRUE
+LOADWEPN B250 2
+REM GUNPOWER 2
+
+INITIGUN 0                   GUM
+
+RADARCRS 0.001                 
+
+REM REM ClZero,CdZero is fixed by Cruising condition
+REFVCRUS 95km/h               
+REFACRUS 6000ft               
+REFTCRUS 0.8                   
+
+REM REM ClSlope,CdConst is fixed by Landing condition
+REFVLAND 65km/h                
+REFAOALD 7.5deg                 
+REFLNRWY 500m                 
+REFTHRLD 0.5                   
+
+REM SMOKEOIL 0
+REM MAXNMGUN 1000
+REM MAXNMAAM 0
+REM MAXNMAGM 0
+REM MAXNBOMB 0
+REM MAXNMRKT 0
+REM AAMSLOT  0.0m 0.0m 0.0m
+REM AGMSLOT  0.0m 0.0m 0.0m
+REM BOMBSLOT 0.0m 0.0m 0.0m
+REM RKTSLOT  0.0m 0.0m 0.0m
+REM AAMVISIB FALSE
+REM AGMVISIB FALSE
+REM BOMVISIB FALSE
+REM RKTVISIB FALSE
+
+AUTOCALC

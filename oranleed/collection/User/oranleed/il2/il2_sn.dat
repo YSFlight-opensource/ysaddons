@@ -1,0 +1,114 @@
+REM il2 Masa-AT Remixed (oliginal by Daiku)
+IDENTIFY "Il-2(OCP)_''Sleet_of_the_Stalingrad''"
+CATEGORY WW2ATTACKER
+AFTBURNR FALSE                   #HAVE AFTERBURNER?
+PROPELLR 1720HP                  #PROPELLER ENGINE
+WEIGHCLN  4.33t                  #WEIGHT CLEAN
+WEIGFUEL  0.5t                   #WEIGHT OF FUEL
+WEIGLOAD  0.8t                   #WEIGHT OF PAYLOAD
+FUELMILI 0.1kg                   #FUEL CONSUMPTION AT MILITARY POWER
+
+COCKPITP  0.00m  0.80m -0.82m    #COCKPIT POSITION
+INSTPANL user/oranleed/il2/il2.ist
+LEFTGEAR -1.67m -2.13m  0.81m    #LEFT LANDING GEAR POSITION
+RIGHGEAR  1.67m -2.13m  0.81m    #RIGHT LANDING GEAR POSITION
+WHELGEAR  0.00m -0.45m -7.82m    #WHEEL POSITION
+ARRESTER  0.00m -0.51m -5.66m    #Arresting hook position
+MACHNGUN  2.70m -0.31m  1.52m    #MACHINE GUN POSITION
+MACHNGN2 -2.70m -0.31m  1.52m    #MACHINE2 GUN POSITION
+MACHNGN3  0.00m -0.16m  3.50m
+SMOKEGEN  0.0m   -0.825m -0.38m    #SMOKE GENERATOR POSITION
+VAPORPO0 -7.30m -0.04m -0.91m    #VAPOR POSITION (Wings Swept Back or no-VGW)
+VAPORPO1  7.18m  0.16m  0.07m    #VAPOR POSITION (Wings Spread)
+HTRADIUS  8.0m                   #OUTSIDE SPHERE RADIUS
+
+GUNSIGHT FALSE
+
+TRIGGER1 GUN
+TRIGGER2 AAM
+TRIGGER3 AGM
+TRIGGER4 SMK
+
+STRENGTH 11
+
+CRITAOAP 15deg                   #CRITICAL AOA POSITIVE
+CRITAOAM -10deg                  #CRITICAL AOA NEGATIVE
+
+CRITSPED 420km/h                 #CRITICAL SPEED
+MAXSPEED 410km/h                 #MAXIMUM SPEED
+
+HASSPOIL TRUE                    #HAS SPOILER?
+RETRGEAR TRUE                    #HAS RETRACTABLE LANDING GEAR?
+VARGEOMW FALSE                   #HAS VARIABLE GEOMETRY WING?
+  
+VGWSPED1 170kt
+VGWSPED2 190kt
+
+
+CLVARGEO 0.0                     #EFFECT OF VARIABLE GEOMETRY WING FOR Cl
+CDVARGEO 0.0                     #EFFECT OF VARIABLE GEOMETRY WING FOR Cd
+CLBYFLAP 0.1                     #EFFECT OF FLAP FOR Cl
+CDBYFLAP 0.2                     #EFFECT OF FLAP FOR Cd
+CDBYGEAR 0.3                     #EFFECT OF GEAR FOR Cd
+CDSPOILR 1.0                     #EFFECT OF SPOILER FOR Cd
+
+WINGAREA 38.5m^2                 #WING AREA
+
+MXIPTAOA 17.0deg                 #MAX INPUT AOA
+MXIPTSSA 8.0deg                  #MAX INPUT SSA
+MXIPTROL 60.0deg                 #MAX INPUT ROLL
+
+REM CPITMANE corresponds to Spring Constant K
+REM CPITSTAB corresponds to Damper Constant B
+REM To be critically damped, B=2*sqrt(K)
+REM 2% Settling Time=??
+
+MANESPD1 45kt                    #MINIMUM MANEUVABLE SPEED
+MANESPD2 60kt                    #FULLY MANEUVABLE SPEED
+CPITMANE 6.0                     #PITCH MANEUVERBILITY CONSTANT
+CPITSTAB 3.0                     #PITCH STABILITY CONSTANT
+CYAWMANE 5.0                     #YAW MANEUVABILITY CONSTANT
+CYAWSTAB 3.0                     #YAW STABILITY CONSTANT
+CROLLMAN 2.0                     #ROLL MANEUVABILITY CONSTANT
+
+CTLLDGEA TRUE                   #CONTROL LANDINGGEAR
+CTLBRAKE FALSE                   #CONTROL BRAKE
+CTLSPOIL 0.0                     #CONTROL SPOILER
+CTLABRNR FALSE                   #CONTROL AFTERBURNER
+CTLTHROT 0.0                     #CONTROL THRUST
+CTLIFLAP 0.0                     #CONTROL FLAP
+CTLINVGW 0.0                     #CONTROL VARIABLE GEOMETRY WING
+CTLATVGW FALSE                   #CONTROL AUTO VARIABLE GEOMETRY WING
+
+
+
+POSITION 0m 3ft 0m               #POSITION
+ATTITUDE 45deg 15deg 0deg        #ATTITUDE
+INITFUEL 75%                     #INITIAL FUEL
+INITLOAD 0.0t                    #INITIAL PAYLOAD
+INITSPED 0.0MACH                 #INITIAL SPEED
+WEAPONCH GUN
+
+INITIGUN 2000                    #INITIAL GUN
+INITIAAM 0                       #INITIAL AAM
+INITIAGM 0                       #INITIAL AGM
+INITBOMB 2                       #INITIAL BOM
+MAXNBOMB 2
+
+BOMBSLOT -0.92m -0.80m 0.39m
+BOMBSLOT  0.92m -0.80m 0.39m
+
+RADARCRS 0.001
+
+REM ClZero,CdZero is fixed by Cruising condition
+REFVCRUS 382km/h                 #CRUISING SPEED(*1.2
+REFACRUS 14000ft                 #CRUISING ALTITUDE
+REFTCRUS 0.8                     #CRUISING THROTTLE SETTING
+
+REM ClSlope,CdConst is fixed by Landing condition
+REFVLAND 80kt                    #LANDING SPEED
+REFAOALD 8deg                    #LANDING AOA
+REFLNRWY 500m                    #RUNWAY REQUIRED TO STOP
+REFTHRLD 0.42                     #LANDING THROTTLE SETTING
+
+AUTOCALC

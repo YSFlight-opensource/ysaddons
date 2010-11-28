@@ -1,0 +1,43 @@
+■追加方法
+　解凍してできたUser・aircraftフォルダを、YSFrightフォルダに移動してください。
+
+*Bomb Bey Door 開閉キー（デフォルトで１）で編隊灯・航法灯が点灯します。
+*Thrust Vector Down キー（デフォルトでPage Down）でキャノピーが開き主翼が折りたたまれます。（フラップがダウンの状態にあわせてあります）
+
+■cockpitについて
+　Non-OpenGL を使用している方は[cockpit (non-GL)]フォルダ内のものに差し替えてください。
+  cockpit (high detail) : おまけです。重いです。
+
+
+出展を明記していただければ、基本的に改造・再配布は自由にしていただいてかまいません。
+
+■更新履歴
+  07/07/18 : 全面改修
+  02-03ごろ： 公開
+
+Mail: s.c-mail@mx.scn.tv
+
+
+-----------------------------------------------------
+
+
+■Installation
+  Copy the unzipped folders ("User" and "Aircraft") to your main YSflight folder.
+
+*Use the bomb-bay door open/close key to turn on the formation lights and the navigation lights.
+*Use the Thrust Vector Down key to open the canopy and to fold the wing.（When flaps are down.）
+
+■About a cockpit
+  If you are using a Non-OpenGL version, please replace "fa-18c(S.C)_cockpit.srf" with the same one in "cockpit (Non-OpenGL)" folder.
+  cockpit (high detail) : Just an appendix. So heavy.
+
+
+Anyone can pubulish modified this data to declare my name ("S.C") or the name of the PACK ("O.C.P").
+
+■Version History
+  18 Jul 2007 : Full-scale fixes.
+   ?  ? 02-03 : Initial release.
+
+All files are copyright by S.C
+Mail: s.c-mail@mx.scn.tv
+

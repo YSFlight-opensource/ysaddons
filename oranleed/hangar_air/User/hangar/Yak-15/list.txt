@@ -1,0 +1,1 @@
+user/hangar/Yak-15/Yak15.dat user/hangar/Yak-15/Yak15.dnm user/hangar/Yak-15/Yak15cl.srf user/hangar/Yak-15/Yak15cpt.srf

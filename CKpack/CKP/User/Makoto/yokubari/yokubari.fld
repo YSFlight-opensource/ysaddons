@@ -1,0 +1,184 @@
+FIELD
+GND 34 52 72
+SKY 68 104 145
+RGN
+ARE -200000.000000 -200000.000000 200000.000000 200000.000000
+POS 0.00 0.00 0.00 0.00 0.00 0.00
+ID 0
+TAG "yokubari"
+END
+
+FLD
+FIL ground/ground.fld
+POS 0 0 0 0 0 0
+END
+
+FLD
+FIL central/central-airport.fld
+POS 22845.00 0.00 -37665.00 -0.00 0.00 -0.00
+END
+
+FLD
+FIL central/central.fld
+POS 31093.91 0.00 -27037.37 0.00 0.00 0.00
+END
+
+FLD
+FIL central/hill1.fld
+POS 19606.49 0.00 19373.68 0.00 0.00 0.00
+END
+
+FLD
+FIL central/hill2.fld
+POS 63684.56 -0.00 13917.33 3640.89 0.00 -0.00
+END
+
+FLD
+FIL central/mountain1.fld
+POS 41675.62 0.00 -55191.97 -15837.87 -0.00 0.00
+END
+
+FLD
+FIL central/mountain2.fld
+POS 131925.95 0.00 -91485.14 -9357.08 0.00 0.00
+END
+
+FLD
+FIL central/mountain3.fld
+POS 152000.00 0.00 -56000.00 0.00 0.00 0.00
+END
+
+FLD
+FIL central/mountain4.fld
+POS 159482.54 0.00 -65396.59 0.00 0.00 0.00
+END
+
+FLD
+FIL central/ness.fld
+POS -19148.05 0.00 40837.71 -7500.23 -0.00 0.00
+END
+
+FLD
+FIL desert/gold-airport.fld
+POS -125052.13 0.00 -140385.81 16384.00 0.00 -0.00
+END
+
+FLD
+FIL desert/gold.fld
+POS -123651.03 0.00 -134941.60 0.00 0.00 0.00
+END
+
+FLD
+FIL desert/desert1.fld
+POS -136000.00 0.00 -56000.00 0.00 0.00 0.00
+END
+
+FLD
+FIL desert/desert2.fld
+POS -85103.45 0.00 -31990.70 0.00 0.00 0.00
+END
+
+FLD
+FIL desert/ruin.fld
+POS -77327.23 0.00 -3942.93 0.00 0.00 0.00
+END
+
+FLD
+FIL forest/easton-airport.fld
+POS 164937.48 0.00 31364.22 -0.00 0.00 -0.00
+END
+
+FLD
+FIL forest/easton.fld
+POS 152505.59 0.00 31992.96 0.00 0.00 0.00
+END
+
+FLD
+FIL forest/village.fld
+POS 140147.31 0.00 51977.61 -7281.78 0.00 0.00
+END
+
+FLD
+FIL forest/mountain1.fld
+POS 117595.85 0.00 117205.63 0.00 0.00 0.00
+END
+
+FLD
+FIL forest/mountain2.fld
+POS 152000.00 0.00 40000.00 0.00 0.00 0.00
+END
+
+FLD
+FIL canyon/lake.fld
+POS -66455.03 0.00 -174007.99 0.00 0.00 0.00
+END
+
+FLD
+FIL canyon/canyon.fld
+POS -2770.59 0.00 -114963.64 3640.89 0.00 -0.00
+END
+
+FLD
+FIL canyon/mountain.fld
+POS -40612.50 0.00 -72937.50 5716.20 0.00 -0.00
+END
+
+FLD
+FIL white/mountain1.fld
+POS -125108.10 0.00 82581.23 0.00 0.00 0.00
+END
+
+FLD
+FIL white/mountain2.fld
+POS -50501.32 0.00 97003.15 0.00 0.00 0.00
+END
+
+FLD
+FIL white/mountain3.fld
+POS 30569.26 0.00 82200.75 0.00 0.00 0.00
+END
+
+FLD
+FIL white/masiro-airport.fld
+POS 32262.80 0.00 128863.89 29127.13 0.00 -0.00
+END
+
+FLD
+FIL white/masiro.fld
+POS 17626.28 0.00 109110.13 25959.56 0.00 -0.00
+END
+
+FLD
+FIL white/samui-airport.fld
+POS -113806.28 0.00 112843.32 -12743.11 0.00 -0.00
+END
+
+FLD
+FIL white/samui.fld
+POS -75791.16 -0.00 107295.52 32768.00 0.00 -0.00
+END
+
+FLD
+FIL white/fairy.fld
+POS -29799.76 0.00 134040.15 32768.00 0.00 -0.00
+END
+
+FLD
+FIL valley/hill.fld
+POS 152000.00 0.00 -152000.00 0.00 0.00 0.00
+END
+
+FLD
+FIL valley/valley.fld
+POS 56000.00 0.00 -152000.00 0.00 0.00 0.00
+END
+FLD
+
+FIL xe/xe.fld
+POS 164157.45 0.00 118834.53 0.00 0.00 0.00
+END
+
+FLD
+FIL ys/ys.fld
+POS 177321.28 0.00 -90488.72 0.00 0.00 0.00
+END

@@ -1,0 +1,580 @@
+FIELD
+SKY 32 180 180
+GND 32 128 32
+PC2
+FIL _t_tree_shadow.pc2
+POS 143.71 -0.01 -660.50 0 0 0
+END
+PLT
+FIL _t_tree_top.pc2
+POS 143.71 8.00 -660.50 0 -16384 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS 143.71 0.00 -660.50 0 0 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS 143.71 0.00 -660.50 16384 0 0
+END
+PC2
+FIL _t_tree_shadow.pc2
+POS -1134.68 -0.01 1445.08 0 0 0
+END
+PLT
+FIL _t_tree_top.pc2
+POS -1134.68 8.00 1445.08 0 -16384 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS -1134.68 0.00 1445.08 0 0 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS -1134.68 0.00 1445.08 16384 0 0
+END
+PC2
+FIL _t_tree_shadow.pc2
+POS -1569.26 -0.01 -132.29 0 0 0
+END
+PLT
+FIL _t_tree_top.pc2
+POS -1569.26 8.00 -132.29 0 -16384 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS -1569.26 0.00 -132.29 0 0 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS -1569.26 0.00 -132.29 16384 0 0
+END
+PC2
+FIL _t_tree_shadow.pc2
+POS 1293.83 -0.01 3783.96 0 0 0
+END
+PLT
+FIL _t_tree_top.pc2
+POS 1293.83 8.00 3783.96 0 -16384 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS 1293.83 0.00 3783.96 0 0 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS 1293.83 0.00 3783.96 16384 0 0
+END
+PC2
+FIL _t_tree_shadow.pc2
+POS -218.19 -0.01 3909.07 0 0 0
+END
+PLT
+FIL _t_tree_top.pc2
+POS -218.19 8.00 3909.07 0 -16384 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS -218.19 0.00 3909.07 0 0 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS -218.19 0.00 3909.07 16384 0 0
+END
+PC2
+FIL _t_tree_shadow.pc2
+POS 639.65 -0.01 2957.60 0 0 0
+END
+PLT
+FIL _t_tree_top.pc2
+POS 639.65 8.00 2957.60 0 -16384 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS 639.65 0.00 2957.60 0 0 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS 639.65 0.00 2957.60 16384 0 0
+END
+PC2
+FIL _t_tree_shadow.pc2
+POS -197.02 -0.01 1702.99 0 0 0
+END
+PLT
+FIL _t_tree_top.pc2
+POS -197.02 8.00 1702.99 0 -16384 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS -197.02 0.00 1702.99 0 0 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS -197.02 0.00 1702.99 16384 0 0
+END
+PC2
+FIL _t_tree_shadow.pc2
+POS -676.77 -0.01 405.45 0 0 0
+END
+PLT
+FIL _t_tree_top.pc2
+POS -676.77 8.00 405.45 0 -16384 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS -676.77 0.00 405.45 0 0 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS -676.77 0.00 405.45 16384 0 0
+END
+PC2
+FIL _t_tree_shadow.pc2
+POS 66.29 -0.01 159.45 0 0 0
+END
+PLT
+FIL _t_tree_top.pc2
+POS 66.29 8.00 159.45 0 -16384 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS 66.29 0.00 159.45 0 0 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS 66.29 0.00 159.45 16384 0 0
+END
+PC2
+FIL _t_tree_shadow.pc2
+POS 1706.69 -0.01 471.62 0 0 0
+END
+PLT
+FIL _t_tree_top.pc2
+POS 1706.69 8.00 471.62 0 -16384 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS 1706.69 0.00 471.62 0 0 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS 1706.69 0.00 471.62 16384 0 0
+END
+PC2
+FIL _t_tree_shadow.pc2
+POS 518.83 -0.01 1221.27 0 0 0
+END
+PLT
+FIL _t_tree_top.pc2
+POS 518.83 8.00 1221.27 0 -16384 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS 518.83 0.00 1221.27 0 0 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS 518.83 0.00 1221.27 16384 0 0
+END
+PC2
+FIL _t_tree_shadow.pc2
+POS -14.26 -0.01 2303.31 0 0 0
+END
+PLT
+FIL _t_tree_top.pc2
+POS -14.26 8.00 2303.31 0 -16384 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS -14.26 0.00 2303.31 0 0 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS -14.26 0.00 2303.31 16384 0 0
+END
+PC2
+FIL _t_tree_shadow.pc2
+POS -1134.35 -0.01 2458.58 0 0 0
+END
+PLT
+FIL _t_tree_top.pc2
+POS -1134.35 8.00 2458.58 0 -16384 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS -1134.35 0.00 2458.58 0 0 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS -1134.35 0.00 2458.58 16384 0 0
+END
+PC2
+FIL _t_tree_shadow.pc2
+POS -1216.82 -0.01 2510.13 0 0 0
+END
+PLT
+FIL _t_tree_top.pc2
+POS -1216.82 8.00 2510.13 0 -16384 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS -1216.82 0.00 2510.13 0 0 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS -1216.82 0.00 2510.13 16384 0 0
+END
+PC2
+FIL _t_tree_shadow.pc2
+POS -1165.28 -0.01 2598.79 0 0 0
+END
+PLT
+FIL _t_tree_top.pc2
+POS -1165.28 8.00 2598.79 0 -16384 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS -1165.28 0.00 2598.79 0 0 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS -1165.28 0.00 2598.79 16384 0 0
+END
+PC2
+FIL _t_tree_shadow.pc2
+POS -1524.93 -0.01 4165.72 0 0 0
+END
+PLT
+FIL _t_tree_top.pc2
+POS -1524.93 8.00 4165.72 0 -16384 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS -1524.93 0.00 4165.72 0 0 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS -1524.93 0.00 4165.72 16384 0 0
+END
+PC2
+FIL _t_tree_shadow.pc2
+POS 899.66 -0.01 6305.04 0 0 0
+END
+PLT
+FIL _t_tree_top.pc2
+POS 899.66 8.00 6305.04 0 -16384 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS 899.66 0.00 6305.04 0 0 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS 899.66 0.00 6305.04 16384 0 0
+END
+PC2
+FIL _t_tree_shadow.pc2
+POS 2573.03 -0.01 -3794.24 0 0 0
+END
+PLT
+FIL _t_tree_top.pc2
+POS 2573.03 8.00 -3794.24 0 -16384 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS 2573.03 0.00 -3794.24 0 0 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS 2573.03 0.00 -3794.24 16384 0 0
+END
+PC2
+FIL _t_tree_shadow.pc2
+POS 1646.93 -0.01 -1905.51 0 0 0
+END
+PLT
+FIL _t_tree_top.pc2
+POS 1646.93 8.00 -1905.51 0 -16384 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS 1646.93 0.00 -1905.51 0 0 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS 1646.93 0.00 -1905.51 16384 0 0
+END
+PC2
+FIL _t_tree_shadow.pc2
+POS -3461.20 -0.01 -1653.61 0 0 0
+END
+PLT
+FIL _t_tree_top.pc2
+POS -3461.20 8.00 -1653.61 0 -16384 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS -3461.20 0.00 -1653.61 0 0 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS -3461.20 0.00 -1653.61 16384 0 0
+END
+PC2
+FIL _t_tree_shadow.pc2
+POS -113.41 -0.01 6637.27 0 0 0
+END
+PLT
+FIL _t_tree_top.pc2
+POS -113.41 8.00 6637.27 0 -16384 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS -113.41 0.00 6637.27 0 0 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS -113.41 0.00 6637.27 16384 0 0
+END
+PC2
+FIL _t_tree_shadow.pc2
+POS -86.20 -0.01 5865.34 0 0 0
+END
+PLT
+FIL _t_tree_top.pc2
+POS -86.20 8.00 5865.34 0 -16384 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS -86.20 0.00 5865.34 0 0 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS -86.20 0.00 5865.34 16384 0 0
+END
+PC2
+FIL _t_tree_shadow.pc2
+POS -118.01 -0.01 4903.49 0 0 0
+END
+PLT
+FIL _t_tree_top.pc2
+POS -118.01 8.00 4903.49 0 -16384 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS -118.01 0.00 4903.49 0 0 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS -118.01 0.00 4903.49 16384 0 0
+END
+PC2
+FIL _t_tree_shadow.pc2
+POS 852.15 -0.01 6403.03 0 0 0
+END
+PLT
+FIL _t_tree_top.pc2
+POS 852.15 8.00 6403.03 0 -16384 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS 852.15 0.00 6403.03 0 0 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS 852.15 0.00 6403.03 16384 0 0
+END
+PC2
+FIL _t_tree_shadow.pc2
+POS 911.54 -0.01 6373.34 0 0 0
+END
+PLT
+FIL _t_tree_top.pc2
+POS 911.54 8.00 6373.34 0 -16384 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS 911.54 0.00 6373.34 0 0 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS 911.54 0.00 6373.34 16384 0 0
+END
+PC2
+FIL _t_tree_shadow.pc2
+POS -210.22 -0.01 8440.61 0 0 0
+END
+PLT
+FIL _t_tree_top.pc2
+POS -210.22 8.00 8440.61 0 -16384 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS -210.22 0.00 8440.61 0 0 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS -210.22 0.00 8440.61 16384 0 0
+END
+PC2
+FIL _t_tree_shadow.pc2
+POS 1214.98 -0.01 7990.60 0 0 0
+END
+PLT
+FIL _t_tree_top.pc2
+POS 1214.98 8.00 7990.60 0 -16384 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS 1214.98 0.00 7990.60 0 0 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS 1214.98 0.00 7990.60 16384 0 0
+END
+PC2
+FIL _t_tree_shadow.pc2
+POS -990.52 -0.01 6789.71 0 0 0
+END
+PLT
+FIL _t_tree_top.pc2
+POS -990.52 8.00 6789.71 0 -16384 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS -990.52 0.00 6789.71 0 0 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS -990.52 0.00 6789.71 16384 0 0
+END
+PC2
+FIL _t_tree_shadow.pc2
+POS -129.03 -0.01 7272.16 0 0 0
+END
+PLT
+FIL _t_tree_top.pc2
+POS -129.03 8.00 7272.16 0 -16384 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS -129.03 0.00 7272.16 0 0 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS -129.03 0.00 7272.16 16384 0 0
+END
+PC2
+FIL _t_tree_shadow.pc2
+POS -85.91 -0.01 7149.31 0 0 0
+END
+PLT
+FIL _t_tree_top.pc2
+POS -85.91 8.00 7149.31 0 -16384 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS -85.91 0.00 7149.31 0 0 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS -85.91 0.00 7149.31 16384 0 0
+END
+PC2
+FIL _t_tree_shadow.pc2
+POS -120.28 -0.01 7039.35 0 0 0
+END
+PLT
+FIL _t_tree_top.pc2
+POS -120.28 8.00 7039.35 0 -16384 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS -120.28 0.00 7039.35 0 0 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS -120.28 0.00 7039.35 16384 0 0
+END
+PC2
+FIL _t_tree_shadow.pc2
+POS -116.84 -0.01 6826.28 0 0 0
+END
+PLT
+FIL _t_tree_top.pc2
+POS -116.84 8.00 6826.28 0 -16384 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS -116.84 0.00 6826.28 0 0 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS -116.84 0.00 6826.28 16384 0 0
+END
+PC2
+FIL _t_tree_shadow.pc2
+POS -79.04 -0.01 6925.94 0 0 0
+END
+PLT
+FIL _t_tree_top.pc2
+POS -79.04 8.00 6925.94 0 -16384 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS -79.04 0.00 6925.94 0 0 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS -79.04 0.00 6925.94 16384 0 0
+END
+PC2
+FIL _t_tree_shadow.pc2
+POS -70.45 -0.01 6736.93 0 0 0
+END
+PLT
+FIL _t_tree_top.pc2
+POS -70.45 8.00 6736.93 0 -16384 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS -70.45 0.00 6736.93 0 0 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS -70.45 0.00 6736.93 16384 0 0
+END
+PC2
+FIL _t_tree_shadow.pc2
+POS -20748.68 -0.01 17874.80 0 0 0
+END
+PLT
+FIL _t_tree_top.pc2
+POS -20748.68 8.00 17874.80 0 -16384 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS -20748.68 0.00 17874.80 0 0 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS -20748.68 0.00 17874.80 16384 0 0
+END
+PC2
+FIL _t_tree_shadow.pc2
+POS 29804.91 -0.01 43461.22 0 0 0
+END
+PLT
+FIL _t_tree_top.pc2
+POS 29804.91 8.00 43461.22 0 -16384 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS 29804.91 0.00 43461.22 0 0 0
+END
+PLT
+FIL _t_tree_side.pc2
+POS 29804.91 0.00 43461.22 16384 0 0
+END
+ENDF

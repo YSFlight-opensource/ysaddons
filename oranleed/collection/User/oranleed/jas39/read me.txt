@@ -1,0 +1,2 @@
+user/oranleed/jas39/jas39.dat user/oranleed/jas39/jas39.dnm user/oranleed/jas39/jas39coll.srf user/oranleed/jas39/jas39cockpit.srf user/oranleed/jas39/jas39coarse.dnm
+user/oranleed/jas39/jas39(hv).dat user/oranleed/jas39/jas39(hv).dnm user/oranleed/jas39/jas39coll.srf user/oranleed/jas39/jas39cockpit.srf user/oranleed/jas39/jas39coarse.dnm

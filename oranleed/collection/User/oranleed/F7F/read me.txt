@@ -1,0 +1,12 @@
+グラマン　F7F-3 タイガーキャット艦上戦闘機
+全長: 13.83m
+全幅: 15.70m
+全高:  5.05m
+自重:7,380kg
+最高速度:700km/h
+武装:12.7mm機銃×4  20mm機関砲×4
+生産機数330機
+
+aircraftフォルダの中のaircraft.lstに次の一行を追加して、上書き保存してください。
+
+user/oranleed/F7F/f7f.dat user/oranleed/F7F/f7f.dnm user/oranleed/F7F/f7fcoll.srf user/oranleed/F7F/f7fcockpit.srf user/oranleed/F7F/f7fcoarse.dnm

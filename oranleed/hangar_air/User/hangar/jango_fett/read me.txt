@@ -1,0 +1,25 @@
+キリバンGET記念品
+
+StarWarsエピソード2出演のジャンゴフェットです。
+
+可動部はそこそこあります。武器を使用する際は、フラップキーで銃を構えてからご使用ください。
+銃を構えたまま歩行または、しゃがむと、とてつもなく格好が悪いので気を付けてください。
+1キー、逆噴射キーが動きます。いろいろ動かしてみてください。ですが、首は飛びませんよ。
+本来なら各種武器を再現したかったのですが、可動部が少なかったので断念いたしました。
+
+
+
+
+
+
+
+
+user/hangar/Jango_Fett/jango.dat user/hangar/Jango_Fett/jango.dnm user/hangar/Jango_Fett/jango_cl.srf user/hangar/Jango_Fett/jango_ck.srf user/hangar/Jango_Fett/jango_coarse.dnm
+
+
+
+
+
+
+
+　　　　　　　　　　　　　　　　　　　　　　　　　　Takoyaki
