@@ -1,0 +1,31 @@
+飛べない豚の飛行物体　Ｎｏ47
+
+大型の輸送機　Ａ３００－６０８　ベルーガ　です。
+この飛行機、世界中に数機しかいない珍しいヤツなんですけど、エアバス社の作りかけの機体なんかを
+運ぶための機体です。
+妙な形ですけど、楽しんでください。
+
+特徴
+１　一通り色々な部分が動きます。
+
+２　低速時にはカーゴドアが開きます。
+
+インストール
+１　このファイルと同じ場所にあるＵｓｅｒフォルダーを以下の場所にコピー(上書き)して下さい。
+　　programfiles　-　YSDYNAMICS - YS Flight Simulation System2000
+
+　　　　　　　　　　-　User - buta - aircraftというフォルダー構成になるはずです。
+   
+２　aircraftフォルダー内の、aircraft.lstに以下の文を書き足してください。
+
+User/buta/aircraft/beluga.dat User/buta/aircraft/beluga.dnm User/buta/aircraft/belugacoll.srf User/buta/aircraft/belugacockpit.srf User/buta/aircraft/belugacoarse.srf
+
+アンインストール
+上記のインストール内容を全て消してください。
+
+ご注意
+このデータを使っての全ての不具合などには、責任を負いません。全てユーザー各自の責任で
+ご利用ください。尚、これらの追加データを使っての不具合、問い合わせ等をプログラム作者の
+山川機長にしないよう、お願いします。
+不明な点などがありましたら、飛べない豚のホームページ　又はダウンロードしたホームページ様
+までご連絡ください。
