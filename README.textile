@@ -1,0 +1,13 @@
+h1. +YSFlight Addon Repository+
+
+A addon system for YS that provides easy updating of mods, and for modders to easily publish newly released addons to the YS community. This is meant to be a user-friendly update system that requires little knowledge of how to use SVN, or how to install addons. The main userbase is new YS players, to make it easy for them to install new addons and become a thriving member of the YS community.
+
+How to use the repository:
+# Download the repository's client from :
+# Run the client, and select which addons you want to install (check them).
+# Press the "Install/Update" button, and wait for the addons to be downloaded. If you already downloaded them previously, they will be updated to the latest version (if there is a newer one avilable).
+# To remove addons, uncheck the addons that are installed, and then press the "Install/Update" button. This will remove the addons you have unchecked, and update any addons that you still want to be installed (are checked).
+# Contribute! To become a moderator of the repository, or to sign up to use this repository as a distribution platform for your addons, please contact one of the repository admins or post on the repo topic in YSP: 
+
+Thank you for using the YSFlight Addon Repository.
+ - erict15, Coordinator
