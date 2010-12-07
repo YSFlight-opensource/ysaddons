@@ -22,18 +22,13 @@ user/major/china/La-11_PLAAF.dat user/major/china/La-11_PLAAF.dnm user/major/chi
 user/major/china/Il-10_PLAAF.dat user/major/china/Il-10_PLAAF.dnm user/major/china/il10coll.srf user/major/china/il10cpt.srf
 user/major/china/Mig-15_PLAAF.dat user/major/china/Mig-15_PLAAF.dnm user/major/china/mig15coll.srf user/major/china/mig15nkcockpit.srf user/major/china/mig15crs.dnm
 user/major/china/Mig-17_PLAAF.dat user/major/china/Mig-17_PLAAF.dnm user/major/china/mig17coll.srf user/major/china/null.srf user/major/china/mig17crs2.srf
-user/major/china/J-11_PLAAF.dat user/major/china/J-11_PLAAF.dnm user/major/china/j11cl.srf user/major/china/j11cpt.srf user/major/china/j11crs.dnm
 
 user/major/Spain/I-16_Spain.dat user/major/Spain/I-16_Spain.dnm user/major/Spain/I-16_cl.srf user/major/Spain/I-16_cpt.srf user/major/Spain/i16crs.srf
 user/major/Spain/Me-109_Spain.dat user/major/Spain/Me-109_Spain.dnm user/major/Spain/109coll.srf user/major/Spain/null.srf user/major/Spain/109crs.dnm
 
 user/major/thing/loach_VTOL.dat user/major/thing/loach_VTOL.dnm user/major/thing/oh6coll.srf user/major/thing/oh6cpt.srf    
-user/major/thing/megahind.dat user/major/thing/megahind.dnm user/major/thing/mi24coll.srf user/major/thing/null.srf user/major/thing/megacrs.dnm
 
 user/major/me/spitfire_EGYPT.dat user/major/me/spitfire_EGYPT.dnm user/major/me/spitfire1cl.srf user/major/me/null.srf
-user/major/me/MiG-15_EGYPT.dat user/major/me/MiG-15_EGYPT.dnm user/major/me/mig15cl.srf user/major/me/null.srf
-user/major/me/MiG-17_EGYPT1.dat user/major/me/MiG-17_EGYPT1.dnm user/major/me/mig17cl.srf user/major/me/null.srf
-user/major/me/MiG-17_EGYPT2.dat user/major/me/MiG-17_EGYPT2.dnm user/major/me/mig17cl.srf user/major/me/null.srf
 user/major/me/Il-28_EGYPT.dat user/major/me/Il-28_EGYPT.dnm user/major/me/il28cl.srf user/major/me/null.srf
 user/major/me/MiG-19A_EGYPT.dat user/major/me/MiG-19A_EGYPT.dnm user/major/me/mig19cl.srf user/major/me/null.srf
 user/major/me/MiG-19_EGYPT.dat user/major/me/MiG-19_EGYPT.dnm user/major/me/mig19cl.srf user/major/me/null.srf
@@ -51,24 +46,19 @@ user/major/me/B-17_ISRAEL.dat user/major/me/B-17_ISRAEL.dnm user/major/me/b17col
 user/major/me/spitfire1_ISRAEL.dat user/major/me/spitfire1_ISRAEL.dnm user/major/me/spitfire1cl.srf user/major/me/null.srf
 user/major/me/spitfire2_ISRAEL.dat user/major/me/spitfire2_ISRAEL.dnm user/major/me/spitfire1cl.srf user/major/me/null.srf
 user/major/me/P-51_ISRAEL.dat user/major/me/P-51_ISRAEL.dnm user/major/me/p51dcl.srf user/major/me/null.srf
-user/major/me/Ouragan_ISRAEL.dat user/major/me/Ouragan_ISRAEL.dnm user/major/me/ouragancl.srf user/major/me/null.srf
-user/major/me/Mystere_ISRAEL.dat user/major/me/Mystere_ISRAEL.dnm user/major/me/mysterecl.srf user/major/me/null.srf
-user/major/me/SMystere_ISRAEL.dat user/major/me/SMystere_ISRAEL.dnm user/major/me/smysterecl.srf user/major/me/null.srf
-user/major/me/SMystere_ISRAEL2.dat user/major/me/SMystere_ISRAEL2.dnm user/major/me/smysterecl.srf user/major/me/null.srf
-user/major/me/S-58_ISRAEL.dat user/major/me/S-58_ISRAEL.dnm user/major/me/s58cl.srf user/major/me/null.srf
+user/major/me/Ouragan_ISRAEL.dat user/major/me/Ouragan_ISRAEL.dat user/major/me/ouragancl.srf user/major/me/null.srf
+user/major/me/Mystere_ISRAEL.dat user/major/me/Mystere_ISRAEL.dat user/major/me/mysterecl.srf user/major/me/null.srf
+user/major/me/SMystere_ISRAEL.dat user/major/me/SMystere_ISRAEL.dat user/major/me/smysterecl.srf user/major/me/null.srf
+user/major/me/SMystere_ISRAEL2.dat user/major/me/SMystere_ISRAEL2.dat user/major/me/smysterecl.srf user/major/me/null.srf
+user/major/me/S-58_ISRAEL.dat user/major/me/S-58_ISRAEL.dat user/major/me/s58cl.srf user/major/me/null.srf
 user/major/me/Kfir_ISRAEL.dat user/major/me/Kfir_ISRAEL.dnm user/major/me/mrg3cl.srf user/major/me/null.srf
 user/major/me/Mirage_ISRAEL.dat user/major/me/Mirage_ISRAEL.dnm user/major/me/mrg3cl.srf user/major/me/null.srf
 user/major/me/F-4E_ISRAEL.dat user/major/me/F-4E_ISRAEL.dnm user/major/me/f4cl.srf user/major/me/null.srf
 user/major/me/A-4C_ISRAEL.dat user/major/me/A-4C_ISRAEL.dnm user/major/me/a4cl.srf user/major/me/null.srf
 user/major/me/A-4N_ISRAEL.dat user/major/me/A-4N_ISRAEL.dnm user/major/me/a4cl.srf user/major/me/null.srf
-user/major/me/UH-1_ISRAEL.dat user/major/me/UH-1_ISRAEL.dnm user/major/me/hueycl.srf user/major/me/null.srf
-user/major/me/MD500_ISRAEL.dat user/major/me/MD500_ISRAEL.dnm user/major/me/h500cl.srf user/major/me/null.srf
-user/major/me/CH-53_ISRAEL.dat user/major/me/CH-53_ISRAEL.dnm user/major/me/ch53cl.srf user/major/me/null.srf
 user/major/me/C-130H_ISRAEL.dat user/major/me/C-130H_ISRAEL.dnm user/major/me/c130cl.srf user/major/me/null.srf
-user/major/me/F-16C_ISRAEL.dat user/major/me/F-16C_ISRAEL.dnm user/major/me/f16cl.srf user/major/me/null.srf
 user/major/me/F-16I_ISRAEL.dat user/major/me/F-16I_ISRAEL.dnm user/major/me/f16cl.srf user/major/me/null.srf
 user/major/me/F-15C_ISRAEL.dat user/major/me/F-15C_ISRAEL.dnm user/major/me/f15cl.srf user/major/me/null.srf
-user/major/me/F-15C_ISRAEL_winged.dat user/major/me/F-15C_ISRAEL_winged.dnm user/major/me/f15cl.srf user/major/me/null.srf
 user/major/me/F-15I_ISRAEL.dat user/major/me/F-15I_ISRAEL.dnm user/major/me/f15cl.srf user/major/me/null.srf
 user/major/me/AH-1S_ISRAEL.dat user/major/me/AH-1S_ISRAEL.dnm user/major/me/cobracl.srf user/major/me/null.srf
 user/major/me/AH-64A_ISRAEL.dat user/major/me/AH-64A_ISRAEL.dnm user/major/me/apachecl.srf user/major/me/null.srf
@@ -90,9 +80,37 @@ user/major/me/gazelle_LEBANON.dat user/major/me/gazelle_LEBANON.dnm user/major/m
 user/major/me/OH-6D_JORDAN.dat user/major/me/OH-6D_JORDAN.dnm user/major/me/h500cl.srf user/major/me/null.srf
 user/major/me/T-6_SYRIA.dat user/major/me/T-6_SYRIA.dnm user/major/me/texancoll.srf user/major/me/null.srf
 user/major/me/gazelle_Syria.dat user/major/me/gazelle_Syria.dnm user/major/me/gazellecoll.srf user/major/me/null.srf
-user/major/me/Sa-3_EGYPT1.dat user/major/me/Sa-3_EGYPT1.dnm user/major/me/truckcl.srf user/major/me/null.srf
-user/major/me/Sa-6_EGYPT.dat user/major/me/Sa-6_EGYPT.dnm user/major/me/sa6cl.srf user/major/me/null.srf
-user/major/me/Sa-9_EGYPT.dat user/major/me/Sa-9_EGYPT.dnm user/major/me/sa9cl.srf user/major/me/null.srf
-user/major/me/Shilka_EGYPT.dat user/major/me/Shilka_EGYPT.dnm user/major/me/shilkacl.srf user/major/me/null.srf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
  

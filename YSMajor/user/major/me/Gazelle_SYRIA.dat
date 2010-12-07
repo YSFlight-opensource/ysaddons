@@ -1,0 +1,114 @@
+REM Original mesh by Skyline
+REM mod#1 by Skipper
+REM mod#2 by YSMajor
+
+IDENTIFY "SYRIA_Gazelle"
+CATEGORY UTILITY
+AIRCLASS HELICOPTER
+AFTBURNR FALSE                #HAVE AFTERBURNER?
+PROPELLR 728HP
+PROPEFCY 0.8                 #Propeller efficiency
+PROPVMIN 18m/s                #Minimum speed that T=P/V becomes valid
+WEIGHCLN   1.23t                #WEIGHT CLEAN
+WEIGFUEL   0.54t                #WEIGHT OF FUEL
+WEIGLOAD   1.02t                #WEIGHT OF PAYLOAD
+FUELABRN 0.0kg                #FUEL CONSUMPTION WHEN USING AFTERBURNER
+FUELMILI  0.12kg               #FUEL CONSUMPTION AT MILITARY POWER
+
+COCKPITP   -0.45m -0.35m 1.9m   #COCKPIT POSITION
+LEFTGEAR  -1.10m -2.08m -2.00m   #LEFT LANDING GEAR POSITION
+RIGHGEAR   1.10m -2.08m -2.00m   #RIGHT LANDING GEAR POSITION
+WHELGEAR    0.0m -2.08m 2.10m   #WHEEL POSITION
+MACHNGUN    0.0m  -0.20m  3.6m   #MACHINE GUN POSITION
+SMOKEGEN  0.0m  -1.150m -2.7m  #SMOKE GENERATOR POSITION
+VAPORPO0  -5.05m  1.19m  0.22m   #VAPOR POSITION (Wings Swept Back or no-VGW)
+VAPORPO1   5.05m  1.19m  0.22m 
+HTRADIUS   8.0m                #OUTSIDE SPHERE RADIUS
+
+SMOKEOIL 100.0kg
+WEAPONCH SMK
+
+STRENGTH 4
+
+CRITAOAP  20deg               #CRITICAL AOA POSITIVE
+CRITAOAM -15deg               #CRITICAL AOA NEGATIVE
+
+CRITSPED 110kt              #CRITICAL SPEED
+MAXSPEED 135kt              #MAXIMUM SPEED
+
+HASSPOIL FALSE               #HAS SPOILER?
+RETRGEAR FALSE                #HAS RETRACTABLE LANDING GEAR?
+VARGEOMW FALSE               #HAS VARIABLE GEOMETRY WING?
+
+CLVARGEO 0.0                  #EFFECT OF VARIABLE GEOMETRY WING FOR Cl
+CDVARGEO 0.0                  #EFFECT OF VARIABLE GEOMETRY WING FOR Cd
+CLBYFLAP 0.0                  #EFFECT OF FLAP FOR Cl
+CDBYFLAP 0.0                  #EFFECT OF FLAP FOR Cd
+CDBYGEAR 0.0                  #EFFECT OF GEAR FOR Cd
+CDSPOILR 0.0                  #EFFECT OF SPOILER FOR Cd
+
+WINGAREA 1m^2                 #WING AREA  1m^2 for a helicopter
+
+MXIPTAOA 0.0deg               #MAX INPUT AOA
+MXIPTSSA 0.0deg               #MAX INPUT SSA
+MXIPTROL 0.0deg               #MAX INPUT ROLL
+
+REM CPITMANE corresponds to Spring Constant K
+REM CPITSTAB corresponds to Damper Constant B
+REM To be critically damped, B=2*sqrt(K)
+REM 2% Settling Time=??
+
+MANESPD1 10kt                 #MINIMUM MANEUVABLE SPEED
+MANESPD2 85kt                #FULLY MANEUVABLE SPEED
+CPITMANE 4.5                  #PITCH MANEUVERBILITY CONSTANT
+CPITSTAB 0.1                  #PITCH STABILITY CONSTANT
+CYAWMANE 8.0                  #YAW MANEUVABILITY CONSTANT
+CYAWSTAB 2.5                  #YAW STABILITY CONSTANT
+CROLLMAN 5.0                  #ROLL MANEUVABILITY CONSTANT
+
+
+TRSTVCTR TRUE                 #HAS THRUST VECTORING CAPABILITY?
+TRSTDIR0 0.0m 1.0m -0.015m       #Thrust vector 0
+TRSTDIR1 0.0m 1.0m -0.015m       #Thrust vector 1
+PSTMPTCH 60deg                #Post-Stall Maneuver VPitch
+PSTMYAW_ 60deg                #Post-Stall Maneuver VYaw
+PSTMROLL 90deg                #Post-Stall Maneuver VRoll
+
+
+CTLLDGEA TRUE                 #CONTROL LANDINGGEAR
+CTLBRAKE FALSE                #CONTROL BRAKE
+CTLSPOIL 0.0                  #CONTROL SPOILER
+CTLABRNR FALSE                #CONTROL AFTERBURNER
+CTLTHROT 0.0                  #CONTROL THRUST
+CTLIFLAP 0.0                  #CONTROL FLAP
+CTLINVGW 0.0                  #CONTROL VARIABLE GEOMETRY WING
+CTLATVGW TRUE                 #CONTROL AUTO VARIABLE GEOMETRY WING
+VGWSPED1  2kt
+VGWSPED2  5kt
+
+POSITION 0m 3ft 0m           #POSITION
+ATTITUDE 45deg 0deg 0deg      #ATTITUDE
+INITFUEL 75%                  #INITIAL FUEL
+INITLOAD 0.0t                 #INITIAL PAYLOAD
+INITSPED 0.0MACH              #INITIAL SPEED
+
+HRDPOINT  1.56m -1m 0.3m AGM65
+HRDPOINT -1.56m -1m 0.3m AGM65
+HRDPOINT  1.30m -1m 0.3m AGM65
+HRDPOINT -1.30m -1m 0.3m AGM65
+AGMVISIB FALSE
+
+INITIGUN 0                 #INITIAL GUN
+INITIAGM 4                    #INITIAL AGM
+
+REFVCRUS 121kt                #CRUISING SPEED
+REFACRUS 7500ft               #CRUISING ALTITUDE
+REFTCRUS 0.90                 #CRUISING THROTTLE SETTING
+
+REM ClSlope,CdConst is fixed by Landing condition
+REFVLAND 15kt                 #LANDING SPEED
+REFAOALD 7deg                #LANDING AOA
+REFLNRWY 10m                 #RUNWAY REQUIRED TO STOP
+REFTHRLD 0.4                 #LANDING THROTTLE SETTING
+
+AUTOCALC

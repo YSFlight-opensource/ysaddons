@@ -1,7 +1,7 @@
 REM Original Mesh by Oranleed
 REM Modded by YS Major
 
-IDENTIFY "I-16_Spanish_Communist_Air_Force"
+IDENTIFY "I-16_Spanish_Republican_Air_Force"
 CATEGORY NORMAL
 AFTBURNR FALSE                 #HAVE AFTERBURNER?
 PROPELLR 1100HP              #PROPELLER ENGINE
